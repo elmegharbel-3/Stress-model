@@ -20,4 +20,4 @@ for file in train_files:
     y_new = df_new["stress_state"]
 
     # Standardize the new data using the existing scaler
-    X_new_scaled = scaler.transform(X_new)  # Use the previously fitted scaler
+    X_new_scaled = scaler.transform(X_new) 

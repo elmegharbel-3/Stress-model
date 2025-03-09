@@ -2,8 +2,8 @@ import csv
 import pandas as pd
 import os
 
-main_folder = "Data_set"  # Change this to your actual folder path
-output_folder = "cleaned"  # Folder to save cleaned files
+main_folder = "Data_set"  # put here the original
+output_folder = "cleaned"  # here the cleaned date will be saved
 stress_mapping = {'Standing':0,
     'Left Fall while Standing':1,
     'Right Fall while Standing':1,
