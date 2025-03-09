@@ -1,0 +1,5579 @@
+Datetime,sys,dia,hr,spo2,features
+50:29.5,125,80,127,87,Standing
+50:29.6,125,80,127,87,Standing
+50:29.7,125,80,127,87,Standing
+50:29.8,125,80,127,87,Standing
+50:30.0,125,80,125,87,Standing
+50:30.2,125,80,125,87,Standing
+50:30.4,125,80,125,87,Standing
+50:30.5,125,80,125,87,Standing
+50:30.6,125,80,121,87,Standing
+50:30.7,125,80,121,87,Standing
+50:30.8,125,80,121,87,Standing
+50:31.0,125,80,121,87,Standing
+50:31.2,125,80,116,87,Standing
+50:31.3,125,80,116,87,Standing
+50:31.4,125,80,116,87,Standing
+50:31.5,125,80,116,87,Standing
+50:31.6,125,80,113,87,Standing
+50:31.7,125,80,113,87,Standing
+50:31.9,125,80,113,87,Standing
+50:32.2,125,80,113,87,Standing
+50:32.3,125,80,111,87,Standing
+50:32.4,125,80,111,87,Standing
+50:32.5,125,80,111,87,Standing
+50:32.6,125,80,111,87,Standing
+50:32.7,125,80,111,87,Standing
+50:32.9,125,80,109,87,Standing
+50:33.2,125,80,109,87,Standing
+50:33.3,125,80,109,87,Standing
+50:33.4,125,80,109,87,Standing
+50:33.5,125,80,107,87,Standing
+50:33.6,125,80,107,87,Standing
+50:33.7,125,80,107,87,Standing
+50:33.8,125,80,107,87,Standing
+50:33.9,125,80,107,87,Standing
+50:34.1,125,80,107,87,Standing
+50:34.2,125,80,107,87,Standing
+50:34.3,125,80,107,87,Standing
+50:34.5,125,80,107,87,Standing
+50:34.6,125,80,105,87,Standing
+50:34.6,125,80,105,87,Standing
+50:34.8,125,80,105,87,Standing
+50:34.9,125,80,105,87,Standing
+50:35.0,125,80,105,87,Standing
+50:35.1,125,80,103,87,Standing
+50:35.2,125,80,103,87,Standing
+50:35.3,125,80,103,87,Standing
+50:35.5,125,80,103,87,Standing
+50:35.6,125,80,102,87,Standing
+50:35.8,125,81,102,87,Standing
+50:35.9,125,81,102,87,Standing
+50:36.0,125,81,102,87,Standing
+50:36.1,125,81,102,87,Standing
+50:36.2,125,81,102,87,Standing
+50:36.3,125,81,101,87,Standing
+50:36.5,125,81,101,87,Standing
+50:36.6,125,81,101,87,Standing
+50:36.8,125,81,101,87,Standing
+50:36.9,125,81,101,87,Standing
+50:37.0,125,81,101,87,Standing
+50:37.1,125,81,101,87,Standing
+50:37.2,125,81,101,87,Standing
+50:37.3,125,81,101,87,Standing
+50:37.5,125,81,101,87,Standing
+50:37.7,125,81,101,87,Standing
+50:37.9,126,82,101,87,Standing
+50:38.1,126,82,101,87,Standing
+50:38.2,126,82,101,87,Standing
+50:38.3,126,82,101,87,Standing
+50:38.4,126,82,101,87,Standing
+50:38.5,126,82,101,87,Standing
+50:38.7,126,82,102,87,Standing
+50:38.9,126,82,102,87,Standing
+50:39.0,126,82,102,87,Standing
+50:39.3,126,82,102,87,Standing
+50:39.4,126,82,102,87,Standing
+50:39.7,126,82,102,87,Standing
+50:39.8,126,82,102,87,Standing
+50:39.9,126,82,102,87,Standing
+50:40.0,126,82,102,87,Standing
+50:40.1,126,82,102,87,Standing
+50:40.2,126,82,102,87,Standing
+50:40.4,126,82,101,87,Standing
+50:40.5,126,81,101,87,Standing
+50:40.7,126,81,101,87,Standing
+50:40.8,126,81,101,87,Standing
+50:40.9,126,81,101,87,Standing
+50:41.0,126,81,101,87,Standing
+50:41.1,126,81,101,87,Standing
+50:41.2,126,81,101,87,Standing
+50:41.4,126,81,101,87,Standing
+50:41.6,126,81,101,87,Standing
+50:41.7,126,81,101,87,Standing
+50:41.8,126,81,101,87,Standing
+50:42.0,126,81,99,87,Standing
+50:42.1,126,81,99,87,Rest
+50:42.2,126,81,99,87,Rest
+50:42.4,126,81,99,87,Rest
+50:42.5,126,81,99,87,Rest
+50:42.6,126,81,101,87,Rest
+50:42.7,126,81,101,87,Rest
+50:42.8,126,81,101,87,Rest
+50:42.9,126,81,101,90,Rest
+50:43.1,126,81,101,90,Rest
+50:43.2,126,81,101,90,Rest
+50:43.4,126,81,101,90,Rest
+50:43.5,126,81,101,90,Rest
+50:43.6,126,81,101,90,Rest
+50:43.7,126,81,101,90,Rest
+50:43.8,126,81,101,90,Rest
+50:44.0,126,81,101,90,Rest
+50:44.3,126,81,101,90,Rest
+50:44.4,126,81,101,90,Rest
+50:44.5,126,81,101,90,Rest
+50:44.6,126,81,101,90,Rest
+50:44.7,126,81,102,90,Rest
+50:44.8,126,81,102,90,Rest
+50:45.0,126,81,102,90,Rest
+50:45.2,126,81,102,90,Rest
+50:45.3,126,81,102,91.2,Rest
+50:45.4,126,81,102,91.2,Rest
+50:45.5,126,81,102,91.2,Rest
+50:45.6,126,81,102,91.2,Rest
+50:45.7,126,81,102,91.2,Rest
+50:45.8,126,81,102,91.2,Rest
+50:45.9,126,81,102,91.2,Rest
+50:46.0,126,81,101,91.2,Rest
+50:46.2,126,81,101,91.2,Rest
+50:46.3,126,80,101,91.3,Rest
+50:46.4,126,80,101,91.3,Rest
+50:46.5,126,80,101,91.3,Rest
+50:46.6,126,80,101,91.3,Rest
+50:46.7,126,80,101,91.3,Rest
+50:46.8,126,80,101,91.3,Rest
+50:47.0,126,80,101,91.3,Rest
+50:47.2,126,80,101,91.3,Rest
+50:47.3,126,80,101,91.3,Rest
+50:47.3,126,80,101,91.3,Rest
+50:47.4,126,81,99,91.3,Rest
+50:47.6,126,81,99,91.3,Rest
+50:47.7,126,81,99,91.3,Rest
+50:47.8,126,81,99,91.3,Left Fall while Standing
+50:47.9,126,81,99,91.3,Left Fall while Standing
+50:48.0,126,81,99,91.3,Left Fall while Standing
+50:48.2,126,81,99,91.3,Left Fall while Standing
+50:48.3,126,81,99,91.3,Left Fall while Standing
+50:48.4,126,81,99,91.3,Left Fall while Standing
+50:48.5,126,81,99,91.3,Left Fall while Standing
+50:48.6,126,81,99,91.3,Left Fall while Standing
+50:48.7,126,81,99,91.3,Left Fall while Standing
+50:48.8,127,81,99,91.3,Left Fall while Standing
+50:48.9,127,81,99,91.3,Left Fall while Standing
+50:49.2,127,81,99,91.3,Left Fall while Standing
+50:49.3,127,81,99,91.3,Left Fall while Standing
+50:49.4,127,81,99,91.3,Left Fall while Standing
+50:49.5,127,81,99,91.3,Left Fall while Standing
+50:49.6,127,81,99,91.3,Left Fall while Standing
+50:49.7,127,81,99,91.3,Left Fall while Standing
+50:49.9,127,81,99,91.3,Left Fall while Standing
+50:50.1,127,81,99,91.3,Left Fall while Standing
+50:50.2,127,81,99,91.3,Left Fall while Standing
+50:50.3,127,81,99,91.3,Left Fall while Standing
+50:50.5,127,81,99,91.3,Left Fall while Standing
+50:50.6,127,81,99,91.3,Left Fall while Standing
+50:50.7,127,81,99,91.3,Left Fall while Standing
+50:50.8,128,81,99,91.3,Left Fall while Standing
+50:50.9,128,81,99,91.3,Left Fall while Standing
+50:51.0,128,81,99,91.3,Left Fall while Standing
+50:51.1,128,81,99,91.3,Left Fall while Standing
+50:51.2,128,81,99,91.3,Left Fall while Standing
+50:51.3,128,81,99,91.3,Left Fall while Standing
+50:51.5,128,81,99,91.3,Left Fall while Standing
+50:51.6,128,81,99,91.3,Left Fall while Standing
+50:51.7,128,81,99,91.3,Left Fall while Standing
+50:51.9,128,81,99,91.3,Left Fall while Standing
+50:52.0,128,81,99,91.3,Left Fall while Standing
+50:52.1,128,81,99,91.3,Left Fall while Standing
+50:52.2,128,81,99,91.3,Left Fall while Standing
+50:52.3,128,81,99,91.3,Left Fall while Standing
+50:52.6,129,81,99,91.3,Left Fall while Standing
+50:52.7,129,81,99,91.3,Left Fall while Standing
+50:52.9,129,81,99,91.3,Left Fall while Standing
+50:53.2,129,81,99,91.3,Left Fall while Standing
+50:53.3,129,81,99,91.3,Left Fall while Standing
+50:53.5,129,81,99,91.3,Left Fall while Standing
+50:53.7,129,81,99,91.3,Left Fall while Standing
+50:53.9,129,81,99,91.3,Left Fall while Standing
+50:54.0,129,81,99,91.3,Left Fall while Standing
+50:54.1,129,81,99,91.3,Left Fall while Standing
+50:54.2,129,81,99,91.3,Left Fall while Standing
+50:54.3,129,81,99,91.3,Left Fall while Standing
+50:54.5,129,81,99,91.3,Left Fall while Standing
+50:54.7,129,81,99,91.3,Left Fall while Standing
+50:54.8,129,81,99,91.3,Left Fall while Standing
+50:54.9,129,81,99,91.3,Left Fall while Standing
+50:55.0,129,81,99,91.3,Left Fall while Standing
+50:55.1,129,81,99,91.3,Left Fall while Standing
+50:55.2,129,81,99,91.3,Left Fall while Standing
+50:55.3,129,81,99,91.3,Left Fall while Standing
+50:55.5,129,81,99,91.3,Left Fall while Standing
+50:55.7,129,81,99,91.3,Left Fall while Standing
+50:55.8,131,81,98,91.3,Left Fall while Standing
+50:55.9,131,81,98,91.3,Left Fall while Standing
+50:56.0,131,81,98,91.3,Left Fall while Standing
+50:56.1,131,81,98,91.3,Left Fall while Standing
+50:56.2,131,81,98,91.3,Left Fall while Standing
+50:56.3,131,81,98,91.3,Left Fall while Standing
+50:56.4,131,81,98,91.3,Left Fall while Standing
+50:56.6,131,81,98,91.3,Left Fall while Standing
+50:56.8,131,81,98,91.3,Left Fall while Standing
+50:56.9,131,81,99,91.3,Left Fall while Standing
+50:57.0,131,81,99,91.3,Left Fall while Standing
+50:57.1,131,81,99,91.3,Left Fall while Standing
+50:57.2,131,81,99,91.3,Left Fall while Standing
+50:57.3,132,81,99,91.3,Left Fall while Standing
+50:57.4,132,81,99,91.3,Left Fall while Standing
+50:57.6,132,81,99,91.3,Rest
+50:57.8,131,82,99,91.3,Rest
+50:57.9,131,82,99,91.3,Rest
+50:58.0,131,82,99,91.3,Rest
+50:58.1,131,82,99,91.3,Rest
+50:58.2,131,82,99,91.3,Rest
+50:58.4,131,82,99,91.3,Rest
+50:58.5,131,82,99,91.3,Rest
+50:58.6,131,82,99,91.3,Rest
+50:58.7,131,82,99,91.3,Rest
+50:58.8,131,82,99,91.3,Rest
+50:59.0,131,82,99,91.3,Rest
+50:59.0,131,82,99,91.3,Rest
+50:59.2,131,82,99,91.3,Rest
+50:59.3,131,82,99,91.3,Rest
+50:59.4,131,82,99,91.3,Rest
+50:59.5,131,82,99,91.3,Rest
+50:59.6,131,82,99,91.3,Rest
+50:59.7,132,82,99,91.3,Rest
+50:59.8,132,82,99,91.3,Rest
+51:00.0,132,82,99,91.3,Rest
+51:00.2,132,82,99,91.3,Rest
+51:00.3,132,82,99,91.3,Rest
+51:00.4,132,82,99,91.3,Rest
+51:00.5,132,82,99,91.3,Rest
+51:00.6,132,82,99,91.3,Rest
+51:00.7,132,82,99,91.3,Rest
+51:00.8,132,82,107,91.3,Rest
+51:01.0,132,82,107,91.3,Rest
+51:01.2,132,82,107,91.3,Rest
+51:01.3,132,82,107,91.3,Rest
+51:01.4,132,82,107,91.3,Rest
+51:01.5,132,82,107,91.3,Rest
+51:01.6,132,82,107,91.3,Rest
+51:01.7,132,82,107,91.3,Rest
+51:01.8,132,82,107,91.3,Rest
+51:02.0,132,82,107,91.3,Rest
+51:02.1,132,82,107,91.3,Rest
+51:02.3,132,82,107,91.3,Rest
+51:02.4,132,82,107,91.3,Rest
+51:02.5,132,82,107,91.3,Rest
+51:02.6,132,82,107,91.3,Right Fall while Standing
+51:02.7,132,82,107,91.3,Right Fall while Standing
+51:02.8,132,82,107,91.3,Right Fall while Standing
+51:03.0,132,82,107,91.3,Right Fall while Standing
+51:03.1,132,82,107,91.3,Right Fall while Standing
+51:03.2,132,82,107,91.3,Right Fall while Standing
+51:03.4,132,82,107,91.3,Right Fall while Standing
+51:03.5,132,82,107,91.3,Right Fall while Standing
+51:03.6,132,82,107,92.9,Right Fall while Standing
+51:03.7,132,82,107,92.9,Right Fall while Standing
+51:04.0,132,82,107,92.9,Right Fall while Standing
+51:04.1,132,82,107,92.9,Right Fall while Standing
+51:04.2,132,82,107,92.9,Right Fall while Standing
+51:04.3,132,82,107,92.9,Right Fall while Standing
+51:04.5,132,82,107,92.9,Right Fall while Standing
+51:04.6,132,82,107,92.9,Right Fall while Standing
+51:04.7,132,82,107,92.9,Right Fall while Standing
+51:04.9,132,82,107,92.9,Right Fall while Standing
+51:05.2,132,82,107,92.9,Right Fall while Standing
+51:05.4,132,82,107,92.9,Right Fall while Standing
+51:05.5,132,82,107,92.9,Right Fall while Standing
+51:05.6,132,82,107,92.9,Right Fall while Standing
+51:05.7,132,82,107,92.9,Right Fall while Standing
+51:05.9,132,82,107,92.9,Right Fall while Standing
+51:06.0,132,82,107,92.9,Right Fall while Standing
+51:06.1,132,82,107,92.9,Right Fall while Standing
+51:06.2,132,82,107,92.9,Right Fall while Standing
+51:06.3,132,82,107,92.9,Right Fall while Standing
+51:06.5,132,82,107,92.9,Right Fall while Standing
+51:06.5,132,82,107,92.9,Right Fall while Standing
+51:06.7,132,82,107,92.9,Right Fall while Standing
+51:06.9,132,82,107,92.9,Right Fall while Standing
+51:07.0,132,82,107,92.9,Right Fall while Standing
+51:07.1,132,82,107,92.9,Right Fall while Standing
+51:07.2,132,82,107,92.9,Right Fall while Standing
+51:07.3,132,82,107,92.9,Right Fall while Standing
+51:07.5,132,82,107,92.9,Right Fall while Standing
+51:07.5,132,82,107,92.9,Right Fall while Standing
+51:07.7,132,82,107,92.9,Right Fall while Standing
+51:07.9,132,82,107,92.9,Right Fall while Standing
+51:08.0,132,82,107,92.9,Right Fall while Standing
+51:08.1,132,82,107,92.9,Right Fall while Standing
+51:08.2,132,82,107,92.9,Right Fall while Standing
+51:08.3,132,82,107,92.9,Right Fall while Standing
+51:08.5,132,82,107,92.9,Right Fall while Standing
+51:08.6,132,82,107,93,Right Fall while Standing
+51:08.8,132,82,107,93,Right Fall while Standing
+51:08.9,132,82,107,93,Right Fall while Standing
+51:09.0,132,82,107,93,Right Fall while Standing
+51:09.1,132,82,107,93,Right Fall while Standing
+51:09.2,132,82,107,93,Right Fall while Standing
+51:09.3,132,82,107,93,Right Fall while Standing
+51:09.5,132,82,107,93,Right Fall while Standing
+51:09.7,132,82,107,93,Right Fall while Standing
+51:09.8,132,82,107,93,Right Fall while Standing
+51:09.9,132,82,107,93,Right Fall while Standing
+51:10.0,132,82,107,93,Right Fall while Standing
+51:10.1,132,82,107,93,Right Fall while Standing
+51:10.2,132,82,107,93,Right Fall while Standing
+51:10.3,133,82,107,93,Right Fall while Standing
+51:10.5,133,82,107,93,Right Fall while Standing
+51:10.7,133,82,107,93,Rest
+51:10.9,133,82,107,93,Rest
+51:11.1,133,82,107,93,Rest
+51:11.2,133,82,107,93.6,Rest
+51:11.4,133,82,107,93.6,Rest
+51:11.7,133,82,107,93.6,Rest
+51:11.8,133,82,107,93.6,Rest
+51:11.9,133,82,107,93.6,Rest
+51:12.0,133,82,107,93.6,Rest
+51:12.1,133,82,107,93.6,Rest
+51:12.2,133,82,107,93.6,Rest
+51:12.4,133,82,107,93.6,Rest
+51:12.6,133,82,107,93.6,Rest
+51:12.8,133,82,107,93.6,Rest
+51:12.9,133,82,107,93.6,Rest
+51:13.0,133,82,107,93.6,Rest
+51:13.1,133,82,107,93.6,Rest
+51:13.2,133,82,107,93.6,Rest
+51:13.4,133,82,107,93.6,Rest
+51:13.5,133,82,107,93.6,Rest
+51:13.6,133,82,107,93.6,Rest
+51:13.7,133,82,107,93.6,Rest
+51:13.8,133,82,107,93.6,Rest
+51:14.0,133,81,107,93.6,Rest
+51:14.2,133,81,107,92.9,Rest
+51:14.4,133,81,107,92.9,Rest
+51:14.5,133,81,107,92.9,Rest
+51:14.6,133,81,107,92.9,Rest
+51:14.7,133,81,111,92.9,Rest
+51:14.8,133,81,105,92.9,Rest
+51:15.0,133,81,105,92.9,Rest
+51:15.2,133,81,105,92.9,Rest
+51:15.4,133,81,105,92.9,Rest
+51:15.6,133,81,105,92.9,Rest
+51:15.7,133,81,102,92.9,Rest
+51:15.8,133,81,102,92.9,Rest
+51:16.0,133,81,102,92.9,Rest
+51:16.2,133,81,102,92.9,Rest
+51:16.4,133,81,102,92.9,Rest
+51:16.5,133,81,102,92.9,Rest
+51:16.6,133,81,104,92.9,Rest
+51:16.7,133,81,104,92.9,Rest
+51:16.8,133,81,104,92.9,Rest
+51:17.0,133,81,107,92.9,Rest
+51:17.2,133,81,107,92.9,Rest
+51:17.3,133,81,107,93.5,Rest
+51:17.4,133,81,107,93.5,Rest
+51:17.5,133,81,107,93.5,Rest
+51:17.6,133,81,111,93.5,Rest
+51:17.7,133,81,105,93.5,Rest
+51:17.8,133,81,105,93.5,Rest
+51:17.9,133,81,105,93.5,Rest
+51:18.0,133,81,105,93.5,Rest
+51:18.2,133,81,105,93.5,Rest
+51:18.3,133,81,102,95.1,Rest
+51:18.4,133,81,102,95.1,Rest
+51:18.5,133,81,102,95.1,Rest
+51:18.6,133,81,102,96,Rest
+51:18.7,133,81,102,96,Rest
+51:18.9,133,81,102,96,Rest
+51:19.0,133,80,104,96,Rest
+51:19.2,133,80,104,96,Rest
+51:19.3,133,80,104,95.3,Rest
+51:19.4,133,80,107,95.3,Rest
+51:19.5,133,80,107,95.3,Rest
+51:19.6,133,80,107,95.3,Rest
+51:19.8,134,80,107,95.3,Rest
+51:19.9,134,80,107,95.3,Rest
+51:20.1,134,80,111,95.3,Rest
+51:20.2,134,80,105,95.3,Rest
+51:20.3,134,80,105,95.3,Rest
+51:20.5,134,80,105,95.3,Rest
+51:20.6,134,80,105,95.3,Rest
+51:20.7,134,80,105,95.3,Rest
+51:20.8,134,80,102,95.3,Rest
+51:20.9,134,80,102,95.3,Rest
+51:21.0,134,80,102,95.3,Rest
+51:21.1,134,80,102,95.3,Rest
+51:21.3,134,80,102,95.3,Rest
+51:21.3,134,80,102,95.3,Rest
+51:21.5,134,80,104,95.3,Rest
+51:21.7,134,80,104,95.3,Rest
+51:21.9,134,80,104,95.3,Rest
+51:22.0,134,81,107,95.3,Rest
+51:22.1,134,81,107,95.3,Rest
+51:22.2,134,81,107,95.3,Rest
+51:22.3,134,81,107,95.3,Rest
+51:22.4,134,81,107,95.3,Rest
+51:22.5,134,81,107,95,Rest
+51:22.7,134,81,107,95,Rest
+51:22.9,134,81,107,95,Rest
+51:23.0,134,81,107,95,Rest
+51:23.1,134,81,107,95,Rest
+51:23.2,134,81,107,95,Rest
+51:23.3,134,81,107,95.3,Rest
+51:23.5,134,81,107,95.3,Rest
+51:23.5,134,81,108,95.3,Rest
+51:23.7,134,81,108,95.3,Rest
+51:23.9,134,81,108,95.3,Rest
+51:24.0,134,81,108,95.3,Rest
+51:24.2,134,81,108,95.4,Rest
+51:24.3,134,81,108,95.4,Rest
+51:24.5,134,81,108,95.4,Rest
+51:24.6,134,81,108,95.4,Rest
+51:24.8,134,81,109,96.1,Rest
+51:24.9,134,81,109,83.8,Rest
+51:25.0,134,81,109,83.8,Rest
+51:25.1,134,81,109,83.8,Rest
+51:25.2,134,82,118,83.8,Rest
+51:25.3,134,82,118,83.8,Rest
+51:25.5,134,82,118,83.8,Rest
+51:25.6,134,82,118,83.8,Rest
+51:25.8,134,83,123,83.8,Rest
+51:25.9,134,83,123,83.8,Rest
+51:26.0,134,83,123,83.8,Rest
+51:26.1,134,83,123,83.8,Forward Fall while Standing
+51:26.3,134,84,124,83.8,Forward Fall while Standing
+51:26.5,134,84,124,83.8,Forward Fall while Standing
+51:26.6,134,84,124,83.8,Forward Fall while Standing
+51:26.7,135,85,126,83.8,Forward Fall while Standing
+51:26.9,135,85,126,83.8,Forward Fall while Standing
+51:27.0,135,85,126,83.8,Forward Fall while Standing
+51:27.1,135,85,126,83.8,Forward Fall while Standing
+51:27.2,135,85,126,83.8,Forward Fall while Standing
+51:27.3,135,85,123,85.6,Forward Fall while Standing
+51:27.5,135,85,123,85.6,Forward Fall while Standing
+51:27.7,135,85,123,85.6,Forward Fall while Standing
+51:27.8,135,86,127,88.7,Forward Fall while Standing
+51:27.9,135,86,127,88.7,Forward Fall while Standing
+51:28.0,135,86,127,88.7,Forward Fall while Standing
+51:28.1,135,86,127,88.7,Forward Fall while Standing
+51:28.2,135,86,127,88.7,Forward Fall while Standing
+51:28.4,135,86,127,88.7,Forward Fall while Standing
+51:28.6,135,86,127,88.7,Forward Fall while Standing
+51:28.7,135,87,132,88.7,Forward Fall while Standing
+51:28.8,135,87,132,88.7,Forward Fall while Standing
+51:29.0,135,87,132,88.7,Forward Fall while Standing
+51:29.1,135,87,132,88.7,Forward Fall while Standing
+51:29.2,135,87,132,88.7,Forward Fall while Standing
+51:29.4,135,87,132,88.7,Forward Fall while Standing
+51:29.5,136,87,134,88.7,Forward Fall while Standing
+51:29.7,136,87,134,88.7,Forward Fall while Standing
+51:29.8,136,87,134,88.7,Forward Fall while Standing
+51:29.9,136,87,134,88.7,Forward Fall while Standing
+51:30.0,136,87,134,88.7,Forward Fall while Standing
+51:30.1,136,87,134,88.7,Forward Fall while Standing
+51:30.2,136,87,134,88.7,Forward Fall while Standing
+51:30.3,136,87,134,88.7,Forward Fall while Standing
+51:30.4,136,87,134,88.7,Forward Fall while Standing
+51:30.6,136,87,134,88.7,Forward Fall while Standing
+51:30.8,136,87,134,88.7,Forward Fall while Standing
+51:30.8,136,87,134,88.7,Forward Fall while Standing
+51:30.9,136,87,134,88.7,Forward Fall while Standing
+51:31.0,136,87,134,88.7,Forward Fall while Standing
+51:31.2,136,87,134,88.7,Forward Fall while Standing
+51:31.3,136,87,134,88.7,Forward Fall while Standing
+51:31.4,136,87,134,88.7,Forward Fall while Standing
+51:31.5,136,87,134,88.7,Forward Fall while Standing
+51:31.6,136,87,134,88.7,Forward Fall while Standing
+51:31.7,136,87,134,88.7,Forward Fall while Standing
+51:31.8,136,87,134,88.7,Forward Fall while Standing
+51:32.0,136,87,134,88.7,Forward Fall while Standing
+51:32.2,136,87,134,88.7,Forward Fall while Standing
+51:32.4,136,87,134,88.7,Forward Fall while Standing
+51:32.5,136,87,134,88.7,Forward Fall while Standing
+51:32.6,136,87,134,88.7,Forward Fall while Standing
+51:32.7,136,87,134,88.7,Forward Fall while Standing
+51:32.8,136,87,134,88.7,Rest
+51:33.0,136,87,134,88.7,Rest
+51:33.1,136,87,134,88.7,Rest
+51:33.3,136,87,134,88.7,Rest
+51:33.4,136,87,134,88.7,Rest
+51:33.5,136,87,134,88.7,Rest
+51:33.6,136,87,134,88.7,Rest
+51:33.7,137,88,117,88.7,Rest
+51:33.8,137,88,117,88.7,Rest
+51:34.0,137,88,117,88.7,Rest
+51:34.1,137,88,117,88.7,Rest
+51:34.3,137,88,117,88.7,Rest
+51:34.4,137,88,117,88.7,Rest
+51:34.5,137,88,117,88.7,Rest
+51:34.6,137,88,117,88.7,Rest
+51:34.7,138,88,115,88.7,Rest
+51:34.8,138,88,115,88.7,Rest
+51:35.0,138,88,115,88.7,Rest
+51:35.1,138,88,115,88.7,Rest
+51:35.3,138,88,115,88.7,Rest
+51:35.4,138,88,115,88.7,Rest
+51:35.5,138,88,115,88.7,Rest
+51:35.6,138,88,115,88.7,Rest
+51:35.7,138,88,115,88.7,Rest
+51:35.8,139,89,116,88.7,Rest
+51:36.0,139,89,116,88.7,Rest
+51:36.1,139,89,116,88.7,Rest
+51:36.3,139,89,116,88.7,Rest
+51:36.4,139,89,116,88.7,Rest
+51:36.5,139,89,116,88.7,Rest
+51:36.6,139,89,116,88.7,Rest
+51:36.7,139,89,116,88.7,Rest
+51:36.8,140,89,118,88.7,Rest
+51:37.0,140,89,118,88.7,Rest
+51:37.1,140,89,118,88.7,Rest
+51:37.3,140,89,119,88.7,Rest
+51:37.4,140,89,119,88.7,Rest
+51:37.5,140,89,119,88.7,Rest
+51:37.6,140,89,119,88.7,Rest
+51:37.7,140,89,119,88.7,Rest
+51:37.8,141,90,121,88.7,Rest
+51:38.0,141,90,121,88.7,Rest
+51:38.1,141,90,121,88.7,Rest
+51:38.3,141,90,120,88.7,Rest
+51:38.4,141,90,120,88.7,Rest
+51:38.5,141,90,120,88.7,Rest
+51:38.6,141,90,120,88.7,Rest
+51:38.7,141,90,120,88.7,Rest
+51:38.8,142,91,122,88.7,Rest
+51:38.9,142,91,122,88.7,Rest
+51:39.1,142,91,122,88.7,Rest
+51:39.3,142,92,121,88.7,Rest
+51:39.4,142,92,121,88.7,Rest
+51:39.5,142,92,121,88.7,Sitting
+51:39.6,142,92,121,88.7,Sitting
+51:39.7,142,92,121,88.7,Sitting
+51:39.8,143,92,119,88.7,Sitting
+51:39.9,143,92,119,88.7,Sitting
+51:40.1,143,92,119,88.7,Sitting
+51:40.3,144,93,121,88.7,Sitting
+51:40.4,144,93,121,88.7,Sitting
+51:40.5,144,93,121,88.7,Sitting
+51:40.6,144,93,121,88.7,Sitting
+51:40.7,144,93,121,88.7,Sitting
+51:40.8,144,93,119,88.7,Sitting
+51:40.9,144,93,119,88.7,Sitting
+51:41.1,144,93,119,88.7,Sitting
+51:41.3,142,93,118,88.7,Sitting
+51:41.3,142,93,118,88.7,Sitting
+51:41.5,142,93,118,88.7,Sitting
+51:41.6,142,93,118,88.7,Sitting
+51:41.7,142,93,118,88.7,Sitting
+51:41.8,142,93,117,88.7,Sitting
+51:41.9,142,93,117,88.7,Sitting
+51:42.1,142,93,117,88.7,Sitting
+51:42.2,142,93,116,88.7,Sitting
+51:42.3,142,93,116,88.7,Sitting
+51:42.5,142,93,116,88.7,Sitting
+51:42.5,142,93,116,88.7,Sitting
+51:42.7,142,93,116,88.7,Sitting
+51:42.9,142,93,116,88.7,Sitting
+51:43.0,142,92,114,88.7,Sitting
+51:43.1,142,92,114,88.7,Sitting
+51:43.2,142,92,114,88.7,Sitting
+51:43.3,142,92,114,88.7,Sitting
+51:43.5,141,92,113,88.7,Sitting
+51:43.7,141,92,113,88.7,Sitting
+51:43.9,141,92,113,88.7,Sitting
+51:44.0,141,92,112,88.7,Sitting
+51:44.1,141,92,112,88.7,Sitting
+51:44.2,141,92,112,88.7,Sitting
+51:44.3,141,92,112,88.7,Sitting
+51:44.4,141,92,112,88.7,Sitting
+51:44.5,141,92,112,88.7,Sitting
+51:44.7,141,92,112,88.7,Sitting
+51:44.9,141,92,112,88.7,Sitting
+51:45.0,141,91,112,88.7,Sitting
+51:45.1,141,91,112,88.7,Sitting
+51:45.2,141,91,112,88.7,Sitting
+51:45.3,141,91,112,88.7,Sitting
+51:45.4,141,91,112,88.7,Sitting
+51:45.5,140,91,112,88.7,Sitting
+51:45.7,140,91,112,88.7,Sitting
+51:45.9,140,91,112,88.7,Sitting
+51:46.0,140,91,112,88.7,Sitting
+51:46.3,140,90,110,88.7,Sitting
+51:46.5,140,90,110,88.7,Sitting
+51:46.6,140,90,110,88.7,Sitting
+51:46.8,139,88,109,88.7,Sitting
+51:46.9,139,88,109,88.7,Sitting
+51:47.0,139,88,109,88.7,Sitting
+51:47.1,139,88,109,88.7,Sitting
+51:47.2,139,88,109,88.7,Sitting
+51:47.3,139,88,109,88.7,Sitting
+51:47.5,139,88,109,88.7,Sitting
+51:47.7,139,88,109,88.7,Sitting
+51:47.8,139,88,109,88.7,Sitting
+51:47.9,139,88,109,88.7,Sitting
+51:48.0,139,88,109,88.7,Sitting
+51:48.1,139,88,109,88.7,Sitting
+51:48.2,139,88,109,88.7,Sitting
+51:48.3,139,87,109,88.7,Sitting
+51:48.5,139,87,109,88.7,Sitting
+51:48.7,139,87,109,88.7,Sitting
+51:48.8,139,87,109,88.7,Sitting
+51:48.9,140,76,108,88.7,Sitting
+51:49.1,140,76,108,88.7,Sitting
+51:49.2,140,76,108,88.7,Sitting
+51:49.4,140,76,108,88.7,Sitting
+51:49.5,140,76,108,88.7,Sitting
+51:49.7,140,76,108,88.7,Sitting
+51:49.8,140,76,108,88.7,Sitting
+51:49.8,140,76,108,88.7,Sitting
+51:49.9,140,76,108,88.7,Sitting
+51:50.1,140,76,108,88.7,Sitting
+51:50.2,140,76,108,88.7,Sitting
+51:50.4,140,76,108,88.7,Sitting
+51:50.5,140,77,108,88.7,Sitting
+51:50.7,140,77,108,88.7,Sitting
+51:50.8,140,77,108,88.7,Sitting
+51:50.9,140,77,108,88.7,Sitting
+51:51.0,140,77,108,88.7,Sitting
+51:51.0,140,77,107,88.7,Sitting
+51:51.2,140,77,107,88.7,Sitting
+51:51.4,140,77,107,88.7,Sitting
+51:51.6,140,77,107,88.7,Sitting
+51:51.7,139,78,106,88.7,Sitting
+51:51.8,139,78,106,88.7,Sitting
+51:52.0,139,78,106,88.7,Sitting
+51:52.0,139,78,106,88.7,Sitting
+51:52.2,139,78,106,88.7,Sitting
+51:52.3,139,79,104,88.7,Sitting
+51:52.4,139,79,104,88.7,Sitting
+51:52.6,139,79,104,88.7,Sitting
+51:52.7,138,81,104,88.7,Sitting
+51:52.8,138,81,104,88.7,Sitting
+51:53.0,138,81,104,88.7,Sitting
+51:53.2,138,81,104,88.7,Sitting
+51:53.5,138,81,104,88.7,Sitting
+51:53.6,138,81,104,88.7,Sitting
+51:53.7,138,81,104,88.7,Sitting
+51:53.8,138,81,104,88.7,Sitting
+51:53.9,138,81,104,88.7,Sitting
+51:54.0,138,82,104,88.7,Sitting
+51:54.2,138,82,104,88.7,Sitting
+51:54.4,138,82,104,88.7,Rest
+51:54.5,138,83,102,88.7,Rest
+51:54.6,138,83,102,88.7,Rest
+51:54.7,138,83,102,88.7,Rest
+51:54.8,138,83,102,88.7,Rest
+51:55.0,138,83,102,88.7,Rest
+51:55.1,138,83,102,88.7,Rest
+51:55.3,137,82,102,88.7,Rest
+51:55.4,137,82,102,88.7,Rest
+51:55.5,137,82,102,88.7,Rest
+51:55.6,137,82,102,88.7,Rest
+51:55.7,137,82,102,88.7,Rest
+51:55.8,137,82,102,88.7,Rest
+51:56.0,137,82,102,88.7,Rest
+51:56.2,137,82,102,88.7,Rest
+51:56.3,137,81,102,88.7,Rest
+51:56.4,137,81,102,88.7,Rest
+51:56.5,137,81,102,88.7,Rest
+51:56.6,137,81,102,88.7,Rest
+51:56.7,137,81,102,88.7,Rest
+51:56.8,137,81,102,88.7,Rest
+51:56.9,137,81,102,88.7,Rest
+51:57.0,137,82,100,88.7,Rest
+51:57.2,137,82,100,88.7,Rest
+51:57.4,137,82,100,88.7,Rest
+51:57.5,136,82,100,88.7,Rest
+51:57.6,136,82,100,88.7,Rest
+51:57.7,136,82,100,88.7,Rest
+51:57.9,136,82,100,88.7,Rest
+51:58.0,136,83,100,88.7,Rest
+51:58.2,136,83,100,88.7,Rest
+51:58.3,136,83,100,88.7,Rest
+51:58.4,136,83,100,88.7,Rest
+51:58.5,136,83,100,88.7,Rest
+51:58.6,136,83,100,88.7,Rest
+51:58.7,136,83,100,88.7,Rest
+51:59.0,136,83,100,88.7,Rest
+51:59.2,136,83,100,88.7,Rest
+51:59.4,136,83,100,88.7,Rest
+51:59.6,136,83,100,88.7,Rest
+51:59.7,136,83,100,88.7,Rest
+51:59.9,136,83,100,88.7,Rest
+52:00.2,136,83,100,88.7,Rest
+52:00.3,136,83,100,88.7,Rest
+52:00.4,136,83,100,88.7,Rest
+52:00.5,136,83,100,88.7,Rest
+52:00.6,136,83,100,88.7,Rest
+52:00.7,136,83,100,88.7,Rest
+52:00.9,136,83,100,88.7,Rest
+52:01.1,136,83,100,88.7,Rest
+52:01.2,136,83,100,88.7,Rest
+52:01.3,136,83,100,88.7,Rest
+52:01.5,136,83,100,88.7,Rest
+52:01.5,136,83,100,88.7,Rest
+52:01.7,136,83,100,88.7,Rest
+52:01.9,136,83,100,88.7,Rest
+52:02.0,136,83,100,88.7,Rest
+52:02.1,136,83,100,88.7,Rest
+52:02.2,136,84,99,88.7,Rest
+52:02.3,136,84,99,88.7,Rest
+52:02.5,136,84,99,88.7,Rest
+52:02.7,136,84,99,88.7,Rest
+52:02.8,136,84,98,88.7,Rest
+52:02.9,136,84,98,88.7,Rest
+52:03.0,136,84,98,88.7,Rest
+52:03.1,136,84,98,88.7,Rest
+52:03.2,136,84,98,88.7,Rest
+52:03.3,136,84,98,88.7,Rest
+52:03.5,136,84,98,88.7,Left Fall while Sitting
+52:03.7,136,84,98,88.7,Left Fall while Sitting
+52:03.8,136,84,98,88.7,Left Fall while Sitting
+52:04.0,136,84,98,88.7,Left Fall while Sitting
+52:04.1,136,84,98,88.7,Left Fall while Sitting
+52:04.2,136,84,98,88.7,Left Fall while Sitting
+52:04.3,136,84,98,88.7,Left Fall while Sitting
+52:04.4,136,84,98,88.7,Left Fall while Sitting
+52:04.5,136,85,98,88.7,Left Fall while Sitting
+52:04.7,136,85,98,88.7,Left Fall while Sitting
+52:04.9,136,85,98,88.7,Left Fall while Sitting
+52:05.0,136,77,98,88.7,Left Fall while Sitting
+52:05.1,136,77,98,88.7,Left Fall while Sitting
+52:05.2,136,77,98,88.7,Left Fall while Sitting
+52:05.3,136,77,98,88.7,Left Fall while Sitting
+52:05.5,136,77,98,88.7,Left Fall while Sitting
+52:05.6,136,77,98,88.7,Left Fall while Sitting
+52:05.7,136,77,98,88.9,Left Fall while Sitting
+52:05.9,136,77,98,88.9,Left Fall while Sitting
+52:06.0,136,77,98,88.9,Left Fall while Sitting
+52:06.1,136,77,98,88.9,Left Fall while Sitting
+52:06.2,136,77,98,88.9,Left Fall while Sitting
+52:06.3,136,77,98,88.9,Left Fall while Sitting
+52:06.5,136,77,98,88.9,Left Fall while Sitting
+52:06.7,136,77,98,88.9,Left Fall while Sitting
+52:06.8,136,78,98,88.9,Left Fall while Sitting
+52:06.9,136,78,98,88.9,Left Fall while Sitting
+52:07.0,136,78,98,88.9,Left Fall while Sitting
+52:07.1,136,78,98,88.9,Left Fall while Sitting
+52:07.2,136,78,98,88.9,Left Fall while Sitting
+52:07.4,136,78,98,88.9,Left Fall while Sitting
+52:07.5,136,78,99,87.2,Left Fall while Sitting
+52:07.7,136,78,99,87.2,Left Fall while Sitting
+52:07.8,136,78,99,87.2,Left Fall while Sitting
+52:07.9,136,78,99,87.2,Left Fall while Sitting
+52:08.0,136,78,100,87.2,Left Fall while Sitting
+52:08.1,136,78,100,87.2,Left Fall while Sitting
+52:08.2,136,78,100,87.2,Left Fall while Sitting
+52:08.4,136,78,100,87.2,Left Fall while Sitting
+52:08.5,136,78,100,87,Left Fall while Sitting
+52:08.7,136,78,100,87,Left Fall while Sitting
+52:08.7,136,78,100,87,Left Fall while Sitting
+52:08.9,136,78,100,87,Left Fall while Sitting
+52:09.0,136,78,100,87,Left Fall while Sitting
+52:09.1,136,78,101,87,Left Fall while Sitting
+52:09.2,136,78,101,87,Left Fall while Sitting
+52:09.4,136,78,101,87,Left Fall while Sitting
+52:09.7,136,78,101,87,Left Fall while Sitting
+52:09.7,136,78,101,87,Left Fall while Sitting
+52:09.9,136,78,101,87,Left Fall while Sitting
+52:10.0,136,78,101,87,Left Fall while Sitting
+52:10.1,136,78,101,87,Left Fall while Sitting
+52:10.2,136,78,101,87,Left Fall while Sitting
+52:10.3,136,78,100,87,Left Fall while Sitting
+52:10.4,136,78,100,87,Left Fall while Sitting
+52:10.6,136,78,100,87,Left Fall while Sitting
+52:10.7,135,78,102,87,Left Fall while Sitting
+52:10.8,135,78,102,87,Left Fall while Sitting
+52:11.0,135,78,102,87,Left Fall while Sitting
+52:11.1,135,78,102,87,Left Fall while Sitting
+52:11.2,135,78,102,87,Left Fall while Sitting
+52:11.4,135,78,102,87,Left Fall while Sitting
+52:11.6,135,78,102,87,Rest
+52:11.7,135,78,102,87,Rest
+52:11.8,135,78,102,87,Rest
+52:12.0,135,78,102,87,Rest
+52:12.1,135,78,102,87,Rest
+52:12.3,135,78,102,87,Rest
+52:12.4,135,78,102,87,Rest
+52:12.5,135,78,102,87,Rest
+52:12.6,135,78,102,87,Rest
+52:12.7,135,78,103,87,Rest
+52:12.8,135,78,103,87,Rest
+52:13.0,135,78,103,87,Rest
+52:13.2,135,78,103,87,Rest
+52:13.3,135,78,104,87,Rest
+52:13.4,135,78,104,87,Rest
+52:13.5,135,78,104,87,Rest
+52:13.6,135,78,104,87,Rest
+52:13.7,134,79,104,87,Rest
+52:13.8,134,79,104,87,Rest
+52:14.0,134,79,104,87,Rest
+52:14.2,134,79,104,87,Rest
+52:14.3,134,80,104,87,Right Fall while Sitting
+52:14.4,134,80,104,87,Right Fall while Sitting
+52:14.5,134,80,104,87,Right Fall while Sitting
+52:14.6,134,80,104,87,Right Fall while Sitting
+52:14.7,134,80,104,87,Right Fall while Sitting
+52:14.8,134,80,104,87,Right Fall while Sitting
+52:15.0,134,82,104,87,Right Fall while Sitting
+52:15.2,134,82,104,87,Right Fall while Sitting
+52:15.4,134,82,104,87,Right Fall while Sitting
+52:15.5,134,82,104,87,Right Fall while Sitting
+52:15.6,134,82,104,87,Right Fall while Sitting
+52:15.7,134,82,104,87,Right Fall while Sitting
+52:15.8,134,82,104,87,Right Fall while Sitting
+52:15.9,134,82,104,87,Right Fall while Sitting
+52:16.0,134,83,104,87,Right Fall while Sitting
+52:16.2,134,83,104,87,Right Fall while Sitting
+52:16.4,134,83,104,87,Right Fall while Sitting
+52:16.5,134,83,104,87,Right Fall while Sitting
+52:16.6,134,83,104,87,Right Fall while Sitting
+52:16.7,134,83,104,87,Right Fall while Sitting
+52:17.0,134,83,104,87,Right Fall while Sitting
+52:17.2,134,83,104,87,Right Fall while Sitting
+52:17.3,133,84,104,87,Right Fall while Sitting
+52:17.4,133,84,104,87,Right Fall while Sitting
+52:17.5,133,84,104,87,Right Fall while Sitting
+52:17.6,133,84,104,87,Right Fall while Sitting
+52:17.7,133,84,104,87,Right Fall while Sitting
+52:18.0,133,84,104,87,Right Fall while Sitting
+52:18.2,133,84,104,87,Right Fall while Sitting
+52:18.2,133,84,104,87,Right Fall while Sitting
+52:18.4,133,84,104,87,Right Fall while Sitting
+52:18.5,133,84,104,87,Right Fall while Sitting
+52:18.6,133,84,104,87,Right Fall while Sitting
+52:18.7,133,84,104,87,Right Fall while Sitting
+52:18.9,133,84,104,87,Right Fall while Sitting
+52:19.1,133,84,104,87,Right Fall while Sitting
+52:19.2,134,87,108,87,Right Fall while Sitting
+52:19.3,134,87,108,87,Right Fall while Sitting
+52:19.5,134,87,108,87,Right Fall while Sitting
+52:19.6,134,87,108,87,Right Fall while Sitting
+52:19.7,134,87,108,87,Right Fall while Sitting
+52:19.9,134,87,108,87,Right Fall while Sitting
+52:20.1,134,87,108,87,Right Fall while Sitting
+52:20.2,134,87,108,87,Right Fall while Sitting
+52:20.3,134,87,108,87,Right Fall while Sitting
+52:20.4,134,87,108,87,Right Fall while Sitting
+52:20.5,134,87,108,87,Right Fall while Sitting
+52:20.7,134,87,108,87,Right Fall while Sitting
+52:20.9,134,87,108,87,Right Fall while Sitting
+52:21.1,134,87,108,87,Right Fall while Sitting
+52:21.2,134,87,108,87,Right Fall while Sitting
+52:21.3,134,87,108,87,Right Fall while Sitting
+52:21.5,134,87,108,87,Right Fall while Sitting
+52:21.6,134,87,108,87,Rest
+52:21.8,134,87,108,87,Rest
+52:21.9,134,87,108,87,Rest
+52:22.0,134,87,108,87,Rest
+52:22.1,134,87,108,87,Rest
+52:22.2,133,86,111,87,Rest
+52:22.3,133,86,111,87,Rest
+52:22.5,133,86,111,87,Rest
+52:22.7,133,86,111,87,Rest
+52:22.8,133,86,111,87,Rest
+52:22.9,133,86,111,87,Rest
+52:23.0,133,86,111,87,Rest
+52:23.1,133,86,111,87,Rest
+52:23.2,133,86,111,87,Rest
+52:23.3,133,86,111,87,Rest
+52:23.5,133,86,111,87,Rest
+52:23.7,133,86,111,87,Rest
+52:23.9,133,86,111,87,Rest
+52:24.0,133,86,111,87,Rest
+52:24.1,133,86,111,87,Rest
+52:24.2,133,86,111,87,Rest
+52:24.3,132,86,111,90,Forward Fall while Sitting
+52:24.5,132,86,111,90,Forward Fall while Sitting
+52:24.7,132,86,111,90,Forward Fall while Sitting
+52:24.8,132,86,111,90,Forward Fall while Sitting
+52:24.9,132,86,111,90,Forward Fall while Sitting
+52:25.0,132,86,111,90,Forward Fall while Sitting
+52:25.1,132,86,111,90,Forward Fall while Sitting
+52:25.2,132,86,111,90,Forward Fall while Sitting
+52:25.4,132,86,111,90,Forward Fall while Sitting
+52:25.5,132,85,105,90,Forward Fall while Sitting
+52:25.7,132,85,105,90,Forward Fall while Sitting
+52:25.8,132,85,105,90,Forward Fall while Sitting
+52:25.9,132,85,105,90,Forward Fall while Sitting
+52:26.0,132,85,105,90,Forward Fall while Sitting
+52:26.1,132,85,105,90,Forward Fall while Sitting
+52:26.2,132,85,105,90,Forward Fall while Sitting
+52:26.4,132,85,105,90,Forward Fall while Sitting
+52:26.5,132,85,105,91.2,Forward Fall while Sitting
+52:26.7,132,85,105,91.2,Forward Fall while Sitting
+52:26.7,132,85,105,91.2,Forward Fall while Sitting
+52:26.9,132,85,105,91.2,Forward Fall while Sitting
+52:27.0,132,85,105,91.2,Forward Fall while Sitting
+52:27.1,132,85,105,91.2,Forward Fall while Sitting
+52:27.3,131,85,105,91.2,Forward Fall while Sitting
+52:27.4,131,85,105,91.2,Forward Fall while Sitting
+52:27.7,131,85,105,91.2,Forward Fall while Sitting
+52:27.7,135,86,90,91.3,Forward Fall while Sitting
+52:27.9,135,86,90,91.3,Forward Fall while Sitting
+52:28.0,135,86,90,91.3,Forward Fall while Sitting
+52:28.1,135,86,90,91.3,Forward Fall while Sitting
+52:28.2,135,86,90,91.3,Forward Fall while Sitting
+52:28.4,135,86,90,91.3,Forward Fall while Sitting
+52:28.6,135,86,90,91.3,Forward Fall while Sitting
+52:28.7,135,86,90,91.3,Forward Fall while Sitting
+52:28.9,135,86,90,91.3,Forward Fall while Sitting
+52:29.0,135,86,90,91.3,Forward Fall while Sitting
+52:29.1,135,86,90,91.3,Forward Fall while Sitting
+52:29.2,135,86,90,91.3,Forward Fall while Sitting
+52:29.4,135,86,90,91.3,Forward Fall while Sitting
+52:29.6,135,86,90,91.3,Forward Fall while Sitting
+52:29.7,135,86,90,91.3,Forward Fall while Sitting
+52:29.8,135,86,90,91.3,Forward Fall while Sitting
+52:30.0,135,86,90,91.3,Forward Fall while Sitting
+52:30.2,135,86,90,91.3,Forward Fall while Sitting
+52:30.4,135,86,90,91.3,Forward Fall while Sitting
+52:30.5,135,86,90,91.3,Forward Fall while Sitting
+52:30.6,135,86,90,91.3,Forward Fall while Sitting
+52:30.7,135,86,90,91.3,Forward Fall while Sitting
+52:30.8,135,86,90,91.3,Forward Fall while Sitting
+52:31.0,135,86,90,91.3,Forward Fall while Sitting
+52:31.2,135,86,90,91.3,Forward Fall while Sitting
+52:31.4,135,86,90,91.3,Forward Fall while Sitting
+52:31.5,135,86,90,91.3,Forward Fall while Sitting
+52:31.6,135,86,90,91.3,Forward Fall while Sitting
+52:31.7,135,86,90,91.3,Forward Fall while Sitting
+52:31.8,135,86,90,91.3,Forward Fall while Sitting
+52:32.0,135,86,90,91.3,Forward Fall while Sitting
+52:32.2,135,86,90,91.3,Forward Fall while Sitting
+52:32.4,135,86,84,91.3,Forward Fall while Sitting
+52:32.6,135,86,84,91.3,Rest
+52:32.7,135,86,84,91.3,Rest
+52:32.8,135,86,84,91.3,Rest
+52:32.9,135,86,84,91.3,Rest
+52:33.0,135,86,95,91.3,Rest
+52:33.2,135,86,95,91.3,Rest
+52:33.4,135,86,95,91.3,Rest
+52:33.5,135,86,99,91.3,Rest
+52:33.6,135,86,99,91.3,Rest
+52:33.7,135,86,99,91.3,Rest
+52:34.0,135,86,99,91.3,Rest
+52:34.0,135,86,106,91.3,Rest
+52:34.2,135,86,106,91.3,Rest
+52:34.3,135,86,106,91.3,Rest
+52:34.4,135,86,106,91.3,Rest
+52:34.5,135,86,106,91.3,Rest
+52:34.6,135,86,106,91.3,Rest
+52:34.8,134,87,107,91.3,Rest
+52:35.0,134,87,107,91.3,Rest
+52:35.1,134,87,107,91.3,Rest
+52:35.2,134,87,111,91.3,Rest
+52:35.4,134,87,111,91.3,Rest
+52:35.5,134,87,111,91.3,Walking
+52:35.6,134,87,111,91.3,Walking
+52:35.7,134,87,111,91.3,Walking
+52:35.8,134,86,113,91.3,Walking
+52:36.0,134,86,113,91.3,Walking
+52:36.1,134,86,113,91.3,Walking
+52:36.2,134,86,113,91.3,Walking
+52:36.4,134,86,113,91.3,Walking
+52:36.5,134,86,113,91.3,Walking
+52:36.6,134,86,113,91.3,Walking
+52:36.7,134,86,113,91.3,Walking
+52:36.8,134,86,112,91.3,Walking
+52:36.9,134,86,112,91.3,Walking
+52:37.2,134,86,112,91.3,Walking
+52:37.2,133,86,115,91.3,Walking
+52:37.4,133,86,115,91.3,Walking
+52:37.5,133,86,115,91.3,Walking
+52:37.6,133,86,115,91.3,Walking
+52:37.7,133,86,115,91.3,Walking
+52:37.8,133,86,115,91.3,Walking
+52:37.9,133,86,115,91.3,Walking
+52:38.1,133,86,115,91.3,Walking
+52:38.2,133,86,117,91.3,Walking
+52:38.3,133,86,117,91.3,Walking
+52:38.5,133,86,117,91.3,Walking
+52:38.6,133,86,117,91.3,Walking
+52:38.7,133,86,117,91.3,Walking
+52:38.9,133,86,117,91.3,Walking
+52:39.0,133,86,115,91.3,Walking
+52:39.1,133,86,115,91.3,Walking
+52:39.2,133,86,115,91.3,Walking
+52:39.3,133,86,115,91.3,Walking
+52:39.4,133,86,115,91.3,Walking
+52:39.5,133,86,116,91.3,Walking
+52:39.7,133,86,116,91.3,Walking
+52:39.9,133,86,116,91.3,Walking
+52:40.0,133,86,117,91.3,Walking
+52:40.1,133,86,117,91.3,Walking
+52:40.2,133,86,117,91.3,Walking
+52:40.3,133,86,117,91.3,Walking
+52:40.4,133,86,117,91.3,Walking
+52:40.5,133,86,117,91.3,Walking
+52:40.7,133,86,117,91.3,Walking
+52:40.9,133,86,117,91.3,Walking
+52:41.0,133,87,117,91.3,Walking
+52:41.1,133,87,117,91.3,Walking
+52:41.2,133,87,117,91.3,Walking
+52:41.3,133,87,117,91.3,Walking
+52:41.4,133,87,117,91.3,Walking
+52:41.5,134,88,118,91.3,Walking
+52:41.7,134,88,118,91.3,Walking
+52:41.9,134,88,118,91.3,Walking
+52:42.0,135,88,119,91.3,Walking
+52:42.1,135,88,119,91.3,Walking
+52:42.2,135,88,119,91.3,Walking
+52:42.3,135,88,119,91.3,Walking
+52:42.4,135,88,119,91.3,Walking
+52:42.5,136,89,119,91.3,Walking
+52:42.7,136,89,119,91.3,Walking
+52:42.9,136,89,119,91.3,Walking
+52:43.0,136,89,120,91.3,Walking
+52:43.1,136,89,120,91.3,Walking
+52:43.2,136,89,120,91.3,Walking
+52:43.3,136,89,120,91.3,Walking
+52:43.4,136,89,120,91.3,Walking
+52:43.5,136,90,120,91.3,Walking
+52:43.7,136,90,120,91.3,Walking
+52:43.9,136,90,120,91.3,Walking
+52:44.0,137,90,120,91.3,Walking
+52:44.1,137,90,120,91.3,Walking
+52:44.2,137,90,120,91.3,Walking
+52:44.3,137,90,120,91.3,Walking
+52:44.5,137,90,120,91.3,Walking
+52:44.5,136,89,119,91.3,Walking
+52:44.7,136,89,119,91.3,Walking
+52:44.8,136,89,119,91.3,Walking
+52:44.9,136,89,119,91.3,Walking
+52:45.0,136,89,119,91.3,Walking
+52:45.1,136,89,119,91.3,Walking
+52:45.3,136,89,119,91.3,Walking
+52:45.5,136,89,119,91.3,Walking
+52:45.6,136,89,119,91.3,Walking
+52:45.7,136,89,118,92.9,Walking
+52:45.8,136,89,118,92.9,Walking
+52:46.0,136,89,118,92.9,Walking
+52:46.1,136,89,118,92.9,Walking
+52:46.2,136,89,118,92.9,Walking
+52:46.3,137,89,117,92.9,Walking
+52:46.5,137,89,117,92.9,Walking
+52:46.7,137,89,117,92.9,Walking
+52:46.7,137,89,116,92.9,Walking
+52:46.9,137,89,116,92.9,Walking
+52:47.0,137,89,116,92.9,Walking
+52:47.1,137,89,116,92.9,Walking
+52:47.2,137,89,116,92.9,Walking
+52:47.3,137,89,115,92.9,Walking
+52:47.5,137,89,115,92.9,Walking
+52:47.6,137,89,115,92.9,Rest
+52:47.7,137,89,115,92.9,Rest
+52:47.8,137,89,115,92.9,Rest
+52:47.9,137,89,115,92.9,Rest
+52:48.1,137,89,115,92.9,Rest
+52:48.2,137,89,115,92.9,Rest
+52:48.4,137,89,115,92.9,Rest
+52:48.6,137,89,115,92.9,Rest
+52:48.7,137,89,115,92.9,Rest
+52:48.8,137,89,115,92.9,Rest
+52:48.9,137,89,116,92.9,Rest
+52:49.1,137,89,116,92.9,Rest
+52:49.2,137,89,116,92.9,Rest
+52:49.4,137,89,116,92.9,Rest
+52:49.5,137,89,116,92.9,Rest
+52:49.6,137,89,116,92.9,Rest
+52:49.7,137,89,116,92.9,Rest
+52:49.8,137,89,116,92.9,Rest
+52:49.9,137,89,116,92.9,Rest
+52:50.0,137,89,116,92.9,Rest
+52:50.2,137,89,116,92.9,Rest
+52:50.4,137,89,116,92.9,Rest
+52:50.5,138,89,116,93,Rest
+52:50.6,138,89,116,93,Rest
+52:50.7,138,89,116,93,Rest
+52:50.8,138,89,113,93,Rest
+52:51.0,138,89,113,93,Rest
+52:51.0,138,89,113,93,Rest
+52:51.2,138,89,113,93,Rest
+52:51.4,138,89,113,93,Rest
+52:51.5,138,89,113,93,Rest
+52:51.6,138,89,113,93,Rest
+52:51.7,138,89,113,93,Rest
+52:51.8,138,89,113,93,Rest
+52:52.0,138,89,113,93,Rest
+52:52.1,138,89,113,93,Rest
+52:52.3,138,89,113,93,Rest
+52:52.4,138,89,113,93,Rest
+52:52.5,138,89,113,93,Rest
+52:52.6,138,89,113,93,Rest
+52:52.7,138,89,105,93,Rest
+52:52.8,138,89,105,93.6,Rest
+52:53.0,138,89,105,93.6,Rest
+52:53.2,138,89,105,93.6,Rest
+52:53.3,137,87,104,93.6,Rest
+52:53.4,137,87,104,93.6,Rest
+52:53.5,137,87,104,93.6,Rest
+52:53.6,137,87,104,93.6,Rest
+52:53.7,137,87,104,93.6,Rest
+52:53.8,137,86,106,93.6,Rest
+52:54.0,137,86,106,93.6,Rest
+52:54.2,137,86,106,93.6,Rest
+52:54.3,137,86,106,93.6,Rest
+52:54.4,137,86,106,93.6,Rest
+52:54.5,136,85,108,93.6,Rest
+52:54.6,136,85,108,93.6,Rest
+52:54.7,136,85,108,93.6,Rest
+52:54.9,136,85,108,93.6,Rest
+52:55.0,136,85,110,93.6,Rest
+52:55.2,136,85,110,93.6,Rest
+52:55.3,136,85,110,93.6,Rest
+52:55.4,136,85,110,93.6,Rest
+52:55.5,136,84,107,92.9,Rest
+52:55.6,136,84,107,92.9,Rest
+52:55.7,136,84,107,92.9,Rest
+52:55.9,136,84,107,92.9,Rest
+52:56.0,136,83,108,92.9,Rest
+52:56.2,136,83,108,92.9,Rest
+52:56.3,136,83,108,92.9,Rest
+52:56.4,136,83,108,92.9,Rest
+52:56.5,136,83,108,92.9,Rest
+52:56.6,136,83,108,92.9,Rest
+52:56.8,135,83,107,92.9,Rest
+52:57.0,135,83,107,92.9,Rest
+52:57.1,135,83,107,92.9,Rest
+52:57.2,132,80,107,92.9,Rest
+52:57.3,132,80,107,92.9,Rest
+52:57.5,132,80,107,92.9,Rest
+52:57.6,132,80,107,92.9,Rest
+52:57.7,132,80,107,92.9,Rest
+52:57.8,132,79,107,92.9,Rest
+52:58.0,132,79,107,92.9,Relax
+52:58.2,132,79,107,92.9,Relax
+52:58.2,133,79,108,93.5,Relax
+52:58.4,133,79,108,93.5,Relax
+52:58.5,133,79,108,93.5,Relax
+52:58.6,133,79,108,93.5,Relax
+52:58.7,133,79,108,93.5,Relax
+52:59.0,133,78,107,93.5,Relax
+52:59.1,133,78,107,93.5,Relax
+52:59.2,133,78,107,93.5,Relax
+52:59.3,133,78,107,93.5,Relax
+52:59.6,133,78,107,95.1,Relax
+52:59.7,133,78,107,95.1,Relax
+52:59.9,133,78,107,95.1,Relax
+53:00.0,133,78,108,96,Relax
+53:00.1,133,78,108,96,Relax
+53:00.2,133,78,108,96,Relax
+53:00.3,133,78,108,96,Relax
+53:00.4,133,78,108,96,Relax
+53:00.5,134,77,110,95.3,Relax
+53:00.7,134,77,110,95.3,Relax
+53:00.9,134,77,110,95.3,Relax
+53:01.0,134,77,111,95.3,Relax
+53:01.1,134,77,111,95.3,Relax
+53:01.2,134,77,111,95.3,Relax
+53:01.3,134,77,111,95.3,Relax
+53:01.4,134,77,111,95.3,Relax
+53:01.5,135,77,113,95.3,Relax
+53:01.7,135,77,113,95.3,Relax
+53:01.9,135,77,113,95.3,Relax
+53:02.0,135,78,113,95.3,Relax
+53:02.1,135,78,113,95.3,Relax
+53:02.2,135,78,113,95.3,Relax
+53:02.3,135,78,113,95.3,Relax
+53:02.5,135,78,113,95.3,Relax
+53:02.5,135,78,112,95.3,Relax
+53:02.7,135,78,112,95.3,Relax
+53:02.9,135,78,112,95.3,Relax
+53:03.0,135,78,112,95.3,Relax
+53:03.1,135,78,112,95.3,Relax
+53:03.2,135,78,112,95.3,Relax
+53:03.3,135,78,112,95.3,Relax
+53:03.5,135,78,112,95.3,Relax
+53:03.7,135,78,112,95.3,Relax
+53:03.9,135,78,112,95.3,Relax
+53:04.0,136,80,113,95,Relax
+53:04.1,136,80,113,95,Relax
+53:04.2,136,80,113,95,Relax
+53:04.3,136,80,113,95,Relax
+53:04.5,136,80,113,95,Relax
+53:04.6,136,80,113,95,Relax
+53:04.7,137,81,113,95.3,Relax
+53:04.9,137,81,113,95.3,Relax
+53:05.0,137,81,113,95.3,Relax
+53:05.1,137,81,113,95.3,Relax
+53:05.2,137,81,113,95.3,Relax
+53:05.4,137,81,113,95.3,Relax
+53:05.5,138,81,113,95.4,Relax
+53:05.7,138,81,113,95.4,Relax
+53:05.8,138,81,113,95.4,Relax
+53:05.9,138,81,113,95.4,Relax
+53:06.0,139,82,109,96.1,Relax
+53:06.1,139,82,109,96.1,Relax
+53:06.2,139,82,109,96.1,Relax
+53:06.4,139,82,109,96.1,Relax
+53:06.5,136,85,109,96.5,Relax
+53:06.7,136,85,109,96.5,Relax
+53:06.8,136,85,109,96.5,Relax
+53:06.9,136,85,109,96.5,Relax
+53:07.0,136,85,109,96.5,Relax
+53:07.1,136,85,109,97.2,Relax
+53:07.2,136,85,109,97.2,Relax
+53:07.4,136,85,109,97.2,Relax
+53:07.5,136,85,110,97.2,Relax
+53:07.7,136,85,110,97.1,Relax
+53:07.7,136,85,110,97.1,Relax
+53:07.9,136,85,110,97.1,Relax
+53:08.0,136,85,110,97.1,Relax
+53:08.1,136,85,110,97.1,Relax
+53:08.2,136,85,110,97.1,Relax
+53:08.3,136,85,103,96.7,Relax
+53:08.4,136,85,103,96.7,Relax
+53:08.7,136,85,103,96.7,Relax
+53:08.7,136,85,103,96.7,Relax
+53:08.9,136,85,103,96.7,Relax
+53:09.0,136,85,103,96.7,Relax
+53:09.1,136,85,103,96.7,Relax
+53:09.3,136,85,99,96.5,Relax
+53:09.4,136,85,99,96.5,Relax
+53:09.6,136,85,99,96.5,Relax
+53:09.7,136,85,99,96.5,Relax
+53:09.8,136,85,99,96.5,Relax
+53:10.0,136,85,99,96.5,Relax
+53:10.0,136,85,95,96.4,Relax
+53:10.2,136,85,95,96.4,Relax
+53:10.4,136,85,95,96.4,Relax
+53:10.5,136,85,95,96.4,Relax
+53:10.6,136,85,95,96.4,Relax
+53:10.7,136,85,95,96.4,Relax
+53:10.8,136,85,95,96.4,Relax
+53:10.9,136,85,95,96.4,Relax
+53:11.0,135,85,91,96.3,Relax
+53:11.2,135,85,91,96.3,Relax
+53:11.4,135,85,91,96.3,Relax
+53:11.5,135,85,91,96.3,Relax
+53:11.6,135,85,91,96.3,Relax
+53:11.7,135,85,91,96.3,Relax
+53:11.8,135,85,91,96.3,Relax
+53:12.0,135,85,91,96.3,Relax
+53:12.2,135,85,91,96.3,Relax
+53:12.4,135,85,91,96.3,Relax
+53:12.5,134,85,91,96.3,Relax
+53:12.6,134,85,91,96.3,Relax
+53:12.7,134,85,91,96.3,Relax
+53:12.8,134,85,91,96.3,Relax
+53:13.0,134,85,91,96.3,Relax
+53:13.0,133,85,91,96.6,Relax
+53:13.2,133,85,91,96.6,Relax
+53:13.4,133,85,91,96.6,Relax
+53:13.5,133,85,91,96.6,Relax
+53:13.6,133,85,91,96.6,Relax
+53:13.8,133,85,91,96.6,Relax
+53:14.0,133,85,91,96.6,Relax
+53:14.1,133,85,91,96.6,Relax
+53:14.3,132,84,91,96.5,Relax
+53:14.4,132,84,91,96.5,Relax
+53:14.5,132,84,91,96.5,Relax
+53:14.6,132,84,91,96.5,Relax
+53:14.7,132,84,91,96.5,Relax
+53:14.8,131,82,109,96.5,Relax
+53:14.9,131,82,109,96.5,Relax
+53:15.2,131,82,109,96.5,Relax
+53:15.3,131,82,100,96.5,Relax
+53:15.4,131,82,100,96.4,Relax
+53:15.5,131,82,100,96.4,Relax
+53:15.6,131,82,100,96.4,Relax
+53:15.7,131,82,100,96.4,Relax
+53:15.9,131,82,100,96.4,Relax
+53:16.2,131,82,100,96.4,Relax
+53:16.3,130,81,100,96.4,Relax
+53:16.4,130,81,100,96.4,Relax
+53:16.5,130,81,100,96.4,Relax
+53:16.6,130,81,100,96.4,Relax
+53:16.7,130,81,100,96.4,Relax
+53:16.9,130,81,100,96.4,Relax
+53:17.1,130,81,100,96.4,Relax
+53:17.2,129,80,99,96.4,Relax
+53:17.3,129,80,99,96.4,Relax
+53:17.5,129,80,99,96.4,Relax
+53:17.6,129,80,99,96.4,Relax
+53:17.7,129,80,99,96.4,Relax
+53:17.9,129,80,99,96.4,Relax
+53:18.0,129,85,98,96.3,Relax
+53:18.2,129,85,98,96.3,Relax
+53:18.2,129,85,98,96.3,Relax
+53:18.4,129,85,98,96.3,Relax
+53:18.5,129,85,98,96.3,Relax
+53:18.6,129,85,98,96.3,Relax
+53:18.7,129,85,98,96.3,Relax
+53:18.9,129,85,98,96.3,Relax
+53:19.0,129,85,98,96.3,Relax
+53:19.1,129,85,98,96.3,Relax
+53:19.2,129,85,98,96.3,Relax
+53:19.3,129,85,98,96.3,Relax
+53:19.5,129,85,98,96.3,Relax
+53:19.7,129,85,98,96.3,Relax
+53:19.8,128,85,98,96.3,Relax
+53:19.9,128,85,98,96.3,Relax
+53:20.0,128,85,98,96.3,Relax
+53:20.1,128,85,98,96.3,Relax
+53:20.2,128,85,98,96.3,Relax
+53:20.3,128,85,98,96.6,Relax
+53:20.5,128,85,98,96.6,Relax
+53:20.7,128,85,98,96.6,Relax
+53:20.9,128,85,98,96.6,Relax
+53:21.0,128,85,98,96.6,Relax
+53:21.1,128,85,98,96.6,Relax
+53:21.2,128,85,98,96.6,Relax
+53:21.3,128,85,98,96.6,Relax
+53:21.4,128,85,98,96.6,Relax
+53:21.5,128,84,107,96.8,Relax
+53:21.7,128,84,107,96.8,Relax
+53:21.9,128,84,107,96.8,Relax
+53:22.0,129,84,107,96.8,Relax
+53:22.1,129,84,107,96.8,Relax
+53:22.2,129,84,107,96.8,Relax
+53:22.3,129,84,107,96.8,Relax
+53:22.5,129,84,107,96.8,Relax
+53:22.7,129,84,107,96.8,Relax
+53:22.9,129,84,107,96.8,Relax
+53:23.0,129,83,107,96.8,Relax
+53:23.1,129,83,107,96.8,Relax
+53:23.2,129,83,107,96.8,Relax
+53:23.4,129,83,107,96.8,Relax
+53:23.7,129,83,107,96.8,Relax
+53:23.8,129,83,107,96.8,Relax
+53:23.9,129,83,107,96.8,Relax
+53:24.0,129,83,107,96.8,Relax
+53:24.1,129,83,107,96.8,Relax
+53:24.2,129,83,107,96.8,Relax
+53:24.4,129,83,107,96.8,Relax
+53:24.5,129,83,107,96.8,Relax
+53:24.7,129,83,107,96.8,Relax
+53:24.8,129,83,107,96.8,Relax
+53:24.9,129,83,107,96.8,Relax
+53:25.0,129,83,107,96.8,Relax
+53:25.1,129,83,107,96.8,Relax
+53:25.2,129,83,107,96.8,Relax
+53:25.3,129,83,107,96.8,Relax
+53:25.4,129,83,107,96.8,Relax
+53:25.6,129,83,107,96.8,Relax
+53:25.7,129,82,105,96.8,Relax
+53:25.9,129,82,105,96.8,Relax
+53:26.0,129,82,105,96.8,Relax
+53:26.1,129,82,105,96.8,Relax
+53:26.2,129,82,105,96.8,Relax
+53:26.3,129,82,105,97.1,Relax
+53:26.4,129,82,105,97.1,Relax
+53:26.7,129,82,105,97.1,Relax
+53:26.7,129,82,105,97.1,Relax
+53:26.9,129,82,105,97.1,Relax
+53:27.0,129,82,105,97.1,Relax
+53:27.1,129,81,105,97.1,Relax
+53:27.2,129,81,105,97.1,Relax
+53:27.4,129,81,105,97.1,Relax
+53:27.6,129,81,105,97.1,Relax
+53:27.7,129,81,105,97.1,Relax
+53:27.8,129,81,105,97.1,Relax
+53:28.1,129,81,105,97.1,Relax
+53:28.2,129,81,105,97.1,Relax
+53:28.4,129,81,105,97.1,Relax
+53:28.5,129,81,105,97.1,Relax
+53:28.6,129,81,105,97.1,Relax
+53:28.7,129,82,80,97.1,Relax
+53:28.8,129,82,80,97.1,Relax
+53:29.0,129,82,80,97.1,Relax
+53:29.2,129,82,80,97.1,Relax
+53:29.3,129,82,80,97.1,Relax
+53:29.4,129,82,80,97.1,Relax
+53:29.5,129,82,80,97.1,Relax
+53:29.6,129,82,80,97.1,Relax
+53:29.7,129,82,80,97.1,Relax
+53:29.8,129,81,105,97.1,Relax
+53:30.0,129,81,105,97.1,Relax
+53:30.2,129,81,105,97.1,Relax
+53:30.4,129,81,105,97.1,Relax
+53:30.5,130,81,105,97.1,Relax
+53:30.6,130,81,105,97.1,Relax
+53:30.7,130,81,105,97.1,Relax
+53:30.8,130,81,105,97.1,Relax
+53:31.0,130,81,105,97.1,Relax
+53:31.2,130,81,105,97.1,Relax
+53:31.3,130,82,80,97.1,Relax
+53:31.4,130,82,80,97.1,Relax
+53:31.5,130,82,80,97.1,Relax
+53:31.6,130,82,80,97.1,Relax
+53:31.7,130,82,80,97.1,Relax
+53:32.0,130,82,80,97.1,Relax
+53:32.0,129,82,80,97.1,Relax
+53:32.2,129,82,80,97.1,Relax
+53:32.3,129,82,80,97.1,Relax
+53:32.4,129,82,80,97.1,Relax
+53:32.5,129,82,80,97.1,Relax
+53:32.6,129,82,80,97.1,Relax
+53:32.8,128,82,80,96.8,Relax
+53:32.9,128,82,80,96.8,Relax
+53:33.2,128,82,80,96.8,Relax
+53:33.3,128,82,80,96.9,Relax
+53:33.4,128,82,80,96.9,Relax
+53:33.5,128,82,80,96.9,Relax
+53:33.6,128,82,80,96.9,Relax
+53:33.7,128,82,80,96.9,Relax
+53:33.8,127,81,103,96.9,Relax
+53:33.9,127,81,103,96.9,Relax
+53:34.2,127,81,103,96.9,Relax
+53:34.3,127,81,103,96.9,Relax
+53:34.4,127,81,103,96.9,Rest
+53:34.4,128,81,103,97.2,Rest
+53:34.6,128,81,103,97.2,Rest
+53:34.7,128,81,103,97.2,Rest
+53:34.9,128,81,103,97.2,Rest
+53:35.1,128,81,103,97.2,Rest
+53:35.2,128,81,87,97.2,Rest
+53:35.3,128,81,87,97.2,Rest
+53:35.5,128,81,87,97.2,Rest
+53:35.6,128,81,87,97.2,Rest
+53:35.7,128,81,87,97.2,Rest
+53:35.8,127,81,93,97.3,Rest
+53:35.9,127,81,93,97.3,Rest
+53:36.2,127,81,93,97.3,Rest
+53:36.2,127,81,93,97.3,Rest
+53:36.3,127,81,93,97.3,Rest
+53:36.6,127,81,98,97.3,Rest
+53:36.7,127,81,98,97.3,Rest
+53:36.9,127,81,98,97.3,Rest
+53:37.0,129,82,96,97.3,Rest
+53:37.1,129,82,96,97.3,Rest
+53:37.2,129,82,96,97.3,Rest
+53:37.3,129,82,96,97.3,Rest
+53:37.5,129,82,96,97.3,Rest
+53:37.7,129,82,96,97.3,Rest
+53:37.9,129,82,96,97.3,Rest
+53:38.0,129,81,97,97.3,Rest
+53:38.1,129,81,97,97.3,Rest
+53:38.2,129,81,97,97.3,Rest
+53:38.3,129,81,97,97.3,Rest
+53:38.5,129,81,97,97.3,Rest
+53:38.7,129,81,97,97.3,Rest
+53:38.8,128,81,99,97.3,Rest
+53:38.9,128,81,99,97.3,Rest
+53:39.0,128,81,99,97.3,Rest
+53:39.1,128,81,99,97.3,Rest
+53:39.2,128,81,99,97.3,Rest
+53:39.3,128,81,99,97.3,Rest
+53:39.5,128,81,90,97.3,Rest
+53:39.7,128,81,90,97.3,Rest
+53:39.9,128,81,90,97.3,Rest
+53:40.0,128,80,94,97.3,Rest
+53:40.1,128,80,94,97.3,Rest
+53:40.2,128,80,94,97.3,Rest
+53:40.3,128,80,94,97.3,Rest
+53:40.4,128,80,94,97.3,Rest
+53:40.5,127,80,99,97.3,Rest
+53:40.7,127,80,99,97.3,Rest
+53:40.9,127,80,99,97.3,Rest
+53:41.0,127,80,104,97.3,Rest
+53:41.1,127,80,104,97.3,Rest
+53:41.2,127,80,104,97.3,Rest
+53:41.4,127,80,104,97.3,Rest
+53:41.6,127,80,104,97.3,Rest
+53:41.7,127,80,107,97.3,Rest
+53:41.8,127,80,107,97.3,Rest
+53:42.0,127,80,107,97.3,Rest
+53:42.1,127,80,107,97.3,Rest
+53:42.3,128,79,111,97.7,Rest
+53:42.4,128,79,111,97.7,Rest
+53:42.6,128,79,111,97.7,Rest
+53:42.7,128,79,113,97.7,Rest
+53:42.8,128,79,113,97.7,Rest
+53:43.0,128,79,113,97.7,Rest
+53:43.1,128,79,113,97.7,Rest
+53:43.2,128,79,113,97.7,Rest
+53:43.3,128,78,113,97.7,Rest
+53:43.4,128,78,113,97.7,Rest
+53:43.7,128,78,113,97.7,Rest
+53:43.8,128,78,112,97.7,Rest
+53:43.9,128,78,112,97.7,Rest
+53:44.0,128,78,112,97.7,Rest
+53:44.1,128,78,112,97.7,Rest
+53:44.2,128,78,112,97.7,Rest
+53:44.4,128,78,112,97.7,Rest
+53:44.5,128,78,111,97.7,Rest
+53:44.6,128,78,111,97.7,Rest
+53:44.7,128,78,111,97.7,Rest
+53:44.9,128,78,111,97.7,Rest
+53:45.0,128,78,111,97.7,Rest
+53:45.1,132,82,112,97.6,Rest
+53:45.2,132,82,112,97.6,Rest
+53:45.4,132,82,112,97.6,Rest
+53:45.6,132,82,112,97.6,Rest
+53:45.7,132,82,114,97.6,Rest
+53:45.9,132,82,114,97.6,Rest
+53:46.0,132,82,114,97.6,Rest
+53:46.2,132,82,114,97.6,Rest
+53:46.4,132,82,114,97.6,Rest
+53:46.5,132,82,115,97.6,Rest
+53:46.6,132,82,115,97.6,Rest
+53:46.7,132,82,115,97.6,Rest
+53:46.8,132,82,115,97.6,Rest
+53:47.0,132,82,115,97.6,Rest
+53:47.2,132,82,115,97.6,Rest
+53:47.3,133,83,100,97.6,Rest
+53:47.4,133,83,100,97.6,Rest
+53:47.5,133,83,100,97.6,Rest
+53:47.6,133,83,100,97.6,Rest
+53:47.7,133,83,100,97.6,Rest
+53:47.8,133,84,95,97.6,Rest
+53:48.0,133,84,95,97.6,Rest
+53:48.2,133,84,95,97.6,Rest
+53:48.4,133,84,95,97.6,Rest
+53:48.5,134,84,95,97.8,Rest
+53:48.6,134,84,95,97.8,Anxiety
+53:48.7,134,84,95,97.8,Anxiety
+53:48.8,134,84,95,97.8,Anxiety
+53:48.9,134,84,95,97.8,Anxiety
+53:49.0,134,84,101,98.1,Anxiety
+53:49.2,134,84,101,98.1,Anxiety
+53:49.4,134,84,101,98.1,Anxiety
+53:49.5,134,84,101,98.1,Anxiety
+53:49.8,134,84,103,98.5,Anxiety
+53:49.9,134,84,103,98.5,Anxiety
+53:50.1,134,84,103,98.5,Anxiety
+53:50.3,134,84,104,98.5,Anxiety
+53:50.4,134,84,104,98.5,Anxiety
+53:50.5,134,84,104,98.5,Anxiety
+53:50.6,134,84,104,98.5,Anxiety
+53:50.7,134,84,104,98.5,Anxiety
+53:50.8,135,84,102,98.5,Anxiety
+53:50.9,135,84,102,98.5,Anxiety
+53:51.2,135,84,102,98.5,Anxiety
+53:51.3,135,84,102,98.5,Anxiety
+53:51.3,135,84,102,98.5,Anxiety
+53:51.4,135,84,101,98.6,Anxiety
+53:51.6,135,84,101,98.6,Anxiety
+53:51.7,135,84,101,98.6,Anxiety
+53:51.9,135,84,101,98.6,Anxiety
+53:52.0,136,82,103,98.5,Anxiety
+53:52.2,136,82,103,98.5,Anxiety
+53:52.3,136,82,103,98.5,Anxiety
+53:52.4,136,82,103,98.5,Anxiety
+53:52.5,136,82,103,98.5,Anxiety
+53:52.6,135,82,103,98.5,Anxiety
+53:52.7,135,82,103,98.5,Anxiety
+53:52.9,135,82,103,98.5,Anxiety
+53:53.1,135,82,103,98.5,Anxiety
+53:53.2,135,82,100,98.5,Anxiety
+53:53.3,135,82,100,98.5,Anxiety
+53:53.5,135,82,100,98.5,Anxiety
+53:53.6,135,82,100,98.5,Anxiety
+53:53.7,135,82,100,98.5,Anxiety
+53:53.8,135,82,99,98.5,Anxiety
+53:53.9,135,82,99,98.5,Anxiety
+53:54.0,135,82,99,98.5,Anxiety
+53:54.2,135,82,99,98.5,Anxiety
+53:54.2,136,83,100,98.5,Anxiety
+53:54.4,136,83,100,98.4,Anxiety
+53:54.5,136,83,100,98.4,Anxiety
+53:54.6,136,83,100,98.4,Anxiety
+53:54.7,136,83,100,98.4,Anxiety
+53:54.9,136,83,100,98.4,Anxiety
+53:55.0,136,84,99,98.4,Anxiety
+53:55.1,136,84,99,98.4,Anxiety
+53:55.2,136,84,99,98.4,Anxiety
+53:55.3,136,84,99,98.4,Anxiety
+53:55.5,136,84,99,98.4,Anxiety
+53:55.6,136,84,99,98.4,Anxiety
+53:55.8,137,85,96,98.5,Anxiety
+53:55.9,137,85,96,98.5,Anxiety
+53:56.0,137,85,96,98.5,Anxiety
+53:56.1,137,85,96,98.5,Anxiety
+53:56.2,137,86,94,98.5,Anxiety
+53:56.3,137,86,94,98.5,Anxiety
+53:56.5,137,86,94,98.5,Anxiety
+53:56.7,137,86,94,98.5,Anxiety
+53:56.9,137,86,96,98.5,Anxiety
+53:57.1,137,86,96,98.5,Anxiety
+53:57.2,137,86,96,98.5,Anxiety
+53:57.3,137,86,96,98.5,Anxiety
+53:57.4,137,86,96,98.5,Anxiety
+53:57.5,137,87,96,98.1,Anxiety
+53:57.7,137,87,96,98.1,Anxiety
+53:57.9,137,87,96,98.1,Anxiety
+53:58.0,138,87,97,98.1,Anxiety
+53:58.1,138,87,97,98.1,Anxiety
+53:58.2,138,87,97,98.1,Anxiety
+53:58.3,138,87,97,98.1,Anxiety
+53:58.5,138,87,97,98.1,Anxiety
+53:58.6,138,87,97,98.1,Anxiety
+53:58.7,137,87,97,98.1,Anxiety
+53:58.9,137,87,97,98.1,Anxiety
+53:59.0,137,87,97,98.1,Anxiety
+53:59.1,137,87,97,98.1,Anxiety
+53:59.2,137,87,97,98.1,Anxiety
+53:59.3,137,87,98,97.8,Anxiety
+53:59.5,137,87,98,97.8,Anxiety
+53:59.7,137,87,98,97.8,Anxiety
+53:59.8,137,87,100,97.7,Anxiety
+53:59.9,137,87,100,97.7,Anxiety
+54:00.0,137,87,100,97.7,Anxiety
+54:00.1,137,87,100,97.7,Anxiety
+54:00.2,137,87,100,97.7,Anxiety
+54:00.4,137,87,100,97.7,Anxiety
+54:00.5,137,87,99,97.5,Anxiety
+54:00.7,137,87,99,97.5,Anxiety
+54:00.8,137,87,99,97.5,Anxiety
+54:00.9,137,87,99,97.5,Anxiety
+54:01.0,137,87,99,97.5,Anxiety
+54:01.1,137,87,99,97.3,Anxiety
+54:01.2,137,87,99,97.3,Anxiety
+54:01.4,137,87,99,97.3,Anxiety
+54:01.5,137,86,99,97.3,Anxiety
+54:01.7,137,86,99,97.1,Anxiety
+54:01.8,137,86,99,97.1,Anxiety
+54:01.9,137,86,99,97.1,Anxiety
+54:02.0,137,86,99,97.1,Anxiety
+54:02.1,137,86,99,97.1,Anxiety
+54:02.2,137,86,99,97.1,Anxiety
+54:02.3,136,86,100,97,Anxiety
+54:02.4,136,86,100,97,Anxiety
+54:02.7,136,86,100,97,Anxiety
+54:02.8,136,86,99,97,Anxiety
+54:02.9,136,86,99,97,Anxiety
+54:03.0,136,86,99,97,Anxiety
+54:03.1,136,86,99,97,Anxiety
+54:03.2,136,86,99,97,Anxiety
+54:03.4,136,86,99,97,Anxiety
+54:03.5,136,85,96,97,Anxiety
+54:03.7,136,85,96,97,Anxiety
+54:03.7,136,85,96,97,Anxiety
+54:03.9,136,85,96,97,Anxiety
+54:04.0,136,85,96,97,Anxiety
+54:04.1,136,85,96,97,Anxiety
+54:04.2,136,85,96,97,Anxiety
+54:04.3,136,85,95,96.9,Anxiety
+54:04.4,136,85,95,96.9,Anxiety
+54:04.5,136,85,95,96.9,Anxiety
+54:04.6,136,85,95,96.9,Anxiety
+54:04.7,136,85,95,96.9,Anxiety
+54:04.8,136,84,95,96.9,Anxiety
+54:05.0,136,84,95,96.9,Anxiety
+54:05.2,136,84,95,96.9,Anxiety
+54:05.4,136,84,95,96.9,Anxiety
+54:05.5,136,83,96,96.9,Anxiety
+54:05.6,136,83,96,96.9,Anxiety
+54:05.7,136,83,96,96.9,Anxiety
+54:05.8,136,83,96,96.9,Anxiety
+54:05.9,136,83,96,96.9,Anxiety
+54:06.1,136,83,96,96.9,Anxiety
+54:06.2,136,83,96,96.9,Anxiety
+54:06.4,136,83,96,96.9,Anxiety
+54:06.5,136,83,96,96.9,Anxiety
+54:06.6,136,83,96,96.9,Anxiety
+54:06.7,136,83,96,96.8,Anxiety
+54:06.8,136,83,96,96.8,Anxiety
+54:07.0,136,83,96,96.8,Anxiety
+54:07.2,136,83,96,96.8,Anxiety
+54:07.3,134,82,97,96.7,Anxiety
+54:07.4,134,82,97,96.7,Anxiety
+54:07.5,134,82,97,96.7,Anxiety
+54:07.6,134,82,97,96.7,Anxiety
+54:07.7,134,82,97,96.7,Anxiety
+54:07.8,134,82,98,96.6,Anxiety
+54:08.0,134,82,98,96.6,Anxiety
+54:08.2,134,82,98,96.6,Anxiety
+54:08.4,134,82,98,96.6,Anxiety
+54:08.4,134,82,98,96.6,Anxiety
+54:08.6,134,82,98,96.6,Anxiety
+54:08.7,134,82,98,96.6,Anxiety
+54:08.8,134,82,98,96.6,Anxiety
+54:08.9,134,82,98,96.6,Anxiety
+54:09.0,134,82,97,96.6,Anxiety
+54:09.2,134,82,97,96.6,Anxiety
+54:09.3,134,82,97,96.6,Anxiety
+54:09.4,134,82,97,96.6,Anxiety
+54:09.5,134,82,97,96.6,Anxiety
+54:09.6,134,82,97,96.6,Anxiety
+54:09.8,134,82,96,96.8,Anxiety
+54:10.0,134,82,96,96.8,Anxiety
+54:10.2,134,82,96,96.8,Anxiety
+54:10.3,134,82,97,96.8,Anxiety
+54:10.4,134,82,97,96.8,Anxiety
+54:10.5,134,82,97,96.8,Anxiety
+54:10.6,134,82,97,96.8,Anxiety
+54:10.7,134,82,97,96.8,Anxiety
+54:10.9,134,82,97,96.8,Anxiety
+54:11.0,134,82,96,96.8,Anxiety
+54:11.2,134,82,96,96.8,Anxiety
+54:11.3,134,82,96,96.8,Anxiety
+54:11.4,134,82,96,96.8,Anxiety
+54:11.5,134,82,96,96.8,Anxiety
+54:11.6,134,82,96,96.8,Anxiety
+54:11.7,134,82,96,96.8,Anxiety
+54:11.9,134,82,96,96.8,Anxiety
+54:12.1,134,82,96,96.8,Anxiety
+54:12.2,134,82,96,96.8,Anxiety
+54:12.3,134,82,96,96.8,Anxiety
+54:12.5,134,82,96,96.8,Anxiety
+54:12.6,134,82,96,96.8,Anxiety
+54:12.7,134,82,96,96.8,Anxiety
+54:12.8,133,82,96,97,Anxiety
+54:12.9,133,82,96,97,Anxiety
+54:13.2,133,82,96,97,Anxiety
+54:13.3,133,82,96,97,Anxiety
+54:13.3,133,82,96,97,Anxiety
+54:13.6,133,82,96,97,Anxiety
+54:13.7,133,82,96,97,Anxiety
+54:13.9,133,82,96,97,Anxiety
+54:14.0,133,82,95,97,Anxiety
+54:14.2,133,82,95,97,Anxiety
+54:14.2,133,82,95,97,Anxiety
+54:14.4,133,82,95,97,Anxiety
+54:14.5,133,82,95,97,Anxiety
+54:14.7,133,82,95,97,Anxiety
+54:14.8,133,82,95,97.1,Anxiety
+54:14.9,133,82,95,97.1,Anxiety
+54:15.0,133,82,95,97.1,Anxiety
+54:15.1,133,82,95,97.1,Anxiety
+54:15.2,133,82,95,97.1,Anxiety
+54:15.3,133,82,95,97.1,Anxiety
+54:15.6,133,83,94,97.1,Anxiety
+54:15.7,133,83,94,97.1,Anxiety
+54:15.9,133,83,94,97.1,Anxiety
+54:16.0,133,83,93,97.1,Anxiety
+54:16.1,133,83,93,97.3,Anxiety
+54:16.2,133,83,93,97.3,Anxiety
+54:16.3,133,83,93,97.3,Anxiety
+54:16.5,133,83,93,97.3,Anxiety
+54:16.7,133,83,93,97.3,Anxiety
+54:16.8,133,83,93,97.3,Anxiety
+54:16.9,133,83,93,97.3,Anxiety
+54:17.0,133,83,93,97.3,Anxiety
+54:17.1,133,83,93,97.3,Anxiety
+54:17.2,133,83,93,97.3,Anxiety
+54:17.3,133,83,93,97.5,Anxiety
+54:17.5,133,83,93,97.5,Anxiety
+54:17.7,133,83,93,97.5,Anxiety
+54:17.9,133,83,93,97.5,Anxiety
+54:18.0,133,83,94,97.5,Anxiety
+54:18.1,133,83,94,97.5,Anxiety
+54:18.2,133,83,94,97.5,Anxiety
+54:18.4,133,83,94,97.5,Anxiety
+54:18.5,133,83,94,97.6,Anxiety
+54:18.7,133,83,94,97.6,Anxiety
+54:18.8,133,83,94,97.6,Anxiety
+54:18.9,133,83,94,97.6,Anxiety
+54:19.0,133,83,94,97.6,Anxiety
+54:19.1,133,83,94,97.6,Anxiety
+54:19.3,132,83,94,97.6,Anxiety
+54:19.5,132,83,94,97.6,Anxiety
+54:19.6,132,83,94,97.6,Anxiety
+54:19.8,132,83,95,97.8,Anxiety
+54:19.9,132,83,95,97.8,Anxiety
+54:20.0,132,83,95,97.8,Anxiety
+54:20.1,132,83,95,97.8,Anxiety
+54:20.2,132,83,95,97.8,Anxiety
+54:20.3,132,82,96,97.7,Anxiety
+54:20.4,132,82,96,97.7,Anxiety
+54:20.7,132,82,96,97.7,Anxiety
+54:20.8,132,82,96,97.7,Anxiety
+54:20.9,132,82,96,97.7,Anxiety
+54:20.9,132,82,95,97.7,Anxiety
+54:21.1,132,82,95,97.7,Anxiety
+54:21.2,132,82,95,97.7,Anxiety
+54:21.4,132,82,95,97.7,Anxiety
+54:21.6,132,82,95,97.7,Anxiety
+54:21.7,132,82,94,97.6,Anxiety
+54:21.8,132,82,94,97.6,Anxiety
+54:22.0,132,82,94,97.6,Anxiety
+54:22.1,132,82,94,97.6,Anxiety
+54:22.2,132,82,94,97.6,Anxiety
+54:22.3,132,82,94,97.6,Anxiety
+54:22.4,132,82,94,97.6,Anxiety
+54:22.5,132,82,94,97.6,Anxiety
+54:22.7,132,82,94,97.6,Anxiety
+54:22.7,132,82,94,97.6,Anxiety
+54:22.8,132,82,94,97.6,Anxiety
+54:23.1,132,82,94,97.5,Anxiety
+54:23.2,132,82,94,97.5,Anxiety
+54:23.4,132,82,94,97.5,Anxiety
+54:23.5,132,82,95,97.4,Anxiety
+54:23.6,132,82,95,97.4,Anxiety
+54:23.7,132,82,95,97.4,Anxiety
+54:23.8,132,82,95,97.4,Anxiety
+54:24.0,132,82,95,97.4,Anxiety
+54:24.1,132,81,95,97.4,Anxiety
+54:24.2,132,81,95,97.3,Anxiety
+54:24.4,132,81,95,97.3,Anxiety
+54:24.5,132,81,95,97.3,Anxiety
+54:24.6,132,81,95,97.3,Anxiety
+54:24.7,132,81,95,96.9,Anxiety
+54:24.8,132,81,95,96.9,Anxiety
+54:25.0,132,81,95,96.9,Anxiety
+54:25.2,132,81,95,96.9,Anxiety
+54:25.3,132,80,96,96.9,Anxiety
+54:25.4,132,80,96,96.9,Anxiety
+54:25.5,132,80,96,96.9,Anxiety
+54:25.6,132,80,96,96.9,Anxiety
+54:25.7,132,80,96,96.9,Anxiety
+54:25.8,132,79,97,96.9,Anxiety
+54:26.0,132,79,97,96.9,Anxiety
+54:26.2,132,79,97,96.9,Anxiety
+54:26.4,132,79,97,96.9,Anxiety
+54:26.5,132,79,97,96.9,Anxiety
+54:26.6,132,79,97,96.9,Anxiety
+54:26.7,132,79,97,96.9,Anxiety
+54:26.8,132,79,97,96.9,Anxiety
+54:26.9,132,79,97,96.9,Anxiety
+54:27.0,132,79,97,96.5,Anxiety
+54:27.2,132,79,97,96.5,Anxiety
+54:27.4,132,79,97,96.5,Anxiety
+54:27.5,132,79,97,96.5,Anxiety
+54:27.6,132,79,97,96.5,Anxiety
+54:27.8,132,78,97,96.1,Anxiety
+54:28.0,132,78,97,96.1,Anxiety
+54:28.1,132,78,97,96.1,Anxiety
+54:28.2,132,78,98,95.8,Anxiety
+54:28.4,132,78,98,95.8,Anxiety
+54:28.5,132,78,98,95.8,Anxiety
+54:28.6,132,78,98,95.8,Anxiety
+54:28.7,132,78,98,95.8,Anxiety
+54:28.8,132,78,98,95.8,Anxiety
+54:29.0,132,78,98,95.8,Anxiety
+54:29.2,132,78,98,95.8,Anxiety
+54:29.3,132,78,98,95.8,Anxiety
+54:29.3,132,78,98,95.8,Anxiety
+54:29.4,132,78,98,95.8,Anxiety
+54:29.6,132,78,98,95.8,Anxiety
+54:29.7,132,78,98,95.8,Anxiety
+54:29.9,132,78,98,95.8,Anxiety
+54:30.0,132,77,99,95.9,Anxiety
+54:30.2,132,77,99,95.9,Anxiety
+54:30.3,132,77,99,95.9,Anxiety
+54:30.4,132,77,99,95.9,Anxiety
+54:30.5,132,77,99,95.9,Anxiety
+54:30.6,132,77,99,96,Anxiety
+54:30.7,132,77,99,96,Anxiety
+54:30.9,132,77,99,96,Anxiety
+54:31.0,132,77,99,96,Anxiety
+54:31.1,132,77,99,96,Anxiety
+54:31.3,132,77,99,96,Anxiety
+54:31.4,132,77,99,96,Anxiety
+54:31.5,132,77,99,96,Anxiety
+54:31.6,132,77,99,96,Anxiety
+54:31.7,132,77,99,96,Anxiety
+54:31.8,132,77,99,96,Anxiety
+54:31.9,132,77,99,96,Anxiety
+54:32.0,132,77,99,96,Anxiety
+54:32.1,132,77,99,96,Anxiety
+54:32.2,132,76,99,96,Anxiety
+54:32.3,132,76,99,96,Anxiety
+54:32.5,132,76,99,96,Anxiety
+54:32.7,132,76,99,96,Anxiety
+54:33.0,132,76,100,96.1,Anxiety
+54:33.1,132,76,100,96.1,Anxiety
+54:33.2,132,76,100,96.1,Anxiety
+54:33.3,132,76,100,96.1,Anxiety
+54:33.4,132,76,100,96.1,Anxiety
+54:33.6,132,76,100,96.1,Anxiety
+54:33.7,132,76,100,96.1,Anxiety
+54:33.9,132,76,100,96.1,Anxiety
+54:34.0,132,76,100,96.3,Anxiety
+54:34.1,132,76,100,96.3,Anxiety
+54:34.2,132,76,100,96.3,Anxiety
+54:34.3,132,76,100,96.3,Anxiety
+54:34.5,132,76,100,96.3,Anxiety
+54:34.6,132,76,100,96.3,Anxiety
+54:34.8,132,76,99,96.6,Anxiety
+54:34.9,132,76,99,96.6,Anxiety
+54:35.0,132,76,99,96.6,Anxiety
+54:35.1,132,76,99,96.6,Anxiety
+54:35.2,132,76,99,96.6,Anxiety
+54:35.3,132,76,100,96.5,Anxiety
+54:35.5,132,76,100,96.5,Anxiety
+54:35.7,132,76,100,96.5,Anxiety
+54:35.8,132,76,100,96.5,Anxiety
+54:35.9,132,76,100,96.5,Anxiety
+54:36.0,132,76,100,96.5,Anxiety
+54:36.1,132,76,100,96.5,Anxiety
+54:36.2,132,76,100,96.5,Anxiety
+54:36.3,132,76,100,96.5,Anxiety
+54:36.4,132,76,100,96.5,Anxiety
+54:36.5,132,76,100,96.9,Anxiety
+54:36.7,132,76,100,96.9,Anxiety
+54:36.8,132,76,100,96.9,Anxiety
+54:36.9,132,76,100,96.9,Anxiety
+54:37.0,133,76,101,96.9,Anxiety
+54:37.1,133,76,101,96.9,Anxiety
+54:37.2,133,76,101,96.9,Anxiety
+54:37.3,133,76,101,96.9,Anxiety
+54:37.4,133,76,101,96.9,Anxiety
+54:37.5,133,76,101,96.9,Anxiety
+54:37.7,133,76,101,96.9,Anxiety
+54:37.8,133,76,101,96.9,Anxiety
+54:37.9,133,76,101,96.9,Anxiety
+54:38.0,133,76,102,96.9,Anxiety
+54:38.1,133,76,102,96.9,Anxiety
+54:38.2,133,76,102,96.9,Anxiety
+54:38.4,133,76,102,96.9,Anxiety
+54:38.5,133,75,102,97.1,Anxiety
+54:38.7,133,75,102,97.1,Anxiety
+54:38.8,133,75,102,97.1,Anxiety
+54:38.9,133,75,102,97.1,Anxiety
+54:39.0,133,75,102,97.1,Anxiety
+54:39.1,133,75,102,97.1,Anxiety
+54:39.3,133,74,102,97.4,Anxiety
+54:39.5,133,74,102,97.4,Anxiety
+54:39.6,133,74,102,97.4,Anxiety
+54:39.8,134,74,103,97.4,Anxiety
+54:39.9,134,74,103,97.4,Anxiety
+54:40.0,134,74,103,97.4,Anxiety
+54:40.1,134,74,103,97.4,Anxiety
+54:40.2,134,74,103,97.4,Anxiety
+54:40.3,134,73,103,97.3,Anxiety
+54:40.4,134,73,103,97.3,Anxiety
+54:40.7,134,73,103,97.3,Anxiety
+54:40.8,134,73,103,97.3,Anxiety
+54:40.9,134,73,103,97.3,Anxiety
+54:40.9,135,74,102,97.1,Anxiety
+54:41.1,135,74,102,97.1,Anxiety
+54:41.2,135,74,102,97.1,Anxiety
+54:41.4,135,74,102,97.1,Anxiety
+54:41.5,135,74,102,97.2,Anxiety
+54:41.7,135,74,102,97.2,Anxiety
+54:41.8,135,74,102,97.2,Anxiety
+54:41.9,135,74,102,97.2,Anxiety
+54:42.0,135,74,102,97.2,Anxiety
+54:42.1,135,74,102,97.2,Anxiety
+54:42.2,135,74,102,97.2,Anxiety
+54:42.3,135,74,102,97.2,Anxiety
+54:42.4,135,74,102,97.2,Anxiety
+54:42.7,135,74,102,97.2,Anxiety
+54:42.7,135,74,102,97.2,Anxiety
+54:42.9,135,74,102,97.2,Anxiety
+54:43.0,135,74,102,97.2,Anxiety
+54:43.2,135,74,102,97.2,Anxiety
+54:43.4,135,74,102,97.2,Anxiety
+54:43.5,133,82,102,97.2,Anxiety
+54:43.6,133,82,102,97.2,Anxiety
+54:43.7,133,82,102,97.2,Anxiety
+54:43.8,133,82,102,97.2,Anxiety
+54:43.9,133,82,102,97.2,Anxiety
+54:44.1,133,82,102,97.2,Anxiety
+54:44.2,133,82,102,97.2,Anxiety
+54:44.4,133,82,102,97.2,Anxiety
+54:44.5,133,82,102,97.2,Anxiety
+54:44.6,133,82,102,97.2,Anxiety
+54:44.7,133,82,102,97.2,Anxiety
+54:44.8,133,82,102,97.2,Anxiety
+54:45.0,133,82,102,97.2,Anxiety
+54:45.1,133,82,102,97.2,Anxiety
+54:45.3,133,82,102,97,Anxiety
+54:45.4,133,82,102,97,Anxiety
+54:45.5,133,82,102,97,Anxiety
+54:45.6,133,82,102,97,Anxiety
+54:45.7,133,82,102,97,Anxiety
+54:45.8,133,82,102,96.9,Anxiety
+54:46.0,133,82,102,96.9,Anxiety
+54:46.2,133,82,102,96.9,Anxiety
+54:46.4,133,82,102,96.9,Anxiety
+54:46.5,133,82,101,97,Anxiety
+54:46.6,133,82,101,97,Anxiety
+54:46.7,133,82,101,97,Anxiety
+54:46.8,133,82,101,97,Anxiety
+54:46.9,133,82,101,97,Anxiety
+54:47.0,133,82,101,96.9,Anxiety
+54:47.2,133,82,101,96.9,Anxiety
+54:47.4,133,82,101,96.9,Anxiety
+54:47.5,133,82,101,96.9,Anxiety
+54:47.6,133,82,101,96.9,Anxiety
+54:47.8,133,82,101,96.6,Anxiety
+54:48.0,133,82,101,96.6,Anxiety
+54:48.2,133,82,101,96.6,Anxiety
+54:48.3,133,82,101,96.3,Anxiety
+54:48.4,133,82,101,96.3,Anxiety
+54:48.5,133,82,101,96.3,Anxiety
+54:48.6,133,82,101,96.3,Anxiety
+54:48.7,133,82,101,96.3,Anxiety
+54:48.9,133,82,101,96.3,Anxiety
+54:49.0,133,82,100,96.3,Anxiety
+54:49.2,133,82,100,96.3,Anxiety
+54:49.3,133,82,100,96.3,Anxiety
+54:49.4,133,82,100,96.3,Anxiety
+54:49.5,133,82,100,96.3,Anxiety
+54:49.6,133,82,100,96.3,Anxiety
+54:49.7,133,82,100,96.3,Anxiety
+54:50.0,133,82,100,96.3,Anxiety
+54:50.1,133,82,100,96.3,Anxiety
+54:50.2,133,83,100,96.3,Anxiety
+54:50.4,133,83,100,96.3,Anxiety
+54:50.5,133,83,100,96.3,Anxiety
+54:50.6,133,83,100,96.3,Anxiety
+54:50.7,133,83,100,96.3,Anxiety
+54:50.8,133,83,100,96.3,Anxiety
+54:51.0,133,83,100,96.3,Anxiety
+54:51.2,133,83,100,96.3,Anxiety
+54:51.3,133,83,100,96.3,Anxiety
+54:51.4,133,83,100,96.3,Anxiety
+54:51.5,133,83,100,96.3,Anxiety
+54:51.6,133,83,100,96.3,Anxiety
+54:51.7,133,83,100,96.3,Anxiety
+54:51.9,133,83,100,96.3,Anxiety
+54:52.1,133,83,100,96.3,Anxiety
+54:52.3,133,83,99,96.2,Anxiety
+54:52.4,133,83,99,96.2,Anxiety
+54:52.5,133,83,99,96.2,Anxiety
+54:52.6,133,83,99,96.2,Anxiety
+54:52.7,133,83,99,96.2,Anxiety
+54:52.9,133,83,99,96.2,Anxiety
+54:53.0,133,83,99,96.1,Anxiety
+54:53.1,133,83,99,96.1,Anxiety
+54:53.3,133,83,99,96.1,Anxiety
+54:53.4,133,83,99,96.1,Anxiety
+54:53.5,133,83,99,96.1,Anxiety
+54:53.7,133,83,99,96.1,Anxiety
+54:53.8,133,83,99,96,Anxiety
+54:53.9,133,83,99,96,Anxiety
+54:54.0,133,83,99,96,Anxiety
+54:54.1,133,83,99,96,Anxiety
+54:54.2,133,83,99,96,Anxiety
+54:54.3,133,83,99,96,Anxiety
+54:54.4,133,83,99,96,Anxiety
+54:54.6,133,83,97,95.9,Anxiety
+54:54.7,133,83,97,95.9,Anxiety
+54:54.9,133,83,97,95.9,Anxiety
+54:55.0,133,83,97,95.9,Anxiety
+54:55.1,133,83,97,95.9,Anxiety
+54:55.2,133,83,97,95.9,Anxiety
+54:55.3,133,83,97,95.9,Anxiety
+54:55.5,133,83,97,95.9,Anxiety
+54:55.6,133,83,97,95.9,Anxiety
+54:55.8,133,83,97,95.9,Anxiety
+54:55.9,133,83,97,95.9,Anxiety
+54:56.0,133,83,97,95.9,Anxiety
+54:56.1,133,83,97,95.9,Anxiety
+54:56.2,133,83,97,95.9,Anxiety
+54:56.3,133,83,97,95.9,Anxiety
+54:56.5,133,83,97,95.9,Anxiety
+54:56.7,133,83,97,95.9,Anxiety
+54:56.8,133,83,97,95.9,Anxiety
+54:56.9,133,83,97,95.9,Anxiety
+54:57.0,133,83,97,95.9,Anxiety
+54:57.1,133,83,97,95.9,Anxiety
+54:57.2,133,83,97,95.9,Anxiety
+54:57.3,133,83,97,95.9,Anxiety
+54:57.4,133,83,97,95.9,Anxiety
+54:57.5,133,83,97,95.9,Anxiety
+54:57.7,133,83,97,95.9,Anxiety
+54:57.8,133,83,97,95.9,Anxiety
+54:57.9,133,83,97,95.9,Anxiety
+54:58.0,133,83,97,95.9,Anxiety
+54:58.1,133,83,97,95.9,Anxiety
+54:58.3,133,83,97,95.9,Anxiety
+54:58.5,133,83,97,95.9,Anxiety
+54:58.7,133,83,97,95.9,Anxiety
+54:58.8,133,83,97,95.5,Rest
+54:58.9,133,83,97,95.5,Rest
+54:59.0,133,83,97,95.5,Rest
+54:59.1,133,83,97,95.5,Rest
+54:59.2,133,83,97,95.5,Rest
+54:59.3,133,83,97,95.5,Rest
+54:59.5,133,83,97,95.5,Rest
+54:59.7,133,83,97,95.5,Rest
+54:59.8,133,83,97,95.5,Rest
+54:59.9,133,83,97,95.5,Rest
+54:59.9,134,83,98,95.5,Rest
+55:00.1,134,83,98,95.5,Rest
+55:00.2,134,83,98,95.5,Rest
+55:00.4,134,83,98,95.5,Rest
+55:00.5,134,83,99,95.5,Rest
+55:00.7,134,83,99,95.5,Rest
+55:00.8,134,83,99,95.5,Rest
+55:00.9,134,83,99,95.5,Rest
+55:00.9,134,83,100,95.5,Rest
+55:01.1,134,83,100,95.6,Rest
+55:01.2,134,83,100,95.6,Rest
+55:01.4,134,83,100,95.6,Rest
+55:01.5,134,83,100,95.6,Rest
+55:01.7,134,83,100,95.6,Rest
+55:01.8,134,83,100,95.6,Rest
+55:01.9,134,83,100,95.6,Rest
+55:02.0,134,83,100,95.6,Rest
+55:02.3,134,83,100,95.6,Rest
+55:02.4,134,83,100,95.6,Rest
+55:02.5,134,83,100,95.6,Rest
+55:02.6,134,83,100,95.6,Rest
+55:02.7,134,83,100,95.3,Rest
+55:02.8,134,83,100,95.3,Rest
+55:03.0,134,83,100,95.3,Rest
+55:03.2,134,83,100,95.3,Rest
+55:03.3,135,83,100,95.3,Rest
+55:03.4,135,83,100,95.3,Rest
+55:03.5,135,83,100,95.3,Rest
+55:03.6,135,83,100,95.3,Rest
+55:03.7,135,83,100,95.3,Rest
+55:03.8,135,83,100,95.3,Rest
+55:04.1,135,83,100,95.3,Rest
+55:04.2,135,83,100,95.3,Rest
+55:04.4,135,83,100,95.3,Rest
+55:04.5,135,83,101,95.3,Rest
+55:04.6,135,83,101,95.3,Rest
+55:04.7,135,83,101,95.3,Rest
+55:04.8,135,83,101,95.3,Rest
+55:05.0,135,83,101,95.3,Rest
+55:05.1,135,82,101,95.3,Rest
+55:05.2,135,82,101,95.3,Rest
+55:05.4,135,82,101,95.3,Rest
+55:05.5,135,82,101,95.3,Rest
+55:05.6,135,82,101,95.3,Rest
+55:05.7,135,82,101,95.3,Rest
+55:05.8,135,82,101,95.3,Rest
+55:06.0,135,82,101,95.3,Rest
+55:06.3,135,81,102,95.3,Rest
+55:06.4,135,81,102,95.3,Rest
+55:06.5,135,81,102,95.3,Rest
+55:06.6,135,81,102,95.3,Rest
+55:06.8,135,80,103,95.3,Rest
+55:07.0,135,80,103,95.3,Rest
+55:07.1,135,80,103,95.3,Rest
+55:07.3,135,79,104,95.3,Rest
+55:07.4,135,79,104,95.3,Rest
+55:07.5,135,79,104,95.3,Rest
+55:07.6,135,79,104,95.3,Rest
+55:07.7,135,79,104,95.3,Rest
+55:07.8,135,78,104,95.3,Rest
+55:08.0,135,78,104,95.3,Rest
+55:08.2,135,78,104,95.3,Rest
+55:08.3,135,77,104,95.3,Rest
+55:08.4,135,77,104,95.3,Rest
+55:08.5,135,77,104,95.3,Rest
+55:08.6,135,77,104,95.3,Rest
+55:08.7,135,77,104,95.3,Rest
+55:08.9,135,77,104,95.3,Rest
+55:09.0,135,76,104,95.3,Rest
+55:09.2,135,76,104,95.3,Rest
+55:09.3,135,76,104,95.3,Rest
+55:09.4,135,76,104,95.3,Rest
+55:09.5,135,75,104,95.3,Rest
+55:09.6,135,75,104,95.3,Rest
+55:09.7,135,75,104,95.3,Rest
+55:09.9,135,75,104,95.3,Rest
+55:10.0,134,75,104,95.3,Rest
+55:10.2,134,75,104,95.3,Rest
+55:10.3,134,75,104,95.3,Rest
+55:10.4,134,75,104,95.3,Rest
+55:10.5,134,75,104,95.3,Rest
+55:10.6,134,75,104,95.3,Rest
+55:10.8,134,75,104,95.3,Rest
+55:11.0,134,75,104,95.3,Rest
+55:11.1,134,75,104,95.3,Rest
+55:11.2,135,75,104,95.3,Rest
+55:11.4,135,75,104,95.3,Rest
+55:11.5,135,75,104,95.3,Rest
+55:11.6,135,75,104,95.3,Rest
+55:11.7,135,75,104,95.3,Rest
+55:11.8,135,74,104,95.3,Rest
+55:11.9,135,74,104,95.3,Rest
+55:12.1,135,74,104,95.3,Rest
+55:12.3,135,74,104,95.3,Rest
+55:12.4,135,74,104,95.3,Rest
+55:12.5,135,74,104,95.3,Rest
+55:12.6,135,74,104,95.3,Rest
+55:12.7,135,74,104,95.3,Rest
+55:12.9,135,74,104,95.3,Rest
+55:13.0,135,74,104,95.3,Rest
+55:13.1,135,74,104,95.3,Rest
+55:13.3,135,74,104,95.3,Rest
+55:13.4,135,74,104,95.3,Rest
+55:13.4,135,74,104,95.3,Rest
+55:13.6,135,74,104,95.3,Rest
+55:13.7,135,74,104,95.3,Rest
+55:13.9,135,74,104,95.3,Rest
+55:14.0,135,74,105,95.3,Rest
+55:14.1,135,74,105,95.3,Rest
+55:14.3,135,74,105,95.3,Rest
+55:14.4,135,74,105,95.3,Rest
+55:14.5,135,74,105,95.3,Rest
+55:14.6,135,74,105,95.3,Rest
+55:14.8,135,73,104,95.3,Rest
+55:14.9,135,73,104,95.3,Rest
+55:15.0,135,73,104,95.3,Rest
+55:15.1,135,73,104,95.3,Rest
+55:15.2,135,73,104,95.3,Rest
+55:15.3,135,74,104,95.3,Rest
+55:15.5,135,74,104,95.3,Rest
+55:15.7,135,74,104,95.3,Rest
+55:16.0,135,73,104,95.3,Rest
+55:16.1,135,73,104,95.3,Rest
+55:16.2,135,73,104,95.3,Rest
+55:16.3,135,73,104,95.3,Rest
+55:16.4,135,73,104,95.3,Rest
+55:16.6,135,74,104,95.3,Rest
+55:16.7,135,74,104,95.3,Rest
+55:16.9,135,74,104,95.3,Rest
+55:17.0,135,75,103,95.3,Rest
+55:17.1,135,75,103,95.3,Rest
+55:17.2,135,75,103,95.3,Rest
+55:17.3,135,75,103,95.3,Rest
+55:17.5,135,75,103,95.3,Rest
+55:17.6,135,75,103,95.3,Rest
+55:17.8,135,75,103,95.3,Rest
+55:17.9,135,75,103,95.3,Rest
+55:18.0,135,75,103,95.3,Rest
+55:18.1,135,75,103,95.3,Rest
+55:18.2,135,75,103,95.3,Rest
+55:18.3,135,75,103,95.3,Rest
+55:18.5,135,75,103,95.3,Rest
+55:18.7,135,75,103,95.3,Rest
+55:18.8,135,75,103,95.3,Rest
+55:18.9,135,75,103,95.3,Rest
+55:19.0,135,76,102,95.3,Rest
+55:19.1,135,76,102,95.3,Rest
+55:19.2,135,76,102,95.3,Rest
+55:19.5,135,76,102,95.3,Rest
+55:19.6,135,76,102,95.3,Rest
+55:19.7,134,77,102,95.3,Rest
+55:19.9,134,77,102,95.3,Rest
+55:20.0,134,77,102,95.3,Rest
+55:20.1,134,77,102,95.3,Rest
+55:20.2,134,77,102,95.3,Rest
+55:20.3,134,78,102,95.3,Rest
+55:20.5,134,78,102,95.3,Rest
+55:20.7,134,78,102,95.3,Rest
+55:20.8,134,78,101,95.3,Rest
+55:20.9,134,78,101,95.3,Rest
+55:21.0,134,78,101,95.3,Rest
+55:21.1,134,78,101,95.3,Rest
+55:21.2,134,78,101,95.3,Rest
+55:21.4,134,78,101,95.3,Rest
+55:21.5,134,79,101,95.3,Rest
+55:21.7,134,79,101,95.3,Rest
+55:21.8,134,79,101,95.3,Rest
+55:21.9,134,79,101,95.3,Rest
+55:22.0,134,79,101,95.3,Rest
+55:22.3,134,80,101,95.3,Rest
+55:22.4,134,80,101,95.3,Rest
+55:22.5,134,80,101,95.3,Rest
+55:22.6,134,80,101,95.3,Rest
+55:22.7,133,80,101,95.3,Rest
+55:22.8,133,80,101,95.3,Rest
+55:23.0,133,80,101,95.3,Rest
+55:23.2,133,80,101,95.3,Rest
+55:23.3,133,81,101,95.3,Rest
+55:23.4,133,81,101,95.3,Rest
+55:23.5,133,81,101,95.3,Rest
+55:23.6,133,81,101,95.3,Rest
+55:23.8,133,81,101,95.3,Rest
+55:23.9,133,81,101,95.3,Rest
+55:23.9,133,81,101,95.3,Rest
+55:24.1,133,81,100,95.3,Rest
+55:24.2,133,81,100,95.3,Rest
+55:24.4,133,81,100,95.3,Rest
+55:24.5,133,81,100,95.3,Rest
+55:24.6,133,81,100,95.3,Rest
+55:24.7,133,81,100,95.3,Rest
+55:24.8,133,81,100,95.3,Rest
+55:25.1,133,82,100,95.3,Rest
+55:25.2,133,82,100,95.3,Rest
+55:25.4,133,82,100,95.3,Rest
+55:25.5,133,82,100,95.3,Rest
+55:25.6,133,82,100,95.3,Rest
+55:25.7,133,83,100,95.3,Rest
+55:25.8,133,83,100,95.3,Rest
+55:26.0,133,83,100,95.3,Rest
+55:26.2,133,83,100,95.3,Rest
+55:26.3,133,83,99,95.3,Rest
+55:26.4,133,83,99,95.3,Rest
+55:26.5,133,83,99,95.3,Rest
+55:26.6,133,83,99,95.3,Rest
+55:26.7,133,83,99,95.3,Rest
+55:26.8,133,83,99,95.3,Rest
+55:26.9,133,83,99,95.3,Rest
+55:27.1,132,82,98,95.3,Rest
+55:27.2,132,82,98,95.3,Rest
+55:27.3,132,82,98,95.3,Rest
+55:27.4,132,82,98,95.3,Rest
+55:27.5,132,82,98,95.3,Sad
+55:27.6,132,82,98,95.3,Sad
+55:27.7,132,82,98,95.3,Sad
+55:27.8,132,82,98,95.3,Sad
+55:28.0,132,82,98,95.3,Sad
+55:28.2,132,82,98,95.3,Sad
+55:28.3,132,82,98,95.3,Sad
+55:28.4,132,82,98,95.3,Sad
+55:28.5,132,82,97,95.3,Sad
+55:28.6,132,82,97,95.3,Sad
+55:28.7,132,82,97,95.3,Sad
+55:29.0,132,82,97,95.3,Sad
+55:29.1,132,82,97,95.3,Sad
+55:29.2,131,82,97,95.3,Sad
+55:29.4,131,82,97,95.3,Sad
+55:29.5,131,82,97,95.3,Sad
+55:29.6,131,82,97,95.3,Sad
+55:29.7,131,82,97,95.3,Sad
+55:29.8,131,82,96,95.3,Sad
+55:30.0,131,82,96,95.3,Sad
+55:30.2,131,82,96,95.3,Sad
+55:30.3,131,82,96,95.3,Sad
+55:30.4,131,82,96,95.3,Sad
+55:30.5,131,82,96,95.3,Sad
+55:30.6,131,82,96,95.3,Sad
+55:30.7,131,82,96,95.3,Sad
+55:31.0,131,82,96,95.3,Sad
+55:31.2,131,82,96,95.3,Sad
+55:31.3,131,82,95,95.3,Sad
+55:31.4,131,82,95,95.3,Sad
+55:31.5,131,82,95,95.3,Sad
+55:31.6,131,82,95,95.3,Sad
+55:31.7,131,82,95,95.3,Sad
+55:31.9,131,82,95,95.3,Sad
+55:32.0,130,81,95,95.3,Sad
+55:32.1,130,81,95,95.3,Sad
+55:32.3,130,81,95,95.3,Sad
+55:32.4,130,81,95,95.3,Sad
+55:32.5,130,81,95,95.3,Sad
+55:32.6,130,81,95,95.3,Sad
+55:32.7,130,81,95,95.3,Sad
+55:32.9,130,81,95,95.3,Sad
+55:33.0,130,81,95,95.3,Sad
+55:33.1,130,81,95,95.3,Sad
+55:33.2,129,81,94,95.3,Sad
+55:33.3,129,81,94,95.3,Sad
+55:33.5,129,81,94,95.3,Sad
+55:33.7,129,81,94,95.3,Sad
+55:33.9,129,81,94,95.3,Sad
+55:34.0,129,80,94,95.3,Sad
+55:34.1,129,80,94,95.3,Sad
+55:34.3,129,80,94,95.3,Sad
+55:34.3,129,80,94,95.3,Sad
+55:34.5,129,80,94,95.3,Sad
+55:34.7,129,80,94,95.3,Sad
+55:34.8,129,80,93,95.3,Sad
+55:34.9,129,80,93,95.3,Sad
+55:35.0,129,80,93,95.3,Sad
+55:35.1,129,80,93,95.3,Sad
+55:35.2,129,80,93,95.3,Sad
+55:35.3,128,79,93,95.3,Sad
+55:35.5,128,79,93,95.3,Sad
+55:35.7,128,79,93,95.3,Sad
+55:35.9,128,79,93,95.3,Sad
+55:36.0,128,79,92,95.3,Sad
+55:36.1,128,79,92,95.3,Sad
+55:36.2,128,79,92,95.3,Sad
+55:36.3,128,79,92,95.3,Sad
+55:36.5,128,79,92,95.3,Sad
+55:36.7,128,79,92,95.3,Sad
+55:36.8,128,79,92,95.3,Sad
+55:36.9,128,79,92,95.3,Sad
+55:37.0,127,79,92,95.3,Sad
+55:37.1,127,79,92,95.3,Sad
+55:37.2,127,79,92,95.3,Sad
+55:37.5,127,79,92,95.3,Sad
+55:37.6,127,79,92,95.3,Sad
+55:37.8,127,79,91,95.3,Sad
+55:37.9,127,79,91,95.3,Sad
+55:38.0,127,79,91,95.3,Sad
+55:38.1,127,79,91,95.3,Sad
+55:38.2,127,79,91,95.3,Sad
+55:38.3,127,79,91,95.3,Sad
+55:38.5,127,79,91,95.3,Sad
+55:38.7,127,79,91,95.3,Sad
+55:38.8,127,79,91,95.3,Sad
+55:38.9,127,79,91,95.3,Sad
+55:39.0,127,79,90,95.3,Sad
+55:39.1,127,79,90,95.3,Sad
+55:39.2,127,79,90,95.3,Sad
+55:39.5,127,79,90,95.3,Sad
+55:39.7,127,79,90,95.3,Sad
+55:39.8,126,79,89,95.3,Sad
+55:39.9,126,79,89,95.3,Sad
+55:40.0,126,79,89,95.3,Sad
+55:40.1,126,79,89,95.3,Sad
+55:40.2,126,79,89,95.3,Sad
+55:40.4,126,79,89,95.3,Sad
+55:40.5,126,78,88,95.3,Sad
+55:40.7,126,78,88,95.3,Sad
+55:40.8,126,78,88,95.3,Sad
+55:40.9,126,78,88,95.3,Sad
+55:41.0,126,78,88,95.3,Sad
+55:41.1,126,78,89,95.3,Sad
+55:41.2,126,78,89,95.3,Sad
+55:41.4,126,78,89,95.3,Sad
+55:41.5,126,78,89,95.3,Sad
+55:41.6,126,78,89,95.3,Sad
+55:41.8,126,78,88,95.3,Sad
+55:41.8,126,78,88,95.3,Sad
+55:42.0,126,78,88,95.3,Sad
+55:42.2,126,78,88,95.3,Sad
+55:42.4,126,78,88,95.3,Sad
+55:42.5,126,78,88,95.3,Sad
+55:42.6,126,78,88,95.3,Sad
+55:42.7,125,78,88,95.3,Sad
+55:42.8,125,78,88,95.3,Sad
+55:43.0,125,78,88,95.3,Sad
+55:43.2,125,78,88,95.3,Sad
+55:43.4,125,78,88,95.3,Sad
+55:43.5,125,78,87,95.3,Sad
+55:43.6,125,78,87,95.3,Sad
+55:43.8,125,78,87,95.3,Sad
+55:43.8,125,78,87,95.3,Sad
+55:44.0,125,78,87,95.3,Sad
+55:44.2,125,78,87,95.3,Sad
+55:44.3,125,78,87,95.3,Sad
+55:44.4,125,78,87,95.3,Sad
+55:44.5,125,78,87,95.3,Sad
+55:44.6,125,78,87,95.3,Sad
+55:44.7,125,78,87,95.3,Sad
+55:44.8,125,78,87,95.3,Sad
+55:44.9,125,78,87,95.3,Sad
+55:45.1,123,76,87,95.3,Sad
+55:45.2,123,76,87,95.3,Sad
+55:45.3,123,76,87,95.3,Sad
+55:45.4,123,76,87,95.3,Sad
+55:45.5,123,76,87,95.3,Sad
+55:45.6,123,76,87,95.3,Sad
+55:45.8,123,76,86,95.3,Sad
+55:46.0,123,76,86,95.3,Sad
+55:46.2,123,76,86,95.3,Sad
+55:46.3,123,76,86,95.3,Sad
+55:46.4,123,76,86,95.3,Sad
+55:46.5,123,76,86,95.3,Sad
+55:46.6,123,76,86,95.3,Sad
+55:46.7,123,76,86,95.3,Sad
+55:46.9,123,76,86,95.3,Sad
+55:47.1,123,76,86,95.3,Sad
+55:47.2,123,76,86,95.3,Sad
+55:47.3,123,76,86,95.3,Sad
+55:47.4,123,76,86,95.3,Sad
+55:47.5,123,76,86,95.3,Sad
+55:47.6,123,76,86,95.3,Sad
+55:47.7,123,76,86,95.3,Sad
+55:47.8,123,76,85,95.3,Sad
+55:48.0,123,76,85,95.3,Sad
+55:48.2,123,76,85,95.3,Sad
+55:48.3,123,76,85,95.3,Sad
+55:48.4,123,76,85,95.3,Sad
+55:48.5,123,76,85,95.3,Sad
+55:48.6,122,76,84,95.3,Sad
+55:48.7,122,76,84,95.3,Sad
+55:49.0,122,76,84,95.3,Sad
+55:49.2,122,76,84,95.3,Sad
+55:49.3,122,75,83,95.3,Sad
+55:49.4,122,75,83,95.3,Sad
+55:49.5,122,75,83,95.3,Sad
+55:49.6,122,75,83,95.3,Sad
+55:49.7,122,75,83,95.3,Sad
+55:49.9,122,75,83,95.3,Sad
+55:50.0,122,75,83,95.3,Sad
+55:50.2,122,75,83,95.3,Sad
+55:50.3,122,75,83,95.3,Sad
+55:50.4,122,75,83,95.3,Sad
+55:50.5,122,75,83,95.3,Sad
+55:50.6,122,75,83,95.3,Sad
+55:50.7,122,75,83,95.3,Sad
+55:50.8,122,75,83,95.3,Sad
+55:50.9,122,75,83,95.3,Sad
+55:51.0,122,75,83,95.3,Sad
+55:51.1,122,75,83,95.3,Sad
+55:51.3,122,75,83,95.3,Sad
+55:51.4,122,75,83,95.3,Sad
+55:51.5,122,75,83,95.3,Sad
+55:51.7,122,75,83,95.3,Sad
+55:51.9,122,75,83,95.3,Sad
+55:52.0,122,75,84,95.3,Sad
+55:52.1,122,75,84,95.3,Sad
+55:52.3,122,75,84,95.3,Sad
+55:52.3,122,75,84,95.3,Sad
+55:52.5,122,75,84,95.3,Sad
+55:52.6,122,75,85,95.3,Sad
+55:52.7,122,75,85,95.3,Sad
+55:52.9,122,75,85,95.3,Sad
+55:53.0,122,75,85,95.3,Sad
+55:53.1,122,75,85,95.3,Sad
+55:53.2,122,77,86,95.3,Sad
+55:53.3,122,77,86,95.3,Sad
+55:53.5,122,77,86,95.3,Sad
+55:53.7,122,77,86,95.3,Sad
+55:53.8,122,76,86,95.3,Sad
+55:53.9,122,76,86,95.3,Sad
+55:54.0,122,76,86,95.3,Sad
+55:54.1,122,76,86,95.3,Sad
+55:54.2,122,76,86,95.3,Sad
+55:54.3,122,76,86,95.3,Sad
+55:54.4,122,76,86,95.3,Sad
+55:54.6,122,76,87,95.3,Sad
+55:54.7,122,76,87,95.3,Sad
+55:54.9,122,76,87,95.3,Sad
+55:55.0,122,76,87,95.3,Sad
+55:55.1,122,76,87,95.3,Sad
+55:55.2,122,76,87,95.3,Sad
+55:55.3,122,76,86,95.3,Sad
+55:55.5,122,76,86,95.3,Sad
+55:55.7,122,76,86,95.3,Sad
+55:55.9,122,76,86,95.3,Sad
+55:56.0,122,76,86,95.3,Sad
+55:56.1,122,76,86,95.3,Sad
+55:56.2,122,76,86,95.3,Sad
+55:56.4,122,76,86,95.3,Sad
+55:56.5,122,76,86,95.3,Sad
+55:56.7,122,76,86,95.3,Sad
+55:56.8,122,76,86,95.3,Sad
+55:56.9,122,76,86,95.3,Sad
+55:57.0,122,76,86,95.3,Sad
+55:57.1,122,76,86,95.3,Sad
+55:57.2,122,76,86,95.3,Sad
+55:57.3,122,76,87,95.3,Sad
+55:57.5,122,76,87,95.3,Sad
+55:57.7,122,76,87,95.3,Sad
+55:57.8,122,76,87,95.3,Sad
+55:57.9,122,76,87,95.3,Sad
+55:58.0,122,76,86,95.3,Sad
+55:58.1,122,76,86,95.3,Sad
+55:58.2,122,76,86,95.3,Sad
+55:58.5,122,76,86,95.3,Sad
+55:58.6,122,76,86,95.3,Sad
+55:58.7,122,76,85,95.3,Sad
+55:58.8,122,76,85,95.3,Sad
+55:59.0,122,76,85,95.3,Sad
+55:59.1,122,76,85,95.3,Sad
+55:59.2,122,76,85,95.3,Sad
+55:59.5,122,76,85,95.3,Sad
+55:59.6,122,76,85,95.3,Sad
+55:59.8,122,76,85,95.3,Sad
+55:59.9,122,76,85,95.3,Sad
+56:00.0,122,76,85,95.3,Sad
+56:00.2,122,76,85,95.3,Sad
+56:00.3,122,76,85,95.3,Sad
+56:00.5,122,76,85,95.3,Sad
+56:00.6,122,76,85,95.3,Sad
+56:00.8,122,76,85,95.3,Sad
+56:00.8,122,76,85,95.3,Sad
+56:01.0,122,76,85,95.3,Sad
+56:01.2,122,76,85,95.3,Sad
+56:01.3,122,76,85,95.3,Sad
+56:01.4,122,76,85,95.3,Sad
+56:01.5,122,76,85,95.3,Sad
+56:01.6,122,76,85,95.3,Sad
+56:01.8,122,76,85,95.3,Sad
+56:01.8,122,76,85,95.3,Sad
+56:01.9,122,76,85,95.3,Sad
+56:02.1,122,76,85,95.3,Sad
+56:02.2,122,76,85,95.3,Sad
+56:02.4,122,76,85,95.3,Sad
+56:02.5,122,76,85,95.3,Sad
+56:02.6,122,76,85,95.3,Sad
+56:02.7,122,75,85,95.3,Sad
+56:02.8,122,75,85,95.3,Sad
+56:03.0,122,75,85,95.3,Sad
+56:03.2,122,75,85,95.3,Sad
+56:03.4,122,75,85,95.3,Sad
+56:03.5,122,75,84,95.3,Sad
+56:03.6,122,75,84,95.3,Sad
+56:03.7,122,75,84,95.3,Sad
+56:03.8,122,75,84,95.3,Sad
+56:04.0,122,75,84,95.3,Sad
+56:04.1,122,75,84,95.3,Sad
+56:04.3,122,75,84,95.3,Sad
+56:04.4,122,75,84,95.3,Sad
+56:04.5,122,75,84,95.3,Sad
+56:04.6,122,75,84,95.3,Sad
+56:04.7,122,75,84,95.3,Sad
+56:04.8,122,75,84,95.3,Sad
+56:05.0,122,75,84,95.3,Sad
+56:05.2,122,75,84,95.3,Sad
+56:05.3,122,75,84,95.3,Sad
+56:05.4,122,75,84,95.3,Sad
+56:05.5,122,75,84,95.3,Sad
+56:05.6,122,75,84,95.3,Sad
+56:05.7,122,75,84,95.3,Sad
+56:06.0,122,75,84,95.3,Sad
+56:06.2,122,75,84,95.3,Sad
+56:06.3,122,74,83,95.3,Sad
+56:06.4,122,74,83,95.3,Sad
+56:06.5,122,74,83,95.3,Sad
+56:06.6,122,74,83,95.3,Sad
+56:06.7,122,74,83,95.3,Sad
+56:07.0,122,74,83,95.3,Sad
+56:07.1,122,74,83,95.3,Sad
+56:07.2,122,74,82,95.3,Sad
+56:07.3,122,74,82,95.3,Sad
+56:07.5,122,74,82,95.3,Sad
+56:07.6,122,74,82,95.3,Sad
+56:07.7,122,74,82,95.3,Sad
+56:08.0,122,74,82,95.3,Sad
+56:08.1,122,74,82,95.3,Sad
+56:08.3,122,74,82,95.3,Sad
+56:08.4,122,74,82,95.3,Sad
+56:08.5,122,74,82,95.3,Sad
+56:08.6,122,74,83,95.3,Sad
+56:08.7,122,74,83,95.3,Sad
+56:09.0,122,74,83,95.3,Sad
+56:09.1,122,74,83,95.3,Sad
+56:09.3,122,73,82,95.3,Sad
+56:09.3,122,73,82,95.3,Sad
+56:09.5,122,73,82,95.3,Sad
+56:09.7,122,73,82,95.3,Sad
+56:09.9,122,73,82,95.3,Sad
+56:10.0,122,73,82,95.3,Sad
+56:10.1,122,73,82,95.3,Sad
+56:10.3,122,73,82,95.3,Sad
+56:10.3,122,73,82,95.3,Sad
+56:10.5,122,73,82,95.3,Sad
+56:10.6,122,73,82,95.3,Sad
+56:10.8,121,73,83,95.3,Sad
+56:10.9,121,73,83,95.3,Sad
+56:11.0,121,73,83,95.3,Sad
+56:11.1,121,73,83,95.3,Sad
+56:11.3,121,73,83,95.3,Sad
+56:11.3,121,73,83,95.3,Sad
+56:11.5,121,73,83,95.3,Sad
+56:11.7,121,73,83,95.3,Sad
+56:11.9,121,73,83,95.3,Sad
+56:12.0,121,73,83,95.3,Sad
+56:12.1,121,73,83,95.3,Sad
+56:12.2,121,73,83,95.3,Sad
+56:12.3,121,73,82,95.3,Sad
+56:12.5,121,73,82,95.3,Sad
+56:12.7,121,73,82,95.3,Sad
+56:12.9,121,73,82,95.3,Sad
+56:13.0,121,73,82,95.3,Sad
+56:13.1,121,73,82,95.3,Sad
+56:13.2,121,73,82,95.3,Sad
+56:13.5,121,73,82,95.3,Sad
+56:13.7,121,73,82,95.3,Sad
+56:13.8,121,73,82,95.3,Sad
+56:13.9,121,73,82,95.3,Sad
+56:14.0,121,73,82,95.3,Sad
+56:14.1,121,73,82,95.3,Sad
+56:14.2,121,73,82,95.3,Sad
+56:14.4,121,73,82,95.3,Sad
+56:14.6,121,73,82,95.3,Sad
+56:14.7,121,73,82,95.3,Sad
+56:14.8,121,73,82,95.3,Sad
+56:14.9,121,73,82,95.3,Sad
+56:15.0,121,73,82,95.3,Sad
+56:15.1,121,73,82,95.3,Sad
+56:15.3,121,73,82,95.3,Sad
+56:15.5,121,73,82,95.3,Sad
+56:15.7,121,73,82,95.3,Sad
+56:15.8,121,73,82,95.3,Sad
+56:15.9,121,73,82,95.3,Sad
+56:16.0,121,73,82,95.3,Sad
+56:16.1,121,73,82,95.3,Sad
+56:16.2,121,73,82,95.3,Sad
+56:16.5,121,73,82,95.3,Sad
+56:16.5,120,73,82,95.3,Sad
+56:16.7,120,73,82,95.3,Sad
+56:16.8,120,73,82,95.3,Sad
+56:16.9,120,73,82,95.3,Sad
+56:17.0,120,73,82,95.3,Sad
+56:17.1,120,73,82,95.3,Sad
+56:17.2,120,73,82,95.3,Sad
+56:17.3,120,74,82,95.3,Sad
+56:17.5,120,74,82,95.3,Sad
+56:17.5,120,74,82,95.3,Sad
+56:17.7,120,74,82,95.3,Sad
+56:17.8,120,74,82,95.3,Sad
+56:17.9,120,74,82,95.3,Sad
+56:18.1,120,74,83,95.3,Sad
+56:18.2,120,74,83,95.3,Sad
+56:18.4,120,74,83,95.3,Sad
+56:18.5,120,74,83,95.3,Sad
+56:18.6,120,74,83,95.3,Sad
+56:18.7,120,74,83,95.3,Sad
+56:18.8,120,74,83,95.3,Sad
+56:19.0,120,74,83,95.3,Sad
+56:19.2,120,74,83,95.3,Sad
+56:19.4,120,74,83,95.3,Sad
+56:19.5,120,74,82,95.3,Sad
+56:19.6,120,74,82,95.3,Sad
+56:19.8,120,74,82,95.3,Sad
+56:19.8,120,74,82,95.3,Sad
+56:20.0,120,74,82,95.3,Sad
+56:20.1,120,74,83,95.3,Sad
+56:20.2,120,74,83,95.3,Sad
+56:20.4,120,74,83,95.3,Sad
+56:20.5,120,74,83,95.3,Sad
+56:20.6,120,74,83,95.3,Sad
+56:20.7,120,74,83,95.3,Sad
+56:20.8,120,74,83,95.3,Sad
+56:21.0,120,74,83,95.3,Sad
+56:21.2,120,74,83,95.3,Sad
+56:21.4,120,74,83,95.3,Sad
+56:21.5,120,74,83,95.3,Sad
+56:21.6,120,74,83,95.3,Sad
+56:21.7,120,74,83,95.3,Sad
+56:22.0,120,74,83,95.3,Sad
+56:22.2,120,74,83,95.3,Sad
+56:22.3,120,74,82,95.3,Sad
+56:22.4,120,74,82,95.3,Sad
+56:22.5,120,74,82,95.3,Sad
+56:22.6,120,74,82,95.3,Sad
+56:22.7,120,74,82,95.3,Sad
+56:22.9,120,74,82,95.3,Sad
+56:23.1,120,74,82,95.3,Sad
+56:23.2,120,74,82,95.3,Sad
+56:23.3,120,74,82,95.3,Sad
+56:23.4,120,74,82,95.3,Sad
+56:23.5,120,74,82,95.3,Sad
+56:23.6,120,74,82,95.3,Sad
+56:23.8,120,74,83,95.3,Sad
+56:24.0,120,74,83,95.3,Sad
+56:24.2,120,74,83,95.3,Sad
+56:24.3,120,74,83,95.3,Sad
+56:24.4,120,74,83,95.3,Sad
+56:24.5,120,74,83,95.3,Sad
+56:24.6,120,74,83,95.3,Sad
+56:24.7,120,74,83,95.3,Sad
+56:24.9,120,74,83,95.3,Sad
+56:25.0,120,74,83,95.3,Sad
+56:25.2,120,74,83,95.3,Sad
+56:25.3,120,74,83,95.3,Sad
+56:25.4,120,74,83,95.3,Sad
+56:25.5,120,74,83,95.3,Sad
+56:25.6,120,74,83,95.3,Sad
+56:25.7,120,74,83,95.3,Sad
+56:25.8,120,74,84,95.3,Sad
+56:26.0,120,74,84,95.3,Sad
+56:26.2,120,74,84,95.3,Sad
+56:26.3,120,74,84,95.3,Sad
+56:26.4,120,74,84,95.3,Sad
+56:26.5,120,74,84,95.3,Sad
+56:26.8,120,75,83,95.3,Sad
+56:26.9,120,75,83,95.3,Sad
+56:27.0,120,75,83,95.3,Sad
+56:27.1,120,75,83,95.3,Sad
+56:27.3,120,75,83,95.3,Sad
+56:27.3,120,75,83,95.3,Sad
+56:27.6,120,75,83,95.3,Sad
+56:27.7,120,75,83,95.3,Sad
+56:27.9,120,75,83,95.3,Sad
+56:28.0,120,75,83,95.3,Sad
+56:28.1,120,75,83,95.3,Sad
+56:28.3,120,75,83,95.3,Sad
+56:28.3,120,75,83,95.3,Sad
+56:28.5,120,75,83,95.3,Sad
+56:28.7,120,75,83,95.3,Sad
+56:28.8,120,75,84,95.3,Sad
+56:28.9,120,75,84,95.3,Sad
+56:29.0,120,75,84,95.3,Sad
+56:29.1,120,75,84,95.3,Sad
+56:29.3,120,75,84,95.3,Sad
+56:29.3,120,75,84,95.3,Sad
+56:29.5,120,75,84,95.3,Sad
+56:29.6,120,75,84,95.3,Sad
+56:29.8,120,75,83,95.3,Sad
+56:29.9,120,75,83,95.3,Sad
+56:30.0,120,75,83,95.3,Sad
+56:30.1,120,75,83,95.3,Sad
+56:30.2,120,75,83,95.3,Sad
+56:30.3,120,75,83,95.3,Sad
+56:30.5,120,75,83,95.3,Sad
+56:30.7,120,75,83,95.3,Sad
+56:30.8,120,75,83,95.3,Sad
+56:30.9,120,75,83,95.3,Sad
+56:31.0,120,75,83,95.3,Sad
+56:31.1,120,75,83,95.3,Sad
+56:31.2,120,75,83,95.3,Sad
+56:31.5,120,75,83,95.3,Sad
+56:31.7,120,75,83,95.3,Sad
+56:31.8,120,74,83,95.3,Sad
+56:31.9,120,74,83,95.3,Sad
+56:32.0,120,74,83,95.3,Sad
+56:32.1,120,74,83,95.3,Sad
+56:32.2,120,74,83,95.3,Sad
+56:32.4,120,74,83,95.3,Sad
+56:32.6,120,74,83,95.3,Sad
+56:32.7,120,74,83,95.3,Sad
+56:32.8,120,74,83,95.3,Sad
+56:32.9,120,74,83,95.3,Sad
+56:33.0,120,74,83,95.3,Sad
+56:33.1,120,74,83,95.3,Sad
+56:33.3,120,74,83,95.3,Sad
+56:33.5,120,74,83,95.3,Sad
+56:33.7,120,74,83,95.3,Sad
+56:33.8,120,74,83,95.3,Sad
+56:33.9,120,74,83,95.3,Sad
+56:34.0,120,74,83,95.3,Sad
+56:34.1,120,74,83,95.3,Sad
+56:34.2,120,74,83,95.3,Sad
+56:34.5,120,74,83,95.3,Sad
+56:34.6,120,74,83,95.3,Sad
+56:34.7,120,74,83,95.3,Sad
+56:34.8,120,74,83,95.3,Sad
+56:35.0,120,74,83,95.3,Sad
+56:35.2,120,74,83,95.3,Sad
+56:35.4,120,74,83,95.3,Sad
+56:35.5,120,74,82,95.3,Sad
+56:35.6,120,74,82,95.3,Sad
+56:35.8,120,74,82,95.3,Sad
+56:35.9,120,74,82,95.3,Sad
+56:36.0,120,74,82,95.3,Sad
+56:36.1,120,74,82,95.3,Sad
+56:36.3,120,74,83,95.3,Sad
+56:36.4,120,74,83,95.3,Sad
+56:36.5,120,74,83,95.3,Sad
+56:36.6,120,74,83,95.3,Sad
+56:36.7,120,74,83,95.3,Sad
+56:36.8,120,74,83,95.3,Sad
+56:37.0,120,74,83,95.3,Sad
+56:37.2,120,74,83,95.3,Sad
+56:37.4,120,74,83,95.3,Sad
+56:37.5,120,74,83,95.3,Sad
+56:37.6,120,74,83,95.3,Sad
+56:37.8,120,74,83,95.3,Sad
+56:37.8,120,74,83,95.3,Sad
+56:38.0,120,74,83,95.3,Sad
+56:38.2,120,74,83,95.3,Sad
+56:38.3,120,74,83,95.3,Sad
+56:38.4,120,74,83,95.3,Sad
+56:38.5,120,74,83,95.3,Sad
+56:38.6,120,74,83,95.3,Sad
+56:38.8,120,74,83,95.3,Sad
+56:38.8,120,74,83,95.3,Sad
+56:38.9,120,74,83,95.3,Sad
+56:39.1,120,74,83,95.3,Sad
+56:39.2,120,74,83,95.3,Sad
+56:39.4,120,74,83,95.3,Sad
+56:39.5,120,74,83,95.3,Sad
+56:39.6,120,74,83,95.3,Sad
+56:39.8,120,74,83,95.3,Sad
+56:40.0,120,74,83,95.3,Sad
+56:40.2,120,74,83,95.3,Sad
+56:40.3,120,74,83,95.3,Sad
+56:40.4,120,74,83,95.3,Sad
+56:40.5,120,73,83,95.3,Sad
+56:40.6,120,73,83,95.3,Sad
+56:40.7,120,73,83,95.3,Sad
+56:41.0,120,73,83,95.3,Sad
+56:41.2,120,73,83,95.3,Sad
+56:41.3,120,73,83,95.3,Sad
+56:41.4,120,73,83,95.3,Sad
+56:41.5,120,73,83,95.3,Sad
+56:41.6,120,73,83,95.3,Sad
+56:41.7,120,73,83,95.3,Sad
+56:41.9,120,73,83,95.3,Sad
+56:42.1,120,73,83,95.3,Sad
+56:42.2,120,73,83,95.3,Sad
+56:42.3,120,73,83,95.3,Sad
+56:42.4,120,73,83,95.3,Sad
+56:42.5,120,73,83,95.3,Sad
+56:42.6,120,73,83,95.3,Sad
+56:42.7,120,73,83,95.3,Sad
+56:42.8,120,73,83,95.3,Sad
+56:43.0,120,73,83,95.3,Sad
+56:43.2,120,73,83,95.3,Sad
+56:43.3,120,73,83,95.3,Sad
+56:43.3,120,73,83,95.3,Sad
+56:43.6,121,73,83,95.3,Sad
+56:43.7,121,73,83,95.3,Sad
+56:43.9,121,73,83,95.3,Sad
+56:44.0,121,73,84,95.3,Sad
+56:44.2,121,73,84,95.3,Sad
+56:44.3,121,73,84,95.3,Sad
+56:44.4,121,73,84,95.3,Sad
+56:44.5,121,73,84,95.3,Sad
+56:44.7,121,73,84,95.3,Sad
+56:44.8,121,73,84,95.3,Sad
+56:44.9,121,73,84,95.3,Sad
+56:45.0,121,73,84,95.3,Sad
+56:45.2,121,73,84,95.3,Sad
+56:45.3,121,73,84,95.3,Sad
+56:45.3,121,73,84,95.3,Sad
+56:45.6,121,73,84,95.3,Sad
+56:45.7,121,73,84,95.3,Sad
+56:45.9,121,73,84,95.3,Sad
+56:46.0,121,73,84,95.3,Sad
+56:46.1,121,73,84,95.3,Sad
+56:46.3,121,73,84,95.3,Sad
+56:46.3,121,73,84,95.3,Sad
+56:46.5,121,73,84,95.3,Sad
+56:46.7,121,73,84,95.3,Sad
+56:46.8,121,73,85,95.3,Sad
+56:46.9,121,73,85,95.3,Sad
+56:47.0,121,73,85,95.3,Sad
+56:47.1,121,73,85,95.3,Sad
+56:47.3,121,73,85,95.3,Sad
+56:47.3,121,73,85,95.3,Sad
+56:47.5,121,73,85,95.3,Sad
+56:47.6,121,74,84,95.3,Sad
+56:47.7,121,74,84,95.3,Sad
+56:47.9,121,74,84,95.3,Sad
+56:48.0,121,74,84,95.3,Sad
+56:48.1,121,74,84,95.3,Sad
+56:48.3,121,74,84,95.3,Sad
+56:48.3,121,74,84,95.3,Sad
+56:48.4,121,74,84,95.3,Sad
+56:48.5,121,74,84,95.3,Sad
+56:48.7,121,74,84,95.3,Sad
+56:48.9,121,74,84,95.3,Sad
+56:49.0,121,74,84,95.3,Sad
+56:49.1,121,74,84,95.3,Sad
+56:49.2,121,74,84,95.3,Sad
+56:49.5,121,74,84,95.3,Sad
+56:49.7,121,74,84,95.3,Sad
+56:49.8,121,74,85,95.3,Sad
+56:49.9,121,74,85,95.3,Sad
+56:50.0,121,74,85,95.3,Sad
+56:50.1,121,74,85,95.3,Sad
+56:50.2,121,74,85,95.3,Sad
+56:50.4,121,74,85,95.3,Sad
+56:50.5,121,74,85,95.3,Sad
+56:50.7,121,74,85,95.3,Sad
+56:50.8,121,74,85,95.3,Sad
+56:50.9,121,74,85,95.3,Sad
+56:51.0,121,74,85,95.3,Sad
+56:51.1,121,74,85,95.3,Sad
+56:51.2,121,74,85,95.3,Sad
+56:51.5,121,74,85,95.3,Sad
+56:51.7,121,74,85,95.3,Sad
+56:51.8,121,74,86,95.3,Sad
+56:51.9,121,74,86,95.3,Sad
+56:52.0,121,74,86,95.3,Sad
+56:52.1,121,74,86,95.3,Sad
+56:52.2,121,74,86,95.3,Sad
+56:52.4,121,74,86,95.3,Sad
+56:52.5,121,74,86,95.3,Sad
+56:52.7,121,74,86,95.3,Sad
+56:52.8,121,74,86,95.3,Sad
+56:52.9,121,74,86,95.3,Sad
+56:53.0,121,74,86,95.3,Sad
+56:53.1,121,74,86,95.3,Sad
+56:53.2,121,74,86,95.3,Sad
+56:53.5,121,74,86,95.3,Sad
+56:53.6,121,74,86,95.3,Sad
+56:53.7,121,74,87,95.3,Sad
+56:53.8,121,74,87,95.3,Sad
+56:54.0,121,74,87,95.3,Sad
+56:54.2,121,74,87,95.3,Sad
+56:54.3,121,74,87,95.3,Sad
+56:54.4,121,74,87,95.3,Sad
+56:54.5,121,74,87,95.3,Sad
+56:54.6,121,74,87,95.3,Sad
+56:54.8,121,74,87,95.3,Sad
+56:54.8,121,74,87,95.3,Sad
+56:55.0,121,74,87,95.3,Sad
+56:55.1,121,74,87,95.3,Sad
+56:55.2,121,74,87,95.3,Sad
+56:55.4,121,74,87,95.3,Sad
+56:55.5,121,74,87,95.3,Sad
+56:55.6,121,74,87,95.3,Sad
+56:55.7,121,74,87,95.3,Sad
+56:55.8,121,74,87,95.3,Sad
+56:56.0,121,74,87,95.3,Sad
+56:56.2,121,74,87,95.3,Sad
+56:56.4,121,74,87,95.3,Sad
+56:56.5,121,74,87,95.3,Sad
+56:56.6,121,74,87,95.3,Sad
+56:56.8,121,74,87,95.3,Sad
+56:56.8,121,74,87,95.3,Sad
+56:57.0,121,74,87,95.3,Sad
+56:57.1,121,74,87,95.3,Sad
+56:57.2,121,74,87,95.3,Sad
+56:57.4,121,74,87,95.3,Sad
+56:57.5,121,74,87,95.3,Sad
+56:57.6,121,74,87,95.3,Sad
+56:57.7,121,74,87,95.3,Sad
+56:57.8,121,74,87,95.3,Sad
+56:58.0,121,74,87,95.3,Sad
+56:58.2,121,74,87,95.3,Sad
+56:58.4,121,74,87,95.3,Sad
+56:58.5,121,74,87,95.3,Sad
+56:58.6,121,74,87,95.3,Sad
+56:58.7,121,74,87,95.3,Sad
+56:59.0,121,74,87,95.3,Sad
+56:59.0,121,75,87,95.3,Sad
+56:59.2,121,75,87,95.3,Sad
+56:59.3,121,75,87,95.3,Sad
+56:59.4,121,75,87,95.3,Sad
+56:59.5,121,75,87,95.3,Sad
+56:59.6,121,75,87,95.3,Sad
+56:59.7,121,75,87,95.3,Sad
+56:59.8,121,75,88,95.3,Sad
+57:00.0,121,75,88,95.3,Sad
+57:00.2,121,75,88,95.3,Sad
+57:00.3,121,75,88,95.3,Sad
+57:00.4,121,75,88,95.3,Sad
+57:00.5,121,75,88,95.3,Sad
+57:00.6,121,75,88,95.3,Sad
+57:00.7,121,75,88,95.3,Sad
+57:00.9,121,75,88,95.3,Sad
+57:01.0,121,75,88,95.3,Sad
+57:01.2,121,75,88,95.3,Sad
+57:01.3,121,75,88,95.3,Sad
+57:01.4,121,75,88,95.3,Sad
+57:01.5,121,75,88,95.3,Sad
+57:01.6,121,75,88,95.3,Sad
+57:01.7,121,75,88,95.3,Sad
+57:02.0,121,75,88,95.3,Sad
+57:02.1,121,75,88,95.3,Sad
+57:02.3,121,75,89,95.3,Sad
+57:02.3,121,75,89,95.3,Sad
+57:02.5,121,75,89,95.3,Sad
+57:02.7,121,75,89,95.3,Sad
+57:02.8,121,75,89,95.3,Sad
+57:03.0,121,75,89,95.3,Sad
+57:03.0,121,75,89,95.3,Sad
+57:03.2,121,75,89,95.3,Sad
+57:03.3,121,75,90,95.3,Sad
+57:03.4,121,75,90,95.3,Sad
+57:03.5,121,75,90,95.3,Sad
+57:03.7,121,75,90,95.3,Sad
+57:03.9,121,75,90,95.3,Sad
+57:04.0,121,75,90,95.3,Sad
+57:04.1,121,75,90,95.3,Sad
+57:04.3,121,75,90,95.3,Sad
+57:04.3,121,75,90,95.3,Sad
+57:04.5,121,75,90,95.3,Sad
+57:04.7,121,75,90,95.3,Sad
+57:04.8,122,75,90,95.3,Sad
+57:04.9,122,75,90,95.3,Sad
+57:05.0,122,75,90,95.3,Sad
+57:05.1,122,75,90,95.3,Sad
+57:05.3,122,75,90,95.3,Sad
+57:05.3,122,75,90,95.3,Sad
+57:05.5,122,75,90,95.3,Sad
+57:05.7,122,75,90,95.3,Sad
+57:05.9,122,75,90,95.3,Sad
+57:06.0,122,75,90,95.3,Sad
+57:06.1,122,75,90,95.3,Sad
+57:06.3,122,75,90,95.3,Sad
+57:06.3,122,75,90,95.3,Sad
+57:06.5,122,75,90,95.3,Sad
+57:06.5,122,75,90,95.3,Sad
+57:06.7,122,75,90,95.3,Sad
+57:06.9,122,75,90,95.3,Sad
+57:07.0,122,75,90,95.3,Sad
+57:07.1,122,75,90,95.3,Sad
+57:07.2,122,75,90,95.3,Sad
+57:07.3,122,75,90,95.3,Sad
+57:07.5,122,75,90,95.3,Sad
+57:07.7,122,75,90,95.3,Sad
+57:07.8,122,75,90,95.3,Sad
+57:07.9,122,75,90,95.3,Sad
+57:08.0,122,75,90,95.3,Sad
+57:08.1,122,75,90,95.3,Sad
+57:08.2,122,75,90,95.3,Sad
+57:08.5,122,75,90,95.3,Sad
+57:08.7,122,75,90,95.3,Sad
+57:08.8,122,75,90,95.3,Sad
+57:08.9,122,75,90,95.3,Sad
+57:09.0,122,75,90,95.3,Sad
+57:09.1,122,75,90,95.3,Sad
+57:09.2,122,75,90,95.3,Sad
+57:09.4,122,75,90,95.3,Sad
+57:09.5,122,76,90,95.3,Sad
+57:09.7,122,76,90,95.3,Sad
+57:09.8,122,76,90,95.3,Sad
+57:09.9,122,76,90,95.3,Sad
+57:10.0,122,76,90,95.3,Sad
+57:10.1,122,76,90,95.3,Sad
+57:10.2,122,76,90,95.3,Sad
+57:10.5,122,76,90,95.3,Sad
+57:10.6,122,76,90,95.3,Sad
+57:10.7,122,76,90,95.3,Sad
+57:10.8,122,76,90,95.3,Sad
+57:11.0,122,76,90,95.3,Sad
+57:11.1,122,76,90,95.3,Sad
+57:11.2,122,76,90,95.3,Sad
+57:11.3,122,76,90,95.3,Sad
+57:11.5,122,76,90,95.3,Sad
+57:11.7,122,76,90,95.3,Sad
+57:11.8,122,76,90,95.3,Sad
+57:11.9,122,76,90,95.3,Sad
+57:12.1,122,76,90,95.3,Sad
+57:12.2,122,76,90,95.3,Sad
+57:12.5,122,76,90,95.3,Sad
+57:12.5,122,76,90,95.3,Sad
+57:12.6,122,76,90,95.3,Sad
+57:12.7,122,76,90,95.3,Sad
+57:12.8,122,76,90,95.3,Sad
+57:13.0,122,76,90,95.3,Sad
+57:13.2,122,76,90,95.3,Sad
+57:13.4,122,76,90,95.3,Sad
+57:13.5,122,76,90,95.3,Sad
+57:13.6,122,76,90,95.3,Sad
+57:13.8,122,76,90,95.3,Sad
+57:13.8,122,76,90,95.3,Sad
+57:14.0,122,76,90,95.3,Sad
+57:14.2,122,76,90,95.3,Sad
+57:14.3,122,76,89,95.3,Sad
+57:14.4,122,76,89,95.3,Sad
+57:14.5,122,76,89,95.3,Sad
+57:14.6,122,76,89,95.3,Sad
+57:14.7,122,76,89,95.3,Sad
+57:14.8,122,76,90,95.3,Sad
+57:15.0,122,76,90,95.3,Sad
+57:15.2,122,76,90,95.3,Sad
+57:15.3,122,76,90,95.3,Sad
+57:15.4,122,76,90,95.3,Sad
+57:15.5,122,76,90,95.3,Sad
+57:15.6,122,76,90,95.3,Sad
+57:15.8,122,76,90,95.3,Sad
+57:16.0,122,76,90,95.3,Sad
+57:16.0,122,76,90,95.3,Sad
+57:16.2,122,76,90,95.3,Sad
+57:16.3,122,76,90,95.3,Sad
+57:16.4,122,76,90,95.3,Sad
+57:16.5,122,76,90,95.3,Sad
+57:16.6,122,76,90,95.3,Sad
+57:16.7,122,76,90,95.3,Sad
+57:16.8,122,76,90,95.3,Sad
+57:17.0,122,76,90,95.3,Sad
+57:17.2,122,76,90,95.3,Sad
+57:17.3,122,76,90,95.3,Sad
+57:17.4,122,76,90,95.3,Sad
+57:17.5,123,76,90,95.3,Sad
+57:17.6,123,76,90,95.3,Sad
+57:17.7,123,76,90,95.3,Sad
+57:18.0,123,76,90,95.3,Sad
+57:18.0,123,76,90,95.3,Sad
+57:18.2,123,76,90,95.3,Sad
+57:18.3,123,76,90,95.3,Sad
+57:18.4,123,76,90,95.3,Sad
+57:18.5,123,76,90,95.3,Sad
+57:18.6,123,76,90,95.3,Sad
+57:18.7,123,76,90,95.3,Sad
+57:18.8,123,76,90,95.3,Sad
+57:19.0,123,76,90,95.3,Sad
+57:19.2,123,76,90,95.3,Sad
+57:19.3,123,76,90,95.3,Sad
+57:19.4,123,76,90,95.3,Sad
+57:19.6,123,76,90,95.3,Sad
+57:19.7,123,76,90,95.3,Sad
+57:20.0,123,76,90,95.3,Sad
+57:20.1,123,76,90,95.3,Sad
+57:20.2,124,76,90,95.3,Sad
+57:20.3,124,76,90,95.3,Sad
+57:20.5,124,76,90,95.3,Sad
+57:20.7,124,76,90,95.3,Sad
+57:21.0,124,77,90,95.3,Sad
+57:21.1,124,77,90,95.3,Sad
+57:21.3,124,77,90,95.3,Sad
+57:21.4,124,77,90,95.3,Sad
+57:21.5,124,77,90,95.3,Sad
+57:21.6,124,77,90,95.3,Sad
+57:21.7,124,77,90,95.3,Sad
+57:21.9,124,77,90,95.3,Sad
+57:22.0,124,77,90,95.3,Sad
+57:22.1,124,77,90,95.3,Sad
+57:22.2,124,77,91,95.3,Sad
+57:22.3,124,77,91,95.3,Sad
+57:22.5,124,77,91,95.3,Sad
+57:22.7,124,77,91,95.3,Sad
+57:22.8,124,77,91,95.3,Sad
+57:22.9,124,77,91,95.3,Sad
+57:23.0,124,77,91,95.3,Sad
+57:23.1,124,77,91,95.3,Sad
+57:23.3,124,77,91,95.3,Sad
+57:23.3,124,77,91,95.3,Sad
+57:23.5,124,77,91,95.3,Sad
+57:23.6,124,77,90,95.3,Sad
+57:23.7,124,77,90,95.3,Sad
+57:23.9,124,77,90,95.3,Sad
+57:24.0,124,77,90,95.3,Sad
+57:24.1,124,77,90,95.3,Sad
+57:24.3,124,77,90,95.3,Sad
+57:24.5,124,77,90,95.3,Sad
+57:24.7,124,77,90,95.3,Sad
+57:24.8,124,77,91,95.3,Sad
+57:24.9,124,77,91,95.3,Sad
+57:25.0,124,77,91,95.3,Sad
+57:25.1,124,77,91,95.3,Sad
+57:25.3,124,77,91,95.3,Sad
+57:25.4,124,77,91,95.3,Sad
+57:25.5,124,77,91,95.3,Sad
+57:25.7,124,77,91,95.3,Sad
+57:25.8,124,77,91,95.3,Sad
+57:25.9,124,77,91,95.3,Sad
+57:26.0,124,77,91,95.3,Sad
+57:26.1,124,77,91,95.3,Sad
+57:26.2,124,77,91,95.3,Sad
+57:26.3,125,77,91,95.3,Sad
+57:26.5,125,77,91,95.3,Sad
+57:26.7,125,77,91,95.3,Sad
+57:26.8,125,77,91,95.3,Sad
+57:26.9,125,77,91,95.3,Sad
+57:27.0,125,77,90,95.3,Sad
+57:27.1,125,77,90,95.3,Sad
+57:27.2,125,77,90,95.3,Sad
+57:27.5,125,77,90,95.3,Sad
+57:27.5,125,77,91,95.3,Sad
+57:27.7,125,77,91,95.3,Sad
+57:27.8,125,77,91,95.3,Sad
+57:27.9,125,77,91,95.3,Sad
+57:28.0,125,77,91,95.3,Sad
+57:28.1,125,77,91,95.3,Sad
+57:28.2,125,77,91,95.3,Sad
+57:28.3,125,77,90,95.3,Sad
+57:28.5,125,77,90,95.3,Sad
+57:28.7,125,77,90,95.3,Sad
+57:28.8,125,77,90,95.3,Sad
+57:28.9,125,77,90,95.3,Sad
+57:29.0,125,77,90,95.3,Sad
+57:29.1,125,77,90,95.3,Sad
+57:29.2,125,77,90,95.3,Sad
+57:29.5,125,77,90,95.3,Sad
+57:29.6,125,77,90,95.3,Sad
+57:29.7,125,77,90,95.3,Sad
+57:29.8,125,77,90,95.3,Sad
+57:30.0,125,77,90,95.3,Sad
+57:30.2,125,77,90,95.3,Sad
+57:30.3,125,77,90,95.3,Sad
+57:30.5,125,77,90,95.3,Sad
+57:30.5,125,77,90,95.3,Sad
+57:30.7,125,77,90,95.3,Sad
+57:30.8,125,77,90,95.3,Sad
+57:30.9,125,77,90,95.3,Sad
+57:30.9,125,77,90,95.3,Sad
+57:31.1,125,77,90,95.3,Sad
+57:31.2,125,77,90,95.3,Sad
+57:31.4,125,77,90,95.3,Sad
+57:31.5,125,77,90,95.3,Sad
+57:31.6,125,77,90,95.3,Sad
+57:31.8,125,77,90,95.3,Sad
+57:31.8,125,77,90,95.3,Sad
+57:32.0,125,77,90,95.3,Sad
+57:32.2,125,77,90,95.3,Sad
+57:32.3,124,77,91,95.3,Sad
+57:32.4,124,77,91,95.3,Sad
+57:32.5,124,77,91,95.3,Sad
+57:32.6,124,77,91,95.3,Sad
+57:32.8,124,77,91,95.3,Sad
+57:32.8,124,77,91,95.3,Sad
+57:33.0,124,77,91,95.3,Sad
+57:33.2,124,77,91,95.3,Sad
+57:33.4,124,77,91,95.3,Sad
+57:33.5,124,77,91,95.3,Sad
+57:33.6,124,77,91,95.3,Sad
+57:33.8,124,77,91,95.3,Sad
+57:33.8,124,77,91,95.3,Sad
+57:34.0,124,77,91,95.3,Sad
+57:34.2,124,77,91,95.3,Sad
+57:34.3,124,77,91,95.3,Sad
+57:34.4,124,77,91,95.3,Sad
+57:34.5,124,77,91,95.3,Sad
+57:34.6,124,77,91,95.3,Sad
+57:34.8,124,77,91,95.3,Sad
+57:35.0,124,77,90,95.3,Sad
+57:35.2,124,77,90,95.3,Sad
+57:35.3,124,77,90,95.3,Sad
+57:35.4,124,77,90,95.3,Sad
+57:35.5,124,77,91,95.3,Sad
+57:35.6,124,77,91,95.3,Sad
+57:35.8,124,77,91,95.3,Sad
+57:36.0,124,77,91,95.3,Sad
+57:36.1,124,77,91,95.3,Sad
+57:36.2,124,77,91,95.3,Sad
+57:36.4,124,77,91,95.3,Sad
+57:36.5,124,77,91,95.3,Sad
+57:36.6,124,77,91,95.3,Sad
+57:36.7,124,77,91,95.3,Sad
+57:37.0,124,77,91,95.3,Sad
+57:37.1,124,77,91,95.3,Sad
+57:37.3,124,77,91,95.3,Sad
+57:37.4,124,77,91,95.3,Sad
+57:37.5,124,77,91,95.3,Sad
+57:37.6,124,77,91,95.3,Sad
+57:37.7,124,77,91,95.3,Sad
+57:38.0,124,77,91,95.3,Sad
+57:38.0,124,77,91,95.3,Sad
+57:38.1,124,77,91,95.3,Sad
+57:38.2,124,77,91,95.3,Sad
+57:38.3,124,77,91,95.3,Sad
+57:38.5,124,77,91,95.3,Sad
+57:38.7,124,77,91,95.3,Sad
+57:38.8,124,77,91,95.3,Sad
+57:39.0,124,77,91,95.3,Sad
+57:39.0,124,77,91,95.3,Sad
+57:39.2,124,77,91,95.3,Sad
+57:39.3,124,77,91,95.3,Sad
+57:39.4,124,77,91,95.3,Sad
+57:39.5,124,77,91,95.3,Sad
+57:39.6,124,77,91,95.3,Sad
+57:39.7,124,77,91,95.3,Sad
+57:39.9,124,77,91,95.3,Sad
+57:40.0,124,77,91,95.3,Sad
+57:40.1,124,77,91,95.3,Sad
+57:40.2,124,77,91,95.3,Sad
+57:40.3,124,77,91,95.3,Sad
+57:40.5,124,77,91,95.3,Sad
+57:40.7,124,77,91,95.3,Sad
+57:40.8,124,77,91,95.3,Sad
+57:40.9,124,77,91,95.3,Sad
+57:41.0,124,77,91,95.3,Sad
+57:41.1,124,77,91,95.3,Sad
+57:41.3,124,77,91,95.3,Sad
+57:41.3,124,77,91,95.3,Sad
+57:41.4,124,77,91,95.3,Sad
+57:41.6,124,77,91,95.3,Sad
+57:41.7,124,77,91,95.3,Sad
+57:41.9,124,77,91,95.3,Sad
+57:42.0,124,77,91,95.3,Sad
+57:42.1,124,77,91,95.3,Sad
+57:42.2,124,77,91,95.3,Sad
+57:42.3,124,77,91,95.3,Sad
+57:42.5,124,77,91,95.3,Sad
+57:42.7,124,77,91,95.3,Sad
+57:42.8,124,77,91,95.3,Sad
+57:42.9,124,77,91,95.3,Sad
+57:43.0,124,77,91,95.3,Sad
+57:43.1,124,77,91,95.3,Sad
+57:43.3,124,77,91,95.3,Sad
+57:43.5,124,77,91,95.3,Sad
+57:43.6,124,77,91,95.3,Sad
+57:43.7,124,77,91,95.3,Sad
+57:43.8,124,77,91,95.3,Sad
+57:43.9,124,77,91,95.3,Sad
+57:44.0,124,77,91,95.3,Sad
+57:44.1,124,77,91,95.3,Sad
+57:44.3,124,77,91,95.3,Sad
+57:44.5,124,77,91,95.3,Sad
+57:44.7,124,77,91,95.3,Sad
+57:44.8,124,77,91,95.3,Sad
+57:44.9,124,77,91,95.3,Sad
+57:45.0,124,77,91,95.3,Sad
+57:45.1,124,77,91,95.3,Sad
+57:45.3,124,77,91,95.3,Sad
+57:45.5,124,77,91,95.3,Sad
+57:45.5,124,77,91,95.3,Sad
+57:45.7,124,77,91,95.3,Sad
+57:45.8,124,77,91,95.3,Sad
+57:45.9,124,77,91,95.3,Sad
+57:46.0,124,77,91,95.3,Sad
+57:46.1,124,77,91,95.3,Sad
+57:46.2,124,77,91,95.3,Sad
+57:46.3,124,77,91,95.3,Sad
+57:46.5,124,77,91,95.3,Sad
+57:46.7,124,77,91,95.3,Sad
+57:46.8,124,78,91,95.3,Sad
+57:46.9,124,78,91,95.3,Sad
+57:47.0,124,78,91,95.3,Sad
+57:47.1,124,78,91,95.3,Sad
+57:47.2,124,78,91,95.3,Sad
+57:47.4,124,78,91,95.3,Sad
+57:47.5,124,78,91,95.3,Sad
+57:47.7,124,78,91,95.3,Sad
+57:47.8,124,78,91,95.3,Sad
+57:47.9,124,78,91,95.3,Sad
+57:48.0,124,78,91,95.3,Sad
+57:48.1,124,78,91,95.3,Sad
+57:48.2,124,78,91,95.3,Sad
+57:48.5,124,78,91,95.3,Sad
+57:48.5,124,78,91,95.3,Sad
+57:48.6,124,78,91,95.3,Sad
+57:48.7,124,78,91,95.3,Sad
+57:48.8,124,78,91,95.3,Sad
+57:49.0,124,78,91,95.3,Sad
+57:49.2,124,78,91,95.3,Sad
+57:49.3,124,78,91,95.3,Sad
+57:49.5,124,78,91,95.3,Sad
+57:49.5,124,78,91,95.3,Sad
+57:49.7,124,78,91,95.3,Sad
+57:49.8,124,78,91,95.3,Sad
+57:49.9,124,78,91,95.3,Sad
+57:50.0,124,78,91,95.3,Sad
+57:50.1,124,78,91,95.3,Sad
+57:50.2,124,78,91,95.3,Sad
+57:50.4,124,78,91,95.3,Sad
+57:50.5,124,78,91,95.3,Sad
+57:50.6,124,78,91,95.3,Sad
+57:50.7,124,78,92,95.3,Sad
+57:50.8,124,78,92,95.3,Sad
+57:51.0,124,78,92,95.3,Sad
+57:51.2,124,78,92,95.3,Sad
+57:51.3,124,78,92,95.3,Sad
+57:51.4,124,78,92,95.3,Sad
+57:51.5,124,78,92,95.3,Sad
+57:51.6,124,78,92,95.3,Sad
+57:51.8,124,78,92,95.3,Sad
+57:51.8,124,78,92,95.3,Sad
+57:51.9,124,78,92,95.3,Sad
+57:52.1,124,78,92,95.3,Sad
+57:52.2,124,78,92,95.3,Sad
+57:52.4,124,78,92,95.3,Sad
+57:52.5,124,78,92,95.3,Sad
+57:52.6,124,78,92,95.3,Sad
+57:52.8,124,79,92,95.3,Sad
+57:53.0,124,79,92,95.3,Sad
+57:53.2,124,79,92,95.3,Sad
+57:53.3,124,79,92,95.3,Sad
+57:53.4,124,79,92,95.3,Sad
+57:53.5,124,79,92,95.3,Sad
+57:53.6,124,79,92,95.3,Sad
+57:53.8,124,79,92,95.3,Sad
+57:53.9,124,79,92,95.3,Sad
+57:54.1,124,79,92,95.3,Sad
+57:54.2,124,79,92,95.3,Sad
+57:54.3,124,79,92,95.3,Sad
+57:54.4,124,79,92,95.3,Sad
+57:54.5,124,79,92,95.3,Sad
+57:54.6,124,79,92,95.3,Sad
+57:54.8,124,79,92,95.3,Sad
+57:55.0,124,79,92,95.3,Sad
+57:55.2,124,79,92,95.3,Sad
+57:55.3,124,79,92,95.3,Sad
+57:55.4,124,79,92,95.3,Sad
+57:55.5,124,79,92,95.3,Sad
+57:55.6,124,79,92,95.3,Sad
+57:55.8,124,79,92,95.3,Sad
+57:55.9,124,79,92,95.3,Sad
+57:56.0,124,79,92,95.3,Sad
+57:56.2,124,79,92,95.3,Sad
+57:56.3,124,79,92,95.3,Sad
+57:56.4,124,79,92,95.3,Sad
+57:56.5,124,79,92,95.3,Sad
+57:56.6,124,79,92,95.3,Sad
+57:56.7,124,79,92,95.3,Sad
+57:57.0,124,79,92,95.3,Sad
+57:57.2,124,79,92,95.3,Sad
+57:57.4,124,79,92,95.3,Sad
+57:57.5,124,79,92,95.3,Sad
+57:57.7,124,79,92,95.3,Sad
+57:57.8,124,79,92,95.3,Sad
+57:58.0,124,79,92,95.3,Sad
+57:58.0,124,79,92,95.3,Sad
+57:58.2,124,79,92,95.3,Sad
+57:58.3,124,79,92,95.3,Sad
+57:58.4,124,79,92,95.3,Sad
+57:58.6,124,79,92,95.3,Sad
+57:58.7,124,79,92,95.3,Sad
+57:58.9,124,79,92,95.3,Sad
+57:59.0,125,79,93,95.3,Sad
+57:59.2,125,79,93,95.3,Sad
+57:59.3,125,79,93,95.3,Sad
+57:59.4,125,79,93,95.3,Sad
+57:59.5,125,79,93,95.3,Sad
+57:59.8,125,79,93,95.3,Sad
+57:59.9,125,79,93,95.3,Sad
+58:00.0,125,79,93,95.3,Sad
+58:00.1,125,79,93,95.3,Sad
+58:00.2,125,79,93,95.3,Sad
+58:00.3,125,79,93,95.3,Sad
+58:00.5,125,79,93,95.3,Sad
+58:00.7,125,79,93,95.3,Sad
+58:00.9,125,79,93,95.3,Sad
+58:01.0,125,79,92,95.3,Sad
+58:01.1,125,79,92,95.3,Sad
+58:01.2,125,79,92,95.3,Sad
+58:01.5,125,79,92,95.3,Sad
+58:01.7,125,79,92,95.3,Sad
+58:01.9,125,79,92,95.3,Sad
+58:02.0,125,79,92,95.3,Sad
+58:02.1,125,79,92,95.3,Sad
+58:02.2,125,79,92,95.3,Sad
+58:02.3,125,79,93,95.3,Sad
+58:02.5,125,79,93,95.3,Sad
+58:02.7,125,79,93,95.3,Sad
+58:02.8,125,79,93,95.3,Sad
+58:02.9,125,79,93,95.3,Sad
+58:03.0,125,79,92,95.3,Sad
+58:03.1,125,79,92,95.3,Sad
+58:03.2,125,79,92,95.3,Sad
+58:03.5,125,79,92,95.3,Sad
+58:03.5,125,79,92,95.3,Sad
+58:03.7,125,79,92,95.3,Sad
+58:03.8,125,79,92,95.3,Sad
+58:03.9,125,79,92,95.3,Sad
+58:04.0,125,79,92,95.3,Sad
+58:04.1,125,79,92,95.3,Sad
+58:04.2,125,79,92,95.3,Sad
+58:04.3,125,79,92,95.3,Sad
+58:04.5,125,79,92,95.3,Sad
+58:04.7,125,79,92,95.3,Sad
+58:04.8,125,79,93,95.3,Sad
+58:04.9,125,79,93,95.3,Sad
+58:05.0,125,79,93,95.3,Sad
+58:05.1,125,79,93,95.3,Sad
+58:05.2,125,79,93,95.3,Sad
+58:05.4,125,79,93,95.3,Sad
+58:05.5,125,78,93,95.3,Sad
+58:05.7,125,78,93,95.3,Sad
+58:05.8,125,78,93,95.3,Sad
+58:05.9,125,78,93,95.3,Sad
+58:06.0,125,78,93,95.3,Sad
+58:06.2,125,78,93,95.3,Sad
+58:06.3,125,78,93,95.3,Sad
+58:06.5,125,78,93,95.3,Sad
+58:06.5,125,78,93,95.3,Sad
+58:06.7,125,78,93,95.3,Sad
+58:06.8,125,78,93,95.3,Sad
+58:06.9,125,78,93,95.3,Sad
+58:07.0,125,78,93,95.3,Sad
+58:07.2,125,78,93,95.3,Sad
+58:07.3,125,78,93,95.3,Sad
+58:07.5,125,78,93,95.3,Sad
+58:07.5,125,78,93,95.3,Sad
+58:07.7,125,78,93,95.3,Sad
+58:07.8,125,78,93,95.3,Sad
+58:07.9,125,78,93,95.3,Sad
+58:08.0,125,78,93,95.3,Sad
+58:08.1,125,78,93,95.3,Sad
+58:08.2,125,78,93,95.3,Sad
+58:08.5,125,78,93,95.3,Sad
+58:08.5,125,78,93,95.3,Sad
+58:08.6,125,78,93,95.3,Sad
+58:08.7,125,78,93,95.3,Sad
+58:08.8,125,78,93,95.3,Sad
+58:09.0,125,78,93,95.3,Sad
+58:09.2,125,78,93,95.3,Sad
+58:09.3,125,79,93,95.3,Sad
+58:09.4,125,79,93,95.3,Sad
+58:09.5,125,79,93,95.3,Sad
+58:09.6,125,79,93,95.3,Sad
+58:09.8,125,79,93,95.3,Sad
+58:10.1,125,79,93,95.3,Sad
+58:10.2,125,79,93,95.3,Sad
+58:10.4,125,79,93,95.3,Sad
+58:10.5,125,79,93,95.3,Sad
+58:10.6,125,79,93,95.3,Sad
+58:10.7,125,79,93,95.3,Sad
+58:11.0,125,79,93,95.3,Sad
+58:11.2,125,79,93,95.3,Sad
+58:11.4,125,79,93,95.3,Sad
+58:11.5,125,79,93,95.3,Sad
+58:11.6,125,79,93,95.3,Sad
+58:11.7,125,79,93,95.3,Sad
+58:11.8,125,79,93,95.3,Sad
+58:12.0,125,79,93,95.3,Sad
+58:12.2,125,79,93,95.3,Sad
+58:12.3,125,79,94,95.3,Sad
+58:12.4,125,79,94,95.3,Sad
+58:12.5,125,79,94,95.3,Sad
+58:12.6,125,79,94,95.3,Sad
+58:12.7,125,79,94,95.3,Sad
+58:12.9,125,79,94,95.3,Sad
+58:13.0,125,79,94,95.3,Sad
+58:13.2,125,79,94,95.3,Sad
+58:13.3,125,79,94,95.3,Sad
+58:13.4,125,79,94,95.3,Sad
+58:13.5,125,79,94,95.3,Sad
+58:13.6,125,79,94,95.3,Sad
+58:13.7,125,79,94,95.3,Sad
+58:13.9,125,79,94,95.3,Sad
+58:14.0,125,79,94,95.3,Sad
+58:14.2,125,79,94,95.3,Sad
+58:14.3,125,79,94,95.3,Sad
+58:14.4,125,79,94,95.3,Sad
+58:14.5,125,79,94,95.3,Sad
+58:14.6,125,79,94,95.3,Sad
+58:14.7,125,79,94,95.3,Sad
+58:14.8,125,79,94,95.3,Sad
+58:15.0,125,79,94,95.3,Sad
+58:15.0,125,79,94,95.3,Sad
+58:15.2,125,79,94,95.3,Sad
+58:15.3,125,79,94,95.3,Sad
+58:15.4,125,79,94,95.3,Sad
+58:15.5,125,79,94,95.3,Sad
+58:15.7,125,79,94,95.3,Sad
+58:15.8,125,79,95,95.3,Sad
+58:16.0,125,79,95,95.3,Sad
+58:16.0,125,79,95,95.3,Sad
+58:16.2,125,79,95,95.3,Sad
+58:16.3,125,79,95,95.3,Sad
+58:16.4,125,79,95,95.3,Sad
+58:16.5,125,79,95,95.3,Sad
+58:16.6,125,79,94,95.3,Sad
+58:16.7,125,79,94,95.3,Sad
+58:17.0,125,79,94,95.3,Sad
+58:17.0,125,79,94,95.3,Sad
+58:17.2,125,79,94,95.3,Sad
+58:17.3,125,79,94,95.3,Sad
+58:17.4,126,79,94,95.3,Sad
+58:17.5,126,79,94,95.3,Sad
+58:17.7,126,79,94,95.3,Sad
+58:17.9,126,79,94,95.3,Sad
+58:18.0,126,79,94,95.3,Sad
+58:18.1,126,79,94,95.3,Sad
+58:18.3,126,79,94,95.3,Sad
+58:18.3,126,79,94,95.3,Sad
+58:18.5,126,79,94,95.3,Sad
+58:18.7,126,79,94,95.3,Sad
+58:18.8,126,79,94,95.3,Sad
+58:18.9,126,79,94,95.3,Sad
+58:19.0,126,79,94,95.3,Sad
+58:19.1,126,79,94,95.3,Sad
+58:19.2,126,79,94,95.3,Sad
+58:19.3,126,79,95,95.3,Sad
+58:19.5,126,79,95,95.3,Sad
+58:19.7,126,79,95,95.3,Sad
+58:19.8,126,79,95,95.3,Sad
+58:19.9,126,79,95,95.3,Sad
+58:20.0,126,79,94,95.3,Sad
+58:20.1,126,79,94,95.3,Sad
+58:20.2,126,79,94,95.3,Sad
+58:20.5,126,79,94,95.3,Sad
+58:20.6,126,79,94,95.3,Sad
+58:20.7,126,79,95,95.3,Sad
+58:20.9,126,79,95,95.3,Sad
+58:21.0,126,79,95,95.3,Sad
+58:21.1,126,79,95,95.3,Sad
+58:21.2,126,79,95,95.3,Sad
+58:21.3,126,79,95,95.3,Sad
+58:21.5,126,79,95,95.3,Sad
+58:21.7,126,79,95,95.3,Sad
+58:21.8,126,79,95,95.3,Sad
+58:21.9,126,79,95,95.3,Sad
+58:22.0,126,79,95,95.3,Sad
+58:22.1,126,79,95,95.3,Sad
+58:22.2,126,79,95,95.3,Sad
+58:22.5,126,79,95,95.3,Sad
+58:22.7,126,79,95,95.3,Sad
+58:22.9,126,79,95,95.3,Sad
+58:23.0,126,79,95,95.3,Sad
+58:23.1,126,79,95,95.3,Sad
+58:23.2,126,79,95,95.3,Sad
+58:23.3,126,79,94,95.3,Sad
+58:23.5,126,79,94,95.3,Sad
+58:23.7,126,79,94,95.3,Sad
+58:23.8,126,79,94,95.3,Sad
+58:23.9,126,79,94,95.3,Sad
+58:24.0,126,79,94,95.3,Sad
+58:24.1,126,79,94,95.3,Sad
+58:24.2,126,79,94,95.3,Sad
+58:24.5,126,79,94,95.3,Sad
+58:24.5,126,79,94,95.3,Sad
+58:24.7,126,79,94,95.3,Sad
+58:24.8,126,79,94,95.3,Sad
+58:24.9,126,79,94,95.3,Sad
+58:25.0,126,79,94,95.3,Sad
+58:25.2,126,79,94,95.3,Sad
+58:25.3,126,79,94,95.3,Sad
+58:25.5,126,79,94,95.3,Sad
+58:25.5,126,79,94,95.3,Sad
+58:25.7,126,79,94,95.3,Sad
+58:25.8,126,79,94,95.3,Sad
+58:25.9,126,79,94,95.3,Sad
+58:26.0,126,79,94,95.3,Sad
+58:26.2,126,79,94,95.3,Sad
+58:26.3,126,79,94,95.3,Sad
+58:26.4,126,79,94,95.3,Sad
+58:26.5,126,79,94,95.3,Sad
+58:26.7,126,79,94,95.3,Sad
+58:26.7,126,79,94,95.3,Sad
+58:26.8,126,79,93,95.3,Sad
+58:27.0,126,79,93,95.3,Sad
+58:27.2,126,79,93,95.3,Sad
+58:27.4,126,79,93,95.3,Sad
+58:27.5,126,79,93,95.3,Sad
+58:27.6,126,79,93,95.3,Sad
+58:27.8,126,79,93,95.3,Sad
+58:27.8,126,79,93,95.3,Sad
+58:28.0,126,79,93,95.3,Sad
+58:28.3,126,79,93,95.3,Sad
+58:28.4,126,79,93,95.3,Sad
+58:28.5,126,79,93,95.3,Sad
+58:28.6,126,79,93,95.3,Sad
+58:28.7,126,79,93,95.3,Sad
+58:28.8,126,79,93,95.3,Sad
+58:29.0,126,79,93,95.3,Sad
+58:29.2,126,79,93,95.3,Sad
+58:29.3,126,79,93,95.3,Sad
+58:29.4,126,79,93,95.3,Sad
+58:29.5,126,79,93,95.3,Sad
+58:29.6,126,79,93,95.3,Sad
+58:29.7,126,79,93,95.3,Sad
+58:30.0,126,79,93,95.3,Sad
+58:30.1,126,79,93,95.3,Sad
+58:30.2,126,79,93,95.3,Sad
+58:30.3,126,79,93,95.3,Sad
+58:30.4,126,79,93,95.3,Sad
+58:30.5,126,79,93,95.3,Sad
+58:30.6,126,79,93,95.3,Sad
+58:30.7,126,79,93,95.3,Sad
+58:30.8,126,79,93,95.3,Sad
+58:31.0,126,79,93,95.3,Sad
+58:31.2,126,79,93,95.3,Sad
+58:31.3,126,79,93,95.3,Sad
+58:31.4,126,79,93,95.3,Sad
+58:31.5,126,79,93,95.3,Sad
+58:31.6,126,79,93,95.3,Sad
+58:31.7,126,79,93,95.3,Sad
+58:32.0,126,79,93,95.3,Sad
+58:32.0,125,79,93,95.3,Sad
+58:32.2,125,79,93,95.3,Sad
+58:32.3,125,79,93,95.3,Sad
+58:32.4,125,79,93,95.3,Sad
+58:32.5,125,79,93,95.3,Sad
+58:32.6,125,79,93,95.3,Sad
+58:32.7,125,79,93,95.3,Sad
+58:32.8,125,79,93,95.3,Sad
+58:33.0,125,79,93,95.3,Sad
+58:33.0,125,79,93,95.3,Sad
+58:33.2,125,79,93,95.3,Sad
+58:33.3,125,79,93,95.3,Sad
+58:33.4,125,79,93,95.3,Sad
+58:33.5,125,79,93,95.3,Sad
+58:33.6,125,79,93,95.3,Sad
+58:33.7,125,79,93,95.3,Sad
+58:34.0,125,79,93,95.3,Sad
+58:34.0,125,79,93,95.3,Sad
+58:34.2,125,79,93,95.3,Sad
+58:34.3,125,79,93,95.3,Sad
+58:34.4,125,79,93,95.3,Sad
+58:34.5,125,79,93,95.3,Sad
+58:34.7,125,79,93,95.3,Sad
+58:34.8,125,79,93,95.3,Sad
+58:35.0,125,79,93,95.3,Sad
+58:35.0,125,79,93,95.3,Sad
+58:35.2,125,79,93,95.3,Sad
+58:35.3,125,79,93,95.3,Sad
+58:35.4,125,79,93,95.3,Sad
+58:35.5,125,79,93,95.3,Sad
+58:35.6,125,79,93,95.3,Sad
+58:35.7,125,79,93,95.3,Sad
+58:36.0,125,79,93,95.3,Sad
+58:36.0,125,79,93,95.3,Sad
+58:36.1,125,79,93,95.3,Sad
+58:36.2,125,79,93,95.3,Sad
+58:36.3,125,79,93,95.3,Sad
+58:36.5,125,79,93,95.3,Sad
+58:36.7,125,79,93,95.3,Sad
+58:36.8,125,79,93,95.3,Sad
+58:36.9,125,79,93,95.3,Sad
+58:37.0,125,79,93,95.3,Sad
+58:37.2,125,79,93,95.3,Sad
+58:37.3,125,79,93,95.3,Sad
+58:37.4,125,79,93,95.3,Sad
+58:37.5,125,79,93,95.3,Rest
+58:37.6,125,79,92,95.3,Rest
+58:37.7,125,79,92,95.3,Rest
+58:37.9,125,79,92,95.3,Rest
+58:38.0,125,79,92,95.3,Rest
+58:38.1,125,79,92,95.3,Rest
+58:38.3,125,78,92,95.3,Rest
+58:38.5,125,78,92,95.3,Rest
+58:38.7,125,78,92,95.3,Rest
+58:38.8,125,78,92,95.3,Rest
+58:38.9,125,78,92,95.3,Rest
+58:39.0,125,78,92,95.3,Rest
+58:39.1,125,78,92,95.3,Rest
+58:39.3,125,78,92,95.3,Rest
+58:39.4,125,78,92,95.3,Rest
+58:39.6,125,78,92,95.3,Rest
+58:39.7,125,78,92,95.3,Rest
+58:39.8,125,78,92,95.3,Rest
+58:39.9,125,78,92,95.3,Rest
+58:40.0,125,78,93,95.3,Rest
+58:40.1,125,78,93,95.3,Rest
+58:40.3,125,78,93,95.3,Rest
+58:40.5,125,78,93,95.3,Rest
+58:40.7,125,78,93,95.3,Rest
+58:40.8,125,79,93,95.3,Rest
+58:40.9,125,79,93,95.3,Rest
+58:41.0,125,79,93,95.3,Rest
+58:41.1,125,79,93,95.3,Rest
+58:41.2,125,79,93,95.3,Rest
+58:41.3,125,79,93,95.3,Rest
+58:41.5,125,79,93,95.3,Rest
+58:41.7,125,79,93,95.3,Rest
+58:41.8,125,79,93,95.3,Rest
+58:41.9,125,79,93,95.3,Rest
+58:42.0,125,79,93,95.3,Rest
+58:42.1,125,79,93,95.3,Rest
+58:42.2,125,79,93,95.3,Rest
+58:42.4,125,79,93,95.3,Rest
+58:42.6,125,79,94,95.3,Rest
+58:42.7,125,79,94,95.3,Rest
+58:42.8,125,79,94,95.3,Rest
+58:42.9,125,79,94,95.3,Rest
+58:43.0,125,79,94,95.3,Rest
+58:43.1,125,79,94,95.3,Rest
+58:43.2,125,79,94,95.3,Rest
+58:43.5,125,79,94,95.3,Rest
+58:43.5,125,79,94,95.3,Rest
+58:43.6,125,79,94,95.3,Rest
+58:43.7,126,80,94,95.3,Rest
+58:43.9,126,80,94,95.3,Rest
+58:44.0,126,80,94,95.3,Rest
+58:44.2,126,80,94,95.3,Rest
+58:44.3,126,80,94,95.3,Rest
+58:44.5,126,80,94,95.3,Rest
+58:44.5,126,80,94,95.3,Rest
+58:44.7,126,80,94,95.3,Rest
+58:44.7,126,80,94,95.3,Rest
+58:44.9,126,80,95,95.3,Rest
+58:45.0,126,80,95,95.3,Rest
+58:45.2,126,80,95,95.3,Rest
+58:45.3,126,80,95,95.3,Rest
+58:45.5,126,80,95,95.3,Rest
+58:45.5,126,80,95,95.3,Rest
+58:45.7,126,80,95,95.3,Rest
+58:45.8,126,80,95,95.3,Rest
+58:45.9,126,80,95,95.3,Rest
+58:45.9,126,80,95,95.3,Rest
+58:46.1,126,80,96,95.3,Rest
+58:46.2,126,80,96,95.3,Rest
+58:46.4,126,80,96,95.3,Rest
+58:46.5,126,80,96,95.3,Rest
+58:46.6,126,80,96,95.3,Rest
+58:46.8,126,80,96,95.3,Rest
+58:46.9,126,80,96,95.3,Rest
+58:47.0,126,80,96,95.3,Rest
+58:47.1,126,80,97,95.3,Rest
+58:47.2,126,80,97,95.3,Rest
+58:47.4,126,80,97,95.3,Rest
+58:47.5,126,80,97,95.3,Rest
+58:47.6,126,80,97,95.3,Motivate
+58:47.8,126,80,97,95.3,Motivate
+58:47.8,126,80,97,95.3,Motivate
+58:48.0,126,80,97,95.3,Motivate
+58:48.3,126,80,98,95.3,Motivate
+58:48.4,126,80,98,95.3,Motivate
+58:48.5,126,80,98,95.3,Motivate
+58:48.6,126,80,98,95.3,Motivate
+58:48.8,127,80,98,95.3,Motivate
+58:49.0,127,80,98,95.3,Motivate
+58:49.2,127,80,98,95.3,Motivate
+58:49.3,127,80,98,95.3,Motivate
+58:49.4,127,80,98,95.3,Motivate
+58:49.5,127,80,98,95.3,Motivate
+58:49.6,127,80,98,95.3,Motivate
+58:49.7,127,80,98,95.3,Motivate
+58:49.8,127,80,99,95.3,Motivate
+58:50.0,127,80,99,95.3,Motivate
+58:50.2,127,80,99,95.3,Motivate
+58:50.3,127,79,99,95.3,Motivate
+58:50.4,127,79,99,95.3,Motivate
+58:50.5,127,79,99,95.3,Motivate
+58:50.6,127,79,99,95.3,Motivate
+58:50.7,127,79,99,95.3,Motivate
+58:50.8,127,79,100,95.3,Motivate
+58:51.0,127,79,100,95.3,Motivate
+58:51.2,127,79,100,95.3,Motivate
+58:51.3,127,79,100,95.3,Motivate
+58:51.4,127,79,100,95.3,Motivate
+58:51.5,128,79,101,95.3,Motivate
+58:51.6,128,79,101,95.3,Motivate
+58:51.7,128,79,101,95.3,Motivate
+58:52.0,128,79,101,95.3,Motivate
+58:52.0,128,79,101,95.3,Motivate
+58:52.2,128,79,101,95.3,Motivate
+58:52.3,128,79,101,95.3,Motivate
+58:52.4,128,79,101,95.3,Motivate
+58:52.5,128,79,101,95.3,Motivate
+58:52.6,128,79,101,95.3,Motivate
+58:52.7,128,79,101,95.3,Motivate
+58:52.8,128,79,101,95.3,Motivate
+58:53.0,128,79,101,95.3,Motivate
+58:53.2,128,79,101,95.3,Motivate
+58:53.3,128,79,101,95.3,Motivate
+58:53.4,128,79,101,95.3,Motivate
+58:53.5,128,79,101,95.3,Motivate
+58:53.7,128,79,101,95.3,Motivate
+58:53.8,129,79,101,95.3,Motivate
+58:54.0,129,79,101,95.3,Motivate
+58:54.0,129,79,101,95.3,Motivate
+58:54.2,129,79,101,95.3,Motivate
+58:54.3,129,79,101,95.3,Motivate
+58:54.4,129,79,101,95.3,Motivate
+58:54.5,129,79,101,95.3,Motivate
+58:54.6,129,79,100,95.3,Motivate
+58:54.7,129,79,100,95.3,Motivate
+58:55.0,129,79,100,95.3,Motivate
+58:55.0,129,79,100,95.3,Motivate
+58:55.1,129,79,100,95.3,Motivate
+58:55.2,129,80,100,95.3,Motivate
+58:55.4,129,80,100,95.3,Motivate
+58:55.5,129,80,100,95.3,Motivate
+58:55.7,129,80,100,95.3,Motivate
+58:55.8,129,80,100,95.3,Motivate
+58:56.0,129,80,100,95.3,Motivate
+58:56.0,129,80,100,95.3,Motivate
+58:56.2,129,80,100,95.3,Motivate
+58:56.3,129,80,100,95.3,Motivate
+58:56.4,129,80,100,95.3,Motivate
+58:56.4,129,80,100,95.3,Motivate
+58:56.6,129,80,100,95.3,Motivate
+58:56.7,129,80,100,95.3,Motivate
+58:56.9,129,80,100,95.3,Motivate
+58:57.0,129,80,100,95.3,Motivate
+58:57.1,129,80,100,95.3,Motivate
+58:57.3,129,80,100,95.3,Motivate
+58:57.4,129,80,100,95.3,Motivate
+58:57.5,129,80,100,95.3,Motivate
+58:57.7,129,80,100,95.3,Motivate
+58:57.8,129,80,99,95.3,Motivate
+58:57.9,129,80,99,95.3,Motivate
+58:58.0,129,80,99,95.3,Motivate
+58:58.1,129,80,99,95.3,Motivate
+58:58.2,129,80,99,95.3,Motivate
+58:58.3,129,80,99,95.3,Motivate
+58:58.5,129,80,99,95.3,Motivate
+58:58.7,129,80,99,95.3,Motivate
+58:58.8,129,80,99,95.3,Motivate
+58:58.9,129,80,99,95.3,Motivate
+58:59.0,129,80,99,95.3,Motivate
+58:59.1,129,80,99,95.3,Motivate
+58:59.3,129,80,99,95.3,Motivate
+58:59.5,129,80,99,95.3,Motivate
+58:59.6,129,80,99,95.3,Motivate
+58:59.7,129,80,99,95.3,Motivate
+58:59.8,129,80,99,95.3,Motivate
+58:59.9,129,80,99,95.3,Motivate
+59:00.0,129,80,99,95.3,Motivate
+59:00.1,129,80,99,95.3,Motivate
+59:00.2,129,80,99,95.3,Motivate
+59:00.3,129,80,99,95.3,Motivate
+59:00.5,129,80,99,95.3,Motivate
+59:00.7,129,80,99,95.3,Motivate
+59:00.8,130,81,99,95.3,Motivate
+59:00.9,130,81,99,95.3,Motivate
+59:01.0,130,81,99,95.3,Motivate
+59:01.1,130,81,99,95.3,Motivate
+59:01.2,130,81,99,95.3,Motivate
+59:01.4,130,81,99,95.3,Motivate
+59:01.6,130,81,99,95.3,Motivate
+59:01.7,130,81,99,95.3,Motivate
+59:01.8,130,81,99,95.3,Motivate
+59:01.9,130,81,99,95.3,Motivate
+59:02.0,130,81,99,95.3,Motivate
+59:02.1,130,81,99,95.3,Motivate
+59:02.2,130,81,99,95.3,Motivate
+59:02.3,130,81,99,95.3,Motivate
+59:02.5,130,81,99,95.3,Motivate
+59:02.6,130,81,99,95.3,Motivate
+59:02.7,130,81,99,95.3,Motivate
+59:02.8,130,81,99,95.3,Motivate
+59:02.9,130,81,99,95.3,Motivate
+59:03.1,130,81,99,95.3,Motivate
+59:03.2,130,81,99,95.3,Motivate
+59:03.5,130,81,99,95.3,Motivate
+59:03.6,130,81,99,95.3,Motivate
+59:03.7,130,81,99,95.3,Motivate
+59:03.8,130,81,99,95.3,Motivate
+59:03.9,130,81,99,95.3,Motivate
+59:04.0,130,81,99,95.3,Motivate
+59:04.2,130,81,99,95.3,Motivate
+59:04.3,130,81,99,95.3,Motivate
+59:04.5,130,81,99,95.3,Motivate
+59:04.5,130,81,99,95.3,Motivate
+59:04.7,130,81,99,95.3,Motivate
+59:04.8,130,81,99,95.3,Motivate
+59:04.9,130,81,99,95.3,Motivate
+59:05.1,130,81,99,95.3,Motivate
+59:05.2,130,81,99,95.3,Motivate
+59:05.5,130,81,99,95.3,Motivate
+59:05.5,130,81,99,95.3,Motivate
+59:05.7,130,81,99,95.3,Motivate
+59:05.7,130,81,99,95.3,Motivate
+59:05.9,130,81,99,95.3,Motivate
+59:06.0,130,81,99,95.3,Motivate
+59:06.2,130,81,99,95.3,Motivate
+59:06.3,130,80,98,95.3,Motivate
+59:06.4,130,80,98,95.3,Motivate
+59:06.5,130,80,98,95.3,Motivate
+59:06.7,130,80,98,95.3,Motivate
+59:06.8,130,80,98,95.3,Motivate
+59:06.9,130,80,98,95.3,Motivate
+59:06.9,130,80,98,95.3,Motivate
+59:07.1,130,80,98,95.3,Motivate
+59:07.2,130,80,98,95.3,Motivate
+59:07.4,130,80,98,95.3,Motivate
+59:07.5,130,80,98,95.3,Motivate
+59:07.6,130,80,98,95.3,Motivate
+59:07.8,130,80,98,95.3,Motivate
+59:08.0,130,80,98,95.3,Motivate
+59:08.2,130,80,98,95.3,Motivate
+59:08.3,130,80,98,95.3,Motivate
+59:08.4,130,80,98,95.3,Motivate
+59:08.5,130,80,98,95.3,Motivate
+59:08.6,130,80,98,95.3,Motivate
+59:08.8,130,80,98,95.3,Motivate
+59:09.0,130,80,98,95.3,Motivate
+59:09.1,130,80,97,95.3,Motivate
+59:09.2,130,80,97,95.3,Motivate
+59:09.3,130,80,97,95.3,Motivate
+59:09.4,130,80,97,95.3,Motivate
+59:09.5,130,80,97,95.3,Motivate
+59:09.6,130,80,97,95.3,Motivate
+59:09.8,129,80,97,95.3,Motivate
+59:10.0,129,80,97,95.3,Motivate
+59:10.2,129,80,97,95.3,Motivate
+59:10.3,129,80,97,95.3,Motivate
+59:10.4,129,80,97,95.3,Motivate
+59:10.5,129,80,96,95.3,Motivate
+59:10.6,129,80,96,95.3,Motivate
+59:10.7,129,80,96,95.3,Motivate
+59:11.0,129,80,96,95.3,Motivate
+59:11.2,129,80,96,95.3,Motivate
+59:11.2,129,80,96,95.3,Motivate
+59:11.4,129,80,96,95.3,Motivate
+59:11.5,129,80,96,95.3,Motivate
+59:11.6,129,80,96,95.3,Motivate
+59:11.7,129,80,96,95.3,Motivate
+59:11.8,129,80,95,95.3,Motivate
+59:12.0,129,80,95,95.3,Motivate
+59:12.1,129,80,95,95.3,Motivate
+59:12.2,129,80,95,95.3,Motivate
+59:12.3,129,80,95,95.3,Motivate
+59:12.4,129,80,95,95.3,Motivate
+59:12.5,129,80,95,95.3,Motivate
+59:12.6,128,80,95,95.3,Motivate
+59:12.7,128,80,95,95.3,Motivate
+59:13.0,128,80,95,95.3,Motivate
+59:13.0,128,80,95,95.3,Motivate
+59:13.2,128,80,95,95.3,Motivate
+59:13.3,128,80,94,95.3,Motivate
+59:13.4,128,80,94,95.3,Motivate
+59:13.5,128,80,94,95.3,Motivate
+59:13.7,128,80,94,95.3,Motivate
+59:13.9,128,80,94,95.3,Motivate
+59:14.0,128,80,94,95.3,Motivate
+59:14.1,128,80,94,95.3,Motivate
+59:14.3,128,80,94,95.3,Motivate
+59:14.4,128,80,94,95.3,Motivate
+59:14.5,128,80,94,95.3,Motivate
+59:14.6,127,80,94,95.9,Motivate
+59:14.7,127,80,94,95.9,Motivate
+59:14.9,127,80,94,95.9,Motivate
+59:15.0,127,80,94,95.9,Motivate
+59:15.2,127,80,94,95.9,Motivate
+59:15.2,127,80,94,95.9,Motivate
+59:15.4,127,80,93,95.9,Motivate
+59:15.5,127,80,93,95.9,Motivate
+59:15.7,127,80,93,95.9,Motivate
+59:15.9,127,80,93,95.9,Motivate
+59:16.0,127,80,92,95.9,Motivate
+59:16.2,127,80,92,95.9,Motivate
+59:16.3,127,80,92,95.9,Motivate
+59:16.4,127,80,92,95.9,Motivate
+59:16.5,127,80,92,95.9,Motivate
+59:16.7,127,80,92,95.9,Motivate
+59:16.8,126,80,92,95.9,Motivate
+59:16.9,126,80,92,95.9,Motivate
+59:17.0,126,80,92,95.9,Motivate
+59:17.1,126,80,92,95.9,Motivate
+59:17.3,126,80,92,95.9,Motivate
+59:17.3,126,80,92,95.9,Motivate
+59:17.4,126,80,92,95.9,Motivate
+59:17.6,126,79,92,95.9,Motivate
+59:17.7,126,79,92,95.9,Motivate
+59:17.9,126,79,92,95.9,Motivate
+59:18.0,126,79,92,95.9,Motivate
+59:18.1,126,79,92,95.9,Motivate
+59:18.3,125,79,91,95.9,Motivate
+59:18.5,125,79,91,95.9,Motivate
+59:18.7,125,79,91,95.9,Motivate
+59:18.8,125,79,91,95.9,Motivate
+59:18.9,125,79,91,95.9,Motivate
+59:19.0,124,78,90,95.9,Motivate
+59:19.1,124,78,90,95.9,Motivate
+59:19.3,124,78,90,95.9,Motivate
+59:19.5,124,78,90,95.9,Motivate
+59:19.6,124,78,90,95.9,Motivate
+59:19.7,124,78,90,95.9,Motivate
+59:19.8,124,78,90,95.9,Motivate
+59:19.9,124,78,90,95.9,Motivate
+59:20.0,124,78,90,95.9,Motivate
+59:20.1,124,78,90,95.9,Motivate
+59:20.2,124,78,90,95.9,Motivate
+59:20.3,124,78,89,95.9,Motivate
+59:20.5,124,78,89,95.9,Motivate
+59:20.7,124,78,89,95.9,Motivate
+59:20.8,124,78,89,95.9,Motivate
+59:20.9,124,78,89,95.9,Motivate
+59:21.0,124,78,89,95.9,Motivate
+59:21.1,123,78,89,95.9,Motivate
+59:21.2,123,78,89,95.9,Motivate
+59:21.5,123,78,89,95.9,Motivate
+59:21.6,123,78,89,95.9,Motivate
+59:21.7,123,77,89,96.1,Motivate
+59:21.9,123,77,89,96.1,Motivate
+59:22.0,123,77,89,96.1,Motivate
+59:22.1,123,77,89,96.1,Motivate
+59:22.2,123,77,89,96.1,Motivate
+59:22.3,122,76,89,96.3,Motivate
+59:22.5,122,76,89,96.3,Motivate
+59:22.6,122,76,89,96.3,Motivate
+59:22.7,122,76,89,96.3,Motivate
+59:22.8,122,76,89,96.3,Motivate
+59:22.9,122,76,89,96.3,Motivate
+59:23.1,121,76,89,96.8,Motivate
+59:23.2,121,76,89,96.8,Motivate
+59:23.5,121,76,89,96.8,Motivate
+59:23.5,121,76,89,96.8,Motivate
+59:23.7,121,76,89,96.8,Motivate
+59:23.7,121,75,88,96.8,Motivate
+59:23.9,121,75,88,96.8,Motivate
+59:24.0,121,75,88,96.8,Motivate
+59:24.2,121,75,88,96.8,Motivate
+59:24.3,122,76,88,96.8,Motivate
+59:24.4,122,76,88,96.8,Motivate
+59:24.5,122,76,88,96.8,Motivate
+59:24.7,122,76,88,96.8,Motivate
+59:24.8,122,76,88,96.8,Motivate
+59:24.9,122,76,88,96.8,Motivate
+59:25.0,122,76,88,96.8,Motivate
+59:25.1,122,76,88,96.8,Motivate
+59:25.2,122,76,88,96.8,Motivate
+59:25.4,122,76,88,96.8,Motivate
+59:25.5,122,76,89,96.8,Motivate
+59:25.7,122,76,89,96.8,Motivate
+59:25.8,122,76,89,96.8,Motivate
+59:25.9,122,76,89,96.8,Motivate
+59:26.0,122,76,89,96.8,Motivate
+59:26.2,122,76,89,96.8,Motivate
+59:26.3,122,77,90,96.8,Motivate
+59:26.4,122,77,90,96.8,Motivate
+59:26.5,122,77,90,96.8,Motivate
+59:26.6,122,77,90,96.8,Motivate
+59:26.8,122,77,90,96.8,Motivate
+59:26.8,122,77,90,96.8,Motivate
+59:27.0,122,77,90,96.8,Motivate
+59:27.2,122,77,90,96.8,Motivate
+59:27.3,122,77,90,96.8,Motivate
+59:27.4,122,77,90,96.8,Motivate
+59:27.5,122,77,90,96.8,Motivate
+59:27.6,122,77,90,96.8,Motivate
+59:27.8,122,77,90,96.8,Motivate
+59:28.0,122,77,90,96.8,Motivate
+59:28.1,122,77,90,97.1,Motivate
+59:28.2,122,77,90,97.1,Motivate
+59:28.3,122,77,90,97.1,Motivate
+59:28.4,122,77,90,97.1,Motivate
+59:28.5,122,77,90,97.1,Motivate
+59:28.6,122,77,90,97.1,Motivate
+59:28.7,122,77,90,97.1,Motivate
+59:28.8,122,77,90,97.3,Motivate
+59:29.0,122,77,90,97.3,Motivate
+59:29.2,122,77,90,97.3,Motivate
+59:29.3,122,77,90,97.3,Motivate
+59:29.4,122,77,90,97.3,Motivate
+59:29.5,122,77,90,97.3,Motivate
+59:29.6,122,77,90,97.3,Motivate
+59:29.7,122,77,90,97.3,Motivate
+59:29.9,122,77,90,97.3,Motivate
+59:30.1,122,77,91,97.5,Motivate
+59:30.2,122,77,91,97.5,Motivate
+59:30.3,122,77,91,97.5,Motivate
+59:30.4,122,77,91,97.5,Motivate
+59:30.5,122,77,91,97.5,Motivate
+59:30.6,122,77,91,97.5,Motivate
+59:30.7,122,77,91,97.5,Motivate
+59:31.0,122,77,91,97.5,Motivate
+59:31.2,122,77,91,97.5,Motivate
+59:31.3,122,77,90,97.5,Motivate
+59:31.4,122,77,90,97.5,Motivate
+59:31.5,122,77,90,97.5,Motivate
+59:31.6,122,77,90,97.5,Motivate
+59:31.7,122,77,90,97.5,Motivate
+59:31.9,122,77,90,97.5,Motivate
+59:32.1,122,77,90,98,Motivate
+59:32.2,122,77,90,98,Motivate
+59:32.3,122,77,90,98,Motivate
+59:32.4,122,77,90,98,Motivate
+59:32.5,122,77,90,98,Motivate
+59:32.7,122,77,90,98,Motivate
+59:32.8,123,77,90,98.1,Motivate
+59:33.0,123,77,90,98.1,Motivate
+59:33.0,123,77,90,98.1,Motivate
+59:33.2,123,77,90,98.1,Motivate
+59:33.3,123,77,90,98.1,Motivate
+59:33.4,123,77,90,98.1,Motivate
+59:33.6,123,77,89,98.6,Motivate
+59:33.7,123,77,89,98.6,Motivate
+59:33.9,123,77,89,98.6,Motivate
+59:34.0,123,77,89,98.6,Motivate
+59:34.1,123,77,89,98.6,Motivate
+59:34.2,123,77,88,98.6,Motivate
+59:34.4,123,77,88,98.6,Motivate
+59:34.5,123,77,88,98.6,Motivate
+59:34.7,123,77,88,98.6,Motivate
+59:34.9,123,77,88,98.6,Motivate
+59:35.0,123,77,88,98.9,Motivate
+59:35.1,123,77,88,98.9,Motivate
+59:35.3,123,77,88,98.9,Motivate
+59:35.4,123,77,88,98.9,Motivate
+59:35.5,123,77,88,98.9,Motivate
+59:35.6,123,77,88,98.9,Motivate
+59:35.7,123,77,88,98.9,Motivate
+59:35.9,123,77,88,98.9,Motivate
+59:36.0,123,77,88,98.9,Motivate
+59:36.1,123,77,88,98.9,Motivate
+59:36.2,123,77,88,98.9,Motivate
+59:36.3,123,77,88,99.1,Motivate
+59:36.5,123,77,88,99.1,Motivate
+59:36.7,123,77,88,99.1,Motivate
+59:36.8,123,77,88,99.1,Motivate
+59:36.9,123,77,88,99.1,Motivate
+59:37.0,123,77,87,99,Motivate
+59:37.1,123,77,87,99,Motivate
+59:37.3,123,77,87,99,Motivate
+59:37.5,123,77,87,99,Motivate
+59:37.7,123,77,87,99,Motivate
+59:37.8,123,77,87,98.9,Motivate
+59:37.9,123,77,87,98.9,Motivate
+59:38.0,123,77,87,98.9,Motivate
+59:38.1,123,77,87,98.9,Motivate
+59:38.2,123,77,87,98.9,Motivate
+59:38.3,123,77,87,98.9,Motivate
+59:38.5,123,77,87,98.9,Motivate
+59:38.7,123,77,87,98.9,Motivate
+59:38.8,123,77,87,98.9,Motivate
+59:38.9,123,77,87,98.9,Motivate
+59:39.0,123,77,87,98.9,Motivate
+59:39.1,123,77,86,98.9,Motivate
+59:39.3,123,77,86,98.9,Motivate
+59:39.5,123,77,86,98.9,Motivate
+59:39.7,123,77,86,98.9,Motivate
+59:39.8,123,77,86,98.9,Motivate
+59:39.9,123,77,86,98.9,Motivate
+59:40.0,123,77,86,98.9,Motivate
+59:40.1,123,77,86,98.9,Motivate
+59:40.2,123,77,86,98.9,Motivate
+59:40.4,123,77,86,98.9,Motivate
+59:40.6,122,77,86,98.9,Motivate
+59:40.7,122,77,86,98.9,Motivate
+59:40.8,122,77,86,98.9,Motivate
+59:40.9,122,77,86,98.9,Motivate
+59:41.0,122,77,86,98.9,Motivate
+59:41.1,122,77,86,98.9,Motivate
+59:41.2,122,77,86,98.9,Motivate
+59:41.4,122,77,86,98.9,Motivate
+59:41.5,122,77,85,98.9,Motivate
+59:41.6,122,77,85,98.9,Motivate
+59:41.8,122,77,85,98.9,Motivate
+59:41.9,122,77,85,98.9,Motivate
+59:42.0,122,77,85,98.9,Motivate
+59:42.2,122,77,85,98.9,Motivate
+59:42.3,122,76,83,98.9,Motivate
+59:42.5,122,76,83,98.9,Motivate
+59:42.5,122,76,83,98.9,Motivate
+59:42.7,122,76,83,98.9,Motivate
+59:42.8,122,76,83,98.9,Motivate
+59:42.9,122,76,83,98.9,Motivate
+59:43.0,122,76,83,98.9,Motivate
+59:43.1,122,76,84,98.9,Motivate
+59:43.2,122,76,84,98.9,Motivate
+59:43.4,122,76,84,98.9,Motivate
+59:43.5,122,76,84,98.9,Motivate
+59:43.6,122,76,84,98.9,Motivate
+59:43.7,122,76,83,98.9,Motivate
+59:43.9,122,76,83,98.9,Motivate
+59:44.0,122,76,83,98.9,Motivate
+59:44.2,122,76,83,98.9,Motivate
+59:44.3,122,76,83,98.9,Motivate
+59:44.4,122,76,83,98.9,Motivate
+59:44.5,122,76,83,98.9,Motivate
+59:44.7,122,76,83,98.9,Motivate
+59:44.8,122,76,83,98.9,Motivate
+59:44.9,122,76,83,98.9,Motivate
+59:45.0,122,76,83,98.9,Motivate
+59:45.1,122,76,83,98.9,Motivate
+59:45.2,122,76,83,98.9,Motivate
+59:45.4,122,76,83,98.9,Motivate
+59:45.5,122,76,83,98.9,Motivate
+59:45.6,122,76,83,98.9,Motivate
+59:45.8,121,76,84,98.9,Motivate
+59:46.0,121,76,84,98.9,Motivate
+59:46.2,121,76,84,98.9,Motivate
+59:46.3,121,76,84,98.9,Motivate
+59:46.4,121,76,84,98.9,Motivate
+59:46.5,121,75,83,98.9,Motivate
+59:46.6,121,75,83,98.9,Motivate
+59:46.8,121,75,83,98.9,Motivate
+59:47.0,121,75,83,98.9,Motivate
+59:47.2,121,75,83,98.9,Motivate
+59:47.3,121,75,82,98.9,Motivate
+59:47.4,121,75,82,98.9,Motivate
+59:47.5,121,75,82,98.9,Motivate
+59:47.6,121,75,82,98.9,Motivate
+59:47.8,121,75,82,98.9,Motivate
+59:47.9,121,75,82,98.9,Motivate
+59:48.1,121,75,82,98.9,Motivate
+59:48.2,121,75,82,98.9,Motivate
+59:48.3,121,75,82,98.9,Motivate
+59:48.4,121,75,82,98.9,Motivate
+59:48.5,121,75,82,98.9,Motivate
+59:48.6,121,75,82,98.9,Motivate
+59:48.7,121,75,82,98.9,Motivate
+59:48.8,120,74,82,98.9,Motivate
+59:49.0,120,74,82,98.9,Motivate
+59:49.2,120,74,82,98.9,Motivate
+59:49.3,120,74,82,98.9,Motivate
+59:49.4,120,74,82,98.9,Motivate
+59:49.5,120,74,82,98.9,Motivate
+59:49.6,120,74,82,98.9,Motivate
+59:49.7,120,74,82,98.9,Motivate
+59:50.0,120,74,82,98.9,Motivate
+59:50.1,120,74,82,98.8,Motivate
+59:50.2,120,74,82,98.8,Motivate
+59:50.3,120,74,82,98.8,Motivate
+59:50.4,120,74,82,98.8,Motivate
+59:50.5,120,74,82,98.8,Motivate
+59:50.6,120,74,82,98.8,Motivate
+59:50.7,120,74,82,98.8,Motivate
+59:50.8,120,74,83,98.8,Motivate
+59:51.0,120,74,83,98.8,Motivate
+59:51.2,120,74,83,98.8,Motivate
+59:51.3,120,74,83,98.8,Motivate
+59:51.4,120,74,83,98.8,Motivate
+59:51.5,120,74,83,98.8,Motivate
+59:51.6,120,74,83,98.8,Motivate
+59:51.7,120,74,83,98.8,Motivate
+59:52.0,120,74,83,98.8,Motivate
+59:52.1,120,74,83,98.8,Motivate
+59:52.1,120,74,83,98.8,Motivate
+59:52.2,120,74,83,98.8,Motivate
+59:52.4,120,74,83,98.8,Motivate
+59:52.5,120,74,83,98.8,Motivate
+59:52.7,120,74,83,98.8,Motivate
+59:52.8,119,74,83,98.8,Motivate
+59:53.0,119,74,83,98.8,Motivate
+59:53.0,119,74,83,98.8,Motivate
+59:53.2,119,74,83,98.8,Motivate
+59:53.3,119,74,83,98.8,Motivate
+59:53.4,119,74,83,98.8,Motivate
+59:53.5,119,74,83,98.8,Motivate
+59:53.6,119,74,83,98.8,Motivate
+59:53.7,119,74,83,98.8,Motivate
+59:53.9,119,74,83,98.8,Motivate
+59:54.0,119,74,83,98.8,Motivate
+59:54.2,119,74,83,98.8,Motivate
+59:54.2,119,74,83,98.7,Motivate
+59:54.4,119,74,83,98.7,Motivate
+59:54.5,119,74,83,98.7,Motivate
+59:54.7,119,74,83,98.7,Motivate
+59:54.9,119,74,83,98.7,Motivate
+59:55.0,119,74,83,98.7,Motivate
+59:55.1,119,74,83,98.7,Motivate
+59:55.3,119,74,83,98.7,Motivate
+59:55.4,119,74,83,98.7,Motivate
+59:55.5,119,74,83,98.7,Motivate
+59:55.6,119,74,84,98.7,Motivate
+59:55.7,119,74,84,98.7,Motivate
+59:55.9,119,74,84,98.7,Motivate
+59:56.0,119,74,84,98.7,Motivate
+59:56.1,119,74,84,98.7,Motivate
+59:56.3,119,74,85,98.7,Motivate
+59:56.5,119,74,85,98.7,Motivate
+59:56.7,119,74,85,98.7,Motivate
+59:56.8,120,75,85,98.7,Motivate
+59:56.9,120,75,85,98.7,Motivate
+59:57.0,120,75,85,98.7,Motivate
+59:57.1,120,75,85,98.7,Motivate
+59:57.2,120,75,85,98.7,Motivate
+59:57.3,120,75,86,98.7,Motivate
+59:57.5,120,75,86,98.7,Motivate
+59:57.7,120,75,86,98.7,Motivate
+59:57.8,120,75,86,98.7,Motivate
+59:57.9,120,75,86,98.7,Motivate
+59:58.0,120,75,87,98.7,Motivate
+59:58.1,120,75,87,98.7,Motivate
+59:58.3,120,75,87,98.7,Motivate
+59:58.5,120,75,87,98.7,Motivate
+59:58.6,120,75,87,98.7,Motivate
+59:58.7,120,75,87,98.7,Motivate
+59:58.8,120,75,87,98.7,Motivate
+59:58.9,120,75,87,98.7,Motivate
+59:59.0,120,75,87,98.7,Motivate
+59:59.1,120,75,87,98.7,Motivate
+59:59.2,120,75,87,98.7,Motivate
+59:59.3,120,75,87,98.7,Motivate
+59:59.5,120,75,87,98.7,Motivate
+59:59.7,120,75,87,98.7,Motivate
+59:59.8,120,75,87,98.7,Motivate
+59:59.9,120,75,87,98.7,Motivate
+00:00.1,120,76,87,98.7,Motivate
+00:00.2,120,76,87,98.7,Motivate
+00:00.5,120,76,87,98.7,Motivate
+00:00.6,120,76,87,98.7,Motivate
+00:00.7,120,76,87,98.7,Motivate
+00:00.8,120,76,87,98.7,Motivate
+00:00.9,120,76,87,98.7,Motivate
+00:01.0,120,76,87,98.7,Motivate
+00:01.2,120,76,87,98.7,Motivate
+00:01.3,120,76,87,98.7,Motivate
+00:01.5,120,76,87,98.7,Motivate
+00:01.5,120,76,87,98.7,Motivate
+00:01.7,120,76,87,98.7,Motivate
+00:01.8,120,76,87,98.7,Motivate
+00:01.9,120,76,87,98.7,Motivate
+00:02.0,120,76,87,98.7,Motivate
+00:02.1,120,76,88,98.6,Motivate
+00:02.2,120,76,88,98.6,Motivate
+00:02.4,120,76,88,98.6,Motivate
+00:02.5,120,76,88,98.6,Motivate
+00:02.7,120,76,88,98.6,Motivate
+00:02.8,120,76,88,98.6,Motivate
+00:02.9,120,76,88,98.6,Motivate
+00:03.0,120,76,88,98.6,Motivate
+00:03.2,120,76,88,98.6,Motivate
+00:03.3,120,76,88,98.6,Motivate
+00:03.4,120,76,88,98.6,Motivate
+00:03.5,120,76,88,98.6,Motivate
+00:03.7,120,76,88,98.6,Motivate
+00:03.8,120,76,88,98.6,Motivate
+00:03.9,120,76,88,98.6,Motivate
+00:03.9,120,76,88,98.6,Motivate
+00:04.1,120,76,88,98.6,Motivate
+00:04.2,120,76,88,98.6,Motivate
+00:04.4,120,76,88,98.6,Motivate
+00:04.5,120,76,88,98.6,Motivate
+00:04.7,120,76,88,98.6,Motivate
+00:04.8,120,76,88,98.6,Motivate
+00:04.9,120,76,88,98.6,Motivate
+00:05.0,120,76,88,98.6,Motivate
+00:05.2,120,76,88,98.6,Motivate
+00:05.3,120,76,88,98.6,Motivate
+00:05.4,120,76,88,98.6,Motivate
+00:05.5,120,76,88,98.6,Motivate
+00:05.6,120,76,88,98.6,Motivate
+00:05.8,120,76,88,98.6,Motivate
+00:05.8,120,77,89,98.6,Motivate
+00:06.0,120,77,89,98.6,Motivate
+00:06.2,120,77,89,98.6,Motivate
+00:06.3,120,77,89,98.6,Motivate
+00:06.4,120,77,89,98.6,Motivate
+00:06.5,121,77,89,98.6,Motivate
+00:06.6,121,77,89,98.6,Motivate
+00:06.8,121,77,89,98.6,Motivate
+00:06.9,121,77,89,98.6,Motivate
+00:07.1,121,77,90,98.6,Motivate
+00:07.2,121,77,90,98.6,Motivate
+00:07.3,121,77,90,98.6,Motivate
+00:07.4,121,77,90,98.6,Motivate
+00:07.5,121,77,90,98.6,Motivate
+00:07.6,121,77,91,98.5,Motivate
+00:07.8,121,77,91,98.5,Motivate
+00:08.0,121,77,91,98.5,Motivate
+00:08.2,121,77,91,98.5,Motivate
+00:08.3,121,77,91,98.5,Motivate
+00:08.4,121,77,91,98.5,Motivate
+00:08.5,121,77,91,98.5,Motivate
+00:08.6,121,77,91,98.5,Motivate
+00:08.7,121,77,91,98.5,Motivate
+00:08.8,121,77,91,98.6,Motivate
+00:09.0,121,77,91,98.6,Motivate
+00:09.2,121,77,91,98.6,Motivate
+00:09.3,121,77,91,98.6,Motivate
+00:09.4,121,77,91,98.6,Motivate
+00:09.5,121,77,91,98.6,Motivate
+00:09.6,121,77,91,98.5,Motivate
+00:09.7,121,77,91,98.5,Motivate
+00:10.0,121,77,91,98.5,Motivate
+00:10.1,121,77,91,98.5,Motivate
+00:10.2,121,77,91,98.5,Motivate
+00:10.4,121,77,91,98.5,Motivate
+00:10.5,121,77,91,98.5,Motivate
+00:10.7,121,77,91,98.5,Motivate
+00:10.9,121,77,91,98.5,Motivate
+00:11.0,122,78,91,98.4,Motivate
+00:11.1,122,78,91,98.4,Motivate
+00:11.3,122,78,91,98.4,Motivate
+00:11.4,122,78,91,98.4,Motivate
+00:11.5,122,78,91,98.4,Motivate
+00:11.6,122,78,91,98.4,Motivate
+00:11.7,122,78,91,98.4,Motivate
+00:12.0,122,78,91,98.4,Motivate
+00:12.0,122,78,91,98.4,Motivate
+00:12.2,122,78,91,98.4,Motivate
+00:12.2,122,78,91,98.4,Motivate
+00:12.4,122,78,91,98.4,Motivate
+00:12.5,122,78,91,98.4,Motivate
+00:12.7,122,78,91,98.4,Motivate
+00:12.9,122,78,91,98.4,Motivate
+00:13.0,122,78,91,98.4,Motivate
+00:13.1,122,78,91,98.4,Motivate
+00:13.3,122,78,91,98.4,Motivate
+00:13.4,122,78,91,98.4,Motivate
+00:13.5,122,78,91,98.4,Motivate
+00:13.6,122,78,91,98.3,Motivate
+00:13.7,122,78,91,98.3,Motivate
+00:13.9,122,78,91,98.3,Motivate
+00:14.0,122,78,91,98.3,Motivate
+00:14.1,122,78,91,98.3,Motivate
+00:14.2,123,78,91,98.3,Motivate
+00:14.3,123,78,91,98.4,Motivate
+00:14.5,123,78,91,98.4,Motivate
+00:14.7,123,78,91,98.4,Motivate
+00:14.8,123,78,91,98.4,Motivate
+00:14.9,123,78,91,98.4,Motivate
+00:15.0,123,78,91,98.4,Motivate
+00:15.1,123,78,91,98.4,Motivate
+00:15.3,123,78,91,98.4,Motivate
+00:15.4,123,78,91,98.4,Motivate
+00:15.6,123,78,91,98.2,Motivate
+00:15.7,123,78,91,98.2,Motivate
+00:15.8,123,78,91,98.2,Rest
+00:15.9,123,78,91,98.2,Rest
+00:16.0,123,78,91,98.2,Rest
+00:16.1,123,78,91,98.2,Rest
+00:16.3,123,78,91,98.2,Rest
+00:16.5,123,78,91,98.2,Rest
+00:16.7,123,78,91,98.2,Rest
+00:16.8,123,78,92,98.1,Rest
+00:16.9,123,78,92,98.1,Rest
+00:17.0,123,78,92,98.1,Rest
+00:17.1,123,78,92,98.1,Rest
+00:17.3,123,78,92,98.1,Rest
+00:17.4,123,78,92,98.1,Rest
+00:17.6,123,78,92,98.1,Rest
+00:17.7,123,78,92,98.1,Rest
+00:17.8,123,78,92,98.1,Rest
+00:17.9,123,78,92,98.1,Rest
+00:18.0,123,78,92,98.1,Rest
+00:18.1,123,78,92,98.1,Rest
+00:18.2,123,78,92,98.1,Rest
+00:18.3,124,78,91,98.1,Rest
+00:18.5,124,78,91,98.1,Rest
+00:18.7,124,78,91,98.1,Rest
+00:18.8,124,78,91,97.5,Rest
+00:18.9,124,78,91,97.5,Rest
+00:19.0,124,78,91,97.5,Rest
+00:19.1,124,78,91,97.5,Rest
+00:19.2,124,78,91,97.5,Rest
+00:19.4,124,78,91,97.5,Rest
+00:19.6,124,78,92,97.3,Rest
+00:19.7,124,78,92,97.3,Rest
+00:19.8,124,78,92,97.3,Rest
+00:19.9,124,78,92,97.3,Rest
+00:20.0,124,78,92,97.3,Rest
+00:20.1,124,78,92,97.3,Rest
+00:20.2,124,78,92,97.3,Rest
+00:20.5,124,78,92,97.3,Rest
+00:20.6,124,78,92,97.3,Rest
+00:20.6,124,78,92,97.3,Rest
+00:20.7,124,78,92,97.2,Rest
+00:20.9,124,78,92,97.2,Rest
+00:21.0,124,78,92,97.2,Rest
+00:21.2,124,78,92,97.2,Rest
+00:21.3,124,78,92,97.2,Rest
+00:21.5,124,78,92,97.2,Rest
+00:21.5,124,78,92,97.2,Rest
+00:21.7,124,78,92,97.2,Rest
+00:21.8,124,78,92,97.2,Rest
+00:21.9,124,78,92,97.2,Rest
+00:22.0,124,78,92,97.2,Rest
+00:22.2,124,78,92,97.2,Rest
+00:22.3,125,77,92,97.2,Rest
+00:22.4,125,77,92,97.2,Rest
+00:22.5,125,77,92,97.2,Rest
+00:22.6,125,77,92,97.2,Rest
+00:22.8,125,77,92,97.2,Rest
+00:22.9,125,77,92,97.2,Rest
+00:22.9,125,77,92,97.2,Rest
+00:23.1,124,77,91,97.2,Rest
+00:23.2,124,77,91,97.2,Rest
+00:23.4,124,77,91,97.2,Rest
+00:23.5,125,77,92,97.2,Rest
+00:23.6,125,77,92,97.2,Rest
+00:23.8,125,77,92,97.2,Rest
+00:23.9,125,77,92,97.2,Rest
+00:24.0,125,77,92,97.2,Rest
+00:24.2,125,77,92,97.2,Rest
+00:24.3,125,77,92,97.2,Rest
+00:24.4,125,77,92,97.2,Rest
+00:24.5,125,77,92,97.2,Rest
+00:24.6,125,77,92,97.2,Rest
+00:24.8,125,77,92,97.2,Rest
+00:24.9,125,77,92,97.2,Funny
+00:25.1,125,77,91,97.2,Funny
+00:25.2,125,77,91,97.2,Funny
+00:25.3,125,77,91,97.2,Funny
+00:25.4,125,77,91,97.2,Funny
+00:25.5,125,77,92,96.9,Funny
+00:25.6,125,77,92,96.9,Funny
+00:25.8,125,77,92,96.9,Funny
+00:26.0,125,77,92,96.9,Funny
+00:26.2,125,77,92,96.9,Funny
+00:26.4,125,77,92,96.9,Funny
+00:26.5,125,77,92,96.9,Funny
+00:26.6,125,77,92,96.9,Funny
+00:26.7,125,77,92,96.9,Funny
+00:26.8,126,77,92,96.9,Funny
+00:27.0,126,77,92,96.9,Funny
+00:27.2,126,77,92,96.9,Funny
+00:27.3,126,77,92,96.9,Funny
+00:27.4,126,77,92,96.9,Funny
+00:27.5,125,77,92,96.9,Funny
+00:27.6,125,77,92,96.9,Funny
+00:27.8,125,77,92,96.9,Funny
+00:28.0,125,77,92,96.9,Funny
+00:28.1,125,77,92,96.9,Funny
+00:28.2,125,77,92,96.9,Funny
+00:28.3,125,77,92,96.9,Funny
+00:28.4,125,77,92,96.9,Funny
+00:28.5,125,77,92,96.9,Funny
+00:28.6,125,77,92,96.9,Funny
+00:28.7,125,77,92,96.9,Funny
+00:28.8,125,77,92,96.9,Funny
+00:29.0,125,77,92,96.9,Funny
+00:29.1,125,77,92,96.9,Funny
+00:29.2,125,77,92,96.9,Funny
+00:29.3,125,77,92,96.9,Funny
+00:29.4,125,77,92,96.9,Funny
+00:29.6,125,77,92,96.9,Funny
+00:29.7,125,77,92,96.9,Funny
+00:30.0,125,77,92,96.9,Funny
+00:30.1,125,77,92,96.9,Funny
+00:30.2,125,77,92,96.9,Funny
+00:30.3,125,77,92,96.9,Funny
+00:30.4,125,77,92,96.9,Funny
+00:30.5,125,77,92,96.9,Funny
+00:30.7,125,77,92,96.9,Funny
+00:30.8,125,76,91,96.9,Funny
+00:31.0,125,76,91,96.9,Funny
+00:31.0,125,76,91,96.9,Funny
+00:31.2,125,76,91,96.9,Funny
+00:31.3,125,76,91,96.9,Funny
+00:31.4,125,76,91,96.9,Funny
+00:31.5,125,76,91,96.9,Funny
+00:31.6,125,76,91,96.9,Funny
+00:31.7,125,76,91,96.9,Funny
+00:31.9,125,76,91,96.9,Funny
+00:32.0,125,76,91,96.9,Funny
+00:32.1,125,76,91,96.9,Funny
+00:32.2,125,76,91,96.9,Funny
+00:32.4,125,76,91,96.9,Funny
+00:32.5,125,76,91,96.9,Funny
+00:32.7,125,76,91,96.9,Funny
+00:32.9,125,76,91,96.9,Funny
+00:33.0,125,75,90,96.9,Funny
+00:33.1,125,75,90,96.9,Funny
+00:33.3,125,75,90,96.9,Funny
+00:33.4,125,75,90,96.9,Funny
+00:33.5,125,75,90,96.9,Funny
+00:33.7,125,75,90,96.9,Funny
+00:33.8,125,74,90,96.9,Funny
+00:33.9,125,74,90,96.9,Funny
+00:34.0,125,74,90,96.9,Funny
+00:34.1,125,74,90,96.9,Funny
+00:34.3,125,74,90,96.9,Funny
+00:34.5,125,74,90,96.9,Funny
+00:34.6,124,74,89,96.9,Funny
+00:34.7,124,74,89,96.9,Funny
+00:34.8,124,74,89,96.9,Funny
+00:34.9,124,74,89,96.9,Funny
+00:35.0,124,74,89,96.9,Funny
+00:35.1,124,74,89,96.9,Funny
+00:35.3,124,74,90,96.9,Funny
+00:35.5,124,74,90,96.9,Funny
+00:35.7,124,74,90,96.9,Funny
+00:35.8,124,74,90,96.9,Funny
+00:35.9,124,74,90,96.9,Funny
+00:36.0,124,74,90,96.9,Funny
+00:36.1,124,74,90,96.9,Funny
+00:36.3,124,74,90,96.9,Funny
+00:36.4,124,74,90,96.9,Funny
+00:36.6,124,74,90,96.9,Funny
+00:36.7,124,74,90,96.9,Funny
+00:36.8,124,74,90,96.9,Funny
+00:36.9,124,74,90,96.9,Funny
+00:37.0,124,74,90,96.9,Funny
+00:37.1,124,74,90,96.9,Funny
+00:37.3,124,75,90,96.9,Funny
+00:37.5,124,75,90,96.9,Funny
+00:37.6,124,75,90,96.9,Funny
+00:37.7,124,75,90,96.9,Funny
+00:37.8,123,75,90,96.9,Funny
+00:37.9,123,75,90,96.9,Funny
+00:38.0,123,75,90,96.9,Funny
+00:38.1,123,75,90,96.9,Funny
+00:38.3,123,75,90,96.9,Funny
+00:38.4,123,75,90,96.9,Funny
+00:38.6,123,75,90,96.9,Funny
+00:38.7,123,75,90,96.9,Funny
+00:38.8,123,75,90,96.9,Funny
+00:38.9,123,75,90,96.9,Funny
+00:39.0,123,75,90,96.9,Funny
+00:39.2,123,75,90,96.9,Funny
+00:39.3,123,75,90,96.9,Funny
+00:39.5,123,75,90,96.9,Funny
+00:39.6,123,75,90,96.9,Funny
+00:39.7,123,75,90,96.9,Funny
+00:39.8,123,75,90,96.9,Funny
+00:39.9,123,75,90,96.9,Funny
+00:40.0,123,75,90,96.9,Funny
+00:40.2,123,75,90,96.9,Funny
+00:40.3,123,75,90,96.9,Funny
+00:40.5,123,75,90,96.9,Funny
+00:40.6,123,75,90,96.9,Funny
+00:40.7,123,75,90,96.9,Funny
+00:40.8,123,75,90,96.9,Funny
+00:40.9,123,75,90,96.9,Funny
+00:41.1,123,75,90,96.9,Funny
+00:41.2,123,75,90,96.9,Funny
+00:41.4,123,75,90,96.9,Funny
+00:41.5,123,75,90,96.9,Funny
+00:41.6,123,75,90,96.9,Funny
+00:41.7,123,75,89,96.9,Funny
+00:41.9,123,75,89,96.9,Funny
+00:42.0,123,75,89,96.9,Funny
+00:42.2,123,75,89,96.9,Funny
+00:42.4,123,75,89,96.9,Funny
+00:42.5,123,74,89,96.9,Funny
+00:42.6,123,74,89,96.9,Funny
+00:42.8,123,74,89,96.9,Funny
+00:42.9,123,74,89,96.9,Funny
+00:43.0,123,74,89,96.9,Funny
+00:43.1,123,74,89,96.9,Funny
+00:43.2,123,74,89,96.9,Funny
+00:43.3,123,74,89,96.9,Funny
+00:43.4,123,74,89,96.9,Funny
+00:43.5,123,74,89,96.9,Funny
+00:43.6,123,74,89,96.9,Funny
+00:43.8,123,74,89,96.9,Funny
+00:44.0,123,74,89,96.9,Funny
+00:44.2,123,74,89,96.9,Funny
+00:44.3,123,74,89,96.9,Funny
+00:44.4,123,74,89,96.9,Funny
+00:44.5,123,74,89,96.9,Funny
+00:44.6,123,74,89,96.9,Funny
+00:44.8,123,74,89,96.9,Funny
+00:45.0,123,74,89,96.9,Funny
+00:45.1,123,74,89,96.9,Funny
+00:45.2,123,74,89,96.9,Funny
+00:45.3,123,74,89,96.9,Funny
+00:45.4,123,74,89,96.9,Funny
+00:45.5,123,74,89,96.9,Funny
+00:45.6,123,74,89,96.9,Funny
+00:45.8,123,74,90,96.9,Funny
+00:46.0,123,74,90,96.9,Funny
+00:46.2,123,74,90,96.9,Funny
+00:46.3,123,74,90,96.9,Funny
+00:46.4,123,74,90,96.9,Funny
+00:46.5,123,74,90,96.9,Funny
+00:46.6,123,74,90,96.9,Funny
+00:46.8,123,74,90,96.9,Funny
+00:47.0,123,75,90,96.9,Funny
+00:47.1,123,75,90,96.9,Funny
+00:47.3,123,75,90,96.9,Funny
+00:47.4,123,75,90,96.9,Funny
+00:47.5,123,75,90,96.9,Funny
+00:47.6,123,75,90,96.9,Funny
+00:47.7,123,75,90,96.9,Funny
+00:48.0,123,75,90,96.9,Funny
+00:48.1,123,75,90,96.9,Funny
+00:48.1,123,75,90,96.9,Funny
+00:48.2,123,75,90,96.9,Funny
+00:48.4,123,75,90,96.9,Funny
+00:48.5,123,75,90,96.9,Funny
+00:48.7,123,75,90,96.9,Funny
+00:48.8,123,75,90,96.9,Funny
+00:49.0,123,75,90,96.9,Funny
+00:49.1,123,75,90,96.9,Funny
+00:49.2,123,75,90,96.9,Funny
+00:49.3,123,75,90,96.9,Funny
+00:49.4,123,75,90,96.9,Funny
+00:49.5,123,75,90,96.9,Funny
+00:49.6,123,75,91,96.9,Funny
+00:49.7,123,75,91,96.9,Funny
+00:49.9,123,75,91,96.9,Funny
+00:50.0,123,75,91,96.9,Funny
+00:50.1,123,75,91,96.9,Funny
+00:50.2,123,75,90,96.9,Funny
+00:50.4,123,75,90,96.9,Funny
+00:50.5,123,75,90,96.9,Funny
+00:50.7,123,75,90,96.9,Funny
+00:50.8,123,75,90,96.9,Funny
+00:50.9,123,75,90,96.9,Funny
+00:51.0,123,75,90,96.9,Funny
+00:51.1,123,75,90,96.9,Funny
+00:51.3,123,75,90,96.9,Funny
+00:51.4,123,75,90,96.9,Funny
+00:51.5,123,75,90,96.9,Funny
+00:51.6,123,75,90,96.9,Funny
+00:51.7,123,75,90,96.9,Funny
+00:51.9,123,75,90,96.9,Funny
+00:52.0,123,75,90,96.9,Funny
+00:52.1,123,75,90,96.9,Funny
+00:52.4,123,75,90,96.9,Funny
+00:52.5,123,75,90,96.9,Funny
+00:52.7,123,75,90,96.9,Funny
+00:52.8,123,75,90,96.9,Funny
+00:52.9,123,75,90,96.9,Funny
+00:53.0,123,75,90,96.9,Funny
+00:53.1,123,75,90,96.9,Funny
+00:53.3,123,75,90,96.9,Funny
+00:53.4,123,75,90,96.9,Funny
+00:53.6,123,75,91,96.9,Funny
+00:53.7,123,75,91,96.9,Funny
+00:53.8,123,75,91,96.9,Funny
+00:53.9,123,75,91,96.9,Funny
+00:54.0,123,75,91,96.9,Funny
+00:54.1,123,75,91,96.9,Funny
+00:54.3,123,75,91,96.9,Funny
+00:54.5,123,75,91,96.9,Funny
+00:54.6,123,75,92,96.9,Funny
+00:54.7,123,75,92,96.9,Funny
+00:54.8,123,75,92,96.9,Funny
+00:54.9,123,75,92,96.9,Funny
+00:55.0,123,75,92,96.9,Funny
+00:55.1,123,75,92,96.9,Funny
+00:55.3,123,76,92,96.9,Funny
+00:55.5,123,76,92,96.9,Funny
+00:55.7,123,76,92,96.9,Funny
+00:55.8,123,76,92,96.9,Funny
+00:55.9,123,76,92,96.9,Funny
+00:56.0,123,76,92,96.9,Funny
+00:56.1,123,76,92,96.9,Funny
+00:56.3,123,76,92,96.9,Funny
+00:56.4,123,76,92,96.9,Funny
+00:56.6,123,76,92,96.9,Funny
+00:56.7,123,76,92,96.9,Funny
+00:56.8,123,76,92,96.9,Funny
+00:56.9,123,76,92,96.9,Funny
+00:57.0,123,76,92,96.9,Funny
+00:57.1,123,76,92,96.9,Funny
+00:57.2,123,76,92,96.9,Funny
+00:57.5,123,76,92,96.9,Funny
+00:57.6,123,76,92,96.9,Funny
+00:57.7,123,76,92,96.9,Funny
+00:57.8,123,76,92,96.9,Funny
+00:57.9,123,76,92,96.9,Funny
+00:58.0,123,76,92,96.9,Funny
+00:58.2,123,76,92,96.9,Funny
+00:58.4,123,76,92,96.9,Funny
+00:58.5,123,76,92,96.9,Funny
+00:58.6,123,76,92,96.9,Funny
+00:58.8,123,76,92,96.9,Funny
+00:58.9,123,76,92,96.9,Funny
+00:59.0,123,76,92,96.9,Funny
+00:59.2,123,76,92,96.9,Funny
+00:59.3,123,76,92,96.9,Funny
+00:59.4,123,76,92,96.9,Funny
+00:59.5,123,76,92,96.9,Funny
+00:59.7,123,76,92,96.9,Funny
+00:59.8,123,76,92,96.9,Funny
+00:59.9,123,76,92,96.9,Funny
+01:00.0,123,76,92,96.9,Funny
+01:00.2,123,76,92,96.9,Funny
+01:00.4,123,76,92,96.9,Funny
+01:00.5,123,76,92,96.9,Funny
+01:00.6,123,76,92,96.9,Funny
+01:00.8,123,76,92,96.9,Funny
+01:00.9,123,76,92,96.9,Funny
+01:01.0,123,76,92,96.9,Funny
+01:01.2,123,76,92,96.9,Funny
+01:01.3,123,76,92,96.9,Funny
+01:01.4,123,76,92,96.9,Funny
+01:01.5,123,76,92,96.9,Funny
+01:01.6,123,76,92,96.9,Funny
+01:01.7,123,76,92,96.9,Funny
+01:01.9,123,76,92,96.9,Funny
+01:02.0,123,76,92,96.9,Funny
+01:02.2,123,76,92,96.9,Funny
+01:02.3,123,76,92,96.9,Funny
+01:02.4,123,76,92,96.9,Funny
+01:02.5,123,76,92,96.9,Funny
+01:02.6,123,76,92,96.9,Funny
+01:02.8,123,76,92,96.9,Funny
+01:03.0,123,76,92,96.9,Funny
+01:03.1,123,76,92,96.9,Funny
+01:03.2,123,76,92,96.9,Funny
+01:03.3,123,76,92,96.9,Funny
+01:03.4,123,76,92,96.9,Funny
+01:03.5,123,76,92,96.9,Funny
+01:03.6,123,76,92,96.9,Funny
+01:03.8,123,76,92,96.9,Funny
+01:04.0,123,76,92,96.9,Funny
+01:04.2,123,76,92,96.9,Funny
+01:04.3,123,76,93,96.9,Funny
+01:04.4,123,76,93,96.9,Funny
+01:04.5,123,76,93,96.9,Funny
+01:04.6,123,76,93,96.9,Funny
+01:04.7,123,76,93,96.9,Funny
+01:04.8,123,76,93,96.9,Funny
+01:05.0,123,76,93,96.9,Funny
+01:05.2,123,76,93,96.9,Funny
+01:05.3,123,76,93,96.9,Funny
+01:05.4,123,76,93,96.9,Funny
+01:05.5,123,76,93,96.9,Funny
+01:05.6,123,76,93,96.9,Funny
+01:05.8,123,76,93,96.9,Funny
+01:06.0,123,76,93,96.9,Funny
+01:06.1,124,77,94,96.9,Funny
+01:06.2,124,77,94,96.9,Funny
+01:06.3,124,77,94,96.9,Funny
+01:06.4,124,77,94,96.9,Funny
+01:06.5,124,77,94,96.9,Funny
+01:06.6,124,77,94,96.9,Funny
+01:06.7,124,77,94,96.9,Funny
+01:06.8,124,77,94,96.9,Funny
+01:07.0,124,77,94,96.9,Funny
+01:07.1,124,77,94,96.9,Funny
+01:07.2,124,77,94,96.9,Funny
+01:07.3,124,77,94,96.9,Funny
+01:07.4,124,77,94,96.9,Funny
+01:07.5,124,77,94,96.9,Funny
+01:07.7,124,77,94,96.9,Funny
+01:07.9,124,77,94,96.9,Funny
+01:08.0,124,77,94,96.9,Funny
+01:08.1,124,77,94,96.9,Funny
+01:08.3,124,77,94,96.9,Funny
+01:08.4,124,77,94,96.9,Funny
+01:08.5,124,77,94,96.9,Funny
+01:08.6,124,77,94,96.9,Funny
+01:08.7,124,77,94,96.9,Funny
+01:09.0,124,77,94,96.9,Funny
+01:09.1,124,77,94,96.9,Funny
+01:09.1,124,77,94,96.9,Funny
+01:09.2,124,77,94,96.9,Funny
+01:09.4,124,77,94,96.9,Funny
+01:09.5,124,77,94,96.9,Funny
+01:09.7,124,77,94,96.9,Funny
+01:09.8,124,77,94,96.9,Funny
+01:09.9,124,77,94,96.9,Funny
+01:10.0,124,77,94,96.9,Funny
+01:10.1,124,77,94,96.9,Funny
+01:10.3,124,77,94,96.9,Funny
+01:10.4,124,77,94,96.9,Funny
+01:10.4,124,77,94,96.9,Funny
+01:10.6,124,77,94,96.9,Funny
+01:10.7,124,77,94,96.9,Funny
+01:10.9,124,77,94,96.9,Funny
+01:11.0,124,77,94,96.9,Funny
+01:11.1,124,77,94,96.9,Funny
+01:11.3,124,77,94,96.9,Funny
+01:11.4,124,77,94,96.9,Funny
+01:11.5,124,77,94,96.9,Funny
+01:11.7,124,77,94,96.9,Funny
+01:11.8,124,77,94,96.9,Funny
+01:11.9,124,77,94,96.9,Funny
+01:12.0,124,77,94,96.9,Funny
+01:12.1,124,77,94,96.9,Funny
+01:12.2,124,77,94,96.9,Funny
+01:12.4,124,77,95,96.9,Funny
+01:12.5,124,77,95,96.9,Funny
+01:12.7,124,77,95,96.9,Funny
+01:12.8,124,77,95,96.9,Funny
+01:12.9,124,77,95,96.9,Funny
+01:13.0,124,77,95,96.9,Funny
+01:13.1,124,77,95,96.9,Funny
+01:13.3,124,77,95,96.9,Funny
+01:13.5,124,77,95,96.9,Funny
+01:13.6,124,77,95,96.9,Funny
+01:13.7,124,77,95,96.9,Funny
+01:13.8,124,77,95,96.9,Funny
+01:13.9,124,77,95,96.9,Funny
+01:14.0,124,77,95,96.9,Funny
+01:14.1,124,77,95,96.9,Funny
+01:14.3,124,78,95,97,Funny
+01:14.5,124,78,95,97,Funny
+01:14.7,124,78,95,97,Funny
+01:14.8,124,78,95,97.1,Funny
+01:14.9,124,78,95,97.1,Funny
+01:15.0,124,78,95,97.1,Funny
+01:15.1,124,78,95,97.1,Funny
+01:15.3,124,78,95,97.1,Funny
+01:15.4,124,78,95,97.1,Funny
+01:15.6,124,78,95,97.2,Funny
+01:15.7,124,78,95,97.2,Funny
+01:15.8,124,78,95,97.2,Funny
+01:15.9,124,78,95,97.2,Funny
+01:16.0,124,78,95,97.2,Funny
+01:16.1,125,78,95,97.2,Funny
+01:16.3,125,78,95,97.2,Funny
+01:16.5,125,78,95,97.2,Funny
+01:16.7,125,78,95,97.2,Funny
+01:16.8,125,78,95,97.2,Funny
+01:16.9,125,78,95,97.2,Funny
+01:17.0,125,78,95,97.2,Funny
+01:17.2,125,78,95,97.2,Funny
+01:17.3,125,78,95,97.2,Funny
+01:17.5,125,78,95,97.2,Funny
+01:17.6,125,78,95,97.2,Funny
+01:17.7,125,78,95,97.2,Funny
+01:17.8,125,78,95,97.2,Funny
+01:17.9,125,78,95,97.2,Funny
+01:18.0,125,78,95,97.2,Funny
+01:18.1,125,78,95,97.4,Funny
+01:18.2,125,78,95,97.4,Funny
+01:18.4,125,78,95,97.4,Funny
+01:18.6,125,78,95,97.4,Funny
+01:18.7,125,78,95,97.4,Funny
+01:18.8,125,78,95,97.4,Funny
+01:18.9,125,78,95,97.4,Funny
+01:19.0,125,78,95,97.4,Funny
+01:19.2,125,78,95,97.4,Funny
+01:19.3,125,78,95,97.5,Funny
+01:19.4,125,78,95,97.5,Funny
+01:19.5,125,78,95,97.5,Funny
+01:19.6,125,78,95,97.5,Funny
+01:19.7,125,78,96,97.5,Funny
+01:19.9,125,78,96,97.5,Funny
+01:20.0,125,78,96,97.5,Funny
+01:20.2,125,78,96,97.5,Funny
+01:20.3,125,78,96,98.1,Funny
+01:20.4,125,78,96,98.1,Funny
+01:20.5,125,78,96,98.1,Funny
+01:20.6,125,78,96,98.1,Funny
+01:20.8,125,78,96,98.1,Funny
+01:21.1,125,78,96,98.1,Funny
+01:21.2,125,78,96,98.1,Funny
+01:21.3,125,78,96,98.1,Funny
+01:21.4,125,78,96,98.1,Funny
+01:21.5,125,78,96,98.2,Funny
+01:21.6,125,78,96,98.2,Funny
+01:21.8,125,78,96,98.2,Funny
+01:22.0,125,78,96,98.2,Funny
+01:22.1,125,78,96,98.2,Funny
+01:22.2,125,78,96,98.2,Funny
+01:22.3,125,78,96,98.2,Funny
+01:22.4,125,78,96,98.2,Funny
+01:22.5,125,78,96,98.2,Funny
+01:22.6,125,78,96,98.2,Funny
+01:22.7,125,78,96,98.2,Funny
+01:22.8,125,78,97,98.2,Funny
+01:23.0,125,78,97,98.2,Funny
+01:23.2,125,78,97,98.2,Funny
+01:23.3,125,78,97,98.2,Funny
+01:23.4,125,78,97,98.2,Rest
+01:23.5,125,78,97,98.2,Rest
+01:23.6,125,78,97,98.2,Rest
+01:23.8,125,78,97,98.2,Rest
+01:23.9,125,78,97,98.2,Rest
+01:24.1,125,78,97,98.2,Rest
+01:24.2,125,78,97,98.2,Rest
+01:24.3,125,78,97,98.2,Rest
+01:24.4,125,78,97,98.2,Rest
+01:24.5,126,79,97,98.2,Rest
+01:24.6,126,79,97,98.2,Rest
+01:24.8,126,79,97,98.2,Rest
+01:25.0,126,79,97,98.2,Rest
+01:25.1,126,79,98,98.6,Rest
+01:25.2,126,79,98,98.6,Rest
+01:25.3,126,79,98,98.6,Rest
+01:25.4,126,79,98,98.6,Rest
+01:25.5,126,79,98,98.6,Rest
+01:25.8,126,79,98,98.6,Rest
+01:26.0,126,79,98,98.6,Rest
+01:26.1,126,79,98,98.6,Rest
+01:26.2,126,79,98,98.6,Rest
+01:26.3,126,79,98,98.6,Rest
+01:26.4,126,79,98,98.6,Rest
+01:26.5,126,79,98,98.6,Rest
+01:26.7,126,79,98,98.6,Rest
+01:26.8,126,79,98,98,Rest
+01:27.0,126,79,98,98,Rest
+01:27.1,126,79,98,98,Rest
+01:27.2,126,79,98,98,Rest
+01:27.3,126,79,98,98,Rest
+01:27.4,126,79,98,98,Rest
+01:27.5,126,79,98,98,Rest
+01:27.6,127,79,98,98,Rest
+01:27.7,127,79,98,98,Rest
+01:28.0,127,79,98,98,Rest
+01:28.1,127,79,98,97.9,Rest
+01:28.2,127,79,98,97.9,Rest
+01:28.3,127,79,98,97.9,Rest
+01:28.4,127,79,98,97.9,Rest
+01:28.5,127,79,98,97.9,Rest
+01:28.7,127,79,98,97.9,Rest
+01:28.8,127,79,98,97.9,Rest
+01:29.0,127,79,98,97.9,Rest
+01:29.1,127,79,98,97.9,Rest
+01:29.2,127,79,98,97.9,Rest
+01:29.3,127,79,98,97.9,Rest
+01:29.6,127,79,98,97.9,Rest
+01:29.7,127,79,98,97.9,Rest
+01:29.8,127,79,98,97.9,Rest
+01:29.9,127,79,98,97.9,Rest
+01:30.0,127,79,98,97.9,Rest
+01:30.1,127,79,98,97.9,Rest
+01:30.3,127,79,98,97.9,Rest
+01:30.3,127,79,98,97.9,Rest
+01:30.5,127,79,98,97.9,Rest
+01:30.8,127,79,98,97.7,Rest
+01:30.9,127,79,98,97.7,Rest
+01:31.0,127,79,98,97.7,Rest
+01:31.1,127,79,98,97.7,Rest
+01:31.2,127,79,98,97.7,Rest
+01:31.3,128,80,99,97.7,Rest
+01:31.5,128,80,99,97.7,Rest
+01:31.7,128,80,99,97.7,Rest
+01:31.8,128,80,99,97.7,Rest
+01:31.9,128,80,99,97.7,Rest
+01:32.0,128,80,99,97.7,Rest
+01:32.1,128,80,99,97.7,Rest
+01:32.3,128,80,99,97.7,Rest
+01:32.4,128,80,99,97.7,Rest
+01:32.6,128,80,99,97.7,Rest
+01:32.7,128,80,99,97.7,Rest
+01:32.8,128,80,99,97.7,Rest
+01:32.9,128,80,99,97.7,Rest
+01:33.0,128,80,99,97.7,Rest
+01:33.1,128,80,98,97.7,Rest
+01:33.3,128,80,98,97.7,Rest
+01:33.5,128,80,98,97.7,Rest
+01:33.6,128,80,98,97.7,Rest
+01:33.7,128,80,99,97.6,Rest
+01:33.9,128,80,99,97.6,Rest
+01:34.0,128,80,99,97.6,Rest
+01:34.1,128,80,99,97.6,Rest
+01:34.2,128,80,99,97.6,Rest
+01:34.3,128,80,98,97.6,Rest
+01:34.5,128,80,98,97.6,Rest
+01:34.7,128,80,98,97.6,Rest
+01:34.8,128,80,98,97.6,Rest
+01:34.9,128,80,98,97.6,Rest
+01:35.1,128,80,98,97.6,Rest
+01:35.3,128,80,98,97.6,Rest
+01:35.5,128,80,98,97.6,Rest
+01:35.6,128,80,98,97.6,Rest
+01:35.7,128,80,98,97.6,Rest
+01:35.8,128,80,98,97.6,Rest
+01:35.9,128,80,98,97.6,Rest
+01:36.0,128,80,98,97.6,Rest
+01:36.2,128,80,98,97.6,Rest
+01:36.3,128,80,98,97.6,Rest
+01:36.5,128,80,98,97.6,Rest
+01:36.6,128,80,98,97.6,Rest
+01:36.7,128,80,98,97.6,Rest
+01:36.8,128,80,99,97.6,Rest
+01:36.9,128,80,99,97.6,Rest
+01:37.0,128,80,99,97.6,Rest
+01:37.2,128,80,99,97.6,Rest
+01:37.5,128,81,99,97.4,Rest
+01:37.6,128,81,99,97.4,Rest
+01:37.8,128,81,99,97.4,Rest
+01:37.9,128,81,99,97.4,Rest
+01:38.0,128,81,99,97.4,Rest
+01:38.1,128,81,99,97.4,Rest
+01:38.2,128,81,99,97.4,Rest
+01:38.4,128,81,99,97.4,Rest
+01:38.6,128,81,99,97.5,Rest
+01:38.6,128,81,99,97.5,Rest
+01:38.8,128,81,99,97.5,Rest
+01:38.9,128,81,99,97.5,Rest
+01:39.0,128,81,99,97.5,Rest
+01:39.2,128,81,99,97.5,Rest
+01:39.3,129,81,99,97.5,Rest
+01:39.4,129,81,99,97.5,Rest
+01:39.5,129,81,99,97.5,Rest
+01:39.6,129,81,99,97.5,Rest
+01:39.7,129,81,99,97.5,Rest
+01:39.8,129,82,100,97.5,Rest
+01:40.0,129,82,100,97.5,Rest
+01:40.2,129,82,100,97.5,Rest
+01:40.3,129,82,100,97.5,Rest
+01:40.4,129,82,100,97.5,Rest
+01:40.5,129,82,99,97.5,Rest
+01:40.6,129,82,99,97.5,Rest
+01:40.8,129,82,99,97.5,Rest
+01:41.0,129,82,99,97.5,Rest
+01:41.2,129,82,99,97.5,Rest
+01:41.3,129,82,100,97.2,Rest
+01:41.4,129,82,100,97.2,Rest
+01:41.5,129,82,100,97.2,Rest
+01:41.6,129,82,100,97.2,Rest
+01:41.8,129,82,100,97.2,Rest
+01:41.8,130,83,100,97.2,Rest
+01:42.0,130,83,100,97.2,Rest
+01:42.2,130,83,100,97.2,Rest
+01:42.3,130,83,100,97.2,Stress Ball
+01:42.4,130,83,100,97.2,Stress Ball
+01:42.5,130,83,100,97.7,Stress Ball
+01:42.6,130,83,100,97.7,Stress Ball
+01:42.8,130,83,100,97.7,Stress Ball
+01:43.0,130,83,100,97.7,Stress Ball
+01:43.1,130,83,100,97.5,Stress Ball
+01:43.2,130,83,100,97.5,Stress Ball
+01:43.3,130,83,100,97.5,Stress Ball
+01:43.4,130,83,100,97.5,Stress Ball
+01:43.5,130,83,100,97.5,Stress Ball
+01:43.6,130,83,100,97.5,Stress Ball
+01:43.7,130,83,100,97.5,Stress Ball
+01:43.8,129,82,100,97.5,Stress Ball
+01:44.0,129,82,100,97.5,Stress Ball
+01:44.2,129,82,100,97.5,Stress Ball
+01:44.3,129,82,100,97.5,Stress Ball
+01:44.4,129,82,100,97.5,Stress Ball
+01:44.5,129,82,100,97.5,Stress Ball
+01:44.6,129,82,100,97.5,Stress Ball
+01:44.8,129,82,100,97.5,Stress Ball
+01:44.9,129,82,100,97.5,Stress Ball
+01:45.1,129,83,100,97.3,Stress Ball
+01:45.2,129,83,100,97.3,Stress Ball
+01:45.3,129,83,100,97.3,Stress Ball
+01:45.4,129,83,100,97.3,Stress Ball
+01:45.5,129,83,100,97.3,Stress Ball
+01:45.6,129,83,99,97.3,Stress Ball
+01:45.8,129,83,99,97.3,Stress Ball
+01:46.0,129,83,99,97.3,Stress Ball
+01:46.1,129,83,99,97.3,Stress Ball
+01:46.2,129,83,99,97.3,Stress Ball
+01:46.2,129,83,100,97.3,Stress Ball
+01:46.4,129,83,100,97.3,Stress Ball
+01:46.5,129,83,100,97.3,Stress Ball
+01:46.7,129,83,100,97.3,Stress Ball
+01:46.8,129,83,100,97.6,Stress Ball
+01:47.0,129,83,100,97.6,Stress Ball
+01:47.1,129,83,100,97.6,Stress Ball
+01:47.2,129,83,100,97.6,Stress Ball
+01:47.3,129,83,100,97.6,Stress Ball
+01:47.4,129,83,100,97.6,Stress Ball
+01:47.5,129,83,100,97.6,Stress Ball
+01:47.7,129,83,100,97.6,Stress Ball
+01:47.9,129,83,100,97.6,Stress Ball
+01:48.0,130,82,100,97.1,Stress Ball
+01:48.1,130,82,100,97.1,Stress Ball
+01:48.3,130,82,100,97.1,Stress Ball
+01:48.4,130,82,100,97.1,Stress Ball
+01:48.5,130,82,100,97.1,Stress Ball
+01:48.6,130,82,100,97.2,Stress Ball
+01:48.7,130,82,100,97.2,Stress Ball
+01:49.0,130,82,100,97.2,Stress Ball
+01:49.0,130,82,100,97.2,Stress Ball
+01:49.1,130,82,100,97.2,Stress Ball
+01:49.2,130,82,101,97.2,Stress Ball
+01:49.3,130,82,101,97.1,Stress Ball
+01:49.5,130,82,101,97.1,Stress Ball
+01:49.7,130,82,101,97.1,Stress Ball
+01:49.8,130,82,101,97.2,Stress Ball
+01:49.9,130,82,101,97.2,Stress Ball
+01:50.0,130,82,101,97.2,Stress Ball
+01:50.1,130,82,101,97.2,Stress Ball
+01:50.3,130,82,101,97.2,Stress Ball
+01:50.6,130,82,101,97.2,Stress Ball
+01:50.7,130,82,101,97.2,Stress Ball
+01:50.8,130,82,101,97.2,Stress Ball
+01:50.9,130,82,101,97.2,Stress Ball
+01:51.0,131,82,101,97.3,Stress Ball
+01:51.1,131,82,101,97.3,Stress Ball
+01:51.3,131,82,101,97.3,Stress Ball
+01:51.5,131,82,101,97.3,Stress Ball
+01:51.7,131,82,101,97.3,Stress Ball
+01:51.8,131,82,100,97.3,Stress Ball
+01:51.9,131,82,100,97.3,Stress Ball
+01:52.0,131,82,100,97.3,Stress Ball
+01:52.1,131,82,100,97.3,Stress Ball
+01:52.2,131,82,100,97.3,Stress Ball
+01:52.3,131,82,100,97.2,Stress Ball
+01:52.5,131,82,100,97.2,Stress Ball
+01:52.7,131,82,100,97.2,Stress Ball
+01:52.8,131,82,101,97.4,Stress Ball
+01:52.9,131,82,101,97.4,Stress Ball
+01:53.0,131,82,101,97.4,Stress Ball
+01:53.1,131,82,101,97.4,Stress Ball
+01:53.3,131,82,101,97.4,Stress Ball
+01:53.4,131,82,101,97.4,Stress Ball
+01:53.6,131,82,101,97.4,Stress Ball
+01:53.7,131,82,101,97.4,Stress Ball
+01:53.8,131,82,101,97.4,Stress Ball
+01:53.9,131,82,101,97.4,Stress Ball
+01:54.0,131,82,101,97.4,Stress Ball
+01:54.1,130,82,101,97.4,Stress Ball
+01:54.3,130,82,101,97.4,Stress Ball
+01:54.5,130,82,101,97.4,Stress Ball
+01:54.7,130,82,101,97.4,Stress Ball
+01:54.8,130,82,100,97.1,Stress Ball
+01:54.9,130,82,100,97.1,Stress Ball
+01:55.0,130,82,100,97.1,Stress Ball
+01:55.1,130,82,100,97.1,Stress Ball
+01:55.2,130,82,100,97.1,Stress Ball
+01:55.3,130,82,101,97.6,Stress Ball
+01:55.5,130,82,101,97.6,Stress Ball
+01:55.7,130,82,101,97.6,Stress Ball
+01:55.8,130,82,101,97.6,Stress Ball
+01:55.9,130,82,101,97.6,Stress Ball
+01:56.1,130,82,101,97.6,Stress Ball
+01:56.2,130,82,101,97.6,Stress Ball
+01:56.4,130,82,101,97.6,Stress Ball
+01:56.6,130,82,101,97.5,Stress Ball
+01:56.7,130,82,101,97.5,Stress Ball
+01:56.8,130,82,101,97.5,Stress Ball
+01:56.9,130,82,101,97.5,Stress Ball
+01:57.0,130,82,101,97.5,Stress Ball
+01:57.1,131,82,101,97.5,Stress Ball
+01:57.2,131,82,101,97.5,Stress Ball
+01:57.5,131,82,101,97.5,Stress Ball
+01:57.6,131,82,101,97.5,Stress Ball
+01:57.6,131,82,101,97.5,Stress Ball
+01:57.7,131,82,100,97.5,Stress Ball
+01:57.8,131,82,100,97.5,Stress Ball
+01:58.0,131,82,100,97.5,Rest
+01:58.2,131,82,100,97.5,Rest
+01:58.3,131,83,100,97.5,Rest
+01:58.5,131,83,100,97.5,Rest
+01:58.6,131,83,100,97.5,Rest
+01:58.7,131,83,100,97.5,Rest
+01:58.8,131,83,100,97.5,Rest
+01:59.1,131,83,101,97.6,Rest
+01:59.2,131,83,101,97.6,Rest
+01:59.3,131,83,101,97.6,Rest
+01:59.4,131,83,101,97.6,Rest
+01:59.5,131,83,101,97.6,Rest
+01:59.6,131,83,101,97.6,Rest
+01:59.8,131,83,101,97.6,Rest
+01:59.8,131,83,101,97.6,Rest
+02:00.0,131,83,101,97.6,Rest
+02:00.1,131,83,100,97.6,Rest
+02:00.2,131,83,100,97.6,Rest
+02:00.4,131,83,100,97.6,Rest
+02:00.5,131,83,100,97.6,Rest
+02:00.6,131,83,100,97.6,Rest
+02:00.8,132,83,101,97.8,Rest
+02:01.0,132,83,101,97.8,Rest
+02:01.2,132,83,101,97.8,Rest
+02:01.3,132,83,101,97.8,Rest
+02:01.4,132,83,101,97.8,Rest
+02:01.5,132,83,101,97.8,Rest
+02:01.6,132,83,101,97.8,Rest
+02:01.8,132,83,101,97.8,Rest
+02:01.8,132,84,101,97.8,Rest
+02:02.0,132,84,101,97.8,Rest
+02:02.2,132,84,101,97.8,Rest
+02:02.3,132,84,101,97.8,Rest
+02:02.4,132,84,101,97.8,Rest
+02:02.5,133,84,101,97.6,Rest
+02:02.6,133,84,101,97.6,Rest
+02:02.8,133,84,101,97.6,Rest
+02:03.0,133,84,101,97.6,Rest
+02:03.1,133,85,101,97.6,Rest
+02:03.2,133,85,101,97.6,Rest
+02:03.3,133,85,101,97.6,Rest
+02:03.4,133,85,101,97.6,Rest
+02:03.5,133,85,101,97.6,Rest
+02:03.6,133,85,101,97.6,Rest
+02:03.7,133,85,101,97.6,Rest
+02:03.8,133,85,101,97.6,Rest
+02:04.0,133,85,101,97.6,Rest
+02:04.2,133,85,101,97.6,Rest
+02:04.3,133,85,101,97.5,Hand at Rest
+02:04.4,133,85,101,97.5,Hand at Rest
+02:04.5,133,85,101,97.5,Hand at Rest
+02:04.6,133,85,101,97.5,Hand at Rest
+02:04.8,133,85,101,97.5,Hand at Rest
+02:05.0,133,85,101,97.5,Hand at Rest
+02:05.1,134,86,101,97.5,Hand at Rest
+02:05.2,134,86,101,97.5,Hand at Rest
+02:05.3,134,86,101,97.5,Hand at Rest
+02:05.4,134,86,101,97.5,Hand at Rest
+02:05.5,134,86,101,97.5,Hand at Rest
+02:05.7,134,86,101,97.5,Hand at Rest
+02:05.8,130,84,100,97.5,Hand at Rest
+02:06.0,130,84,100,97.5,Hand at Rest
+02:06.2,130,84,100,97.5,Hand at Rest
+02:06.3,130,84,100,97.5,Hand at Rest
+02:06.4,130,84,100,97.5,Hand at Rest
+02:06.6,131,84,100,97.5,Hand at Rest
+02:06.7,131,84,100,97.5,Hand at Rest
+02:06.9,131,84,100,97.5,Hand at Rest
+02:07.1,131,84,100,97.6,Hand at Rest
+02:07.2,131,84,100,97.6,Hand at Rest
+02:07.3,131,84,100,97.6,Hand at Rest
+02:07.4,131,84,100,97.6,Hand at Rest
+02:07.5,131,84,100,97.6,Hand at Rest
+02:07.7,131,84,100,97.6,Hand at Rest
+02:07.8,131,85,99,97.6,Hand at Rest
+02:08.0,131,85,99,97.6,Hand at Rest
+02:08.1,131,85,99,97.6,Hand at Rest
+02:08.2,131,85,99,97.6,Hand at Rest
+02:08.3,131,85,99,97.6,Hand at Rest
+02:08.4,131,85,99,97.6,Hand at Rest
+02:08.6,131,85,98,97.6,Hand at Rest
+02:08.7,131,85,98,97.6,Hand at Rest
+02:08.9,131,85,98,97.6,Hand at Rest
+02:09.0,131,86,98,97.6,Hand at Rest
+02:09.1,131,86,98,97.6,Hand at Rest
+02:09.3,131,86,98,97.6,Hand at Rest
+02:09.3,131,86,98,97.6,Hand at Rest
+02:09.5,131,86,98,97.6,Hand at Rest
+02:09.7,131,86,98,97.6,Hand at Rest
+02:09.8,131,86,98,97.7,Hand at Rest
+02:09.9,131,86,98,97.7,Hand at Rest
+02:10.0,131,86,98,97.7,Hand at Rest
+02:10.1,131,86,98,97.7,Hand at Rest
+02:10.3,131,86,98,97.7,Hand at Rest
+02:10.4,131,86,98,97.7,Hand at Rest
+02:10.6,131,86,97,97.7,Hand at Rest
+02:10.7,131,86,97,97.7,Hand at Rest
+02:10.8,131,86,97,97.7,Hand at Rest
+02:10.9,131,86,97,97.7,Hand at Rest
+02:11.0,131,86,97,97.7,Hand at Rest
+02:11.1,131,86,97,97.7,Hand at Rest
+02:11.3,131,86,96,97.7,Hand at Rest
+02:11.5,131,86,96,97.7,Hand at Rest
+02:11.7,131,86,96,97.7,Hand at Rest
+02:11.8,130,86,95,97.7,Hand at Rest
+02:11.9,130,86,95,97.7,Hand at Rest
+02:12.0,130,86,95,97.7,Hand at Rest
+02:12.1,130,86,95,97.7,Hand at Rest
+02:12.3,130,86,95,97.7,Hand at Rest
+02:12.4,130,86,95,97.7,Hand at Rest
+02:12.6,130,85,95,97.6,Hand at Rest
+02:12.7,130,85,95,97.6,Hand at Rest
+02:12.8,130,85,95,97.6,Hand at Rest
+02:12.9,130,85,95,97.6,Hand at Rest
+02:13.0,130,85,95,97.6,Hand at Rest
+02:13.1,130,85,95,97.6,Hand at Rest
+02:13.3,130,85,95,97.6,Hand at Rest
+02:13.5,130,85,95,97.6,Hand at Rest
+02:13.7,130,85,95,97.6,Hand at Rest
+02:13.8,129,85,94,97.5,Hand at Rest
+02:13.9,129,85,94,97.5,Hand at Rest
+02:14.0,129,85,94,97.5,Hand at Rest
+02:14.1,129,85,94,97.5,Hand at Rest
+02:14.3,129,85,94,97.5,Hand at Rest
+02:14.4,129,85,94,97.5,Hand at Rest
+02:14.6,128,85,94,97.6,Hand at Rest
+02:14.7,128,85,94,97.6,Hand at Rest
+02:14.8,128,85,94,97.6,Hand at Rest
+02:14.9,128,85,94,97.6,Hand at Rest
+02:15.0,128,85,94,97.6,Hand at Rest
+02:15.3,128,85,94,97.6,Hand at Rest
+02:15.4,128,85,94,97.6,Hand at Rest
+02:15.6,128,85,94,97.6,Hand at Rest
+02:15.7,128,85,94,97.6,Hand at Rest
+02:15.8,127,84,93,97.6,Hand at Rest
+02:15.9,127,84,93,97.6,Hand at Rest
+02:16.0,127,84,93,97.6,Hand at Rest
+02:16.2,127,84,93,97.6,Hand at Rest
+02:16.5,127,84,93,97.6,Hand at Rest
+02:16.6,126,84,92,97.6,Hand at Rest
+02:16.7,126,84,92,97.6,Hand at Rest
+02:16.8,126,84,92,97.6,Hand at Rest
+02:16.9,126,84,92,97.6,Hand at Rest
+02:17.0,126,84,92,97.6,Hand at Rest
+02:17.2,126,84,92,97.6,Hand at Rest
+02:17.3,126,84,92,97.6,Hand at Rest
+02:17.5,126,84,92,97.6,Hand at Rest
+02:17.6,126,84,92,97.6,Hand at Rest
+02:17.7,126,84,92,97.6,Hand at Rest
+02:17.8,126,84,92,97.6,Hand at Rest
+02:17.8,125,84,92,97.6,Hand at Rest
+02:18.0,125,84,92,97.7,Hand at Rest
+02:18.2,125,84,92,97.7,Hand at Rest
+02:18.4,125,84,92,97.7,Hand at Rest
+02:18.5,125,80,92,97.7,Hand at Rest
+02:18.6,125,80,92,97.7,Hand at Rest
+02:18.8,125,80,92,97.7,Hand at Rest
+02:18.8,125,80,92,97.7,Rest
+02:19.0,125,80,92,97.7,Rest
+02:19.2,125,80,92,97.7,Rest
+02:19.3,125,80,91,97.7,Rest
+02:19.4,125,80,91,97.7,Rest
+02:19.5,125,80,91,97.7,Rest
+02:19.6,125,80,91,97.7,Rest
+02:19.8,125,80,91,97.7,Rest
+02:19.8,125,81,91,97.7,Rest
+02:20.0,125,81,91,97.8,Rest
+02:20.2,125,81,91,97.8,Rest
+02:20.3,125,81,91,97.8,Rest
+02:20.4,125,81,91,97.8,Rest
+02:20.5,125,81,92,97.8,Rest
+02:20.6,125,81,92,97.8,Rest
+02:20.8,125,81,92,97.8,Rest
+02:21.0,125,81,92,97.8,Rest
+02:21.3,125,81,91,97.6,Rest
+02:21.4,125,81,91,97.6,Rest
+02:21.5,125,81,91,97.6,Rest
+02:21.6,125,81,91,97.6,Rest
+02:21.7,125,81,91,97.6,Rest
+02:21.8,125,81,91,97.5,Rest
+02:22.0,125,81,91,97.5,Rest
+02:22.2,125,81,91,97.5,Rest
+02:22.3,125,81,91,97.5,Rest
+02:22.4,125,81,91,97.5,Rest
+02:22.6,125,81,91,97.5,Rest
+02:22.8,125,81,91,97.5,Rest
+02:22.9,125,81,91,97.5,Rest
+02:23.1,125,82,92,97.6,Rest
+02:23.2,125,82,92,97.6,Rest
+02:23.3,125,82,92,97.6,Rest
+02:23.4,125,82,92,97.6,Rest
+02:23.5,125,82,92,97.6,Fist
+02:23.6,125,82,92,97.7,Fist
+02:23.8,125,82,92,97.7,Fist
+02:24.0,125,82,92,97.7,Fist
+02:24.1,125,82,92,97.7,Fist
+02:24.2,125,82,92,97.7,Fist
+02:24.3,125,83,92,97.8,Fist
+02:24.4,125,83,92,97.8,Fist
+02:24.5,125,83,92,97.8,Fist
+02:24.7,125,83,92,97.8,Fist
+02:24.8,126,83,92,97.8,Fist
+02:25.0,126,83,92,97.8,Fist
+02:25.1,126,83,92,97.8,Fist
+02:25.2,126,83,92,97.8,Fist
+02:25.3,126,83,92,97.8,Fist
+02:25.4,126,83,92,97.8,Fist
+02:25.5,126,83,92,97.8,Fist
+02:25.6,126,83,93,97.7,Fist
+02:25.7,126,83,93,97.7,Fist
+02:26.0,126,83,93,97.7,Fist
+02:26.1,126,83,93,97.9,Fist
+02:26.2,126,83,93,97.9,Fist
+02:26.3,126,83,93,97.9,Fist
+02:26.4,126,83,93,97.9,Fist
+02:26.5,126,83,93,97.9,Fist
+02:26.7,126,83,93,97.9,Fist
+02:26.8,126,83,93,97.8,Fist
+02:26.9,126,83,93,97.8,Fist
+02:27.1,126,83,93,97.8,Fist
+02:27.1,126,83,93,97.8,Fist
+02:27.3,126,83,93,97.8,Fist
+02:27.3,126,83,93,98,Fist
+02:27.5,126,83,93,98,Fist
+02:27.7,126,83,93,98,Fist
+02:27.8,126,83,93,98,Fist
+02:27.9,126,83,93,98,Fist
+02:28.0,126,82,94,98.1,Fist
+02:28.1,126,82,94,98.1,Fist
+02:28.3,126,82,94,98.1,Fist
+02:28.3,126,82,94,98.1,Fist
+02:28.5,126,82,94,98.1,Fist
+02:28.6,126,82,94,98.2,Fist
+02:28.7,126,82,94,98.2,Fist
+02:28.8,126,82,94,98.2,Fist
+02:28.9,126,82,94,98.2,Fist
+02:29.0,126,82,94,98.2,Fist
+02:29.1,126,82,94,98.2,Fist
+02:29.3,126,82,94,98.2,Fist
+02:29.5,126,82,94,98.2,Fist
+02:29.7,126,82,94,98.2,Fist
+02:29.8,126,81,95,98.1,Fist
+02:29.9,126,81,95,98.1,Fist
+02:30.0,126,81,95,98.1,Fist
+02:30.1,126,81,95,98.1,Fist
+02:30.2,126,81,95,98.1,Fist
+02:30.3,126,80,95,98.1,Fist
+02:30.5,126,80,95,98.1,Fist
+02:30.7,126,80,95,98.1,Fist
+02:30.8,126,79,95,98,Fist
+02:30.9,126,79,95,98,Fist
+02:31.0,126,79,95,98,Fist
+02:31.1,126,79,95,98,Fist
+02:31.3,126,79,95,98,Fist
+02:31.4,126,79,95,98,Fist
+02:31.6,127,79,96,98,Fist
+02:31.7,127,79,96,98,Fist
+02:31.8,127,79,96,98,Fist
+02:31.9,127,79,96,98,Fist
+02:32.0,127,79,96,98,Fist
+02:32.1,127,78,96,97.8,Fist
+02:32.3,127,78,96,97.8,Fist
+02:32.5,127,78,96,97.8,Fist
+02:32.6,127,78,96,97.8,Fist
+02:32.8,131,85,96,97.8,Fist
+02:32.9,131,85,96,97.8,Fist
+02:33.0,131,85,96,97.8,Fist
+02:33.1,131,85,96,97.8,Fist
+02:33.2,131,85,96,97.8,Fist
+02:33.3,131,85,96,97.5,Fist
+02:33.5,131,85,96,97.5,Fist
+02:33.7,131,85,96,97.5,Fist
+02:33.8,131,85,96,97.5,Fist
+02:34.1,131,85,96,97.1,Fist
+02:34.3,131,85,96,97.1,Fist
+02:34.5,131,85,96,97.1,Fist
+02:34.6,131,86,96,97.1,Fist
+02:34.7,131,86,96,97.1,Fist
+02:34.8,131,86,96,97.1,Fist
+02:34.9,131,86,96,97.1,Fist
+02:35.0,131,86,96,97.1,Fist
+02:35.2,131,86,96,97.1,Fist
+02:35.3,131,86,96,97,Fist
+02:35.5,131,86,96,97,Fist
+02:35.6,131,86,96,97,Fist
+02:35.7,131,86,96,97,Fist
+02:35.8,131,86,96,96.7,Fist
+02:35.9,131,86,96,96.7,Fist
+02:36.0,131,86,96,96.7,Fist
+02:36.2,131,86,96,96.7,Fist
+02:36.5,131,86,96,96.7,Fist
+02:36.6,131,86,96,96.7,Fist
+02:36.8,131,86,96,96.7,Fist
+02:36.9,131,86,96,96.7,Fist
+02:37.0,131,86,96,96.7,Fist
+02:37.1,131,86,96,96.7,Fist
+02:37.2,131,86,96,96.7,Fist
+02:37.4,131,86,96,96.7,Fist
+02:37.5,131,86,96,96.7,Fist
+02:37.6,131,86,96,96.7,Fist
+02:37.8,132,87,96,96.6,Fist
+02:38.0,132,87,96,96.6,Fist
+02:38.2,132,87,96,96.6,Fist
+02:38.3,132,87,96,96.6,Fist
+02:38.4,132,87,96,96.6,Fist
+02:38.5,132,87,96,96.6,Fist
+02:38.6,132,87,96,96.6,Fist
+02:38.8,132,87,96,96.6,Fist
+02:38.8,131,87,96,96.6,Fist

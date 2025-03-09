@@ -1,0 +1,3883 @@
+Datetime,hr,spo2,stress_state,GSR(kohm),Features
+14:25.9,94,95.5,0,679.8,Standing
+14:26.0,94,95.5,0,685.34,Standing
+14:26.1,94,95.5,0,685.34,Standing
+14:26.3,94,95.5,0,693.71,Standing
+14:26.5,94,95.5,0,699.34,Standing
+14:26.6,94,95.5,0,705.0,Standing
+14:26.7,94,95.5,0,707.85,Standing
+14:26.8,94,95.5,0,710.7,Standing
+14:26.9,94,95.5,0,713.57,Standing
+14:27.0,93,95.5,0,719.33,Standing
+14:27.1,93,95.5,0,719.33,Standing
+14:27.4,93,95.5,0,722.22,Standing
+14:27.6,93,95.5,0,722.22,Standing
+14:27.6,94,95.5,0,722.22,Standing
+14:27.8,94,95.5,0,725.13,Standing
+14:27.9,94,95.5,0,725.13,Standing
+14:28.0,94,95.5,0,725.13,Standing
+14:28.1,94,95.5,0,725.13,Standing
+14:28.2,95,95.5,0,725.13,Standing
+14:28.4,95,95.5,0,722.22,Standing
+14:28.6,95,95.5,0,719.33,Standing
+14:28.7,95,95.5,0,716.44,Standing
+14:28.8,95,95.5,0,713.57,Standing
+14:29.0,96,95.5,0,707.85,Standing
+14:29.1,96,95.5,0,707.85,Standing
+14:29.3,96,95.5,0,707.85,Standing
+14:29.4,98,95.5,0,707.85,Standing
+14:29.5,98,95.5,0,710.7,Standing
+14:29.7,98,95.5,0,713.57,Standing
+14:29.8,98,95.5,0,716.44,Standing
+14:29.8,98,95.5,0,716.44,Standing
+14:30.0,100,95.5,0,719.33,Standing
+14:30.1,100,95.5,0,719.33,Standing
+14:30.3,100,95.5,0,719.33,Standing
+14:30.4,101,95.5,0,713.57,Standing
+14:30.6,101,95.5,0,702.16,Standing
+14:30.7,101,95.5,0,699.34,Standing
+14:30.8,101,95.5,0,693.71,Standing
+14:30.9,101,95.5,0,688.12,Standing
+14:31.0,102,95.5,0,685.34,Standing
+14:31.1,102,95.5,0,682.57,Standing
+14:31.3,102,95.5,0,682.57,Standing
+14:31.4,103,95.5,0,679.8,Standing
+14:31.5,103,95.5,0,682.57,Standing
+14:31.7,103,95.5,0,682.57,Standing
+14:31.8,103,95.5,0,685.34,Standing
+14:31.9,103,95.5,0,688.12,Standing
+14:32.1,103,95.5,0,696.52,Standing
+14:32.2,104,95.5,0,696.52,Standing
+14:32.3,104,95.5,0,699.34,Standing
+14:32.4,104,95.5,0,702.16,Standing
+14:32.5,104,95.5,0,702.16,Standing
+14:32.7,104,95.5,0,707.85,Standing
+14:32.9,104,95.5,0,707.85,Standing
+14:33.1,104,95.5,0,713.57,Standing
+14:33.2,104,95.5,0,713.57,Standing
+14:33.3,104,95.5,0,716.44,Standing
+14:33.4,104,95.5,0,716.44,Standing
+14:33.5,104,95.5,0,716.44,Standing
+14:33.6,104,95.5,0,719.33,Standing
+14:33.7,105,95.5,0,719.33,Standing
+14:33.9,105,95.5,0,722.22,Standing
+14:34.1,105,95.5,0,725.13,Standing
+14:34.2,106,95.5,0,725.13,Standing
+14:34.3,106,95.5,0,725.13,Standing
+14:34.4,106,95.5,0,725.13,Standing
+14:34.5,106,95.5,0,722.22,Standing
+14:34.6,106,95.5,0,719.33,Standing
+14:35.2,108,95.4,0,699.34,Standing
+14:35.3,108,95.4,0,696.52,Standing
+14:35.4,108,95.4,0,696.52,Standing
+14:42.0,115,95.3,1,699.34,Left Fall while Standing
+14:42.2,115,95.3,1,685.34,Left Fall while Standing
+14:42.3,115,95.3,1,685.34,Left Fall while Standing
+14:42.5,114,95.3,1,679.8,Left Fall while Standing
+14:42.6,114,95.3,1,677.05,Left Fall while Standing
+14:42.7,114,95.3,1,677.05,Left Fall while Standing
+14:42.8,114,95.3,1,677.05,Left Fall while Standing
+14:42.9,115,95.3,1,677.05,Left Fall while Standing
+14:43.0,115,95.3,1,679.8,Left Fall while Standing
+14:43.2,115,95.3,1,682.57,Left Fall while Standing
+14:43.3,115,95.3,1,682.57,Left Fall while Standing
+14:43.5,115,95.3,1,679.8,Left Fall while Standing
+14:43.6,115,95.3,1,674.3,Left Fall while Standing
+14:43.7,115,95.3,1,668.84,Left Fall while Standing
+14:43.8,115,95.3,1,660.71,Left Fall while Standing
+14:43.9,114,95.2,1,655.34,Left Fall while Standing
+14:44.0,114,95.2,1,650.0,Left Fall while Standing
+14:44.2,114,95.2,1,644.69,Left Fall while Standing
+14:44.4,114,95.2,1,647.34,Left Fall while Standing
+14:44.5,114,95.2,1,644.69,Left Fall while Standing
+14:44.6,114,95.2,1,644.69,Left Fall while Standing
+14:44.7,114,95.2,1,647.34,Left Fall while Standing
+14:44.7,114,95.2,1,644.69,Left Fall while Standing
+14:44.9,114,95.2,1,647.34,Left Fall while Standing
+14:44.9,114,95.2,1,647.34,Left Fall while Standing
+14:45.0,114,95.2,1,652.67,Left Fall while Standing
+14:45.1,114,95.2,1,655.34,Left Fall while Standing
+14:45.4,114,95.2,1,652.67,Left Fall while Standing
+14:45.5,114,95.2,1,655.34,Left Fall while Standing
+14:45.6,114,95.1,1,652.67,Left Fall while Standing
+14:45.8,114,95.1,1,652.67,Left Fall while Standing
+14:45.9,114,95.1,1,655.34,Left Fall while Standing
+14:46.1,114,95.1,1,655.34,Left Fall while Standing
+14:46.2,114,95.1,1,655.34,Left Fall while Standing
+14:46.4,114,95.1,1,655.34,Left Fall while Standing
+14:46.5,114,95.1,1,652.67,Left Fall while Standing
+14:46.6,114,95.1,1,655.34,Left Fall while Standing
+14:46.7,114,95.1,1,650.0,Left Fall while Standing
+14:46.8,114,95.1,1,652.67,Left Fall while Standing
+14:46.9,114,95.1,1,652.67,Left Fall while Standing
+14:47.1,114,95.1,1,655.34,Left Fall while Standing
+14:47.2,117,95.1,1,652.67,Left Fall while Standing
+14:47.4,117,95.1,1,655.34,Left Fall while Standing
+14:47.5,117,95.1,1,655.34,Left Fall while Standing
+14:47.6,117,95.1,1,652.67,Left Fall while Standing
+14:47.7,117,95.1,1,652.67,Left Fall while Standing
+14:47.8,117,95.1,1,655.34,Left Fall while Standing
+14:47.9,117,95.1,1,655.34,Left Fall while Standing
+14:48.1,117,95.1,1,658.02,Left Fall while Standing
+14:48.2,117,95.1,1,658.02,Left Fall while Standing
+14:48.3,117,95.1,1,660.71,Left Fall while Standing
+14:48.5,117,95.1,1,666.12,Left Fall while Standing
+14:48.6,117,95.1,1,668.84,Left Fall while Standing
+14:48.7,117,95.1,1,674.3,Left Fall while Standing
+14:48.8,120,95.1,1,677.05,Left Fall while Standing
+14:48.9,120,95.1,1,677.05,Left Fall while Standing
+14:49.1,120,95.1,1,688.12,Left Fall while Standing
+14:49.3,120,95.1,1,690.91,Left Fall while Standing
+14:49.4,119,95.1,1,693.71,Left Fall while Standing
+14:52.1,117,95.1,1,719.33,Right Fall while Standing
+14:52.2,117,95.1,1,725.13,Right Fall while Standing
+14:52.3,117,95.1,1,719.33,Right Fall while Standing
+14:52.4,117,95.1,1,719.33,Right Fall while Standing
+14:52.5,117,95.1,1,719.33,Right Fall while Standing
+14:52.7,120,95.0,1,722.22,Right Fall while Standing
+14:52.9,120,95.0,1,725.13,Right Fall while Standing
+14:53.1,120,95.0,1,722.22,Right Fall while Standing
+14:53.2,120,95.0,1,725.13,Right Fall while Standing
+14:53.3,120,95.0,1,728.04,Right Fall while Standing
+14:53.4,120,95.0,1,725.13,Right Fall while Standing
+14:53.5,120,95.0,1,725.13,Right Fall while Standing
+14:53.6,120,95.0,1,728.04,Right Fall while Standing
+14:53.7,120,95.0,1,728.04,Right Fall while Standing
+14:53.9,120,95.0,1,728.04,Right Fall while Standing
+14:54.1,120,95.0,1,728.04,Right Fall while Standing
+14:54.1,120,95.1,1,728.04,Right Fall while Standing
+14:54.3,120,95.1,1,730.96,Right Fall while Standing
+14:54.4,120,95.1,1,730.96,Right Fall while Standing
+14:54.5,121,95.1,1,730.96,Right Fall while Standing
+14:54.7,121,95.1,1,730.96,Right Fall while Standing
+14:54.9,121,95.1,1,722.22,Right Fall while Standing
+14:55.0,121,95.2,1,713.57,Right Fall while Standing
+14:55.1,121,95.2,1,705.0,Right Fall while Standing
+14:55.2,121,95.2,1,693.71,Right Fall while Standing
+14:55.3,121,95.2,1,685.34,Right Fall while Standing
+14:55.4,121,95.2,1,677.05,Right Fall while Standing
+14:55.5,121,95.2,1,666.12,Right Fall while Standing
+14:55.7,121,95.2,1,658.02,Right Fall while Standing
+14:55.9,121,95.2,1,652.67,Right Fall while Standing
+14:56.0,121,95.2,1,652.67,Right Fall while Standing
+14:56.1,121,95.2,1,652.67,Right Fall while Standing
+14:56.2,121,95.2,1,652.67,Right Fall while Standing
+14:56.3,121,95.2,1,652.67,Right Fall while Standing
+14:56.4,121,95.2,1,652.67,Right Fall while Standing
+14:56.5,121,95.2,1,655.34,Right Fall while Standing
+14:56.6,121,95.2,1,655.34,Right Fall while Standing
+14:56.8,121,95.2,1,660.71,Right Fall while Standing
+14:57.0,121,95.2,1,666.12,Right Fall while Standing
+14:57.1,121,95.2,1,668.84,Right Fall while Standing
+14:57.2,121,95.2,1,668.84,Right Fall while Standing
+14:57.3,121,95.2,1,671.57,Right Fall while Standing
+14:57.4,121,95.2,1,674.3,Right Fall while Standing
+14:57.5,121,95.2,1,674.3,Right Fall while Standing
+14:57.6,121,95.2,1,679.8,Right Fall while Standing
+14:57.9,121,95.2,1,682.57,Right Fall while Standing
+14:58.0,121,95.2,1,685.34,Right Fall while Standing
+14:58.1,121,95.2,1,688.12,Right Fall while Standing
+14:58.2,121,95.2,1,688.12,Right Fall while Standing
+14:58.3,121,95.2,1,682.57,Right Fall while Standing
+14:58.4,121,95.2,1,677.05,Right Fall while Standing
+14:58.5,121,95.2,1,663.41,Right Fall while Standing
+14:58.6,121,95.2,1,652.67,Right Fall while Standing
+14:58.8,121,95.2,1,634.19,Right Fall while Standing
+14:58.9,121,95.2,1,628.98,Right Fall while Standing
+14:59.0,121,95.2,1,623.81,Right Fall while Standing
+14:59.3,120,95.2,1,621.24,Right Fall while Standing
+14:59.4,120,95.2,1,621.24,Right Fall while Standing
+14:59.6,120,95.2,1,621.24,Right Fall while Standing
+14:59.7,120,95.2,1,623.81,Right Fall while Standing
+14:59.8,120,95.2,1,626.39,Right Fall while Standing
+14:59.9,120,95.2,1,626.39,Right Fall while Standing
+15:00.1,120,95.2,1,628.98,Right Fall while Standing
+15:00.1,120,95.2,1,628.98,Right Fall while Standing
+15:00.3,120,95.2,1,634.19,Right Fall while Standing
+15:00.4,120,95.2,1,634.19,Right Fall while Standing
+15:00.6,120,95.2,1,636.8,Right Fall while Standing
+15:00.7,120,95.2,1,639.42,Right Fall while Standing
+15:00.8,120,95.2,1,639.42,Right Fall while Standing
+15:00.9,120,95.2,1,642.05,Right Fall while Standing
+15:01.0,120,95.2,1,647.34,Right Fall while Standing
+15:01.1,120,95.2,1,650.0,Right Fall while Standing
+15:01.3,119,95.2,1,655.34,Right Fall while Standing
+15:01.4,119,95.2,1,660.71,Right Fall while Standing
+15:01.6,119,95.2,1,668.84,Right Fall while Standing
+15:01.7,119,95.2,1,668.84,Right Fall while Standing
+15:01.8,119,95.2,1,674.3,Right Fall while Standing
+15:01.9,119,95.2,1,677.05,Right Fall while Standing
+15:02.0,119,95.2,1,679.8,Right Fall while Standing
+15:02.1,119,95.2,1,682.57,Right Fall while Standing
+15:06.0,120,95.5,1,682.57,Forward Fall while Standing
+15:06.2,120,95.5,1,682.57,Forward Fall while Standing
+15:06.2,120,95.5,1,688.12,Forward Fall while Standing
+15:06.3,120,95.5,1,688.12,Forward Fall while Standing
+15:06.5,120,95.5,1,693.71,Forward Fall while Standing
+15:06.6,120,95.5,1,693.71,Forward Fall while Standing
+15:06.7,120,95.5,1,696.52,Forward Fall while Standing
+15:06.8,120,95.5,1,702.16,Forward Fall while Standing
+15:06.9,120,95.5,1,702.16,Forward Fall while Standing
+15:07.0,121,95.5,1,705.0,Forward Fall while Standing
+15:07.1,121,95.5,1,702.16,Forward Fall while Standing
+15:07.3,121,95.5,1,705.0,Forward Fall while Standing
+15:07.4,121,95.5,1,707.85,Forward Fall while Standing
+15:07.5,121,95.5,1,707.85,Forward Fall while Standing
+15:07.7,121,95.5,1,748.72,Forward Fall while Standing
+15:07.8,121,95.5,1,736.84,Forward Fall while Standing
+15:07.9,121,95.5,1,730.96,Forward Fall while Standing
+15:08.0,121,95.5,1,728.04,Forward Fall while Standing
+15:08.1,121,95.5,1,728.04,Forward Fall while Standing
+15:08.2,121,95.5,1,730.96,Forward Fall while Standing
+15:08.3,121,95.5,1,730.96,Forward Fall while Standing
+15:08.4,121,95.5,1,730.96,Forward Fall while Standing
+15:08.5,121,95.5,1,733.9,Forward Fall while Standing
+15:08.7,121,95.5,1,730.96,Forward Fall while Standing
+15:08.7,121,95.5,1,730.96,Forward Fall while Standing
+15:08.8,121,95.5,1,742.76,Forward Fall while Standing
+15:09.0,121,95.5,1,736.84,Forward Fall while Standing
+15:09.0,121,95.5,1,748.72,Forward Fall while Standing
+15:09.2,121,95.5,1,754.72,Forward Fall while Standing
+15:09.4,122,95.5,1,763.79,Forward Fall while Standing
+15:09.5,122,95.5,1,760.76,Forward Fall while Standing
+15:09.7,122,95.5,1,760.76,Forward Fall while Standing
+15:09.8,122,95.5,1,763.79,Forward Fall while Standing
+15:09.9,122,95.5,1,763.79,Forward Fall while Standing
+15:10.1,122,95.5,1,763.79,Forward Fall while Standing
+15:10.2,122,95.7,1,763.79,Forward Fall while Standing
+15:10.3,122,95.7,1,763.79,Forward Fall while Standing
+15:10.4,122,95.7,1,766.84,Forward Fall while Standing
+15:10.5,122,95.7,1,763.79,Forward Fall while Standing
+15:10.7,122,95.7,1,760.76,Forward Fall while Standing
+15:10.8,122,95.7,1,760.76,Forward Fall while Standing
+15:10.9,122,95.7,1,760.76,Forward Fall while Standing
+15:11.1,122,95.7,1,760.76,Forward Fall while Standing
+15:11.2,122,95.7,1,760.76,Forward Fall while Standing
+15:11.3,122,95.7,1,760.76,Forward Fall while Standing
+15:11.4,122,95.7,1,760.76,Forward Fall while Standing
+15:11.5,122,95.7,1,760.76,Forward Fall while Standing
+15:11.6,122,95.7,1,760.76,Forward Fall while Standing
+15:11.8,122,95.7,1,760.76,Forward Fall while Standing
+15:11.9,122,95.7,1,760.76,Forward Fall while Standing
+15:12.1,122,95.7,1,760.76,Forward Fall while Standing
+15:12.2,122,95.7,1,763.79,Forward Fall while Standing
+15:12.3,122,95.7,1,763.79,Forward Fall while Standing
+15:12.4,122,95.7,1,763.79,Forward Fall while Standing
+15:12.5,122,95.7,1,763.79,Forward Fall while Standing
+15:12.7,122,95.7,1,766.84,Forward Fall while Standing
+15:12.8,124,95.7,1,763.79,Forward Fall while Standing
+15:12.9,124,95.7,1,760.76,Forward Fall while Standing
+15:13.1,124,95.7,1,763.79,Forward Fall while Standing
+15:13.2,124,95.7,1,763.79,Forward Fall while Standing
+15:13.5,126,95.7,1,760.76,Forward Fall while Standing
+15:13.7,126,95.7,1,763.79,Forward Fall while Standing
+15:13.8,126,95.7,1,763.79,Forward Fall while Standing
+15:13.9,126,95.7,1,766.84,Forward Fall while Standing
+15:14.1,126,95.7,1,766.84,Forward Fall while Standing
+15:14.2,126,95.7,1,769.9,Forward Fall while Standing
+15:14.3,126,95.7,1,769.9,Forward Fall while Standing
+15:14.5,126,95.7,1,766.84,Forward Fall while Standing
+15:14.7,126,95.7,1,769.9,Forward Fall while Standing
+15:14.8,126,95.7,1,769.9,Forward Fall while Standing
+15:15.0,125,95.7,1,769.9,Forward Fall while Standing
+15:22.6,95,95.7,0,742.76,Sitting
+15:22.7,95,95.7,0,739.8,Sitting
+15:22.8,95,95.7,0,742.76,Sitting
+15:22.9,95,95.7,0,742.76,Sitting
+15:23.1,95,95.7,0,745.73,Sitting
+15:23.2,95,95.8,0,748.72,Sitting
+15:23.4,95,95.8,0,748.72,Sitting
+15:23.5,95,95.8,0,748.72,Sitting
+15:23.6,95,95.8,0,751.71,Sitting
+15:23.7,106,95.8,0,751.71,Sitting
+15:23.8,106,95.8,0,751.71,Sitting
+15:23.9,106,95.8,0,751.71,Sitting
+15:24.1,106,95.8,0,754.72,Sitting
+15:24.2,108,95.8,0,754.72,Sitting
+15:24.4,108,95.8,0,754.72,Sitting
+15:24.5,108,95.8,0,757.73,Sitting
+15:24.6,108,95.8,0,757.73,Sitting
+15:24.7,108,95.8,0,757.73,Sitting
+15:25.0,106,95.8,0,763.79,Sitting
+15:25.1,106,95.8,0,760.76,Sitting
+15:25.2,106,95.8,0,760.76,Sitting
+15:25.3,106,95.8,0,763.79,Sitting
+15:25.5,107,95.8,0,763.79,Sitting
+15:25.7,107,95.8,0,766.84,Sitting
+15:25.9,107,95.8,0,766.84,Sitting
+15:26.0,109,95.8,0,766.84,Sitting
+15:26.1,109,95.8,0,766.84,Sitting
+15:26.2,109,95.8,0,769.9,Sitting
+15:26.3,109,95.8,0,769.9,Sitting
+15:26.4,116,95.8,0,769.9,Sitting
+15:26.5,116,95.8,0,769.9,Sitting
+15:26.7,116,95.8,0,769.9,Sitting
+15:26.9,116,95.8,0,766.84,Sitting
+15:27.0,116,95.8,0,769.9,Sitting
+15:27.1,116,95.8,0,769.9,Sitting
+15:27.2,116,95.8,0,769.9,Sitting
+15:27.3,116,95.8,0,772.96,Sitting
+15:27.4,121,95.8,0,769.9,Sitting
+15:27.5,121,95.8,0,769.9,Sitting
+15:27.7,121,95.8,0,772.96,Sitting
+15:27.9,121,95.8,0,769.9,Sitting
+15:28.0,121,95.8,0,769.9,Sitting
+15:28.1,121,95.8,0,769.9,Sitting
+15:28.2,121,95.8,0,772.96,Sitting
+15:28.3,121,95.8,0,772.96,Sitting
+15:28.4,121,95.8,0,772.96,Sitting
+15:28.5,119,95.8,0,769.9,Sitting
+15:28.7,119,95.8,0,769.9,Sitting
+15:28.9,119,95.8,0,772.96,Sitting
+15:29.0,122,95.8,0,769.9,Sitting
+15:29.1,122,95.8,0,769.9,Sitting
+15:29.2,122,95.8,0,769.9,Sitting
+15:29.3,122,95.8,0,769.9,Sitting
+15:29.4,122,95.8,0,769.9,Sitting
+15:29.5,119,95.8,0,769.9,Sitting
+15:29.7,119,95.8,0,769.9,Sitting
+15:29.9,119,95.8,0,769.9,Sitting
+15:30.0,119,95.8,0,769.9,Sitting
+15:30.1,119,95.8,0,769.9,Sitting
+15:30.2,113,95.8,0,772.96,Sitting
+15:30.3,113,95.8,0,772.96,Sitting
+15:30.5,113,95.8,0,769.9,Sitting
+15:30.6,113,95.8,0,769.9,Sitting
+15:30.8,109,95.8,0,769.9,Sitting
+15:30.9,109,95.8,0,772.96,Sitting
+15:31.0,109,95.8,0,772.96,Sitting
+15:31.1,109,95.8,0,769.9,Sitting
+15:31.2,109,95.8,0,769.9,Sitting
+15:31.4,107,95.8,0,769.9,Sitting
+15:31.7,107,95.8,0,769.9,Sitting
+15:31.8,107,95.8,0,769.9,Sitting
+15:32.0,106,95.8,0,772.96,Sitting
+15:32.1,106,95.8,0,769.9,Sitting
+15:32.2,106,95.8,0,769.9,Sitting
+15:32.3,106,95.8,0,769.9,Sitting
+15:32.4,106,95.8,0,769.9,Sitting
+15:32.5,104,95.8,0,769.9,Sitting
+15:32.7,104,95.8,0,772.96,Sitting
+15:32.9,104,95.8,0,772.96,Sitting
+15:33.0,104,95.8,0,772.96,Sitting
+15:33.1,104,95.8,0,772.96,Sitting
+15:33.3,103,95.8,0,769.9,Sitting
+15:33.4,103,95.8,0,769.9,Sitting
+15:33.6,103,95.8,0,769.9,Sitting
+15:33.7,102,95.8,0,769.9,Sitting
+15:33.9,102,95.8,0,769.9,Sitting
+15:34.0,102,95.8,0,769.9,Sitting
+15:34.1,102,95.8,0,769.9,Sitting
+15:40.7,87,95.8,1,742.76,Left Fall while Sitting
+15:40.8,85,95.8,1,742.76,Left Fall while Sitting
+15:40.9,85,95.8,1,742.76,Left Fall while Sitting
+15:41.2,85,95.8,1,745.73,Left Fall while Sitting
+15:41.3,85,95.8,1,745.73,Left Fall while Sitting
+15:41.4,84,95.9,1,745.73,Left Fall while Sitting
+15:41.6,84,95.9,1,742.76,Left Fall while Sitting
+15:41.7,84,95.9,1,739.8,Left Fall while Sitting
+15:41.8,84,95.9,1,736.84,Left Fall while Sitting
+15:41.9,84,95.9,1,730.96,Left Fall while Sitting
+15:42.0,83,95.9,1,725.13,Left Fall while Sitting
+15:42.2,83,95.9,1,719.33,Left Fall while Sitting
+15:42.2,83,95.9,1,719.33,Left Fall while Sitting
+15:42.4,83,95.9,1,713.57,Left Fall while Sitting
+15:42.5,83,95.9,1,716.44,Left Fall while Sitting
+15:42.6,83,95.9,1,713.57,Left Fall while Sitting
+15:42.7,83,95.9,1,716.44,Left Fall while Sitting
+15:42.8,83,95.9,1,713.57,Left Fall while Sitting
+15:42.9,83,95.9,1,716.44,Left Fall while Sitting
+15:43.1,83,95.9,1,719.33,Left Fall while Sitting
+15:43.2,83,95.9,1,722.22,Left Fall while Sitting
+15:43.3,83,95.9,1,722.22,Left Fall while Sitting
+15:43.4,84,96.2,1,722.22,Left Fall while Sitting
+15:43.6,84,96.2,1,713.57,Left Fall while Sitting
+15:43.7,84,96.2,1,705.0,Left Fall while Sitting
+15:43.9,84,96.2,1,693.71,Left Fall while Sitting
+15:44.0,83,96.2,1,690.91,Left Fall while Sitting
+15:44.1,83,96.2,1,682.57,Left Fall while Sitting
+15:44.2,83,96.2,1,679.8,Left Fall while Sitting
+15:44.3,83,96.2,1,677.05,Left Fall while Sitting
+15:44.5,83,96.2,1,674.3,Left Fall while Sitting
+15:44.6,83,96.2,1,671.57,Left Fall while Sitting
+15:44.8,83,96.2,1,668.84,Left Fall while Sitting
+15:44.9,83,96.2,1,674.3,Left Fall while Sitting
+15:45.0,83,96.2,1,674.3,Left Fall while Sitting
+15:45.1,83,96.2,1,677.05,Left Fall while Sitting
+15:45.2,83,96.2,1,679.8,Left Fall while Sitting
+15:45.3,83,96.2,1,682.57,Left Fall while Sitting
+15:45.4,83,96.2,1,688.12,Left Fall while Sitting
+15:45.5,81,96.2,1,690.91,Left Fall while Sitting
+15:45.7,81,96.2,1,696.52,Left Fall while Sitting
+15:45.9,81,96.2,1,702.16,Left Fall while Sitting
+15:46.0,81,96.2,1,705.0,Left Fall while Sitting
+15:46.1,81,96.2,1,707.85,Left Fall while Sitting
+15:46.2,81,96.2,1,710.7,Left Fall while Sitting
+15:46.3,81,96.2,1,713.57,Left Fall while Sitting
+15:46.5,78,96.2,1,716.44,Left Fall while Sitting
+15:46.7,78,96.2,1,719.33,Left Fall while Sitting
+15:46.9,78,96.2,1,722.22,Left Fall while Sitting
+15:47.0,78,96.2,1,722.22,Left Fall while Sitting
+15:47.2,78,96.2,1,728.04,Left Fall while Sitting
+15:47.3,78,96.2,1,725.13,Left Fall while Sitting
+15:47.5,78,96.2,1,728.04,Left Fall while Sitting
+15:47.6,78,96.2,1,730.96,Left Fall while Sitting
+15:47.8,77,96.2,1,725.13,Left Fall while Sitting
+15:47.9,77,96.2,1,722.22,Left Fall while Sitting
+15:48.0,77,96.2,1,716.44,Left Fall while Sitting
+15:48.1,77,96.2,1,707.85,Left Fall while Sitting
+15:48.2,77,96.2,1,699.34,Left Fall while Sitting
+15:48.5,75,96.2,1,682.57,Left Fall while Sitting
+15:55.2,94,96.2,1,685.34,Right Fall while Sitting
+15:55.4,94,96.2,1,688.12,Right Fall while Sitting
+15:55.5,95,96.2,1,690.91,Right Fall while Sitting
+15:55.6,95,96.2,1,693.71,Right Fall while Sitting
+15:55.7,95,96.2,1,696.52,Right Fall while Sitting
+15:55.8,95,96.2,1,696.52,Right Fall while Sitting
+15:55.9,95,96.2,1,696.52,Right Fall while Sitting
+15:56.0,95,96.2,1,696.52,Right Fall while Sitting
+15:56.2,95,96.2,1,699.34,Right Fall while Sitting
+15:56.4,95,96.2,1,705.0,Right Fall while Sitting
+15:56.5,95,96.2,1,702.16,Right Fall while Sitting
+15:56.6,95,96.2,1,705.0,Right Fall while Sitting
+15:56.7,97,96.2,1,705.0,Right Fall while Sitting
+15:56.8,97,96.2,1,707.85,Right Fall while Sitting
+15:57.0,97,96.2,1,710.7,Right Fall while Sitting
+15:57.1,97,96.2,1,710.7,Right Fall while Sitting
+15:57.3,99,96.2,1,710.7,Right Fall while Sitting
+15:57.4,99,96.2,1,713.57,Right Fall while Sitting
+15:57.5,99,96.2,1,707.85,Right Fall while Sitting
+15:57.6,99,96.2,1,705.0,Right Fall while Sitting
+15:57.7,99,96.2,1,702.16,Right Fall while Sitting
+15:57.8,101,96.2,1,696.52,Right Fall while Sitting
+15:58.0,101,96.2,1,688.12,Right Fall while Sitting
+15:58.3,103,96.2,1,682.57,Right Fall while Sitting
+15:58.4,103,96.2,1,679.8,Right Fall while Sitting
+15:58.5,103,96.2,1,679.8,Right Fall while Sitting
+15:58.6,103,96.2,1,682.57,Right Fall while Sitting
+15:58.7,103,96.2,1,682.57,Right Fall while Sitting
+15:59.0,105,96.2,1,679.8,Right Fall while Sitting
+15:59.2,105,96.2,1,671.57,Right Fall while Sitting
+15:59.3,105,96.2,1,666.12,Right Fall while Sitting
+15:59.3,105,96.2,1,666.12,Right Fall while Sitting
+15:59.4,108,96.2,1,660.71,Right Fall while Sitting
+15:59.6,108,96.2,1,650.0,Right Fall while Sitting
+15:59.7,108,96.2,1,647.34,Right Fall while Sitting
+15:59.9,108,96.2,1,647.34,Right Fall while Sitting
+16:00.0,110,96.2,1,650.0,Right Fall while Sitting
+16:00.1,110,96.2,1,650.0,Right Fall while Sitting
+16:00.3,110,96.2,1,666.12,Right Fall while Sitting
+16:00.3,110,96.2,1,666.12,Right Fall while Sitting
+16:00.4,111,96.2,1,666.12,Right Fall while Sitting
+16:00.6,111,96.2,1,668.84,Right Fall while Sitting
+16:00.7,111,96.2,1,674.3,Right Fall while Sitting
+16:00.9,111,96.2,1,682.57,Right Fall while Sitting
+16:01.0,114,96.2,1,685.34,Right Fall while Sitting
+16:01.1,114,96.2,1,685.34,Right Fall while Sitting
+16:01.3,114,96.2,1,690.91,Right Fall while Sitting
+16:01.3,114,96.2,1,690.91,Right Fall while Sitting
+16:01.4,115,96.2,1,693.71,Right Fall while Sitting
+16:01.6,115,96.2,1,699.34,Right Fall while Sitting
+16:01.7,115,96.2,1,699.34,Right Fall while Sitting
+16:02.0,116,96.2,1,705.0,Right Fall while Sitting
+16:02.1,116,96.2,1,705.0,Right Fall while Sitting
+16:02.2,116,96.2,1,705.0,Right Fall while Sitting
+16:02.3,117,96.2,1,705.0,Right Fall while Sitting
+16:02.5,117,96.2,1,710.7,Right Fall while Sitting
+16:02.6,117,96.2,1,710.7,Right Fall while Sitting
+16:02.7,117,96.2,1,710.7,Right Fall while Sitting
+16:02.9,117,96.2,1,713.57,Right Fall while Sitting
+16:03.0,117,96.3,1,710.7,Right Fall while Sitting
+16:03.1,117,96.3,1,710.7,Right Fall while Sitting
+16:03.2,117,96.3,1,713.57,Right Fall while Sitting
+16:03.3,117,96.3,1,713.57,Right Fall while Sitting
+16:03.6,117,96.4,1,716.44,Right Fall while Sitting
+16:03.7,117,96.4,1,716.44,Right Fall while Sitting
+16:03.9,117,96.4,1,713.57,Right Fall while Sitting
+16:04.0,116,96.4,1,713.57,Right Fall while Sitting
+16:04.1,116,96.4,1,710.7,Right Fall while Sitting
+16:04.2,116,96.4,1,710.7,Right Fall while Sitting
+16:04.3,116,96.4,1,707.85,Right Fall while Sitting
+16:04.4,116,96.4,1,702.16,Right Fall while Sitting
+16:04.6,116,96.4,1,685.34,Right Fall while Sitting
+16:04.7,116,96.4,1,685.34,Right Fall while Sitting
+16:04.9,116,96.4,1,679.8,Right Fall while Sitting
+16:05.0,115,96.4,1,679.8,Right Fall while Sitting
+16:05.1,115,96.4,1,679.8,Right Fall while Sitting
+16:05.2,115,96.4,1,679.8,Right Fall while Sitting
+16:05.3,115,96.4,1,679.8,Right Fall while Sitting
+16:05.5,115,96.4,1,682.57,Right Fall while Sitting
+16:05.5,115,96.4,1,682.57,Right Fall while Sitting
+16:05.7,115,96.4,1,688.12,Right Fall while Sitting
+16:05.9,115,96.4,1,685.34,Right Fall while Sitting
+16:06.0,115,96.4,1,688.12,Right Fall while Sitting
+16:06.1,115,96.4,1,688.12,Right Fall while Sitting
+16:06.3,114,96.4,1,685.34,Right Fall while Sitting
+16:06.5,114,96.4,1,682.57,Right Fall while Sitting
+16:06.6,114,96.4,1,679.8,Right Fall while Sitting
+16:06.8,113,96.5,1,671.57,Right Fall while Sitting
+16:14.3,110,96.8,1,685.34,Forward Fall while Sitting
+16:14.4,110,96.8,1,688.12,Forward Fall while Sitting
+16:14.5,110,96.8,1,688.12,Forward Fall while Sitting
+16:14.6,110,96.8,1,690.91,Forward Fall while Sitting
+16:14.7,110,96.8,1,690.91,Forward Fall while Sitting
+16:14.8,109,96.8,1,693.71,Forward Fall while Sitting
+16:15.0,109,96.8,1,699.34,Forward Fall while Sitting
+16:15.2,109,96.8,1,702.16,Forward Fall while Sitting
+16:15.4,109,96.8,1,674.3,Forward Fall while Sitting
+16:15.5,108,96.8,1,716.44,Forward Fall while Sitting
+16:15.6,108,96.8,1,716.44,Forward Fall while Sitting
+16:15.7,108,96.8,1,716.44,Forward Fall while Sitting
+16:15.8,108,96.8,1,716.44,Forward Fall while Sitting
+16:15.9,108,96.8,1,716.44,Forward Fall while Sitting
+16:16.0,108,96.8,1,716.44,Forward Fall while Sitting
+16:16.2,108,96.8,1,716.44,Forward Fall while Sitting
+16:16.4,108,96.8,1,716.44,Forward Fall while Sitting
+16:16.4,108,96.8,1,716.44,Forward Fall while Sitting
+16:16.5,108,96.8,1,716.44,Forward Fall while Sitting
+16:16.6,108,96.8,1,716.44,Forward Fall while Sitting
+16:17.0,108,96.8,1,716.44,Forward Fall while Sitting
+16:17.1,108,96.8,1,716.44,Forward Fall while Sitting
+16:17.2,107,96.8,1,716.44,Forward Fall while Sitting
+16:17.3,107,96.8,1,716.44,Forward Fall while Sitting
+16:17.5,107,96.8,1,719.33,Forward Fall while Sitting
+16:17.6,107,96.8,1,719.33,Forward Fall while Sitting
+16:17.7,107,96.8,1,719.33,Forward Fall while Sitting
+16:17.8,106,96.8,1,719.33,Forward Fall while Sitting
+16:18.0,106,96.8,1,719.33,Forward Fall while Sitting
+16:18.2,106,96.8,1,722.22,Forward Fall while Sitting
+16:18.3,106,96.8,1,728.04,Forward Fall while Sitting
+16:18.4,106,96.8,1,722.22,Forward Fall while Sitting
+16:18.5,106,96.8,1,725.13,Forward Fall while Sitting
+16:18.6,106,96.8,1,728.04,Forward Fall while Sitting
+16:18.7,106,96.8,1,728.04,Forward Fall while Sitting
+16:18.9,106,96.8,1,728.04,Forward Fall while Sitting
+16:19.0,105,96.8,1,728.04,Forward Fall while Sitting
+16:19.2,105,96.8,1,730.96,Forward Fall while Sitting
+16:19.3,105,96.8,1,730.96,Forward Fall while Sitting
+16:19.4,105,96.8,1,730.96,Forward Fall while Sitting
+16:19.5,105,96.8,1,730.96,Forward Fall while Sitting
+16:19.6,104,96.8,1,730.96,Forward Fall while Sitting
+16:19.7,104,96.8,1,733.9,Forward Fall while Sitting
+16:20.0,104,96.8,1,730.96,Forward Fall while Sitting
+16:20.1,104,96.8,1,716.44,Forward Fall while Sitting
+16:20.2,103,96.8,1,716.44,Forward Fall while Sitting
+16:20.3,103,96.8,1,713.57,Forward Fall while Sitting
+16:20.5,103,96.8,1,710.7,Forward Fall while Sitting
+16:20.6,103,96.8,1,705.0,Forward Fall while Sitting
+16:20.7,103,96.8,1,702.16,Forward Fall while Sitting
+16:21.0,103,96.8,1,696.52,Forward Fall while Sitting
+16:21.1,103,96.8,1,696.52,Forward Fall while Sitting
+16:21.3,103,96.8,1,693.71,Forward Fall while Sitting
+16:21.3,103,96.8,1,693.71,Forward Fall while Sitting
+16:21.5,103,96.8,1,696.52,Forward Fall while Sitting
+16:21.7,103,96.8,1,693.71,Forward Fall while Sitting
+16:21.8,102,96.8,1,690.91,Forward Fall while Sitting
+16:32.2,93,96.6,0,696.52,Walking
+16:32.3,93,96.6,0,696.52,Walking
+16:32.4,93,96.6,0,696.52,Walking
+16:32.5,93,96.6,0,696.52,Walking
+16:32.6,93,96.6,0,690.91,Walking
+16:32.7,93,96.6,0,688.12,Walking
+16:32.8,93,96.6,0,685.34,Walking
+16:32.9,93,96.6,0,679.8,Walking
+16:33.1,94,96.6,0,677.05,Walking
+16:33.2,94,96.6,0,671.57,Walking
+16:33.3,94,96.6,0,671.57,Walking
+16:33.4,94,96.6,0,671.57,Walking
+16:33.5,95,96.6,0,674.3,Walking
+16:33.6,95,96.6,0,674.3,Walking
+16:33.7,95,96.6,0,674.3,Walking
+16:33.8,95,96.6,0,674.3,Walking
+16:34.0,95,96.6,0,677.05,Walking
+16:34.1,95,96.6,0,679.8,Walking
+16:34.2,95,96.6,0,679.8,Walking
+16:34.3,95,96.6,0,682.57,Walking
+16:34.5,95,96.6,0,688.12,Walking
+16:34.6,95,96.6,0,688.12,Walking
+16:34.8,96,96.5,0,690.91,Walking
+16:35.0,96,96.5,0,693.71,Walking
+16:35.2,96,96.5,0,693.71,Walking
+16:35.3,96,96.4,0,696.52,Walking
+16:35.4,96,96.4,0,696.52,Walking
+16:35.5,96,96.4,0,699.34,Walking
+16:35.6,96,96.4,0,702.16,Walking
+16:35.7,96,96.4,0,702.16,Walking
+16:35.8,97,96.4,0,702.16,Walking
+16:36.0,97,96.4,0,705.0,Walking
+16:36.2,97,96.4,0,705.0,Walking
+16:36.4,98,96.4,0,707.85,Walking
+16:36.5,98,96.4,0,707.85,Walking
+16:36.6,98,96.4,0,707.85,Walking
+16:36.7,98,96.4,0,707.85,Walking
+16:37.0,98,96.4,0,713.57,Walking
+16:37.1,98,96.4,0,713.57,Walking
+16:37.3,98,96.4,0,713.57,Walking
+16:37.4,98,96.4,0,716.44,Walking
+16:37.6,99,96.4,0,716.44,Walking
+16:37.7,99,96.4,0,716.44,Walking
+16:37.9,99,96.4,0,716.44,Walking
+16:38.0,100,96.4,0,719.33,Walking
+16:38.1,100,96.4,0,719.33,Walking
+16:38.3,100,96.4,0,719.33,Walking
+16:38.4,100,96.4,0,719.33,Walking
+16:38.4,100,96.4,0,719.33,Walking
+16:38.6,100,96.5,0,719.33,Walking
+16:38.7,100,96.5,0,722.22,Walking
+16:38.9,100,96.5,0,722.22,Walking
+16:39.0,101,96.5,0,722.22,Walking
+16:39.1,101,96.5,0,719.33,Walking
+16:39.3,101,96.5,0,719.33,Walking
+16:39.3,101,96.5,0,719.33,Walking
+16:39.5,101,96.5,0,722.22,Walking
+16:39.6,101,96.5,0,722.22,Walking
+16:39.7,101,96.5,0,722.22,Walking
+16:39.9,101,96.5,0,719.33,Walking
+16:40.0,102,96.5,0,719.33,Walking
+16:40.1,102,96.5,0,716.44,Walking
+16:40.3,102,96.5,0,707.85,Walking
+16:40.3,102,96.5,0,707.85,Walking
+16:40.5,102,96.5,0,696.52,Walking
+16:40.6,103,96.5,0,690.91,Walking
+16:40.7,103,96.5,0,690.91,Walking
+16:40.9,103,96.5,0,682.57,Walking
+16:41.0,103,96.4,0,679.8,Walking
+16:41.1,103,96.4,0,679.8,Walking
+16:41.3,103,96.4,0,679.8,Walking
+16:41.3,103,96.4,0,679.8,Walking
+16:41.8,104,96.3,0,682.57,Walking
+16:41.9,104,96.3,0,685.34,Walking
+16:42.0,104,96.3,0,688.12,Walking
+16:42.1,104,96.3,0,688.12,Walking
+16:42.3,104,96.3,0,690.91,Walking
+16:56.4,109,96.2,0,658.02,Relax
+16:56.5,109,96.2,0,655.34,Relax
+16:56.6,110,96.2,0,652.67,Relax
+16:56.7,110,96.2,0,650.0,Relax
+16:56.9,110,96.2,0,650.0,Relax
+16:57.0,110,96.2,0,650.0,Relax
+16:57.1,110,96.2,0,652.67,Relax
+16:57.2,110,96.2,0,652.67,Relax
+16:57.3,110,96.2,0,650.0,Relax
+16:57.5,110,96.2,0,658.02,Relax
+16:57.7,110,96.2,0,658.02,Relax
+16:57.8,109,96.2,0,660.71,Relax
+16:57.9,109,96.2,0,663.41,Relax
+16:58.0,109,96.2,0,666.12,Relax
+16:58.1,109,96.2,0,666.12,Relax
+16:58.3,109,96.2,0,668.84,Relax
+16:58.3,109,96.2,0,668.84,Relax
+16:58.5,109,96.2,0,671.57,Relax
+16:58.7,109,96.2,0,674.3,Relax
+16:58.9,109,96.2,0,674.3,Relax
+16:59.0,109,96.2,0,674.3,Relax
+16:59.1,109,96.2,0,677.05,Relax
+16:59.3,109,96.2,0,679.8,Relax
+16:59.4,109,96.2,0,679.8,Relax
+16:59.6,109,96.2,0,682.57,Relax
+16:59.7,109,96.2,0,682.57,Relax
+16:59.8,109,96.2,0,682.57,Relax
+16:59.9,109,96.2,0,685.34,Relax
+17:00.0,109,96.2,0,685.34,Relax
+17:00.1,109,96.2,0,688.12,Relax
+17:00.3,109,96.2,0,688.12,Relax
+17:00.5,109,96.2,0,688.12,Relax
+17:00.6,109,96.2,0,690.91,Relax
+17:00.8,108,96.2,0,690.91,Relax
+17:00.9,108,96.2,0,693.71,Relax
+17:01.0,108,96.2,0,696.52,Relax
+17:01.1,108,96.2,0,696.52,Relax
+17:01.2,108,96.2,0,696.52,Relax
+17:01.3,108,96.2,0,693.71,Relax
+17:01.5,108,96.2,0,699.34,Relax
+17:01.7,108,96.2,0,696.52,Relax
+17:01.8,109,96.2,0,696.52,Relax
+17:01.9,109,96.2,0,699.34,Relax
+17:02.0,109,96.2,0,699.34,Relax
+17:02.1,109,96.2,0,699.34,Relax
+17:02.2,109,96.2,0,702.16,Relax
+17:02.3,109,96.2,0,702.16,Relax
+17:02.7,109,96.2,0,705.0,Relax
+17:02.8,109,96.3,0,705.0,Relax
+17:02.9,109,96.3,0,705.0,Relax
+17:03.0,109,96.3,0,707.85,Relax
+17:03.1,109,96.3,0,707.85,Relax
+17:03.2,109,96.3,0,707.85,Relax
+17:03.4,109,96.3,0,710.7,Relax
+17:03.5,109,96.3,0,710.7,Relax
+17:03.6,109,96.3,0,713.57,Relax
+17:03.8,109,96.3,0,713.57,Relax
+17:03.9,109,96.3,0,713.57,Relax
+17:04.0,109,96.3,0,713.57,Relax
+17:04.1,108,96.3,0,713.57,Relax
+17:04.2,108,96.3,0,713.57,Relax
+17:04.5,108,96.3,0,716.44,Relax
+17:04.5,108,96.3,0,716.44,Relax
+17:04.7,108,96.3,0,719.33,Relax
+17:04.8,108,96.3,0,719.33,Relax
+17:05.0,108,96.3,0,719.33,Relax
+17:05.2,108,96.3,0,722.22,Relax
+17:05.3,108,96.3,0,722.22,Relax
+17:05.5,108,96.3,0,722.22,Relax
+17:05.5,108,96.3,0,722.22,Relax
+17:05.7,108,96.3,0,725.13,Relax
+17:05.8,108,96.3,0,725.13,Relax
+17:05.8,108,96.3,0,725.13,Relax
+17:06.0,108,96.3,0,725.13,Relax
+17:06.2,108,96.3,0,725.13,Relax
+17:06.4,108,96.3,0,728.04,Relax
+17:06.5,108,96.3,0,728.04,Relax
+17:06.6,108,96.3,0,728.04,Relax
+17:06.8,108,96.3,0,728.04,Relax
+17:06.8,108,96.3,0,728.04,Relax
+17:07.0,108,96.3,0,728.04,Relax
+17:07.1,107,96.3,0,730.96,Relax
+17:07.2,107,96.3,0,730.96,Relax
+17:07.4,107,96.3,0,733.9,Relax
+17:07.5,107,96.3,0,730.96,Relax
+17:07.6,107,96.3,0,733.9,Relax
+17:07.8,107,96.3,0,733.9,Relax
+17:08.3,107,96.3,0,739.8,Relax
+17:08.4,107,96.3,0,739.8,Relax
+17:08.5,107,96.3,0,736.84,Relax
+17:08.6,107,96.3,0,739.8,Relax
+17:08.8,107,96.3,0,739.8,Relax
+17:09.0,107,96.3,0,745.73,Relax
+17:09.2,107,96.3,0,745.73,Relax
+17:09.3,107,96.3,0,745.73,Relax
+17:09.4,107,96.3,0,745.73,Relax
+17:09.5,107,96.3,0,745.73,Relax
+17:09.6,107,96.3,0,745.73,Relax
+17:09.7,107,96.3,0,745.73,Relax
+17:09.8,107,96.3,0,745.73,Relax
+17:10.0,107,96.3,0,745.73,Relax
+17:10.2,107,96.3,0,736.84,Relax
+17:10.3,107,96.3,0,730.96,Relax
+17:10.4,107,96.3,0,728.04,Relax
+17:10.5,107,96.3,0,722.22,Relax
+17:10.6,108,96.3,0,719.33,Relax
+17:10.8,108,96.3,0,716.44,Relax
+17:11.0,108,96.3,0,713.57,Relax
+17:11.2,108,96.3,0,710.7,Relax
+17:11.3,108,96.3,0,710.7,Relax
+17:11.4,108,96.3,0,710.7,Relax
+17:11.5,108,96.3,0,710.7,Relax
+17:11.8,108,96.3,0,716.44,Relax
+17:12.0,108,96.3,0,719.33,Relax
+17:12.0,108,96.3,0,719.33,Relax
+17:12.1,108,96.3,0,719.33,Relax
+17:12.2,108,96.5,0,719.33,Relax
+17:12.4,108,96.5,0,722.22,Relax
+17:12.5,108,96.5,0,725.13,Relax
+17:12.7,108,96.5,0,728.04,Relax
+17:13.0,108,96.5,0,730.96,Relax
+17:13.0,108,96.5,0,730.96,Relax
+17:13.2,108,96.5,0,730.96,Relax
+17:13.3,108,96.5,0,730.96,Relax
+17:13.4,108,96.5,0,730.96,Relax
+17:13.5,108,96.5,0,733.9,Relax
+17:13.7,108,96.5,0,736.84,Relax
+17:13.9,108,96.5,0,739.8,Relax
+17:14.0,108,96.5,0,736.84,Relax
+17:14.1,68,96.5,0,736.84,Relax
+17:14.3,68,96.5,0,739.8,Relax
+17:14.4,68,96.5,0,739.8,Relax
+17:14.5,68,96.5,0,739.8,Relax
+17:14.7,68,96.5,0,739.8,Relax
+17:14.8,68,96.5,0,742.76,Relax
+17:14.9,68,96.5,0,742.76,Relax
+17:15.0,68,96.5,0,742.76,Relax
+17:15.1,68,96.5,0,742.76,Relax
+17:15.3,68,96.5,0,742.76,Relax
+17:15.5,68,96.5,0,739.8,Relax
+17:15.7,68,96.5,0,733.9,Relax
+17:15.8,70,96.5,0,730.96,Relax
+17:15.9,70,96.5,0,728.04,Relax
+17:16.0,70,96.5,0,722.22,Relax
+17:16.1,70,96.5,0,719.33,Relax
+17:16.3,70,96.5,0,713.57,Relax
+17:16.5,70,96.5,0,710.7,Relax
+17:16.7,70,96.5,0,705.0,Relax
+17:16.8,70,96.5,0,707.85,Relax
+17:16.9,70,96.5,0,707.85,Relax
+17:17.1,70,96.5,0,707.85,Relax
+17:17.3,70,96.5,0,710.7,Relax
+17:17.5,70,96.5,0,713.57,Relax
+17:17.7,70,96.5,0,716.44,Relax
+17:17.9,70,96.5,0,719.33,Relax
+17:18.0,70,96.5,0,719.33,Relax
+17:18.1,70,96.5,0,722.22,Relax
+17:18.2,70,96.5,0,722.22,Relax
+17:18.3,70,96.5,0,728.04,Relax
+17:18.5,70,96.5,0,728.04,Relax
+17:18.6,70,96.5,0,728.04,Relax
+17:18.7,70,96.5,0,728.04,Relax
+17:18.8,70,96.5,0,728.04,Relax
+17:18.9,70,96.5,0,730.96,Relax
+17:19.0,70,96.5,0,730.96,Relax
+17:19.2,70,96.5,0,733.9,Relax
+17:19.3,111,96.5,0,736.84,Relax
+17:19.5,111,96.5,0,736.84,Relax
+17:19.5,111,96.5,0,736.84,Relax
+17:19.7,111,96.5,0,736.84,Relax
+17:19.8,111,96.5,0,739.8,Relax
+17:19.9,104,96.5,0,739.8,Relax
+17:20.0,104,96.5,0,739.8,Relax
+17:20.2,104,96.5,0,739.8,Relax
+17:20.5,104,96.5,0,742.76,Relax
+17:20.5,95,96.5,0,742.76,Relax
+17:20.7,95,96.5,0,748.72,Relax
+17:20.8,95,96.5,0,745.73,Relax
+17:20.9,95,96.5,0,745.73,Relax
+17:21.0,95,96.5,0,745.73,Relax
+17:21.3,91,96.5,0,748.72,Relax
+17:21.4,91,96.5,0,748.72,Relax
+17:21.5,91,96.5,0,748.72,Relax
+17:21.7,91,96.5,0,751.71,Relax
+17:21.8,91,96.5,0,751.71,Relax
+17:21.9,91,96.5,0,751.71,Relax
+17:22.0,91,96.5,0,751.71,Relax
+17:22.1,88,96.5,0,751.71,Relax
+17:22.2,88,96.5,0,754.72,Relax
+17:22.3,88,96.5,0,754.72,Relax
+17:22.4,88,96.5,0,757.73,Relax
+17:22.5,88,96.5,0,754.72,Relax
+17:22.6,88,96.5,0,757.73,Relax
+17:22.8,88,96.5,0,757.73,Relax
+17:22.8,85,96.5,0,757.73,Relax
+17:23.0,85,96.5,0,757.73,Relax
+17:23.2,85,96.5,0,760.76,Relax
+17:23.3,85,96.5,0,763.79,Relax
+17:23.4,85,96.5,0,763.79,Relax
+17:23.5,85,96.5,0,763.79,Relax
+17:23.6,83,96.4,0,760.76,Relax
+17:23.8,83,96.4,0,763.79,Relax
+17:24.0,83,96.4,0,766.84,Relax
+17:24.2,83,96.4,0,766.84,Relax
+17:24.3,83,96.4,0,766.84,Relax
+17:24.4,83,96.4,0,766.84,Relax
+17:24.5,83,96.4,0,766.84,Relax
+17:24.6,83,96.4,0,766.84,Relax
+17:24.8,83,96.4,0,769.9,Relax
+17:25.0,83,96.4,0,769.9,Relax
+17:25.0,83,96.4,0,769.9,Relax
+17:25.1,82,96.4,0,769.9,Relax
+17:25.2,82,96.4,0,769.9,Relax
+17:25.3,82,96.4,0,769.9,Relax
+17:25.5,82,96.4,0,769.9,Relax
+17:25.6,82,96.4,0,769.9,Relax
+17:25.7,82,96.4,0,769.9,Relax
+17:25.8,82,96.4,0,772.96,Relax
+17:26.0,82,96.4,0,772.96,Relax
+17:26.2,82,96.4,0,776.04,Relax
+17:26.3,82,96.4,0,772.96,Relax
+17:26.4,82,96.4,0,772.96,Relax
+17:26.6,83,96.4,0,772.96,Relax
+17:26.8,83,96.4,0,772.96,Relax
+17:27.0,83,96.4,0,776.04,Relax
+17:27.1,86,96.4,0,772.96,Relax
+17:27.2,86,96.4,0,769.9,Relax
+17:27.3,86,96.4,0,772.96,Relax
+17:27.4,86,96.4,0,769.9,Relax
+17:27.5,86,96.4,0,769.9,Relax
+17:27.6,88,96.4,0,769.9,Relax
+17:27.8,88,96.4,0,772.96,Relax
+17:28.0,88,96.4,0,769.9,Relax
+17:28.1,88,96.4,0,776.04,Relax
+17:28.1,88,96.4,0,776.04,Relax
+17:28.2,89,96.4,0,769.9,Relax
+17:28.4,89,96.4,0,769.9,Relax
+17:28.5,89,96.4,0,769.9,Relax
+17:28.7,89,96.4,0,769.9,Relax
+17:28.8,89,96.4,0,772.96,Relax
+17:29.0,89,96.4,0,769.9,Relax
+17:29.1,89,96.4,0,769.9,Relax
+17:29.2,89,96.4,0,772.96,Relax
+17:29.3,89,96.4,0,772.96,Relax
+17:29.4,89,96.4,0,772.96,Relax
+17:29.5,89,96.4,0,769.9,Relax
+17:29.8,89,96.4,0,766.84,Relax
+17:29.9,89,96.4,0,763.79,Relax
+17:30.0,83,96.4,0,757.73,Relax
+17:30.1,83,96.4,0,751.71,Relax
+17:30.3,83,96.4,0,742.76,Relax
+17:30.4,83,96.4,0,739.8,Relax
+17:30.5,83,96.4,0,736.84,Relax
+17:30.6,83,96.4,0,733.9,Relax
+17:30.7,83,96.4,0,733.9,Relax
+17:30.8,83,96.4,0,730.96,Relax
+17:30.9,83,96.4,0,730.96,Relax
+17:31.0,83,96.4,0,730.96,Relax
+17:31.2,83,96.4,0,733.9,Relax
+17:31.3,83,96.4,0,730.96,Relax
+17:31.4,83,96.4,0,733.9,Relax
+17:31.5,83,96.4,0,733.9,Relax
+17:31.7,83,96.4,0,736.84,Relax
+17:31.8,83,96.4,0,739.8,Relax
+17:31.9,83,96.4,0,739.8,Relax
+17:32.0,83,96.4,0,742.76,Relax
+17:32.1,83,96.4,0,742.76,Relax
+17:32.3,83,96.4,0,745.73,Relax
+17:32.5,83,96.4,0,748.72,Relax
+17:32.7,83,96.4,0,751.71,Relax
+17:32.8,88,96.4,0,751.71,Relax
+17:32.9,88,96.4,0,751.71,Relax
+17:33.0,88,96.4,0,751.71,Relax
+17:33.1,88,96.4,0,751.71,Relax
+17:33.3,88,96.4,0,754.72,Relax
+17:33.4,88,96.4,0,754.72,Relax
+17:33.5,91,96.4,0,754.72,Relax
+17:33.7,91,96.4,0,757.73,Relax
+17:33.8,91,96.4,0,757.73,Relax
+17:33.9,91,96.4,0,760.76,Relax
+17:34.0,95,96.4,0,760.76,Relax
+17:34.1,95,96.4,0,763.79,Relax
+17:34.3,95,96.4,0,760.76,Relax
+17:34.5,95,96.4,0,763.79,Relax
+17:34.6,98,96.4,0,763.79,Relax
+17:34.7,98,96.4,0,763.79,Relax
+17:34.8,98,96.4,0,763.79,Relax
+17:34.9,98,96.4,0,763.79,Relax
+17:35.0,98,96.4,0,766.84,Relax
+17:35.1,100,96.4,0,766.84,Relax
+17:35.3,100,96.4,0,766.84,Relax
+17:35.5,100,96.4,0,766.84,Relax
+17:35.6,103,96.4,0,769.9,Relax
+17:35.7,103,96.4,0,769.9,Relax
+17:35.8,103,96.4,0,769.9,Relax
+17:35.9,103,96.4,0,772.96,Relax
+17:36.0,103,96.4,0,769.9,Relax
+17:36.3,104,96.4,0,772.96,Relax
+17:36.5,104,96.4,0,769.9,Relax
+17:36.6,104,96.4,0,769.9,Relax
+17:36.7,104,96.4,0,772.96,Relax
+17:36.8,103,96.4,0,769.9,Relax
+17:36.9,103,96.4,0,769.9,Relax
+17:37.0,103,96.4,0,769.9,Relax
+17:37.3,103,96.4,0,769.9,Relax
+17:37.5,103,96.4,0,769.9,Relax
+17:37.6,103,96.4,0,769.9,Relax
+17:37.8,103,96.4,0,769.9,Relax
+17:37.9,103,96.4,0,769.9,Relax
+17:38.0,103,96.4,0,769.9,Relax
+17:38.1,102,96.4,0,769.9,Relax
+17:38.3,102,96.4,0,769.9,Relax
+17:38.5,102,96.4,0,769.9,Relax
+17:38.6,103,96.4,0,769.9,Relax
+17:38.7,103,96.4,0,769.9,Relax
+17:38.8,103,96.4,0,769.9,Relax
+17:38.9,103,96.4,0,769.9,Relax
+17:39.0,103,96.4,0,772.96,Relax
+17:39.1,104,96.4,0,769.9,Relax
+17:39.3,104,96.4,0,769.9,Relax
+17:39.5,104,96.4,0,772.96,Relax
+17:39.5,105,96.4,0,772.96,Relax
+17:39.7,105,96.4,0,769.9,Relax
+17:39.8,105,96.4,0,772.96,Relax
+17:40.0,105,96.4,0,769.9,Relax
+17:40.2,105,96.4,0,769.9,Relax
+17:40.3,103,96.4,0,769.9,Relax
+17:40.4,103,96.4,0,769.9,Relax
+17:40.5,103,96.4,0,769.9,Relax
+17:40.6,103,96.4,0,769.9,Relax
+17:40.8,103,96.4,0,769.9,Relax
+17:41.0,103,96.4,0,769.9,Relax
+17:41.2,105,96.4,0,769.9,Relax
+17:41.2,105,96.4,0,769.9,Relax
+17:41.3,105,96.4,0,769.9,Relax
+17:41.4,105,96.4,0,769.9,Relax
+17:41.5,105,96.4,0,769.9,Relax
+17:41.6,105,96.4,0,769.9,Relax
+17:41.8,105,96.4,0,769.9,Relax
+17:41.9,105,96.4,0,776.04,Relax
+17:42.1,105,96.4,0,772.96,Relax
+17:42.2,105,96.4,0,772.96,Relax
+17:42.3,105,96.4,0,772.96,Relax
+17:42.4,105,96.4,0,772.96,Relax
+17:42.5,105,96.4,0,772.96,Relax
+17:42.6,105,96.4,0,772.96,Relax
+17:42.8,105,96.4,0,772.96,Relax
+17:43.0,105,96.4,0,769.9,Relax
+17:43.2,105,96.4,0,769.9,Relax
+17:43.3,105,96.4,0,769.9,Relax
+17:43.4,105,96.4,0,769.9,Relax
+17:43.6,105,96.4,0,769.9,Relax
+17:43.8,105,96.4,0,769.9,Relax
+17:44.0,105,96.4,0,769.9,Relax
+17:44.1,105,96.4,0,769.9,Relax
+17:44.2,105,96.4,0,769.9,Relax
+17:44.3,105,96.4,0,769.9,Relax
+17:44.4,96,96.4,0,769.9,Relax
+17:44.5,96,96.4,0,769.9,Relax
+17:44.7,96,96.4,0,769.9,Relax
+17:44.8,96,96.4,0,769.9,Relax
+17:45.0,96,96.4,0,772.96,Relax
+17:45.1,96,96.4,0,772.96,Relax
+17:45.2,96,96.4,0,769.9,Relax
+17:45.3,96,96.4,0,769.9,Relax
+17:45.4,96,96.4,0,769.9,Relax
+17:45.5,96,96.4,0,769.9,Relax
+17:45.7,96,96.4,0,769.9,Relax
+17:45.8,107,96.4,0,772.96,Relax
+17:46.0,107,96.4,0,769.9,Relax
+17:46.1,107,96.4,0,769.9,Relax
+17:46.2,107,96.4,0,769.9,Relax
+17:46.3,107,96.4,0,769.9,Relax
+17:46.4,109,96.4,0,772.96,Relax
+17:46.5,109,96.4,0,769.9,Relax
+17:46.7,109,96.4,0,769.9,Relax
+17:46.9,109,96.4,0,769.9,Relax
+17:47.0,105,96.4,0,772.96,Relax
+17:47.1,105,96.4,0,769.9,Relax
+17:47.3,105,96.4,0,769.9,Relax
+17:47.4,105,96.4,0,769.9,Relax
+17:47.7,105,96.4,0,772.96,Relax
+17:47.8,105,96.4,0,769.9,Relax
+17:47.9,105,96.4,0,769.9,Relax
+17:48.0,105,96.4,0,769.9,Relax
+17:48.1,105,96.4,0,769.9,Relax
+17:48.3,105,96.4,0,769.9,Relax
+17:48.5,105,96.4,0,772.96,Relax
+17:48.7,105,96.4,0,772.96,Relax
+17:48.8,105,96.4,0,772.96,Relax
+17:48.9,105,96.4,0,772.96,Relax
+17:49.0,105,96.4,0,772.96,Relax
+17:49.1,105,96.4,0,769.9,Relax
+17:49.3,105,96.4,0,769.9,Relax
+17:49.5,105,96.4,0,769.9,Relax
+17:49.7,105,96.4,0,769.9,Relax
+18:12.2,82,96.4,1,772.96,Anxiety
+18:12.3,77,96.4,1,772.96,Anxiety
+18:12.5,77,96.4,1,772.96,Anxiety
+18:12.6,77,96.4,1,776.04,Anxiety
+18:12.7,77,96.4,1,772.96,Anxiety
+18:12.8,77,96.4,1,776.04,Anxiety
+18:13.0,77,96.4,1,757.73,Anxiety
+18:13.2,77,96.4,1,742.76,Anxiety
+18:13.3,76,96.4,1,733.9,Anxiety
+18:13.4,76,96.4,1,722.22,Anxiety
+18:13.6,76,96.4,1,702.16,Anxiety
+18:13.7,76,96.4,1,690.91,Anxiety
+18:13.8,76,96.4,1,685.34,Anxiety
+18:14.0,76,96.4,1,677.05,Anxiety
+18:14.1,76,96.4,1,674.3,Anxiety
+18:14.2,76,96.4,1,674.3,Anxiety
+18:14.3,76,96.4,1,674.3,Anxiety
+18:14.4,76,96.4,1,674.3,Anxiety
+18:14.6,76,96.4,1,677.05,Anxiety
+18:14.6,78,96.4,1,677.05,Anxiety
+18:14.8,78,96.4,1,677.05,Anxiety
+18:15.0,78,96.4,1,674.3,Anxiety
+18:15.1,78,96.4,1,671.57,Anxiety
+18:15.2,78,96.4,1,671.57,Anxiety
+18:15.3,78,96.4,1,671.57,Anxiety
+18:15.4,78,96.4,1,671.57,Anxiety
+18:15.6,78,96.4,1,668.84,Anxiety
+18:15.6,78,96.4,1,668.84,Anxiety
+18:15.8,78,96.4,1,666.12,Anxiety
+18:16.0,78,96.4,1,668.84,Anxiety
+18:16.1,77,96.4,1,668.84,Anxiety
+18:16.2,77,96.4,1,671.57,Anxiety
+18:16.3,77,96.4,1,674.3,Anxiety
+18:16.4,77,96.4,1,677.05,Anxiety
+18:16.6,77,96.4,1,682.57,Anxiety
+18:16.8,77,96.4,1,685.34,Anxiety
+18:16.9,76,96.4,1,685.34,Anxiety
+18:17.0,76,96.4,1,688.12,Anxiety
+18:17.1,76,96.4,1,690.91,Anxiety
+18:17.2,76,96.4,1,690.91,Anxiety
+18:17.3,76,96.4,1,693.71,Anxiety
+18:17.4,76,96.4,1,693.71,Anxiety
+18:17.5,76,96.4,1,696.52,Anxiety
+18:17.6,76,96.3,1,696.52,Anxiety
+18:17.8,76,96.3,1,699.34,Anxiety
+18:18.0,76,96.3,1,702.16,Anxiety
+18:18.1,76,96.3,1,705.0,Anxiety
+18:18.2,76,96.3,1,705.0,Anxiety
+18:18.3,75,96.3,1,707.85,Anxiety
+18:18.4,75,96.2,1,707.85,Anxiety
+18:18.5,75,96.2,1,707.85,Anxiety
+18:18.7,75,96.2,1,702.16,Anxiety
+18:18.9,74,96.0,1,696.52,Anxiety
+18:19.0,74,96.0,1,688.12,Anxiety
+18:19.1,74,96.0,1,682.57,Anxiety
+18:19.2,74,96.0,1,677.05,Anxiety
+18:19.3,74,96.0,1,668.84,Anxiety
+18:19.4,74,96.0,1,666.12,Anxiety
+18:19.5,74,96.0,1,666.12,Anxiety
+18:19.6,76,96.0,1,663.41,Anxiety
+18:19.8,76,96.0,1,663.41,Anxiety
+18:19.9,76,96.0,1,666.12,Anxiety
+18:20.0,76,96.0,1,666.12,Anxiety
+18:20.1,76,96.0,1,668.84,Anxiety
+18:20.2,76,96.0,1,668.84,Anxiety
+18:20.4,76,95.9,1,674.3,Anxiety
+18:20.5,76,95.9,1,674.3,Anxiety
+18:20.8,76,95.9,1,685.34,Anxiety
+18:20.8,76,95.9,1,685.34,Anxiety
+18:21.0,76,95.9,1,688.12,Anxiety
+18:21.0,77,95.9,1,688.12,Anxiety
+18:21.2,77,95.9,1,690.91,Anxiety
+18:21.3,77,95.9,1,693.71,Anxiety
+18:21.5,77,95.9,1,696.52,Anxiety
+18:21.6,76,95.9,1,702.16,Anxiety
+18:21.7,76,95.9,1,702.16,Anxiety
+18:21.8,76,95.9,1,705.0,Anxiety
+18:22.0,76,95.9,1,707.85,Anxiety
+18:22.1,76,95.9,1,705.0,Anxiety
+18:22.2,76,95.9,1,707.85,Anxiety
+18:22.3,76,95.9,1,707.85,Anxiety
+18:22.4,77,95.9,1,707.85,Anxiety
+18:22.5,77,95.9,1,710.7,Anxiety
+18:22.7,77,95.9,1,710.7,Anxiety
+18:22.8,77,95.9,1,713.57,Anxiety
+18:23.0,77,95.9,1,713.57,Anxiety
+18:23.0,79,95.9,1,713.57,Anxiety
+18:23.1,79,95.9,1,716.44,Anxiety
+18:23.3,79,95.9,1,716.44,Anxiety
+18:23.5,79,95.9,1,719.33,Anxiety
+18:23.7,79,95.9,1,719.33,Anxiety
+18:23.8,79,95.9,1,722.22,Anxiety
+18:23.9,79,95.9,1,722.22,Anxiety
+18:24.1,79,95.9,1,722.22,Anxiety
+18:24.1,79,95.9,1,722.22,Anxiety
+18:24.3,79,95.9,1,725.13,Anxiety
+18:24.6,80,95.9,1,728.04,Anxiety
+18:24.7,80,95.9,1,728.04,Anxiety
+18:24.8,80,95.9,1,728.04,Anxiety
+18:24.9,80,95.9,1,728.04,Anxiety
+18:25.0,80,95.9,1,730.96,Anxiety
+18:25.1,81,95.9,1,730.96,Anxiety
+18:25.5,81,95.9,1,733.9,Anxiety
+18:25.6,81,95.9,1,733.9,Anxiety
+18:25.7,81,95.9,1,733.9,Anxiety
+18:25.8,82,95.9,1,736.84,Anxiety
+18:25.9,82,95.9,1,736.84,Anxiety
+18:26.1,82,95.9,1,736.84,Anxiety
+18:26.3,82,95.9,1,736.84,Anxiety
+18:26.4,84,95.9,1,739.8,Anxiety
+18:26.5,84,95.9,1,739.8,Anxiety
+18:26.6,84,95.9,1,739.8,Anxiety
+18:26.7,84,95.9,1,739.8,Anxiety
+18:26.8,84,95.9,1,742.76,Anxiety
+18:26.9,84,95.9,1,742.76,Anxiety
+18:27.0,84,95.9,1,745.73,Anxiety
+18:27.1,84,95.8,1,745.73,Anxiety
+18:27.3,84,95.8,1,745.73,Anxiety
+18:27.5,84,95.8,1,748.72,Anxiety
+18:27.6,84,95.8,1,748.72,Anxiety
+18:27.7,84,95.8,1,748.72,Anxiety
+18:27.9,84,95.9,1,748.72,Anxiety
+18:28.0,84,95.9,1,748.72,Anxiety
+18:28.3,84,95.9,1,751.71,Anxiety
+18:28.4,84,95.9,1,751.71,Anxiety
+18:28.5,83,95.9,1,751.71,Anxiety
+18:28.7,83,95.9,1,754.72,Anxiety
+18:28.8,83,95.9,1,754.72,Anxiety
+18:29.1,84,95.9,1,757.73,Anxiety
+18:29.3,84,95.9,1,757.73,Anxiety
+18:29.4,84,95.9,1,760.76,Anxiety
+18:29.5,84,95.9,1,760.76,Anxiety
+18:29.6,84,95.9,1,760.76,Anxiety
+18:29.7,84,95.9,1,760.76,Anxiety
+18:29.8,84,95.9,1,760.76,Anxiety
+18:29.9,84,95.9,1,760.76,Anxiety
+18:30.0,84,95.9,1,760.76,Anxiety
+18:30.3,84,95.9,1,763.79,Anxiety
+18:30.3,84,95.9,1,763.79,Anxiety
+18:30.4,84,95.9,1,763.79,Anxiety
+18:30.5,84,95.9,1,763.79,Anxiety
+18:30.7,84,95.9,1,763.79,Anxiety
+18:30.8,84,95.9,1,766.84,Anxiety
+18:31.0,84,95.9,1,766.84,Anxiety
+18:31.2,84,95.9,1,766.84,Anxiety
+18:31.3,84,95.9,1,766.84,Anxiety
+18:31.4,84,95.9,1,766.84,Anxiety
+18:31.6,84,95.9,1,769.9,Anxiety
+18:31.7,84,95.9,1,769.9,Anxiety
+18:31.8,84,95.9,1,769.9,Anxiety
+18:31.9,84,95.9,1,769.9,Anxiety
+18:32.0,84,95.9,1,769.9,Anxiety
+18:32.2,84,95.9,1,772.96,Anxiety
+18:32.3,84,95.9,1,772.96,Anxiety
+18:32.4,84,95.9,1,769.9,Anxiety
+18:32.5,84,95.9,1,769.9,Anxiety
+18:32.6,85,95.9,1,769.9,Anxiety
+18:32.8,85,95.9,1,769.9,Anxiety
+18:33.0,85,95.9,1,769.9,Anxiety
+18:33.1,85,95.9,1,769.9,Anxiety
+18:33.2,85,95.9,1,769.9,Anxiety
+18:33.3,85,95.9,1,769.9,Anxiety
+18:33.4,85,95.9,1,772.96,Anxiety
+18:33.6,85,95.9,1,769.9,Anxiety
+18:33.8,85,95.9,1,769.9,Anxiety
+18:34.1,85,96.0,1,769.9,Anxiety
+18:34.2,85,96.0,1,769.9,Anxiety
+18:34.3,85,96.0,1,769.9,Anxiety
+18:34.4,85,96.0,1,769.9,Anxiety
+18:34.5,85,96.0,1,769.9,Anxiety
+18:34.6,85,96.0,1,769.9,Anxiety
+18:34.8,85,96.0,1,772.96,Anxiety
+18:35.0,85,96.0,1,772.96,Anxiety
+18:35.1,85,96.0,1,772.96,Anxiety
+18:35.2,85,96.0,1,776.04,Anxiety
+18:35.3,85,96.0,1,772.96,Anxiety
+18:35.4,85,96.0,1,772.96,Anxiety
+18:35.6,85,96.0,1,769.9,Anxiety
+18:35.8,85,96.0,1,769.9,Anxiety
+18:36.0,86,96.0,1,769.9,Anxiety
+18:36.2,86,96.0,1,769.9,Anxiety
+18:36.3,86,96.0,1,769.9,Anxiety
+18:36.5,86,96.0,1,776.04,Anxiety
+18:36.6,86,96.0,1,772.96,Anxiety
+18:36.8,86,96.0,1,769.9,Anxiety
+18:36.9,86,96.0,1,769.9,Anxiety
+18:37.0,86,96.0,1,769.9,Anxiety
+18:37.1,86,96.0,1,769.9,Anxiety
+18:37.2,86,96.0,1,769.9,Anxiety
+18:37.3,86,96.0,1,769.9,Anxiety
+18:37.4,86,96.0,1,769.9,Anxiety
+18:37.5,86,96.0,1,769.9,Anxiety
+18:37.8,86,96.0,1,769.9,Anxiety
+18:37.9,86,96.0,1,772.96,Anxiety
+18:37.9,86,96.0,1,772.96,Anxiety
+18:38.0,86,96.0,1,772.96,Anxiety
+18:38.2,86,96.0,1,772.96,Anxiety
+18:38.3,86,96.0,1,772.96,Anxiety
+18:38.5,86,96.0,1,772.96,Anxiety
+18:38.7,87,96.0,1,769.9,Anxiety
+18:38.8,87,96.0,1,769.9,Anxiety
+18:39.0,87,96.0,1,769.9,Anxiety
+18:39.1,87,96.0,1,769.9,Anxiety
+18:39.2,87,96.0,1,769.9,Anxiety
+18:39.3,87,96.0,1,769.9,Anxiety
+18:39.4,86,96.0,1,769.9,Anxiety
+18:39.5,86,96.0,1,769.9,Anxiety
+18:39.7,86,96.0,1,772.96,Anxiety
+18:39.8,86,96.0,1,772.96,Anxiety
+18:40.0,86,96.0,1,772.96,Anxiety
+18:40.0,86,96.0,1,772.96,Anxiety
+18:40.2,86,96.0,1,769.9,Anxiety
+18:40.3,86,96.0,1,769.9,Anxiety
+18:40.5,86,96.0,1,769.9,Anxiety
+18:40.6,86,96.0,1,769.9,Anxiety
+18:40.7,86,96.0,1,769.9,Anxiety
+18:40.8,86,96.0,1,769.9,Anxiety
+18:40.9,86,96.0,1,769.9,Anxiety
+18:41.1,86,96.0,1,769.9,Anxiety
+18:41.3,86,96.0,1,769.9,Anxiety
+18:41.4,86,96.0,1,769.9,Anxiety
+18:41.5,86,96.0,1,769.9,Anxiety
+18:41.6,86,96.0,1,769.9,Anxiety
+18:41.7,86,96.0,1,769.9,Anxiety
+18:41.8,86,96.0,1,769.9,Anxiety
+18:41.9,86,96.0,1,769.9,Anxiety
+18:42.0,86,96.0,1,769.9,Anxiety
+18:42.2,87,96.0,1,769.9,Anxiety
+18:42.3,87,96.0,1,769.9,Anxiety
+18:42.5,87,96.0,1,769.9,Anxiety
+18:42.6,87,96.0,1,772.96,Anxiety
+18:42.7,87,96.0,1,772.96,Anxiety
+18:42.9,87,96.0,1,772.96,Anxiety
+18:43.1,87,96.0,1,769.9,Anxiety
+18:43.3,87,96.0,1,772.96,Anxiety
+18:43.4,87,96.0,1,769.9,Anxiety
+18:43.5,87,96.0,1,766.84,Anxiety
+18:43.6,87,96.0,1,760.76,Anxiety
+18:43.7,87,96.0,1,757.73,Anxiety
+18:43.8,87,96.0,1,754.72,Anxiety
+18:44.0,87,96.0,1,745.73,Anxiety
+18:44.1,87,96.0,1,742.76,Anxiety
+18:44.3,87,96.0,1,736.84,Anxiety
+18:44.4,87,96.0,1,736.84,Anxiety
+18:44.5,87,96.0,1,733.9,Anxiety
+18:44.6,87,96.0,1,733.9,Anxiety
+18:44.7,87,96.0,1,733.9,Anxiety
+18:44.9,87,96.0,1,736.84,Anxiety
+18:45.1,87,96.0,1,736.84,Anxiety
+18:45.3,87,96.0,1,739.8,Anxiety
+18:45.4,87,96.0,1,742.76,Anxiety
+18:45.5,87,96.0,1,742.76,Anxiety
+18:45.6,87,96.0,1,742.76,Anxiety
+18:45.7,87,96.0,1,745.73,Anxiety
+18:45.8,87,96.0,1,745.73,Anxiety
+18:46.0,87,96.0,1,745.73,Anxiety
+18:46.1,87,96.0,1,745.73,Anxiety
+18:46.3,87,96.0,1,748.72,Anxiety
+18:46.4,87,96.0,1,748.72,Anxiety
+18:46.5,87,96.0,1,751.71,Anxiety
+18:46.6,87,96.0,1,748.72,Anxiety
+18:46.7,87,96.0,1,751.71,Anxiety
+18:46.9,88,96.0,1,748.72,Anxiety
+18:47.2,88,96.0,1,751.71,Anxiety
+18:47.3,88,96.0,1,751.71,Anxiety
+18:47.5,88,96.0,1,754.72,Anxiety
+18:47.6,88,96.0,1,751.71,Anxiety
+18:47.8,88,96.0,1,754.72,Anxiety
+18:48.0,88,96.0,1,754.72,Anxiety
+18:48.1,88,96.0,1,754.72,Anxiety
+18:48.2,88,96.0,1,754.72,Anxiety
+18:48.3,88,96.0,1,754.72,Anxiety
+18:48.4,88,96.0,1,754.72,Anxiety
+18:48.6,88,96.0,1,757.73,Anxiety
+18:48.7,88,96.0,1,760.76,Anxiety
+18:48.9,88,96.0,1,760.76,Anxiety
+18:49.0,88,96.0,1,760.76,Anxiety
+18:49.1,88,96.0,1,760.76,Anxiety
+18:49.2,88,96.0,1,760.76,Anxiety
+18:49.3,88,96.0,1,760.76,Anxiety
+18:49.4,88,96.0,1,760.76,Anxiety
+18:49.7,88,96.0,1,763.79,Anxiety
+18:49.8,88,96.0,1,766.84,Anxiety
+18:50.0,88,96.0,1,763.79,Anxiety
+18:50.1,88,96.0,1,766.84,Anxiety
+18:50.2,88,96.0,1,766.84,Anxiety
+18:50.3,88,96.0,1,766.84,Anxiety
+18:50.4,88,96.0,1,766.84,Anxiety
+18:50.8,88,96.0,1,766.84,Anxiety
+18:50.9,88,96.0,1,769.9,Anxiety
+18:51.0,88,96.0,1,769.9,Anxiety
+18:51.1,88,96.0,1,769.9,Anxiety
+18:51.2,88,96.0,1,769.9,Anxiety
+18:51.3,88,96.0,1,769.9,Anxiety
+18:51.4,88,96.0,1,772.96,Anxiety
+18:51.5,88,96.0,1,772.96,Anxiety
+18:51.6,88,96.0,1,772.96,Anxiety
+18:51.8,88,96.0,1,769.9,Anxiety
+18:51.9,88,96.0,1,769.9,Anxiety
+18:52.0,88,96.0,1,769.9,Anxiety
+18:52.1,88,96.0,1,769.9,Anxiety
+18:52.4,88,96.0,1,769.9,Anxiety
+18:52.6,88,96.0,1,769.9,Anxiety
+18:52.8,88,96.0,1,769.9,Anxiety
+18:52.9,88,96.0,1,769.9,Anxiety
+18:53.0,88,96.0,1,769.9,Anxiety
+18:53.1,88,96.0,1,769.9,Anxiety
+18:53.2,88,96.0,1,769.9,Anxiety
+18:53.3,88,96.0,1,769.9,Anxiety
+18:53.5,88,96.0,1,769.9,Anxiety
+18:53.6,88,96.0,1,769.9,Anxiety
+18:53.8,88,96.0,1,769.9,Anxiety
+18:53.9,88,96.0,1,772.96,Anxiety
+18:54.0,88,96.0,1,772.96,Anxiety
+18:54.1,88,96.0,1,772.96,Anxiety
+18:54.4,88,96.0,1,772.96,Anxiety
+18:54.5,88,96.0,1,772.96,Anxiety
+18:54.6,88,96.0,1,772.96,Anxiety
+18:54.8,88,96.0,1,772.96,Anxiety
+18:54.9,88,96.0,1,769.9,Anxiety
+18:55.0,88,96.0,1,769.9,Anxiety
+18:55.1,88,96.0,1,769.9,Anxiety
+18:55.3,88,96.0,1,769.9,Anxiety
+18:55.5,88,96.0,1,769.9,Anxiety
+18:55.6,88,96.0,1,769.9,Anxiety
+18:55.7,88,96.0,1,769.9,Anxiety
+18:55.9,88,96.0,1,769.9,Anxiety
+18:56.0,88,96.0,1,769.9,Anxiety
+18:56.1,88,96.0,1,769.9,Anxiety
+18:56.2,88,96.0,1,769.9,Anxiety
+18:56.4,88,96.0,1,769.9,Anxiety
+18:56.5,88,96.0,1,769.9,Anxiety
+18:56.6,88,96.0,1,769.9,Anxiety
+18:56.7,88,96.0,1,769.9,Anxiety
+18:56.8,88,96.0,1,769.9,Anxiety
+18:56.9,88,96.0,1,769.9,Anxiety
+18:57.1,88,96.0,1,769.9,Anxiety
+18:57.3,88,96.0,1,772.96,Anxiety
+18:57.5,88,96.0,1,769.9,Anxiety
+18:57.6,88,96.0,1,769.9,Anxiety
+18:57.7,88,96.0,1,769.9,Anxiety
+18:57.8,88,96.0,1,769.9,Anxiety
+18:57.9,88,96.0,1,769.9,Anxiety
+18:58.1,88,96.0,1,769.9,Anxiety
+18:58.3,88,96.0,1,769.9,Anxiety
+18:58.4,87,96.0,1,772.96,Anxiety
+18:58.5,87,96.0,1,772.96,Anxiety
+18:58.6,87,96.0,1,769.9,Anxiety
+18:58.7,87,96.0,1,769.9,Anxiety
+18:58.8,87,96.0,1,769.9,Anxiety
+18:58.9,87,96.0,1,772.96,Anxiety
+18:59.0,87,96.0,1,772.96,Anxiety
+18:59.2,87,96.0,1,769.9,Anxiety
+18:59.3,87,96.0,1,769.9,Anxiety
+18:59.4,87,96.0,1,769.9,Anxiety
+18:59.5,87,96.0,1,772.96,Anxiety
+18:59.6,87,96.0,1,772.96,Anxiety
+18:59.7,87,96.0,1,769.9,Anxiety
+18:59.8,87,96.0,1,769.9,Anxiety
+18:59.9,87,96.0,1,769.9,Anxiety
+19:00.1,87,96.0,1,769.9,Anxiety
+19:00.3,87,96.0,1,769.9,Anxiety
+19:00.4,87,96.0,1,769.9,Anxiety
+19:00.5,87,96.0,1,772.96,Anxiety
+19:00.6,87,96.0,1,769.9,Anxiety
+19:00.7,87,96.0,1,772.96,Anxiety
+19:00.9,86,96.0,1,772.96,Anxiety
+19:01.1,86,96.0,1,769.9,Anxiety
+19:01.3,86,96.0,1,769.9,Anxiety
+19:01.4,86,96.0,1,772.96,Anxiety
+19:01.5,86,96.0,1,769.9,Anxiety
+19:01.5,86,96.1,1,769.9,Anxiety
+19:01.7,86,96.1,1,769.9,Anxiety
+19:01.8,86,96.1,1,769.9,Anxiety
+19:02.1,86,96.1,1,769.9,Anxiety
+19:02.2,86,96.1,1,769.9,Anxiety
+19:02.3,86,96.1,1,769.9,Anxiety
+19:02.4,86,96.1,1,772.96,Anxiety
+19:02.6,86,96.1,1,769.9,Anxiety
+19:02.7,86,96.1,1,772.96,Anxiety
+19:02.8,86,96.1,1,769.9,Anxiety
+19:02.9,86,96.1,1,772.96,Anxiety
+19:03.1,86,96.1,1,769.9,Anxiety
+19:03.1,86,96.1,1,769.9,Anxiety
+19:03.3,86,96.1,1,769.9,Anxiety
+19:03.4,86,96.1,1,769.9,Anxiety
+19:03.5,86,96.1,1,772.96,Anxiety
+19:03.6,86,96.1,1,769.9,Anxiety
+19:03.7,86,96.1,1,769.9,Anxiety
+19:03.8,86,96.1,1,769.9,Anxiety
+19:04.0,86,96.1,1,769.9,Anxiety
+19:04.1,86,96.1,1,769.9,Anxiety
+19:04.2,86,96.1,1,769.9,Anxiety
+19:04.3,85,96.1,1,772.96,Anxiety
+19:04.4,85,96.1,1,769.9,Anxiety
+19:04.6,85,96.1,1,772.96,Anxiety
+19:04.8,85,96.1,1,772.96,Anxiety
+19:05.0,85,96.1,1,769.9,Anxiety
+19:05.1,85,96.1,1,769.9,Anxiety
+19:05.2,85,96.1,1,772.96,Anxiety
+19:05.4,85,96.1,1,769.9,Anxiety
+19:05.4,85,96.1,1,769.9,Anxiety
+19:05.6,85,96.1,1,769.9,Anxiety
+19:05.8,85,96.1,1,769.9,Anxiety
+19:05.9,85,96.1,1,772.96,Anxiety
+19:06.0,85,96.1,1,772.96,Anxiety
+19:06.1,85,96.1,1,772.96,Anxiety
+19:06.2,85,96.1,1,769.9,Anxiety
+19:06.4,85,96.1,1,769.9,Anxiety
+19:06.4,85,96.1,1,769.9,Anxiety
+19:06.5,85,96.1,1,769.9,Anxiety
+19:06.7,85,96.1,1,769.9,Anxiety
+19:06.8,85,96.1,1,772.96,Anxiety
+19:07.0,85,96.1,1,769.9,Anxiety
+19:07.1,85,96.1,1,772.96,Anxiety
+19:07.2,85,96.1,1,772.96,Anxiety
+19:07.4,85,96.1,1,772.96,Anxiety
+19:07.6,85,96.1,1,772.96,Anxiety
+19:07.8,85,96.1,1,772.96,Anxiety
+19:07.9,85,96.1,1,769.9,Anxiety
+19:08.0,85,96.1,1,772.96,Anxiety
+19:08.1,84,96.1,1,769.9,Anxiety
+19:08.2,84,96.1,1,769.9,Anxiety
+19:08.3,84,96.1,1,769.9,Anxiety
+19:08.6,84,96.1,1,769.9,Anxiety
+19:08.7,84,96.1,1,769.9,Anxiety
+19:08.9,84,96.1,1,766.84,Anxiety
+19:09.0,84,96.1,1,766.84,Anxiety
+19:09.1,84,96.1,1,766.84,Anxiety
+19:09.3,84,96.1,1,766.84,Anxiety
+19:09.6,84,96.1,1,766.84,Anxiety
+19:09.7,84,96.1,1,769.9,Anxiety
+19:09.9,84,96.1,1,769.9,Anxiety
+19:10.0,84,96.1,1,772.96,Anxiety
+19:10.1,84,96.1,1,769.9,Anxiety
+19:10.2,84,96.1,1,769.9,Anxiety
+19:10.3,84,96.1,1,769.9,Anxiety
+19:10.6,84,96.1,1,769.9,Anxiety
+19:10.8,84,96.1,1,772.96,Anxiety
+19:10.9,84,96.1,1,769.9,Anxiety
+19:10.9,84,96.1,1,769.9,Anxiety
+19:11.1,84,96.1,1,769.9,Anxiety
+19:11.3,84,96.1,1,772.96,Anxiety
+19:11.5,84,96.1,1,769.9,Anxiety
+19:11.6,84,96.1,1,766.84,Anxiety
+19:11.7,84,96.1,1,763.79,Anxiety
+19:11.9,84,96.1,1,760.76,Anxiety
+19:12.0,84,96.1,1,757.73,Anxiety
+19:12.1,84,96.1,1,757.73,Anxiety
+19:12.2,85,96.1,1,757.73,Anxiety
+19:12.3,85,96.1,1,754.72,Anxiety
+19:12.5,85,96.1,1,754.72,Anxiety
+19:12.6,85,96.1,1,754.72,Anxiety
+19:12.7,85,96.1,1,754.72,Anxiety
+19:12.8,85,96.1,1,757.73,Anxiety
+19:12.9,84,96.1,1,757.73,Anxiety
+19:13.1,84,96.1,1,757.73,Anxiety
+19:13.3,84,96.1,1,763.79,Anxiety
+19:13.5,84,96.1,1,760.76,Anxiety
+19:13.6,84,96.1,1,760.76,Anxiety
+19:13.7,84,96.1,1,763.79,Anxiety
+19:13.9,84,96.1,1,763.79,Anxiety
+19:13.9,84,96.1,1,763.79,Anxiety
+19:14.1,84,96.1,1,763.79,Anxiety
+19:14.3,84,96.1,1,766.84,Anxiety
+19:14.4,84,96.1,1,766.84,Anxiety
+19:14.5,84,96.1,1,766.84,Anxiety
+19:14.6,84,96.1,1,766.84,Anxiety
+19:14.7,84,96.1,1,769.9,Anxiety
+19:14.8,84,96.1,1,769.9,Anxiety
+19:14.9,85,96.1,1,769.9,Anxiety
+19:15.1,85,96.1,1,772.96,Anxiety
+19:15.3,85,96.1,1,769.9,Anxiety
+19:15.4,85,96.1,1,769.9,Anxiety
+19:15.5,85,96.1,1,772.96,Anxiety
+19:15.6,85,96.1,1,769.9,Anxiety
+19:15.7,85,96.1,1,772.96,Anxiety
+19:15.9,85,96.1,1,769.9,Anxiety
+19:16.1,85,96.1,1,769.9,Anxiety
+19:16.3,85,96.1,1,769.9,Anxiety
+19:16.4,85,96.1,1,769.9,Anxiety
+19:16.5,85,96.1,1,769.9,Anxiety
+19:16.6,85,96.1,1,772.96,Anxiety
+19:16.7,85,96.1,1,769.9,Anxiety
+19:16.8,85,96.1,1,769.9,Anxiety
+19:17.0,85,96.1,1,769.9,Anxiety
+19:17.2,85,96.1,1,769.9,Anxiety
+19:17.3,85,96.1,1,769.9,Anxiety
+19:17.4,85,96.1,1,772.96,Anxiety
+19:17.5,85,96.1,1,769.9,Anxiety
+19:17.6,85,96.1,1,772.96,Anxiety
+19:17.7,85,96.1,1,769.9,Anxiety
+19:17.8,85,96.1,1,769.9,Anxiety
+19:18.1,85,96.1,1,769.9,Anxiety
+19:18.2,85,96.1,1,769.9,Anxiety
+19:18.3,86,96.1,1,769.9,Anxiety
+19:18.4,86,96.1,1,772.96,Anxiety
+19:18.6,86,96.1,1,772.96,Anxiety
+19:18.8,86,96.1,1,769.9,Anxiety
+19:18.9,86,96.1,1,769.9,Anxiety
+19:19.1,86,96.1,1,772.96,Anxiety
+19:19.1,86,96.1,1,772.96,Anxiety
+19:19.3,86,96.1,1,769.9,Anxiety
+19:19.4,86,96.1,1,772.96,Anxiety
+19:19.5,86,96.1,1,769.9,Anxiety
+19:19.6,86,96.1,1,772.96,Anxiety
+19:19.7,86,96.1,1,769.9,Anxiety
+19:19.8,86,96.1,1,772.96,Anxiety
+19:20.1,86,96.1,1,769.9,Anxiety
+19:20.1,86,96.1,1,769.9,Anxiety
+19:20.3,86,96.1,1,769.9,Anxiety
+19:20.4,86,96.1,1,769.9,Anxiety
+19:20.6,86,96.1,1,772.96,Anxiety
+19:20.8,86,96.1,1,772.96,Anxiety
+19:20.9,87,96.1,1,769.9,Anxiety
+19:21.0,87,96.1,1,772.96,Anxiety
+19:21.1,87,96.1,1,769.9,Anxiety
+19:21.2,87,96.1,1,769.9,Anxiety
+19:21.4,87,96.1,1,769.9,Anxiety
+19:21.4,87,96.1,1,769.9,Anxiety
+19:21.6,87,96.1,1,772.96,Anxiety
+19:21.8,87,96.1,1,769.9,Anxiety
+19:22.0,87,96.1,1,769.9,Anxiety
+19:22.1,87,96.1,1,769.9,Anxiety
+19:22.2,87,96.1,1,769.9,Anxiety
+19:22.4,87,96.1,1,769.9,Anxiety
+19:22.4,87,96.1,1,769.9,Anxiety
+19:22.6,87,96.1,1,769.9,Anxiety
+19:22.9,88,96.1,1,772.96,Anxiety
+19:23.0,88,96.1,1,769.9,Anxiety
+19:23.1,88,96.1,1,769.9,Anxiety
+19:23.3,88,96.1,1,769.9,Anxiety
+19:23.3,88,96.1,1,772.96,Anxiety
+19:23.9,88,96.1,1,769.9,Anxiety
+19:24.0,88,96.1,1,769.9,Anxiety
+19:24.1,88,96.1,1,769.9,Anxiety
+19:24.2,88,96.1,1,769.9,Anxiety
+19:24.4,88,96.1,1,772.96,Anxiety
+19:24.6,88,96.1,1,769.9,Anxiety
+19:24.7,88,96.1,1,769.9,Anxiety
+19:24.8,88,96.1,1,769.9,Anxiety
+19:24.9,88,96.1,1,772.96,Anxiety
+19:25.0,88,96.1,1,769.9,Anxiety
+19:25.1,88,96.1,1,772.96,Anxiety
+19:25.2,88,96.1,1,769.9,Anxiety
+19:25.3,88,96.1,1,769.9,Anxiety
+19:25.4,88,96.1,1,769.9,Anxiety
+19:25.6,88,96.1,1,769.9,Anxiety
+19:25.8,88,96.1,1,769.9,Anxiety
+19:25.9,88,96.1,1,772.96,Anxiety
+19:26.0,88,96.1,1,769.9,Anxiety
+19:26.1,88,96.1,1,769.9,Anxiety
+19:26.2,88,96.1,1,769.9,Anxiety
+19:26.3,88,96.1,1,772.96,Anxiety
+19:26.6,88,96.1,1,760.76,Anxiety
+19:26.8,88,96.1,1,739.8,Anxiety
+19:26.9,88,96.1,1,730.96,Anxiety
+19:27.0,88,96.1,1,725.13,Anxiety
+19:27.1,88,96.1,1,716.44,Anxiety
+19:27.3,88,96.1,1,710.7,Anxiety
+19:27.5,88,96.1,1,707.85,Anxiety
+19:27.6,87,96.1,1,707.85,Anxiety
+19:27.7,87,96.1,1,710.7,Anxiety
+19:27.9,87,96.1,1,710.7,Anxiety
+19:28.0,87,96.1,1,716.44,Anxiety
+19:28.1,87,96.1,1,716.44,Anxiety
+19:28.2,88,96.1,1,719.33,Anxiety
+19:28.3,88,96.1,1,719.33,Anxiety
+19:28.6,88,96.1,1,725.13,Anxiety
+19:28.6,88,96.1,1,725.13,Anxiety
+19:28.8,88,96.1,1,730.96,Anxiety
+19:28.9,88,96.1,1,730.96,Anxiety
+19:28.9,87,96.1,1,730.96,Anxiety
+19:29.1,87,96.1,1,736.84,Anxiety
+19:29.3,87,96.1,1,739.8,Anxiety
+19:29.5,87,96.1,1,739.8,Anxiety
+19:29.6,87,96.1,1,742.76,Anxiety
+19:29.7,87,96.1,1,742.76,Anxiety
+19:29.9,87,96.1,1,748.72,Anxiety
+19:29.9,87,96.1,1,748.72,Anxiety
+19:30.1,87,96.1,1,745.73,Anxiety
+19:30.3,87,96.1,1,748.72,Anxiety
+19:30.4,87,96.1,1,751.71,Anxiety
+19:30.5,87,96.1,1,748.72,Anxiety
+19:30.6,87,96.1,1,751.71,Anxiety
+19:30.7,87,96.1,1,754.72,Anxiety
+19:30.9,87,96.1,1,751.71,Anxiety
+19:31.0,87,96.1,1,751.71,Anxiety
+19:31.2,87,96.1,1,754.72,Anxiety
+19:31.3,87,96.1,1,757.73,Anxiety
+19:31.4,87,96.1,1,754.72,Anxiety
+19:31.5,87,96.1,1,757.73,Anxiety
+19:31.6,87,96.1,1,757.73,Anxiety
+19:31.7,87,96.1,1,757.73,Anxiety
+19:31.9,87,96.1,1,760.76,Anxiety
+19:32.1,87,96.1,1,760.76,Anxiety
+19:32.3,87,96.1,1,760.76,Anxiety
+19:32.4,88,96.1,1,763.79,Anxiety
+19:32.5,88,96.1,1,760.76,Anxiety
+19:32.6,88,96.1,1,763.79,Anxiety
+19:32.7,88,96.1,1,763.79,Anxiety
+19:32.9,88,96.1,1,766.84,Anxiety
+19:33.0,88,96.1,1,766.84,Anxiety
+19:33.2,88,96.1,1,766.84,Anxiety
+19:33.3,88,96.1,1,769.9,Anxiety
+19:33.4,88,96.1,1,769.9,Anxiety
+19:33.5,88,96.1,1,769.9,Anxiety
+19:33.6,88,96.1,1,769.9,Anxiety
+19:33.7,88,96.1,1,769.9,Anxiety
+19:33.9,88,96.1,1,772.96,Anxiety
+19:34.1,88,96.1,1,769.9,Anxiety
+19:34.3,88,96.1,1,769.9,Anxiety
+19:34.4,88,96.1,1,769.9,Anxiety
+19:34.5,88,96.1,1,772.96,Anxiety
+19:34.6,88,96.1,1,769.9,Anxiety
+19:34.8,88,96.1,1,769.9,Anxiety
+19:35.0,88,96.1,1,769.9,Anxiety
+19:35.1,88,96.1,1,769.9,Anxiety
+19:35.2,88,96.1,1,769.9,Anxiety
+19:35.4,88,96.1,1,769.9,Anxiety
+19:35.5,88,96.1,1,769.9,Anxiety
+19:35.6,88,96.1,1,769.9,Anxiety
+19:35.7,88,96.1,1,769.9,Anxiety
+19:35.8,88,96.1,1,769.9,Anxiety
+19:36.1,88,96.1,1,769.9,Anxiety
+19:36.2,88,96.1,1,769.9,Anxiety
+19:36.3,88,96.1,1,769.9,Anxiety
+19:36.4,88,96.1,1,769.9,Anxiety
+19:36.5,88,96.1,1,769.9,Anxiety
+19:36.6,88,96.1,1,772.96,Anxiety
+19:36.8,88,96.1,1,772.96,Anxiety
+19:37.0,88,96.1,1,769.9,Anxiety
+19:37.1,88,96.1,1,769.9,Anxiety
+19:37.2,88,96.1,1,772.96,Anxiety
+19:37.4,88,96.1,1,772.96,Anxiety
+19:37.4,88,96.1,1,772.96,Anxiety
+19:37.6,88,96.1,1,772.96,Anxiety
+19:37.7,88,96.1,1,769.9,Anxiety
+19:37.8,88,96.1,1,769.9,Anxiety
+19:38.0,88,96.1,1,769.9,Anxiety
+19:38.1,88,96.1,1,772.96,Anxiety
+19:38.2,88,96.1,1,769.9,Anxiety
+19:38.3,88,96.1,1,769.9,Anxiety
+19:38.4,88,96.1,1,769.9,Anxiety
+19:38.6,88,96.1,1,769.9,Anxiety
+19:38.8,88,96.1,1,769.9,Anxiety
+19:38.9,88,96.1,1,772.96,Anxiety
+19:39.1,88,96.1,1,769.9,Anxiety
+19:39.2,88,96.1,1,769.9,Anxiety
+19:39.6,88,96.1,1,772.96,Anxiety
+19:39.8,88,96.1,1,769.9,Anxiety
+19:39.9,88,96.1,1,769.9,Anxiety
+19:40.0,88,96.1,1,769.9,Anxiety
+19:40.1,88,96.1,1,769.9,Anxiety
+19:40.2,88,96.1,1,769.9,Anxiety
+19:40.4,88,96.1,1,769.9,Anxiety
+19:40.5,88,96.1,1,769.9,Anxiety
+19:40.7,88,96.1,1,769.9,Anxiety
+19:40.8,88,96.1,1,769.9,Anxiety
+19:40.9,88,96.1,1,769.9,Anxiety
+19:41.0,88,96.1,1,769.9,Anxiety
+19:41.1,88,96.1,1,772.96,Anxiety
+19:41.2,88,96.1,1,769.9,Anxiety
+19:41.4,88,96.1,1,769.9,Anxiety
+19:41.6,88,96.1,1,769.9,Anxiety
+19:41.8,88,96.1,1,769.9,Anxiety
+19:41.9,88,96.1,1,772.96,Anxiety
+19:42.0,88,96.1,1,769.9,Anxiety
+19:42.1,88,96.1,1,772.96,Anxiety
+19:42.4,88,96.1,1,769.9,Anxiety
+19:42.5,88,96.1,1,772.96,Anxiety
+19:42.7,88,96.1,1,772.96,Anxiety
+19:42.8,88,96.1,1,769.9,Anxiety
+19:42.9,88,96.1,1,772.96,Anxiety
+19:43.0,88,96.1,1,769.9,Anxiety
+19:43.1,88,96.1,1,769.9,Anxiety
+19:43.3,88,96.1,1,772.96,Anxiety
+19:43.4,88,96.1,1,769.9,Anxiety
+19:43.6,88,96.1,1,769.9,Anxiety
+19:43.7,88,96.1,1,772.96,Anxiety
+19:43.8,88,96.1,1,769.9,Anxiety
+19:43.9,88,96.1,1,769.9,Anxiety
+19:44.0,88,96.1,1,769.9,Anxiety
+19:44.1,88,96.1,1,769.9,Anxiety
+19:44.3,88,96.1,1,769.9,Anxiety
+19:44.5,88,96.1,1,769.9,Anxiety
+19:44.7,88,96.1,1,769.9,Anxiety
+19:44.8,88,96.1,1,772.96,Anxiety
+19:44.9,88,96.1,1,769.9,Anxiety
+19:45.0,88,96.1,1,772.96,Anxiety
+19:45.1,88,96.1,1,769.9,Anxiety
+19:45.3,88,96.1,1,769.9,Anxiety
+19:45.4,88,96.1,1,769.9,Anxiety
+19:45.5,88,96.1,1,769.9,Anxiety
+19:45.7,88,96.1,1,769.9,Anxiety
+19:45.7,88,96.1,1,769.9,Anxiety
+19:45.9,88,96.1,1,769.9,Anxiety
+19:46.1,88,96.1,1,769.9,Anxiety
+19:46.2,87,96.1,1,769.9,Anxiety
+19:46.3,87,96.1,1,769.9,Anxiety
+19:46.4,87,96.1,1,772.96,Anxiety
+19:46.5,87,96.1,1,769.9,Anxiety
+19:46.6,87,96.1,1,772.96,Anxiety
+19:46.7,87,96.1,1,769.9,Anxiety
+19:46.9,87,96.1,1,769.9,Anxiety
+19:47.1,87,96.1,1,772.96,Anxiety
+19:47.3,87,96.1,1,769.9,Anxiety
+19:47.4,88,96.1,1,760.76,Anxiety
+19:47.5,88,96.1,1,754.72,Anxiety
+19:47.6,88,96.1,1,748.72,Anxiety
+19:47.7,88,96.1,1,739.8,Anxiety
+19:47.9,88,96.1,1,733.9,Anxiety
+19:48.0,88,96.1,1,728.04,Anxiety
+19:48.2,88,96.1,1,728.04,Anxiety
+19:48.3,88,96.1,1,730.96,Anxiety
+19:48.4,88,96.1,1,728.04,Anxiety
+19:48.5,88,96.1,1,728.04,Anxiety
+19:48.6,88,96.1,1,730.96,Anxiety
+19:48.9,88,96.1,1,733.9,Anxiety
+19:49.1,88,96.1,1,736.84,Anxiety
+19:49.2,88,96.1,1,736.84,Anxiety
+19:49.3,88,96.1,1,739.8,Anxiety
+19:49.4,88,96.1,1,739.8,Anxiety
+19:49.5,88,96.1,1,742.76,Anxiety
+19:49.7,87,96.1,1,742.76,Anxiety
+19:49.9,87,96.1,1,745.73,Anxiety
+19:50.1,87,96.1,1,751.71,Anxiety
+19:50.2,87,96.1,1,748.72,Anxiety
+19:50.3,87,96.1,1,751.71,Anxiety
+19:50.4,87,96.1,1,754.72,Anxiety
+19:50.5,87,96.1,1,754.72,Anxiety
+19:50.6,87,96.1,1,754.72,Anxiety
+19:50.8,87,96.1,1,757.73,Anxiety
+19:50.9,87,96.1,1,757.73,Anxiety
+19:51.1,87,96.1,1,760.76,Anxiety
+19:51.2,87,96.1,1,760.76,Anxiety
+19:51.3,87,96.1,1,763.79,Anxiety
+19:51.4,87,96.1,1,760.76,Anxiety
+19:51.5,87,96.1,1,763.79,Anxiety
+19:51.6,87,96.1,1,766.84,Anxiety
+19:51.7,87,96.1,1,763.79,Anxiety
+19:51.9,87,96.1,1,766.84,Anxiety
+19:52.1,87,96.1,1,766.84,Anxiety
+19:52.2,87,96.1,1,766.84,Anxiety
+19:52.3,87,96.1,1,766.84,Anxiety
+19:52.4,87,96.1,1,766.84,Anxiety
+19:52.5,87,96.1,1,769.9,Anxiety
+19:52.6,87,96.1,1,769.9,Anxiety
+19:52.8,87,96.1,1,769.9,Anxiety
+19:52.9,87,96.1,1,772.96,Anxiety
+19:53.0,87,96.1,1,769.9,Anxiety
+19:53.1,87,96.1,1,772.96,Anxiety
+19:53.2,87,96.1,1,769.9,Anxiety
+19:53.4,87,96.1,1,769.9,Anxiety
+19:53.6,87,96.1,1,769.9,Anxiety
+19:53.7,87,96.1,1,772.96,Anxiety
+19:53.8,87,96.1,1,769.9,Anxiety
+19:53.9,87,96.1,1,769.9,Anxiety
+19:54.0,87,96.1,1,772.96,Anxiety
+19:54.2,87,96.1,1,769.9,Anxiety
+19:54.2,87,96.1,1,769.9,Anxiety
+19:54.5,88,96.1,1,769.9,Anxiety
+19:54.6,88,96.1,1,769.9,Anxiety
+19:54.8,88,96.1,1,769.9,Anxiety
+19:54.9,88,96.1,1,769.9,Anxiety
+19:55.0,88,96.1,1,772.96,Anxiety
+19:55.2,88,96.1,1,769.9,Anxiety
+19:55.2,88,96.1,1,769.9,Anxiety
+19:55.4,88,96.1,1,769.9,Anxiety
+19:55.7,88,96.1,1,769.9,Anxiety
+19:55.8,88,96.1,1,769.9,Anxiety
+19:55.9,88,96.1,1,772.96,Anxiety
+19:56.0,88,96.1,1,769.9,Anxiety
+19:56.1,88,96.1,1,769.9,Anxiety
+19:56.2,88,96.1,1,772.96,Anxiety
+19:56.4,88,96.1,1,772.96,Anxiety
+19:56.6,88,96.1,1,769.9,Anxiety
+19:56.8,88,96.1,1,769.9,Anxiety
+19:56.9,88,96.1,1,769.9,Anxiety
+19:57.0,88,96.1,1,772.96,Anxiety
+19:57.1,88,96.1,1,769.9,Anxiety
+19:57.2,88,96.1,1,769.9,Anxiety
+19:57.4,88,96.1,1,769.9,Anxiety
+19:57.5,88,96.1,1,772.96,Anxiety
+19:57.7,88,96.1,1,769.9,Anxiety
+19:57.8,88,96.1,1,772.96,Anxiety
+19:57.9,88,96.1,1,769.9,Anxiety
+19:58.0,88,96.1,1,769.9,Anxiety
+19:58.1,88,96.1,1,772.96,Anxiety
+19:58.2,88,96.1,1,769.9,Anxiety
+19:58.4,88,96.1,1,769.9,Anxiety
+19:58.6,88,96.1,1,776.04,Anxiety
+19:58.7,88,96.1,1,769.9,Anxiety
+19:58.8,88,96.1,1,769.9,Anxiety
+19:58.9,88,96.1,1,772.96,Anxiety
+19:59.0,88,96.1,1,769.9,Anxiety
+19:59.1,88,96.1,1,769.9,Anxiety
+19:59.4,88,96.1,1,772.96,Anxiety
+19:59.6,89,96.1,1,769.9,Anxiety
+19:59.7,89,96.1,1,772.96,Anxiety
+19:59.9,89,96.1,1,769.9,Anxiety
+20:00.0,89,96.1,1,769.9,Anxiety
+20:00.1,89,96.1,1,769.9,Anxiety
+20:00.2,89,96.1,1,769.9,Anxiety
+20:00.4,89,96.1,1,769.9,Anxiety
+20:00.6,89,96.1,1,769.9,Anxiety
+20:00.7,89,96.1,1,769.9,Anxiety
+20:00.7,89,96.1,1,769.9,Anxiety
+20:01.0,89,96.1,1,769.9,Anxiety
+20:01.1,89,96.1,1,772.96,Anxiety
+20:01.3,89,96.1,1,769.9,Anxiety
+20:01.4,89,96.1,1,769.9,Anxiety
+20:01.6,89,96.1,1,769.9,Anxiety
+20:01.7,89,96.1,1,769.9,Anxiety
+20:01.8,89,96.1,1,772.96,Anxiety
+20:01.9,89,96.1,1,769.9,Anxiety
+20:02.1,89,96.1,1,772.96,Anxiety
+20:02.2,89,96.1,1,769.9,Anxiety
+20:02.3,89,96.1,1,769.9,Anxiety
+20:02.4,89,96.1,1,769.9,Anxiety
+20:02.5,89,96.1,1,769.9,Anxiety
+20:02.6,89,96.1,1,772.96,Anxiety
+20:02.7,89,96.1,1,769.9,Anxiety
+20:02.9,89,96.1,1,772.96,Anxiety
+20:03.1,89,96.1,1,769.9,Anxiety
+20:03.3,89,96.1,1,769.9,Anxiety
+20:03.4,89,96.1,1,772.96,Anxiety
+20:03.5,89,96.1,1,769.9,Anxiety
+20:03.7,89,96.1,1,772.96,Anxiety
+20:03.7,89,96.1,1,772.96,Anxiety
+20:03.9,89,96.1,1,769.9,Anxiety
+20:04.1,89,96.1,1,769.9,Anxiety
+20:04.2,89,96.1,1,769.9,Anxiety
+20:04.3,89,96.1,1,772.96,Anxiety
+20:04.4,89,96.1,1,769.9,Anxiety
+20:04.5,89,96.1,1,772.96,Anxiety
+20:04.7,89,96.1,1,769.9,Anxiety
+20:04.7,89,96.1,1,769.9,Anxiety
+20:04.8,89,96.1,1,769.9,Anxiety
+20:04.9,89,96.1,1,769.9,Anxiety
+20:05.1,89,96.1,1,772.96,Anxiety
+20:05.2,89,96.1,1,769.9,Anxiety
+20:05.3,89,96.1,1,769.9,Anxiety
+20:05.4,89,96.1,1,769.9,Anxiety
+20:05.5,89,96.1,1,769.9,Anxiety
+20:05.7,89,96.1,1,769.9,Anxiety
+20:05.9,89,96.1,1,772.96,Anxiety
+20:06.1,89,96.1,1,769.9,Anxiety
+20:06.2,89,96.1,1,776.04,Anxiety
+20:06.3,89,96.1,1,769.9,Anxiety
+20:06.4,89,96.1,1,772.96,Anxiety
+20:06.5,89,96.1,1,769.9,Anxiety
+20:06.6,89,96.1,1,769.9,Anxiety
+20:06.9,89,96.1,1,769.9,Anxiety
+20:07.2,89,96.1,1,769.9,Anxiety
+20:07.3,89,96.1,1,769.9,Anxiety
+20:07.4,89,96.1,1,772.96,Anxiety
+20:07.5,89,96.0,1,769.9,Anxiety
+20:07.6,89,96.0,1,772.96,Anxiety
+20:07.9,89,96.0,1,772.96,Anxiety
+20:08.1,89,96.0,1,769.9,Anxiety
+20:08.2,89,96.0,1,772.96,Anxiety
+20:08.3,89,96.0,1,769.9,Anxiety
+20:08.4,89,96.0,1,769.9,Anxiety
+20:08.5,89,96.0,1,769.9,Anxiety
+20:08.6,89,96.0,1,769.9,Anxiety
+20:08.8,89,96.0,1,769.9,Anxiety
+20:08.9,89,96.0,1,769.9,Anxiety
+20:09.1,89,96.0,1,769.9,Anxiety
+20:09.2,89,96.0,1,769.9,Anxiety
+20:09.3,89,96.0,1,772.96,Anxiety
+20:09.4,89,96.0,1,769.9,Anxiety
+20:09.6,89,96.0,1,769.9,Anxiety
+20:09.7,89,96.0,1,769.9,Anxiety
+20:09.9,89,96.0,1,769.9,Anxiety
+20:09.9,89,96.0,1,769.9,Anxiety
+20:10.1,89,96.0,1,760.76,Anxiety
+20:10.2,89,96.0,1,748.72,Anxiety
+20:10.3,89,96.0,1,742.76,Anxiety
+20:10.3,89,96.0,1,742.76,Anxiety
+20:10.5,89,96.0,1,733.9,Anxiety
+20:10.6,89,96.0,1,730.96,Anxiety
+20:10.8,89,96.0,1,725.13,Anxiety
+20:10.9,89,96.0,1,725.13,Anxiety
+20:11.0,89,96.0,1,722.22,Anxiety
+20:11.1,89,96.0,1,722.22,Anxiety
+20:11.2,89,96.0,1,725.13,Anxiety
+20:11.4,89,96.0,1,722.22,Anxiety
+20:11.6,89,96.0,1,722.22,Anxiety
+20:11.7,88,96.0,1,725.13,Anxiety
+20:11.8,88,96.0,1,722.22,Anxiety
+20:11.9,88,96.0,1,725.13,Anxiety
+20:12.0,88,96.0,1,722.22,Anxiety
+20:12.1,88,96.0,1,722.22,Anxiety
+20:12.2,88,96.0,1,722.22,Anxiety
+20:12.4,88,96.0,1,725.13,Anxiety
+20:12.5,88,96.0,1,722.22,Anxiety
+20:12.6,88,96.0,1,722.22,Anxiety
+20:12.8,88,96.0,1,722.22,Anxiety
+20:12.9,88,96.0,1,725.13,Anxiety
+20:13.0,88,96.0,1,728.04,Anxiety
+20:13.1,88,96.0,1,728.04,Anxiety
+20:13.2,88,96.0,1,730.96,Anxiety
+20:13.4,88,96.0,1,730.96,Anxiety
+20:13.6,88,96.0,1,733.9,Anxiety
+20:13.8,88,96.0,1,736.84,Anxiety
+20:13.9,89,96.0,1,736.84,Anxiety
+20:14.0,89,96.0,1,739.8,Anxiety
+20:14.2,89,96.0,1,742.76,Anxiety
+20:14.3,89,96.0,1,742.76,Anxiety
+20:14.4,89,96.0,1,742.76,Anxiety
+20:14.6,89,96.0,1,745.73,Anxiety
+20:14.7,89,96.0,1,748.72,Anxiety
+20:14.8,89,96.0,1,748.72,Anxiety
+20:14.9,89,96.0,1,748.72,Anxiety
+20:15.0,89,96.0,1,748.72,Anxiety
+20:15.2,89,96.0,1,751.71,Anxiety
+20:15.4,89,96.0,1,751.71,Anxiety
+20:15.6,89,96.0,1,754.72,Anxiety
+20:15.7,89,96.0,1,757.73,Anxiety
+20:15.8,89,96.0,1,754.72,Anxiety
+20:16.0,89,96.0,1,757.73,Anxiety
+20:16.1,89,96.0,1,760.76,Anxiety
+20:16.4,89,96.0,1,757.73,Anxiety
+20:16.5,89,96.0,1,760.76,Anxiety
+20:16.6,88,96.0,1,760.76,Anxiety
+20:16.7,88,96.0,1,760.76,Anxiety
+20:16.9,88,96.0,1,763.79,Anxiety
+20:17.1,88,96.0,1,763.79,Anxiety
+20:17.2,88,96.0,1,763.79,Anxiety
+20:17.4,88,96.0,1,766.84,Anxiety
+20:17.6,88,96.0,1,766.84,Anxiety
+20:17.7,88,96.0,1,769.9,Anxiety
+20:17.8,88,96.0,1,766.84,Anxiety
+20:17.9,88,96.0,1,766.84,Anxiety
+20:18.0,88,96.0,1,769.9,Anxiety
+20:18.1,88,96.0,1,769.9,Anxiety
+20:18.4,88,96.0,1,769.9,Anxiety
+20:18.4,88,96.0,1,769.9,Anxiety
+20:18.5,88,96.0,1,769.9,Anxiety
+20:18.6,88,96.0,1,769.9,Anxiety
+20:18.7,88,96.0,1,769.9,Anxiety
+20:18.9,88,96.0,1,769.9,Anxiety
+20:19.1,88,96.0,1,772.96,Anxiety
+20:19.3,88,96.0,1,769.9,Anxiety
+20:19.4,88,96.0,1,772.96,Anxiety
+20:19.5,88,96.0,1,769.9,Anxiety
+20:19.7,88,96.0,1,769.9,Anxiety
+20:19.7,88,96.0,1,769.9,Anxiety
+20:19.9,88,96.0,1,769.9,Anxiety
+20:20.0,89,96.0,1,769.9,Anxiety
+20:20.1,89,96.0,1,769.9,Anxiety
+20:20.3,89,96.0,1,769.9,Anxiety
+20:20.4,89,96.0,1,769.9,Anxiety
+20:20.5,89,96.0,1,772.96,Anxiety
+20:20.7,89,96.0,1,772.96,Anxiety
+20:20.9,89,96.0,1,769.9,Anxiety
+20:21.1,89,96.0,1,769.9,Anxiety
+20:21.2,89,96.0,1,769.9,Anxiety
+20:21.3,89,96.0,1,769.9,Anxiety
+20:21.4,89,96.0,1,769.9,Anxiety
+20:21.5,89,96.0,1,769.9,Anxiety
+20:21.6,89,96.0,1,769.9,Anxiety
+20:21.8,89,96.0,1,769.9,Anxiety
+20:22.0,89,96.0,1,772.96,Anxiety
+20:22.1,89,96.0,1,772.96,Anxiety
+20:22.2,89,96.0,1,769.9,Anxiety
+20:22.3,89,96.0,1,772.96,Anxiety
+20:22.4,89,96.0,1,769.9,Anxiety
+20:22.5,89,96.0,1,769.9,Anxiety
+20:22.6,89,96.0,1,772.96,Anxiety
+20:22.9,89,96.0,1,769.9,Anxiety
+20:23.1,89,96.0,1,769.9,Anxiety
+20:23.2,89,96.0,1,769.9,Anxiety
+20:23.3,89,96.0,1,769.9,Anxiety
+20:23.4,89,96.0,1,769.9,Anxiety
+20:23.5,89,96.0,1,769.9,Anxiety
+20:23.7,89,96.0,1,769.9,Anxiety
+20:23.8,89,96.0,1,772.96,Anxiety
+20:23.9,89,96.0,1,769.9,Anxiety
+20:24.0,89,96.0,1,769.9,Anxiety
+20:24.2,89,96.0,1,769.9,Anxiety
+20:24.3,89,96.0,1,769.9,Anxiety
+20:24.4,89,96.0,1,772.96,Anxiety
+20:24.5,89,96.0,1,769.9,Anxiety
+20:24.6,89,96.0,1,772.96,Anxiety
+20:24.9,89,96.0,1,769.9,Anxiety
+20:24.9,89,96.0,1,769.9,Anxiety
+20:25.1,89,96.0,1,769.9,Anxiety
+20:25.1,89,96.0,1,769.9,Anxiety
+20:25.3,89,96.0,1,769.9,Anxiety
+20:25.6,89,96.0,1,772.96,Anxiety
+20:25.9,89,96.0,1,769.9,Anxiety
+20:26.0,89,96.0,1,772.96,Anxiety
+20:26.2,89,96.0,1,769.9,Anxiety
+20:26.3,89,96.0,1,776.04,Anxiety
+20:26.4,89,96.0,1,769.9,Anxiety
+20:26.5,89,96.0,1,769.9,Anxiety
+20:26.6,89,96.0,1,772.96,Anxiety
+20:26.8,89,96.0,1,772.96,Anxiety
+20:26.9,89,96.0,1,769.9,Anxiety
+20:27.0,89,96.0,1,772.96,Anxiety
+20:27.2,89,96.0,1,769.9,Anxiety
+20:27.4,89,96.0,1,772.96,Anxiety
+20:27.6,89,96.0,1,769.9,Anxiety
+20:27.7,90,96.0,1,769.9,Anxiety
+20:27.8,90,96.0,1,769.9,Anxiety
+20:27.9,90,96.0,1,769.9,Anxiety
+20:28.0,90,96.0,1,769.9,Anxiety
+20:28.2,90,96.0,1,769.9,Anxiety
+20:28.3,90,96.0,1,769.9,Anxiety
+20:28.5,90,96.0,1,769.9,Anxiety
+20:28.6,90,96.0,1,769.9,Anxiety
+20:28.7,90,96.0,1,769.9,Anxiety
+20:28.8,90,96.0,1,769.9,Anxiety
+20:28.9,90,96.0,1,772.96,Anxiety
+20:29.0,90,96.0,1,769.9,Anxiety
+20:29.2,90,96.0,1,772.96,Anxiety
+20:29.4,90,96.0,1,769.9,Anxiety
+20:29.6,90,96.0,1,769.9,Anxiety
+20:29.7,90,96.0,1,776.04,Anxiety
+20:29.8,90,96.0,1,769.9,Anxiety
+20:29.9,90,96.0,1,769.9,Anxiety
+20:30.0,90,96.0,1,769.9,Anxiety
+20:30.2,90,96.0,1,769.9,Anxiety
+20:30.3,90,96.0,1,769.9,Anxiety
+20:30.5,90,96.0,1,769.9,Anxiety
+20:30.6,90,96.0,1,769.9,Anxiety
+20:30.7,90,96.0,1,769.9,Anxiety
+20:30.8,90,96.0,1,769.9,Anxiety
+20:30.9,90,96.0,1,769.9,Anxiety
+20:31.0,90,96.0,1,772.96,Anxiety
+20:31.1,90,96.0,1,769.9,Anxiety
+20:31.2,90,96.0,1,769.9,Anxiety
+20:31.4,90,96.0,1,769.9,Anxiety
+20:31.6,90,96.0,1,772.96,Anxiety
+20:31.7,90,96.0,1,769.9,Anxiety
+20:31.8,90,96.0,1,772.96,Anxiety
+20:31.9,90,96.0,1,769.9,Anxiety
+20:32.1,90,96.0,1,772.96,Anxiety
+20:32.4,90,96.0,1,772.96,Anxiety
+20:32.4,90,96.0,1,772.96,Anxiety
+20:32.6,90,96.0,1,769.9,Anxiety
+20:32.7,90,96.0,1,769.9,Anxiety
+20:32.8,90,96.0,1,769.9,Anxiety
+20:32.9,90,96.0,1,772.96,Anxiety
+20:33.1,90,96.0,1,769.9,Anxiety
+20:33.2,90,96.0,1,772.96,Anxiety
+20:33.4,90,96.0,1,769.9,Anxiety
+20:33.4,90,96.0,1,769.9,Anxiety
+20:33.6,90,96.0,1,769.9,Anxiety
+20:33.7,90,96.0,1,772.96,Anxiety
+20:33.8,90,96.0,1,769.9,Anxiety
+20:33.9,90,96.0,1,769.9,Anxiety
+20:34.0,89,96.0,1,769.9,Anxiety
+20:34.1,89,96.0,1,769.9,Anxiety
+20:34.4,89,96.0,1,769.9,Anxiety
+20:34.4,89,96.0,1,769.9,Anxiety
+20:34.5,89,96.0,1,769.9,Anxiety
+20:34.7,89,96.0,1,769.9,Anxiety
+20:34.9,89,96.0,1,769.9,Anxiety
+20:35.1,89,96.0,1,769.9,Anxiety
+20:35.2,89,96.0,1,769.9,Anxiety
+20:35.3,89,96.0,1,772.96,Anxiety
+20:35.4,89,96.0,1,769.9,Anxiety
+20:35.5,89,96.0,1,769.9,Anxiety
+20:35.7,89,96.0,1,769.9,Anxiety
+20:35.9,89,96.0,1,769.9,Anxiety
+20:36.0,89,96.0,1,769.9,Anxiety
+20:36.1,89,96.0,1,772.96,Anxiety
+20:36.3,89,96.0,1,766.84,Anxiety
+20:36.4,89,96.0,1,763.79,Anxiety
+20:36.5,89,96.0,1,754.72,Anxiety
+20:36.7,89,96.0,1,742.76,Anxiety
+20:36.9,89,96.0,1,736.84,Anxiety
+20:37.1,89,96.0,1,730.96,Anxiety
+20:37.2,89,96.0,1,733.9,Anxiety
+20:37.4,89,96.0,1,733.9,Anxiety
+20:37.5,89,96.0,1,733.9,Anxiety
+20:37.7,89,96.0,1,736.84,Anxiety
+20:37.8,89,96.0,1,742.76,Anxiety
+20:38.0,90,96.0,1,742.76,Anxiety
+20:38.1,90,96.0,1,745.73,Anxiety
+20:38.2,90,96.0,1,748.72,Anxiety
+20:38.3,90,96.0,1,751.71,Anxiety
+20:38.4,90,96.0,1,751.71,Anxiety
+20:38.5,90,96.0,1,751.71,Anxiety
+20:38.6,90,96.0,1,754.72,Anxiety
+20:38.9,90,96.0,1,757.73,Anxiety
+20:39.1,90,96.0,1,760.76,Anxiety
+20:39.2,90,96.0,1,760.76,Anxiety
+20:39.3,90,96.0,1,760.76,Anxiety
+20:39.4,90,96.0,1,760.76,Anxiety
+20:39.6,90,96.0,1,763.79,Anxiety
+20:39.7,90,96.0,1,763.79,Anxiety
+20:39.9,90,96.0,1,766.84,Anxiety
+20:40.0,90,96.0,1,766.84,Anxiety
+20:40.1,90,96.0,1,766.84,Anxiety
+20:40.2,90,96.0,1,769.9,Anxiety
+20:40.3,90,96.0,1,769.9,Anxiety
+20:40.5,90,96.0,1,769.9,Anxiety
+20:40.6,90,96.0,1,769.9,Anxiety
+20:40.9,90,96.0,1,772.96,Anxiety
+20:40.9,90,96.0,1,772.96,Anxiety
+20:41.1,90,96.0,1,769.9,Anxiety
+20:41.2,90,96.0,1,772.96,Anxiety
+20:41.3,90,96.0,1,769.9,Anxiety
+20:41.4,90,96.0,1,769.9,Anxiety
+20:41.6,90,96.0,1,769.9,Anxiety
+20:41.7,91,96.0,1,769.9,Anxiety
+20:41.8,91,96.0,1,769.9,Anxiety
+20:41.9,91,96.0,1,769.9,Anxiety
+20:42.1,91,96.0,1,769.9,Anxiety
+20:42.3,91,96.0,1,769.9,Anxiety
+20:42.4,91,96.0,1,772.96,Anxiety
+20:42.6,91,96.0,1,769.9,Anxiety
+20:42.7,91,96.0,1,769.9,Anxiety
+20:42.8,91,96.0,1,769.9,Anxiety
+20:42.9,91,96.0,1,769.9,Anxiety
+20:43.0,91,96.0,1,769.9,Anxiety
+20:43.2,91,96.0,1,769.9,Anxiety
+20:43.2,92,96.0,1,769.9,Anxiety
+20:43.4,92,96.0,1,769.9,Anxiety
+20:43.6,92,96.0,1,769.9,Anxiety
+20:43.7,92,96.0,1,769.9,Anxiety
+20:43.8,92,96.0,1,769.9,Anxiety
+20:43.9,92,96.0,1,769.9,Anxiety
+20:44.0,92,96.0,1,769.9,Anxiety
+20:44.2,92,96.0,1,772.96,Anxiety
+20:44.4,92,96.0,1,769.9,Anxiety
+20:44.5,92,96.0,1,769.9,Anxiety
+20:44.6,92,96.0,1,769.9,Anxiety
+20:44.7,92,96.0,1,772.96,Anxiety
+20:44.8,92,96.0,1,769.9,Anxiety
+20:44.9,92,96.0,1,769.9,Anxiety
+20:45.0,92,95.9,1,769.9,Anxiety
+20:45.2,92,95.9,1,772.96,Anxiety
+20:45.4,92,95.9,1,769.9,Anxiety
+20:45.5,92,95.9,1,772.96,Anxiety
+20:45.6,92,95.9,1,769.9,Anxiety
+20:45.7,93,95.9,1,769.9,Anxiety
+20:45.8,93,95.9,1,769.9,Anxiety
+20:45.9,93,95.9,1,769.9,Anxiety
+20:46.0,93,95.9,1,772.96,Anxiety
+20:46.1,93,95.9,1,769.9,Anxiety
+20:46.2,93,95.9,1,769.9,Anxiety
+20:46.4,93,95.9,1,769.9,Anxiety
+20:46.5,93,95.9,1,769.9,Anxiety
+20:46.6,93,95.9,1,772.96,Anxiety
+20:46.7,93,95.9,1,769.9,Anxiety
+20:46.8,93,95.9,1,772.96,Anxiety
+21:31.2,98,95.8,0,655.34,Sad
+21:31.3,98,95.8,0,658.02,Sad
+21:31.4,98,95.8,0,655.34,Sad
+21:31.5,98,95.8,0,658.02,Sad
+21:31.7,98,95.8,0,658.02,Sad
+21:31.9,98,95.8,0,660.71,Sad
+21:32.0,97,95.8,0,663.41,Sad
+21:32.1,97,95.8,0,663.41,Sad
+21:32.2,97,95.8,1,663.41,Sad
+21:32.4,97,95.8,1,666.12,Sad
+21:32.6,97,95.8,1,666.12,Sad
+21:32.7,97,95.8,1,668.84,Sad
+21:32.9,97,95.8,1,668.84,Sad
+21:33.0,97,95.8,1,671.57,Sad
+21:33.1,97,95.8,1,671.57,Sad
+21:33.2,97,95.8,1,671.57,Sad
+21:33.4,97,95.8,1,671.57,Sad
+21:33.5,97,95.8,1,671.57,Sad
+21:33.7,97,95.8,1,677.05,Sad
+21:33.7,97,95.8,1,677.05,Sad
+21:33.9,97,95.8,1,677.05,Sad
+21:34.0,97,95.8,1,679.8,Sad
+21:34.1,97,95.8,1,679.8,Sad
+21:34.2,97,95.8,1,677.05,Sad
+21:34.4,97,95.8,1,679.8,Sad
+21:34.6,97,95.8,1,679.8,Sad
+21:34.7,97,95.8,1,682.57,Sad
+21:34.8,97,95.8,1,682.57,Sad
+21:35.0,97,95.8,1,685.34,Sad
+21:35.0,97,95.8,1,685.34,Sad
+21:35.2,97,95.8,1,685.34,Sad
+21:35.3,97,95.8,1,685.34,Sad
+21:35.4,97,95.8,1,685.34,Sad
+21:35.6,97,95.8,1,688.12,Sad
+21:35.7,97,95.8,1,688.12,Sad
+21:35.8,97,95.8,1,690.91,Sad
+21:36.0,97,95.8,1,690.91,Sad
+21:36.2,97,95.8,1,690.91,Sad
+21:36.4,97,95.8,1,693.71,Sad
+21:36.5,98,95.8,1,693.71,Sad
+21:36.6,98,95.8,1,693.71,Sad
+21:36.7,98,95.8,1,693.71,Sad
+21:36.8,98,95.8,1,696.52,Sad
+21:36.9,98,95.8,1,696.52,Sad
+21:37.0,98,95.8,1,699.34,Sad
+21:37.2,98,95.8,1,699.34,Sad
+21:37.4,98,95.8,1,699.34,Sad
+21:37.5,98,95.8,1,702.16,Sad
+21:37.6,98,95.8,1,705.0,Sad
+21:37.8,98,95.8,1,702.16,Sad
+21:38.0,98,95.8,1,707.85,Sad
+21:38.1,98,95.8,1,707.85,Sad
+21:38.3,98,95.8,1,707.85,Sad
+21:38.4,98,95.8,1,707.85,Sad
+21:38.5,98,95.8,1,710.7,Sad
+21:38.6,98,95.8,1,707.85,Sad
+21:38.7,98,95.8,1,710.7,Sad
+21:38.8,98,95.8,1,710.7,Sad
+21:38.8,98,95.8,1,713.57,Sad
+21:39.2,98,95.9,1,716.44,Sad
+21:39.4,98,95.9,1,716.44,Sad
+21:39.5,98,95.9,1,716.44,Sad
+21:39.6,98,95.9,1,716.44,Sad
+21:39.7,98,95.9,1,719.33,Sad
+21:39.9,98,95.9,1,719.33,Sad
+21:40.1,98,95.9,1,722.22,Sad
+21:40.2,98,95.9,1,722.22,Sad
+21:40.3,98,95.9,1,725.13,Sad
+21:40.5,98,95.9,1,725.13,Sad
+21:40.6,98,95.9,1,725.13,Sad
+21:40.7,98,95.9,1,725.13,Sad
+21:40.8,98,95.9,1,725.13,Sad
+21:40.9,98,95.9,1,728.04,Sad
+21:41.2,98,95.9,1,728.04,Sad
+21:41.2,98,95.9,1,728.04,Sad
+21:41.4,98,95.9,1,730.96,Sad
+21:41.4,98,95.9,1,730.96,Sad
+21:41.6,97,95.9,1,730.96,Sad
+21:41.7,97,95.9,1,733.9,Sad
+21:41.9,97,95.9,1,733.9,Sad
+21:42.1,97,95.9,1,736.84,Sad
+21:42.2,97,96.1,1,733.9,Sad
+21:42.4,97,96.1,1,736.84,Sad
+21:42.5,97,96.1,1,736.84,Sad
+21:42.6,97,96.1,1,742.76,Sad
+21:42.7,97,96.1,1,739.8,Sad
+21:42.9,97,96.1,1,739.8,Sad
+21:43.0,97,96.1,1,742.76,Sad
+21:43.1,97,96.1,1,742.76,Sad
+21:43.2,97,96.1,1,742.76,Sad
+21:43.3,97,96.1,1,742.76,Sad
+21:43.8,97,96.1,1,745.73,Sad
+21:43.8,97,96.1,1,745.73,Sad
+21:44.1,97,96.1,1,748.72,Sad
+21:44.3,97,96.1,1,748.72,Sad
+21:44.3,97,96.1,1,748.72,Sad
+21:44.4,97,96.1,1,748.72,Sad
+21:44.7,97,96.2,1,751.71,Sad
+21:44.7,97,96.2,1,754.72,Sad
+21:44.9,97,96.2,1,751.71,Sad
+21:45.0,97,96.2,1,751.71,Sad
+21:45.1,97,96.2,1,751.71,Sad
+21:45.2,97,96.2,1,754.72,Sad
+21:45.3,97,96.3,1,754.72,Sad
+21:45.5,97,96.3,1,757.73,Sad
+21:45.7,97,96.3,1,760.76,Sad
+21:45.9,97,96.3,1,757.73,Sad
+21:45.9,97,96.3,1,757.73,Sad
+21:46.1,97,96.3,1,757.73,Sad
+21:46.2,97,96.3,1,760.76,Sad
+21:46.3,97,96.3,1,760.76,Sad
+21:46.5,97,96.3,1,760.76,Sad
+21:46.7,96,96.3,1,760.76,Sad
+21:46.8,96,96.3,1,763.79,Sad
+21:47.0,96,96.3,1,763.79,Sad
+21:47.1,96,96.3,1,763.79,Sad
+21:47.2,96,96.3,1,766.84,Sad
+21:47.3,96,96.3,1,766.84,Sad
+21:47.4,96,96.3,1,766.84,Sad
+21:47.7,96,96.3,1,769.9,Sad
+21:47.8,96,96.3,1,766.84,Sad
+21:47.9,96,96.3,1,769.9,Sad
+21:48.0,96,96.3,1,769.9,Sad
+21:48.1,96,96.3,1,772.96,Sad
+21:48.2,96,96.3,1,769.9,Sad
+21:48.4,96,96.3,1,769.9,Sad
+21:48.7,96,96.3,1,769.9,Sad
+21:48.8,96,96.3,1,769.9,Sad
+21:48.9,96,96.3,1,769.9,Sad
+21:49.0,96,96.3,1,772.96,Sad
+21:49.1,96,96.3,1,769.9,Sad
+21:49.2,96,96.3,1,769.9,Sad
+21:49.4,96,96.3,1,769.9,Sad
+21:49.5,95,96.3,1,769.9,Sad
+21:49.6,95,96.3,1,769.9,Sad
+21:49.8,95,96.3,1,772.96,Sad
+21:49.8,95,96.3,1,772.96,Sad
+21:50.0,95,96.3,1,772.96,Sad
+21:50.2,95,96.3,1,769.9,Sad
+21:50.3,95,96.3,1,769.9,Sad
+21:50.4,95,96.3,1,772.96,Sad
+21:50.5,95,96.3,1,769.9,Sad
+21:50.6,95,96.3,1,769.9,Sad
+21:50.7,95,96.3,1,769.9,Sad
+21:50.8,95,96.3,1,769.9,Sad
+21:51.0,95,96.3,1,769.9,Sad
+21:51.1,95,96.3,1,772.96,Sad
+21:51.2,95,96.3,1,772.96,Sad
+21:51.4,95,96.3,1,769.9,Sad
+21:51.5,95,96.3,1,769.9,Sad
+21:51.6,95,96.3,1,769.9,Sad
+21:51.7,95,96.3,1,772.96,Sad
+21:51.8,95,96.3,1,769.9,Sad
+21:52.0,95,96.3,1,769.9,Sad
+21:52.2,95,96.3,1,769.9,Sad
+21:52.4,95,96.3,1,769.9,Sad
+21:52.5,95,96.3,1,772.96,Sad
+21:52.6,95,96.3,1,769.9,Sad
+21:52.7,95,96.3,1,769.9,Sad
+21:52.8,95,96.3,1,769.9,Sad
+21:53.0,95,96.3,1,772.96,Sad
+21:53.1,95,96.3,1,769.9,Sad
+21:53.3,95,96.3,1,769.9,Sad
+21:53.4,95,96.3,1,766.84,Sad
+21:53.5,95,96.3,1,763.79,Sad
+21:53.6,95,96.3,1,763.79,Sad
+21:53.7,95,96.3,1,757.73,Sad
+21:53.8,95,96.3,1,754.72,Sad
+21:54.0,95,96.3,1,748.72,Sad
+21:54.2,95,96.3,1,733.9,Sad
+21:54.3,95,96.3,1,725.13,Sad
+21:54.4,95,96.3,1,716.44,Sad
+21:54.5,94,96.3,1,707.85,Sad
+21:54.6,94,96.3,1,696.52,Sad
+21:54.7,94,96.3,1,693.71,Sad
+21:55.0,94,96.3,1,679.8,Sad
+21:55.1,94,96.3,1,677.05,Sad
+21:55.2,94,96.3,1,674.3,Sad
+21:55.3,94,96.3,1,674.3,Sad
+21:55.5,94,96.3,1,671.57,Sad
+21:55.6,94,96.3,1,674.3,Sad
+21:55.7,94,96.3,1,677.05,Sad
+21:56.0,94,96.3,1,682.57,Sad
+21:56.1,94,96.3,1,685.34,Sad
+21:56.3,94,96.3,1,690.91,Sad
+21:56.4,94,96.3,1,693.71,Sad
+21:56.5,94,96.3,1,693.71,Sad
+21:56.6,94,96.2,1,696.52,Sad
+21:56.7,94,96.2,1,699.34,Sad
+21:56.9,94,96.2,1,705.0,Sad
+21:57.0,94,96.2,1,705.0,Sad
+21:57.1,94,96.2,1,705.0,Sad
+21:57.2,94,96.2,1,707.85,Sad
+21:57.3,94,96.2,1,710.7,Sad
+21:57.5,94,96.2,1,710.7,Sad
+21:57.6,94,96.2,1,713.57,Sad
+21:57.7,94,96.2,1,713.57,Sad
+21:57.9,94,96.2,1,716.44,Sad
+21:58.0,94,96.2,1,716.44,Sad
+21:58.1,94,96.2,1,716.44,Sad
+21:58.3,94,96.2,1,719.33,Sad
+21:58.3,94,96.2,1,719.33,Sad
+21:58.5,94,96.2,1,722.22,Sad
+21:58.6,94,96.2,1,722.22,Sad
+21:58.8,94,96.2,1,722.22,Sad
+21:58.9,94,96.2,1,725.13,Sad
+21:59.0,94,96.2,1,725.13,Sad
+21:59.1,94,96.2,1,725.13,Sad
+21:59.2,94,96.2,1,725.13,Sad
+21:59.3,94,96.2,1,725.13,Sad
+21:59.5,94,96.2,1,719.33,Sad
+21:59.7,94,96.2,1,710.7,Sad
+21:59.9,94,96.2,1,699.34,Sad
+22:00.0,93,96.2,1,690.91,Sad
+22:00.1,93,96.2,1,688.12,Sad
+22:00.2,93,96.2,1,685.34,Sad
+22:00.3,93,96.2,1,682.57,Sad
+22:00.5,93,96.2,1,679.8,Sad
+22:00.7,93,96.2,1,679.8,Sad
+22:00.8,93,96.2,1,679.8,Sad
+22:00.9,93,96.2,1,682.57,Sad
+22:01.0,93,96.2,1,682.57,Sad
+22:01.1,93,96.2,1,682.57,Sad
+22:01.2,93,96.2,1,685.34,Sad
+22:01.3,93,96.2,1,688.12,Sad
+22:01.5,93,96.2,1,693.71,Sad
+22:01.7,93,96.2,1,699.34,Sad
+22:01.8,93,96.2,1,699.34,Sad
+22:01.9,93,96.2,1,702.16,Sad
+22:02.0,93,96.2,1,702.16,Sad
+22:02.1,93,96.2,1,705.0,Sad
+22:02.2,93,96.2,1,705.0,Sad
+22:02.5,93,96.2,1,710.7,Sad
+22:02.6,93,96.2,1,710.7,Sad
+22:02.8,93,96.2,1,713.57,Sad
+22:02.9,93,96.2,1,716.44,Sad
+22:03.0,93,96.2,1,716.44,Sad
+22:03.1,93,96.2,1,716.44,Sad
+22:03.2,93,96.2,1,716.44,Sad
+22:03.3,93,96.2,1,719.33,Sad
+22:03.5,93,96.2,1,719.33,Sad
+22:03.7,93,96.2,1,725.13,Sad
+22:03.8,93,96.2,1,722.22,Sad
+22:03.9,93,96.2,1,725.13,Sad
+22:04.0,93,96.2,1,725.13,Sad
+22:04.1,93,96.2,1,725.13,Sad
+22:04.2,93,96.2,1,725.13,Sad
+22:04.5,93,96.2,1,730.96,Sad
+22:04.6,93,96.2,1,728.04,Sad
+22:04.7,93,96.2,1,730.96,Sad
+22:04.8,93,96.2,1,730.96,Sad
+22:05.0,93,96.2,1,730.96,Sad
+22:05.1,93,96.2,1,733.9,Sad
+22:05.2,93,96.2,1,733.9,Sad
+22:05.3,93,96.2,1,733.9,Sad
+22:05.5,93,96.2,1,736.84,Sad
+22:05.5,93,96.2,1,736.84,Sad
+22:05.7,93,96.2,1,739.8,Sad
+22:05.8,93,96.2,1,736.84,Sad
+22:05.9,93,96.2,1,736.84,Sad
+22:06.0,93,96.2,1,739.8,Sad
+22:06.1,93,96.2,1,742.76,Sad
+22:06.2,93,96.2,1,739.8,Sad
+22:06.4,93,96.2,1,742.76,Sad
+22:06.5,93,96.2,1,745.73,Sad
+22:06.6,93,96.2,1,742.76,Sad
+22:06.7,93,96.2,1,742.76,Sad
+22:06.8,93,96.2,1,745.73,Sad
+22:07.0,93,96.2,1,745.73,Sad
+22:07.2,93,96.2,1,745.73,Sad
+22:07.3,93,96.2,1,751.71,Sad
+22:07.4,93,96.2,1,748.72,Sad
+22:07.5,93,96.2,1,748.72,Sad
+22:07.6,93,96.2,1,748.72,Sad
+22:07.8,93,96.2,1,751.71,Sad
+22:07.9,93,96.2,1,751.71,Sad
+22:07.9,93,96.2,1,751.71,Sad
+22:08.1,93,96.2,1,751.71,Sad
+22:08.2,93,96.2,1,754.72,Sad
+22:08.4,93,96.2,1,757.73,Sad
+22:08.5,93,96.2,1,754.72,Sad
+22:08.6,93,96.2,1,757.73,Sad
+22:08.8,93,96.2,1,757.73,Sad
+22:09.0,93,96.2,1,757.73,Sad
+22:09.2,93,96.2,1,760.76,Sad
+22:09.3,93,96.2,1,760.76,Sad
+22:09.4,93,96.2,1,760.76,Sad
+22:09.5,93,96.2,1,760.76,Sad
+22:09.6,93,96.2,1,763.79,Sad
+22:09.7,93,96.2,1,766.84,Sad
+22:09.8,93,96.2,1,763.79,Sad
+22:10.0,93,96.2,1,763.79,Sad
+22:10.1,92,96.2,1,769.9,Sad
+22:10.2,92,96.2,1,766.84,Sad
+22:10.3,92,96.2,1,769.9,Sad
+22:10.4,92,96.2,1,766.84,Sad
+22:10.5,92,96.2,1,766.84,Sad
+22:10.6,92,96.2,1,769.9,Sad
+22:10.7,92,96.2,1,769.9,Sad
+22:10.8,92,96.2,1,769.9,Sad
+22:11.0,92,96.2,1,772.96,Sad
+22:11.2,92,96.2,1,769.9,Sad
+22:11.3,92,96.2,1,772.96,Sad
+22:11.4,92,96.2,1,769.9,Sad
+22:11.5,92,96.2,1,772.96,Sad
+22:11.6,92,96.2,1,769.9,Sad
+22:11.7,92,96.2,1,772.96,Sad
+22:12.0,92,96.2,1,769.9,Sad
+22:12.1,92,96.2,1,769.9,Sad
+22:12.2,92,96.2,1,769.9,Sad
+22:12.3,92,96.2,1,772.96,Sad
+22:12.5,92,96.2,1,772.96,Sad
+22:12.6,92,96.2,1,769.9,Sad
+22:12.7,92,96.2,1,769.9,Sad
+22:12.9,92,96.2,1,769.9,Sad
+22:13.0,92,96.2,1,769.9,Sad
+22:13.1,92,96.2,1,769.9,Sad
+22:13.3,92,96.2,1,769.9,Sad
+22:13.4,92,96.2,1,769.9,Sad
+22:13.5,92,96.2,1,772.96,Sad
+22:13.6,92,96.2,1,769.9,Sad
+22:13.7,92,96.2,1,772.96,Sad
+22:14.0,92,96.2,1,769.9,Sad
+22:14.0,92,96.2,1,769.9,Sad
+22:14.1,92,96.2,1,769.9,Sad
+22:14.3,91,96.2,1,769.9,Sad
+22:14.3,91,96.2,1,769.9,Sad
+22:14.5,91,96.2,1,769.9,Sad
+22:14.7,91,96.2,1,772.96,Sad
+22:14.9,91,96.2,1,772.96,Sad
+22:15.0,91,96.2,1,769.9,Sad
+22:15.1,91,96.2,1,769.9,Sad
+22:15.3,91,96.2,1,769.9,Sad
+22:15.4,91,96.2,1,772.96,Sad
+22:15.5,91,96.2,1,769.9,Sad
+22:15.7,91,96.2,1,769.9,Sad
+22:15.8,91,96.2,1,769.9,Sad
+22:15.9,91,96.2,1,769.9,Sad
+22:16.0,91,96.2,1,769.9,Sad
+22:16.1,91,96.2,1,769.9,Sad
+22:16.3,91,96.2,1,769.9,Sad
+22:16.3,91,96.2,1,769.9,Sad
+22:16.4,91,96.2,1,772.96,Sad
+22:16.6,91,96.2,1,772.96,Sad
+22:16.7,91,96.2,1,769.9,Sad
+22:16.9,91,96.2,1,769.9,Sad
+22:17.0,91,96.2,1,772.96,Sad
+22:17.1,91,96.2,1,769.9,Sad
+22:17.3,91,96.2,1,772.96,Sad
+22:17.5,91,96.2,1,772.96,Sad
+22:17.7,91,96.2,1,772.96,Sad
+22:17.9,91,96.2,1,772.96,Sad
+22:18.0,90,96.2,1,769.9,Sad
+22:18.1,90,96.2,1,769.9,Sad
+22:18.3,90,96.2,1,769.9,Sad
+22:18.5,90,96.2,1,769.9,Sad
+22:18.6,90,96.2,1,769.9,Sad
+22:18.8,90,96.2,1,769.9,Sad
+22:18.9,90,96.2,1,769.9,Sad
+22:19.0,90,96.2,1,769.9,Sad
+22:19.1,90,96.2,1,769.9,Sad
+22:19.2,90,96.2,1,769.9,Sad
+22:19.3,90,96.2,1,769.9,Sad
+22:19.5,90,96.2,1,769.9,Sad
+22:19.7,90,96.2,1,769.9,Sad
+22:19.8,90,96.2,1,772.96,Sad
+22:19.9,90,96.2,1,769.9,Sad
+22:20.0,90,96.2,1,772.96,Sad
+22:20.1,90,96.2,1,769.9,Sad
+22:20.2,90,96.2,1,769.9,Sad
+22:20.5,90,96.2,1,769.9,Sad
+22:20.7,90,96.2,1,769.9,Sad
+22:20.8,89,96.2,1,769.9,Sad
+22:20.9,89,96.2,1,769.9,Sad
+22:21.0,89,96.2,1,769.9,Sad
+22:21.1,89,96.2,1,769.9,Sad
+22:21.2,89,96.2,1,769.9,Sad
+22:21.5,89,96.2,1,769.9,Sad
+22:21.6,89,96.2,1,769.9,Sad
+22:21.7,89,96.2,1,769.9,Sad
+22:21.8,89,96.2,1,769.9,Sad
+22:22.0,89,96.2,1,769.9,Sad
+22:22.2,89,96.2,1,769.9,Sad
+22:22.5,89,96.2,1,769.9,Sad
+22:22.6,89,96.2,1,772.96,Sad
+22:22.8,89,96.2,1,776.04,Sad
+22:22.9,89,96.2,1,769.9,Sad
+22:23.0,89,96.2,1,769.9,Sad
+22:23.2,89,96.2,1,769.9,Sad
+22:23.3,88,96.2,1,772.96,Sad
+22:23.4,88,96.2,1,769.9,Sad
+22:23.5,88,96.2,1,772.96,Sad
+22:23.6,88,96.2,1,772.96,Sad
+22:23.8,88,96.2,1,769.9,Sad
+22:23.8,88,96.2,1,769.9,Sad
+22:24.1,88,96.2,1,769.9,Sad
+22:24.2,88,96.2,1,769.9,Sad
+22:24.4,88,96.2,1,772.96,Sad
+22:24.5,88,96.2,1,769.9,Sad
+22:24.6,88,96.2,1,772.96,Sad
+22:24.8,88,96.2,1,772.96,Sad
+22:25.0,88,96.2,1,772.96,Sad
+22:25.2,88,96.2,1,769.9,Sad
+22:25.3,87,96.2,1,769.9,Sad
+22:25.4,87,96.2,1,769.9,Sad
+22:25.5,87,96.2,1,772.96,Sad
+22:25.6,87,96.2,1,769.9,Sad
+22:25.8,87,96.2,1,769.9,Sad
+22:26.0,87,96.2,1,769.9,Sad
+22:26.1,87,96.2,1,772.96,Sad
+22:26.2,87,96.2,1,769.9,Sad
+22:26.3,87,96.2,1,769.9,Sad
+22:26.4,87,96.2,1,769.9,Sad
+22:26.5,87,96.2,1,769.9,Sad
+22:26.6,87,96.2,1,769.9,Sad
+22:26.7,87,96.2,1,769.9,Sad
+22:26.8,87,96.2,1,769.9,Sad
+22:27.0,87,96.2,1,769.9,Sad
+22:27.2,87,96.2,1,769.9,Sad
+22:27.3,87,96.2,1,769.9,Sad
+22:27.4,87,96.2,1,769.9,Sad
+22:27.5,87,96.2,1,769.9,Sad
+22:27.6,87,96.2,1,772.96,Sad
+22:27.7,87,96.2,1,769.9,Sad
+22:28.0,87,96.2,1,769.9,Sad
+22:28.2,87,96.2,1,769.9,Sad
+22:28.3,86,96.2,1,772.96,Sad
+22:28.4,86,96.2,1,769.9,Sad
+22:28.5,86,96.2,1,772.96,Sad
+22:28.6,86,96.2,1,769.9,Sad
+22:28.7,86,96.2,1,772.96,Sad
+22:28.9,86,96.2,1,772.96,Sad
+22:29.1,86,96.2,1,769.9,Sad
+22:29.2,86,96.2,1,772.96,Sad
+22:29.3,86,96.2,1,769.9,Sad
+22:29.4,86,96.2,1,772.96,Sad
+22:29.5,86,96.2,1,769.9,Sad
+22:29.7,86,96.2,1,769.9,Sad
+22:29.8,86,96.2,1,772.96,Sad
+22:30.0,86,96.2,1,772.96,Sad
+22:30.1,86,96.2,1,769.9,Sad
+22:30.2,86,96.2,1,769.9,Sad
+22:30.3,86,96.2,1,769.9,Sad
+22:30.4,86,96.2,1,769.9,Sad
+23:17.8,91,95.8,0,739.8,Motivate
+23:17.8,91,95.8,0,739.8,Motivate
+23:18.0,91,95.8,0,739.8,Motivate
+23:18.1,91,95.8,0,739.8,Motivate
+23:18.2,91,95.8,0,739.8,Motivate
+23:18.3,91,95.8,0,742.76,Motivate
+23:18.4,91,95.8,0,742.76,Motivate
+23:18.5,91,95.8,0,742.76,Motivate
+23:18.6,91,95.8,0,742.76,Motivate
+23:18.8,91,95.8,0,742.76,Motivate
+23:19.0,91,95.8,0,742.76,Motivate
+23:19.1,91,95.8,0,745.73,Motivate
+23:19.2,91,95.8,0,742.76,Motivate
+23:19.4,91,95.8,0,745.73,Motivate
+23:19.5,91,95.8,0,742.76,Motivate
+23:19.7,91,95.8,0,745.73,Motivate
+23:19.8,91,95.8,0,745.73,Motivate
+23:20.0,91,95.8,0,745.73,Motivate
+23:20.1,91,95.8,0,745.73,Motivate
+23:20.2,91,95.8,0,745.73,Motivate
+23:20.3,91,95.8,0,748.72,Motivate
+23:20.4,91,95.8,0,745.73,Motivate
+23:20.5,91,95.8,0,748.72,Motivate
+23:20.6,91,95.8,0,751.71,Motivate
+23:20.8,91,95.8,0,748.72,Motivate
+23:20.8,91,95.8,0,748.72,Motivate
+23:21.0,91,95.8,0,751.71,Motivate
+23:21.1,91,95.8,0,751.71,Motivate
+23:21.2,91,95.8,0,751.71,Motivate
+23:21.4,91,95.8,0,754.72,Motivate
+23:21.5,91,95.8,0,754.72,Motivate
+23:21.8,91,95.8,0,754.72,Motivate
+23:21.8,91,95.8,0,754.72,Motivate
+23:21.9,91,95.8,0,757.73,Motivate
+23:22.0,91,95.8,0,760.76,Motivate
+23:22.1,91,95.8,0,757.73,Motivate
+23:22.3,91,95.8,0,757.73,Motivate
+23:22.5,91,95.8,0,760.76,Motivate
+23:22.6,91,95.8,0,760.76,Motivate
+23:22.7,91,95.8,0,760.76,Motivate
+23:22.8,91,95.8,0,763.79,Motivate
+23:22.9,91,95.8,0,763.79,Motivate
+23:23.1,91,95.8,0,763.79,Motivate
+23:23.1,91,95.8,0,763.79,Motivate
+23:23.2,91,95.8,0,763.79,Motivate
+23:23.4,91,95.8,0,766.84,Motivate
+23:23.5,91,95.8,0,766.84,Motivate
+23:23.7,91,95.8,0,766.84,Motivate
+23:23.8,91,95.8,0,769.9,Motivate
+23:23.9,91,95.8,0,766.84,Motivate
+23:24.1,91,95.8,0,766.84,Motivate
+23:24.1,91,95.8,0,766.84,Motivate
+23:24.3,91,95.8,0,769.9,Motivate
+23:24.5,91,95.8,0,766.84,Motivate
+23:24.6,91,95.8,0,766.84,Motivate
+23:24.7,91,95.8,0,766.84,Motivate
+23:24.8,91,95.8,0,769.9,Motivate
+23:24.9,91,95.8,0,769.9,Motivate
+23:25.0,91,95.8,0,769.9,Motivate
+23:25.1,91,95.8,0,769.9,Motivate
+23:25.3,91,95.8,0,769.9,Motivate
+23:25.5,91,95.8,0,769.9,Motivate
+23:25.6,91,95.7,0,769.9,Motivate
+23:25.7,91,95.7,0,769.9,Motivate
+23:25.8,91,95.7,0,769.9,Motivate
+23:25.9,91,95.7,0,769.9,Motivate
+23:26.0,91,95.7,0,766.84,Motivate
+23:26.2,91,95.7,0,766.84,Motivate
+23:26.4,92,95.7,0,766.84,Motivate
+23:26.5,92,95.7,0,766.84,Motivate
+23:26.6,92,95.7,0,766.84,Motivate
+23:26.6,92,95.7,0,769.9,Motivate
+23:26.8,92,95.7,0,766.84,Motivate
+23:26.8,92,95.7,0,766.84,Motivate
+23:27.1,92,95.7,0,766.84,Motivate
+23:27.3,92,95.7,0,766.84,Motivate
+23:27.3,92,95.7,0,769.9,Motivate
+23:27.5,92,95.7,0,766.84,Motivate
+23:27.6,91,95.7,0,766.84,Motivate
+23:27.6,91,95.7,0,769.9,Motivate
+23:27.8,91,95.7,0,769.9,Motivate
+23:27.8,91,95.7,0,769.9,Motivate
+23:28.0,91,95.7,0,769.9,Motivate
+23:28.0,91,95.7,0,769.9,Motivate
+23:28.2,91,95.7,0,766.84,Motivate
+23:28.3,91,95.7,0,766.84,Motivate
+23:28.5,91,95.7,0,766.84,Motivate
+23:28.5,91,95.7,0,769.9,Motivate
+23:28.7,91,95.7,0,766.84,Motivate
+23:28.8,91,95.7,0,766.84,Motivate
+23:28.8,91,95.7,0,769.9,Motivate
+23:29.0,91,95.7,0,766.84,Motivate
+23:29.0,91,95.7,0,769.9,Motivate
+23:29.1,91,95.7,0,766.84,Motivate
+23:29.3,91,95.7,0,769.9,Motivate
+23:29.3,91,95.7,0,769.9,Motivate
+23:29.5,91,95.7,0,769.9,Motivate
+23:29.5,91,95.7,0,769.9,Motivate
+23:29.9,91,95.7,0,766.84,Motivate
+23:30.0,91,95.7,0,766.84,Motivate
+23:30.2,91,95.7,0,766.84,Motivate
+23:30.3,91,95.7,0,766.84,Motivate
+23:30.5,91,95.7,0,769.9,Motivate
+23:30.6,91,95.7,0,766.84,Motivate
+23:30.7,91,95.7,0,769.9,Motivate
+23:30.7,91,95.7,0,769.9,Motivate
+23:31.0,91,95.7,0,769.9,Motivate
+23:31.1,91,95.7,0,766.84,Motivate
+23:31.2,91,95.7,0,766.84,Motivate
+23:31.3,91,95.7,0,766.84,Motivate
+23:31.4,91,95.7,0,769.9,Motivate
+23:31.6,91,95.7,0,766.84,Motivate
+23:31.6,91,95.7,0,766.84,Motivate
+23:31.8,91,95.7,0,766.84,Motivate
+23:31.9,91,95.7,0,766.84,Motivate
+23:31.9,91,95.7,0,769.9,Motivate
+23:32.3,91,95.7,0,766.84,Motivate
+23:32.3,91,95.7,0,769.9,Motivate
+23:32.6,91,95.7,0,766.84,Motivate
+23:32.6,91,95.7,0,769.9,Motivate
+23:32.8,91,95.7,0,766.84,Motivate
+23:32.8,91,95.7,0,766.84,Motivate
+23:33.0,91,95.7,0,766.84,Motivate
+23:33.1,91,95.7,0,766.84,Motivate
+23:33.2,91,95.7,0,766.84,Motivate
+23:33.3,90,95.7,0,766.84,Motivate
+23:33.4,90,95.7,0,766.84,Motivate
+23:33.6,90,95.7,0,766.84,Motivate
+23:33.8,90,95.7,0,766.84,Motivate
+23:33.8,90,95.7,0,769.9,Motivate
+23:34.0,90,95.7,0,766.84,Motivate
+23:34.1,90,95.7,0,769.9,Motivate
+23:34.2,90,95.7,0,766.84,Motivate
+23:34.3,90,95.7,0,766.84,Motivate
+23:34.4,90,95.7,0,766.84,Motivate
+23:34.5,90,95.7,0,766.84,Motivate
+23:34.7,90,95.7,0,766.84,Motivate
+23:34.8,90,95.7,0,766.84,Motivate
+23:35.1,90,95.7,0,766.84,Motivate
+23:35.2,90,95.7,0,766.84,Motivate
+23:35.3,90,95.7,0,766.84,Motivate
+23:35.4,90,95.7,0,766.84,Motivate
+23:35.5,90,95.7,0,766.84,Motivate
+23:35.8,90,95.7,0,766.84,Motivate
+23:36.0,90,95.7,0,766.84,Motivate
+23:36.1,90,95.7,0,769.9,Motivate
+23:36.2,90,95.7,0,766.84,Motivate
+23:36.3,90,95.7,0,769.9,Motivate
+23:36.5,90,95.7,0,769.9,Motivate
+23:36.8,90,95.7,0,769.9,Motivate
+23:36.8,90,95.7,0,769.9,Motivate
+23:37.0,90,95.7,0,769.9,Motivate
+23:37.1,90,95.7,0,766.84,Motivate
+23:37.2,90,95.7,0,769.9,Motivate
+23:37.3,90,95.7,0,766.84,Motivate
+23:37.5,90,95.7,0,766.84,Motivate
+23:37.6,90,95.7,0,766.84,Motivate
+23:37.8,90,95.7,0,766.84,Motivate
+23:37.8,90,95.7,0,766.84,Motivate
+23:38.0,90,95.7,0,766.84,Motivate
+23:38.1,90,95.7,0,769.9,Motivate
+23:38.2,90,95.7,0,766.84,Motivate
+23:38.3,90,95.7,0,766.84,Motivate
+23:38.4,89,95.7,0,766.84,Motivate
+23:38.5,89,95.7,0,766.84,Motivate
+23:38.8,89,95.7,0,769.9,Motivate
+23:38.8,89,95.7,0,769.9,Motivate
+23:38.9,89,95.7,0,766.84,Motivate
+23:39.0,89,95.7,0,766.84,Motivate
+23:39.1,89,95.7,0,769.9,Motivate
+23:39.3,89,95.7,0,766.84,Motivate
+23:39.5,89,95.7,0,769.9,Motivate
+23:39.7,89,95.7,0,766.84,Motivate
+23:39.8,89,95.7,0,769.9,Motivate
+23:39.9,89,95.7,0,766.84,Motivate
+23:40.1,89,95.7,0,769.9,Motivate
+23:40.3,89,95.7,0,769.9,Motivate
+23:40.5,89,95.7,0,769.9,Motivate
+23:40.6,89,95.7,0,769.9,Motivate
+23:40.7,89,95.7,0,769.9,Motivate
+23:40.8,89,95.7,0,769.9,Motivate
+23:40.9,89,95.7,0,769.9,Motivate
+23:41.1,89,95.7,0,769.9,Motivate
+23:41.3,89,95.8,0,769.9,Motivate
+23:41.5,89,95.8,0,769.9,Motivate
+23:41.6,89,95.8,0,769.9,Motivate
+23:42.5,89,95.8,0,769.9,Motivate
+23:42.5,89,95.8,0,769.9,Motivate
+23:42.5,89,95.8,0,769.9,Motivate
+23:42.5,89,95.8,0,769.9,Motivate
+23:42.5,89,95.8,0,769.9,Motivate
+23:42.5,89,95.8,0,769.9,Motivate
+23:42.6,88,95.8,0,769.9,Motivate
+23:42.7,88,95.8,0,769.9,Motivate
+23:42.8,88,95.8,0,769.9,Motivate
+23:42.9,88,95.8,0,772.96,Motivate
+23:43.0,88,95.8,0,769.9,Motivate
+23:43.3,88,95.8,0,769.9,Motivate
+23:43.4,88,95.8,0,769.9,Motivate
+23:43.5,88,95.8,0,769.9,Motivate
+23:43.6,88,95.8,0,769.9,Motivate
+23:43.7,88,95.8,0,769.9,Motivate
+23:43.8,88,95.8,0,769.9,Motivate
+23:44.0,88,95.8,0,766.84,Motivate
+23:44.1,88,95.8,0,769.9,Motivate
+23:44.3,88,95.8,0,769.9,Motivate
+23:44.4,88,95.8,0,769.9,Motivate
+23:44.5,88,95.8,0,769.9,Motivate
+23:44.6,88,95.8,0,772.96,Motivate
+23:44.7,88,95.8,0,769.9,Motivate
+23:44.9,88,95.8,0,769.9,Motivate
+23:45.0,88,95.8,0,769.9,Motivate
+23:45.3,88,95.8,0,769.9,Motivate
+23:45.3,88,95.8,0,769.9,Motivate
+23:45.5,88,95.8,0,769.9,Motivate
+23:45.7,88,95.9,0,769.9,Motivate
+23:45.8,88,95.9,0,769.9,Motivate
+23:46.0,88,95.9,0,769.9,Motivate
+23:46.1,88,95.9,0,766.84,Motivate
+23:46.3,88,95.9,0,769.9,Motivate
+23:46.3,88,95.9,0,769.9,Motivate
+23:46.5,88,95.9,0,769.9,Motivate
+23:46.6,88,95.9,0,769.9,Motivate
+23:46.7,88,95.9,0,766.84,Motivate
+23:46.8,88,95.9,0,769.9,Motivate
+23:46.9,88,95.9,0,766.84,Motivate
+23:47.0,88,95.9,0,769.9,Motivate
+23:47.2,88,95.9,0,769.9,Motivate
+23:47.3,88,95.9,0,766.84,Motivate
+23:47.4,88,95.9,0,769.9,Motivate
+23:47.5,88,95.9,0,766.84,Motivate
+23:47.7,88,95.9,0,769.9,Motivate
+23:47.8,88,95.9,0,766.84,Motivate
+23:48.0,88,95.9,0,766.84,Motivate
+23:48.1,88,95.9,0,769.9,Motivate
+23:48.2,88,95.9,0,766.84,Motivate
+23:48.3,87,95.9,0,769.9,Motivate
+23:48.4,87,95.9,0,766.84,Motivate
+23:48.6,87,95.9,0,766.84,Motivate
+23:48.8,87,95.9,0,766.84,Motivate
+23:49.0,87,95.9,0,769.9,Motivate
+23:49.1,87,95.9,0,766.84,Motivate
+23:49.2,87,95.9,0,769.9,Motivate
+23:49.3,87,95.9,0,766.84,Motivate
+23:49.4,87,95.9,0,766.84,Motivate
+23:49.6,87,95.9,0,766.84,Motivate
+23:49.8,87,95.9,0,766.84,Motivate
+23:49.9,87,95.9,0,766.84,Motivate
+23:50.0,87,95.9,0,766.84,Motivate
+23:50.1,87,95.9,0,766.84,Motivate
+23:50.2,87,95.9,0,766.84,Motivate
+23:50.3,87,95.9,0,766.84,Motivate
+23:50.4,87,95.9,0,766.84,Motivate
+23:50.5,87,95.9,0,766.84,Motivate
+23:50.6,87,95.9,0,769.9,Motivate
+23:50.8,87,95.9,0,766.84,Motivate
+23:51.0,87,95.9,0,766.84,Motivate
+23:51.1,87,95.9,0,766.84,Motivate
+23:51.2,87,95.9,0,766.84,Motivate
+23:51.4,87,95.9,0,766.84,Motivate
+23:51.6,87,95.9,0,769.9,Motivate
+23:51.8,87,95.9,0,769.9,Motivate
+23:51.9,87,95.9,0,766.84,Motivate
+23:52.0,87,95.9,0,769.9,Motivate
+23:52.1,87,95.9,0,766.84,Motivate
+23:52.2,87,95.9,0,769.9,Motivate
+23:52.3,87,95.9,0,769.9,Motivate
+23:52.5,87,95.9,0,766.84,Motivate
+23:52.6,87,95.9,0,766.84,Motivate
+23:52.8,87,95.9,0,766.84,Motivate
+23:52.9,87,95.9,0,772.96,Motivate
+23:53.0,87,95.9,0,766.84,Motivate
+23:53.1,87,95.9,0,769.9,Motivate
+23:53.2,87,95.9,0,766.84,Motivate
+23:53.3,87,95.9,0,769.9,Motivate
+23:53.4,87,95.9,0,766.84,Motivate
+23:53.5,87,95.9,0,769.9,Motivate
+23:53.8,87,95.9,0,769.9,Motivate
+23:53.9,87,95.9,0,766.84,Motivate
+23:53.9,87,95.9,0,766.84,Motivate
+23:54.2,87,95.9,0,769.9,Motivate
+23:54.3,87,95.9,0,766.84,Motivate
+23:54.5,87,95.9,0,766.84,Motivate
+23:54.6,87,95.9,0,766.84,Motivate
+23:54.8,87,95.9,0,766.84,Motivate
+23:54.8,87,95.9,0,766.84,Motivate
+23:55.0,87,95.9,0,766.84,Motivate
+23:55.1,87,95.9,0,766.84,Motivate
+23:55.3,87,95.9,0,766.84,Motivate
+23:55.4,87,95.9,0,766.84,Motivate
+23:55.5,87,95.9,0,766.84,Motivate
+23:55.6,87,95.9,0,766.84,Motivate
+23:55.7,87,95.9,0,766.84,Motivate
+23:55.8,87,95.9,0,766.84,Motivate
+23:55.9,87,95.9,0,766.84,Motivate
+23:56.2,87,95.9,0,766.84,Motivate
+23:56.3,87,95.9,0,766.84,Motivate
+23:56.5,87,95.9,0,766.84,Motivate
+23:56.6,87,95.9,0,769.9,Motivate
+23:56.7,87,95.9,0,766.84,Motivate
+23:56.8,87,95.9,0,766.84,Motivate
+23:56.9,87,95.9,0,766.84,Motivate
+23:57.1,87,95.9,0,766.84,Motivate
+23:57.3,87,95.9,0,769.9,Motivate
+23:57.4,87,95.9,0,766.84,Motivate
+23:57.5,87,95.9,0,766.84,Motivate
+23:57.6,87,95.9,0,766.84,Motivate
+23:57.7,87,95.9,0,766.84,Motivate
+23:57.8,87,95.9,0,766.84,Motivate
+23:58.1,87,95.9,0,766.84,Motivate
+23:58.3,87,95.9,0,766.84,Motivate
+23:58.4,87,95.9,0,766.84,Motivate
+23:58.5,87,95.9,0,766.84,Motivate
+23:58.6,87,95.9,0,769.9,Motivate
+23:58.7,87,95.9,0,766.84,Motivate
+23:58.8,87,95.9,0,766.84,Motivate
+23:59.1,87,95.9,0,769.9,Motivate
+23:59.1,88,95.9,0,769.9,Motivate
+23:59.3,88,95.9,0,769.9,Motivate
+23:59.5,88,95.9,0,769.9,Motivate
+23:59.6,88,95.9,0,766.84,Motivate
+23:59.7,88,95.9,0,769.9,Motivate
+23:59.8,88,95.9,0,766.84,Motivate
+23:59.9,88,95.9,0,769.9,Motivate
+24:00.1,88,95.9,0,766.84,Motivate
+24:00.3,88,95.9,0,766.84,Motivate
+24:00.4,88,95.9,0,769.9,Motivate
+24:00.5,88,95.9,0,766.84,Motivate
+24:00.6,88,95.9,0,769.9,Motivate
+24:00.7,88,95.9,0,766.84,Motivate
+24:00.8,88,95.9,0,769.9,Motivate
+24:01.0,88,95.9,0,766.84,Motivate
+24:01.1,88,95.9,0,766.84,Motivate
+24:01.3,88,95.9,0,769.9,Motivate
+24:01.4,88,95.9,0,766.84,Motivate
+24:01.5,88,95.9,0,766.84,Motivate
+24:01.6,88,95.9,0,766.84,Motivate
+24:01.7,88,95.9,0,769.9,Motivate
+24:01.8,88,95.9,0,766.84,Motivate
+24:02.0,88,95.9,0,766.84,Motivate
+24:02.2,88,95.9,0,766.84,Motivate
+24:02.3,88,95.9,0,766.84,Motivate
+24:02.4,88,95.9,0,769.9,Motivate
+24:02.6,88,95.9,0,769.9,Motivate
+24:02.7,88,95.9,0,766.84,Motivate
+24:02.8,88,95.9,0,769.9,Motivate
+24:02.9,88,95.9,0,766.84,Motivate
+24:03.0,88,95.9,0,769.9,Motivate
+24:03.3,88,95.9,0,766.84,Motivate
+24:03.4,88,95.9,0,766.84,Motivate
+24:03.5,88,95.9,0,769.9,Motivate
+24:03.5,88,95.9,0,769.9,Motivate
+24:03.7,89,95.9,0,769.9,Motivate
+24:03.8,89,95.9,0,766.84,Motivate
+24:04.0,89,95.9,0,766.84,Motivate
+24:04.1,89,95.9,0,766.84,Motivate
+24:04.3,89,95.9,0,766.84,Motivate
+24:04.4,89,95.9,0,769.9,Motivate
+24:04.6,89,95.9,0,766.84,Motivate
+24:04.8,89,95.9,0,769.9,Motivate
+24:04.9,89,95.9,0,766.84,Motivate
+24:05.0,89,95.9,0,769.9,Motivate
+24:05.1,89,95.9,0,766.84,Motivate
+24:05.2,89,95.9,0,766.84,Motivate
+24:05.3,89,95.9,0,766.84,Motivate
+24:05.4,89,95.9,0,766.84,Motivate
+24:05.5,89,95.9,0,769.9,Motivate
+24:05.7,89,95.9,0,769.9,Motivate
+24:05.8,89,95.9,0,766.84,Motivate
+24:06.0,89,95.9,0,766.84,Motivate
+24:06.1,89,95.9,0,766.84,Motivate
+24:06.2,89,95.9,0,766.84,Motivate
+24:06.3,89,95.9,0,766.84,Motivate
+24:06.4,89,95.9,0,769.9,Motivate
+24:06.6,89,95.9,0,769.9,Motivate
+24:06.8,89,95.9,0,769.9,Motivate
+24:06.9,89,95.9,0,766.84,Motivate
+24:07.0,89,95.9,0,769.9,Motivate
+24:07.1,89,95.9,0,766.84,Motivate
+24:07.2,89,95.9,0,766.84,Motivate
+24:07.3,89,95.9,0,766.84,Motivate
+24:07.5,89,95.9,0,766.84,Motivate
+24:07.6,89,95.9,0,766.84,Motivate
+24:07.8,89,95.9,0,766.84,Motivate
+24:07.9,89,95.9,0,769.9,Motivate
+24:08.0,89,95.9,0,766.84,Motivate
+24:08.2,89,95.9,0,766.84,Motivate
+24:08.3,89,95.9,0,766.84,Motivate
+24:08.6,89,95.9,0,766.84,Motivate
+24:08.8,89,95.9,0,766.84,Motivate
+24:08.9,89,95.9,0,769.9,Motivate
+24:09.0,89,95.9,0,766.84,Motivate
+24:09.1,89,95.9,0,766.84,Motivate
+24:09.2,89,95.9,0,766.84,Motivate
+24:09.3,89,95.9,0,766.84,Motivate
+24:09.5,89,95.9,0,766.84,Motivate
+24:09.6,89,95.9,0,766.84,Motivate
+24:09.7,89,95.9,0,766.84,Motivate
+24:09.9,89,95.9,0,766.84,Motivate
+24:10.0,89,95.9,0,766.84,Motivate
+24:10.1,89,95.9,0,766.84,Motivate
+24:10.2,89,95.9,0,766.84,Motivate
+24:10.3,89,95.9,0,769.9,Motivate
+24:10.5,89,95.9,0,769.9,Motivate
+24:10.6,89,95.9,0,766.84,Motivate
+24:10.7,89,95.9,0,769.9,Motivate
+24:10.8,89,95.9,0,769.9,Motivate
+24:11.0,89,95.9,0,766.84,Motivate
+24:11.1,89,95.9,0,769.9,Motivate
+24:11.3,89,95.9,0,769.9,Motivate
+24:11.5,89,95.9,0,769.9,Motivate
+24:11.6,89,95.9,0,769.9,Motivate
+24:11.7,89,95.9,0,769.9,Motivate
+24:11.9,89,95.9,0,769.9,Motivate
+24:12.0,89,95.9,0,769.9,Motivate
+24:12.1,89,95.9,0,769.9,Motivate
+24:12.2,89,95.9,0,766.84,Motivate
+24:12.4,89,95.9,0,769.9,Motivate
+24:12.5,89,95.9,0,766.84,Motivate
+24:31.3,89,96.0,0,769.9,Funny
+24:31.4,89,96.0,0,766.84,Funny
+24:31.5,89,96.0,0,766.84,Funny
+24:31.6,89,96.0,0,766.84,Funny
+24:31.7,89,96.0,0,766.84,Funny
+24:31.8,89,96.0,0,766.84,Funny
+24:31.9,89,96.0,0,766.84,Funny
+24:32.1,89,96.0,0,766.84,Funny
+24:32.3,89,96.0,0,766.84,Funny
+24:32.4,89,96.0,0,766.84,Funny
+24:32.5,89,96.0,0,766.84,Funny
+24:32.6,89,96.0,0,769.9,Funny
+24:32.7,89,96.0,0,766.84,Funny
+24:32.8,89,96.0,0,769.9,Funny
+24:33.1,89,96.0,0,769.9,Funny
+24:33.2,89,96.0,0,769.9,Funny
+24:33.3,89,96.0,0,766.84,Funny
+24:33.4,89,96.0,0,766.84,Funny
+24:33.5,89,96.0,0,769.9,Funny
+24:33.6,89,96.0,0,766.84,Funny
+24:33.7,89,96.0,0,769.9,Funny
+24:33.8,89,96.0,0,766.84,Funny
+24:33.9,89,96.0,0,766.84,Funny
+24:34.1,89,96.0,0,766.84,Funny
+24:34.3,89,96.0,0,766.84,Funny
+24:34.4,89,96.0,0,769.9,Funny
+24:34.5,89,96.0,0,766.84,Funny
+24:34.7,89,96.0,0,769.9,Funny
+24:34.8,89,96.0,0,769.9,Funny
+24:35.0,89,96.0,0,769.9,Funny
+24:35.1,89,96.0,0,766.84,Funny
+24:35.3,89,96.0,0,769.9,Funny
+24:35.4,89,96.0,0,766.84,Funny
+24:35.5,89,96.0,0,766.84,Funny
+24:35.6,89,96.0,0,766.84,Funny
+24:35.8,89,96.0,0,769.9,Funny
+24:35.9,89,96.0,0,766.84,Funny
+24:36.0,89,96.0,0,766.84,Funny
+24:36.1,89,96.0,0,769.9,Funny
+24:36.2,89,96.0,0,766.84,Funny
+24:36.3,89,96.0,0,766.84,Funny
+24:36.5,89,96.0,0,766.84,Funny
+24:36.6,89,96.0,0,766.84,Funny
+24:36.8,89,96.0,0,766.84,Funny
+24:36.9,89,96.0,0,766.84,Funny
+24:37.0,89,96.0,0,769.9,Funny
+24:37.1,89,96.0,0,766.84,Funny
+24:37.2,89,96.0,0,766.84,Funny
+24:37.4,89,96.0,0,766.84,Funny
+24:37.5,89,96.0,0,766.84,Funny
+24:37.7,90,96.0,0,766.84,Funny
+24:37.8,90,96.0,0,766.84,Funny
+24:37.9,90,96.0,0,766.84,Funny
+24:38.0,90,96.0,0,766.84,Funny
+24:38.1,90,96.0,0,769.9,Funny
+24:38.2,90,96.0,0,769.9,Funny
+24:38.4,90,96.0,0,769.9,Funny
+24:38.6,90,96.0,0,769.9,Funny
+24:38.8,90,96.0,0,769.9,Funny
+24:38.9,89,96.0,0,769.9,Funny
+24:39.0,89,96.0,0,772.96,Funny
+24:39.1,89,96.0,0,769.9,Funny
+24:39.2,89,96.0,0,769.9,Funny
+24:39.4,89,96.0,0,769.9,Funny
+24:39.5,89,96.0,0,772.96,Funny
+24:39.7,89,96.0,0,769.9,Funny
+24:39.8,89,96.0,0,769.9,Funny
+24:39.9,89,96.0,0,769.9,Funny
+24:40.0,89,96.0,0,769.9,Funny
+24:40.1,89,96.0,0,769.9,Funny
+24:40.2,89,96.0,0,772.96,Funny
+24:40.4,89,96.0,0,769.9,Funny
+24:40.6,89,96.0,0,769.9,Funny
+24:40.8,89,96.0,0,769.9,Funny
+24:40.9,89,96.0,0,772.96,Funny
+24:41.0,89,96.0,0,769.9,Funny
+24:41.1,89,96.0,0,769.9,Funny
+24:41.2,89,96.0,0,769.9,Funny
+24:41.3,89,96.0,0,769.9,Funny
+24:41.5,89,96.0,0,769.9,Funny
+24:41.7,89,96.0,0,769.9,Funny
+24:41.8,89,96.0,0,769.9,Funny
+24:41.9,89,96.0,0,769.9,Funny
+24:42.0,89,96.0,0,769.9,Funny
+24:42.1,89,96.0,0,769.9,Funny
+24:42.3,89,96.0,0,769.9,Funny
+24:42.4,89,96.0,0,769.9,Funny
+24:42.5,89,96.0,0,769.9,Funny
+24:42.7,89,96.0,0,769.9,Funny
+24:42.8,89,96.0,0,769.9,Funny
+24:42.9,89,96.0,0,769.9,Funny
+24:43.2,89,96.0,0,769.9,Funny
+24:43.3,89,96.0,0,769.9,Funny
+24:43.4,89,96.0,0,769.9,Funny
+24:43.6,89,96.0,0,769.9,Funny
+24:43.7,89,96.0,0,769.9,Funny
+24:43.8,89,96.0,0,772.96,Funny
+24:43.9,89,96.0,0,769.9,Funny
+24:44.0,89,96.0,0,772.96,Funny
+24:44.1,89,96.0,0,769.9,Funny
+24:44.3,89,96.0,0,769.9,Funny
+24:44.4,89,96.0,0,769.9,Funny
+24:44.5,89,96.0,0,769.9,Funny
+24:44.6,89,96.0,0,769.9,Funny
+24:44.7,89,96.0,0,769.9,Funny
+24:44.9,89,96.0,0,772.96,Funny
+24:45.0,89,96.0,0,769.9,Funny
+24:45.1,89,96.0,0,769.9,Funny
+24:45.2,89,96.0,0,769.9,Funny
+24:45.3,89,96.0,0,766.84,Funny
+24:45.4,89,96.0,0,772.96,Funny
+24:45.5,89,96.0,0,769.9,Funny
+24:45.6,89,96.0,0,769.9,Funny
+24:45.7,89,96.0,0,769.9,Funny
+24:46.0,89,96.1,0,769.9,Funny
+24:46.1,89,96.1,0,769.9,Funny
+24:46.3,89,96.1,0,769.9,Funny
+24:46.4,89,96.1,0,769.9,Funny
+24:46.5,89,96.1,0,769.9,Funny
+24:46.6,89,96.1,0,769.9,Funny
+24:46.7,89,96.1,0,769.9,Funny
+24:46.9,89,96.1,0,769.9,Funny
+24:47.1,89,96.1,0,769.9,Funny
+24:47.2,89,96.1,0,772.96,Funny
+24:47.3,89,96.1,0,769.9,Funny
+24:47.4,89,96.1,0,769.9,Funny
+24:47.5,89,96.1,0,769.9,Funny
+24:47.6,89,96.1,0,769.9,Funny
+24:47.7,89,96.1,0,769.9,Funny
+24:47.8,89,96.1,0,769.9,Funny
+24:48.0,89,96.1,0,769.9,Funny
+24:48.1,89,96.1,0,769.9,Funny
+24:48.3,89,96.1,0,769.9,Funny
+24:48.4,89,96.1,0,769.9,Funny
+24:48.5,89,96.1,0,769.9,Funny
+24:48.6,89,96.1,0,769.9,Funny
+24:48.7,89,96.1,0,769.9,Funny
+24:48.9,89,96.1,0,769.9,Funny
+24:49.1,89,96.1,0,769.9,Funny
+24:49.2,89,96.1,0,769.9,Funny
+24:49.3,89,96.1,0,769.9,Funny
+24:49.4,89,96.1,0,769.9,Funny
+24:49.5,89,96.1,0,769.9,Funny
+24:49.6,89,96.1,0,769.9,Funny
+24:49.7,89,96.1,0,769.9,Funny
+24:49.8,89,96.1,0,769.9,Funny
+24:49.9,89,96.1,0,769.9,Funny
+24:50.1,89,96.1,0,769.9,Funny
+24:50.3,89,96.1,0,769.9,Funny
+24:50.4,89,96.1,0,769.9,Funny
+24:50.5,89,96.1,0,769.9,Funny
+24:50.6,89,96.1,0,769.9,Funny
+24:50.7,89,96.1,0,769.9,Funny
+24:50.9,89,96.1,0,769.9,Funny
+24:51.1,89,96.1,0,769.9,Funny
+24:51.2,89,96.1,0,769.9,Funny
+24:51.2,89,96.1,0,769.9,Funny
+24:51.3,89,96.2,0,769.9,Funny
+24:51.5,89,96.2,0,769.9,Funny
+24:51.6,89,96.2,0,769.9,Funny
+24:51.8,89,96.2,0,772.96,Funny
+24:51.9,89,96.2,0,769.9,Funny
+24:52.1,89,96.2,0,769.9,Funny
+24:52.2,89,96.2,0,769.9,Funny
+24:52.3,89,96.2,0,769.9,Funny
+24:52.4,89,96.2,0,769.9,Funny
+24:52.5,89,96.2,0,769.9,Funny
+24:52.6,89,96.2,0,769.9,Funny
+24:52.7,89,96.2,0,769.9,Funny
+24:52.8,89,96.2,0,769.9,Funny
+24:53.1,89,96.2,0,769.9,Funny
+24:53.2,89,96.2,0,769.9,Funny
+24:53.2,89,96.2,0,769.9,Funny
+24:53.3,89,96.2,0,766.84,Funny
+24:53.5,89,96.2,0,766.84,Funny
+24:53.6,89,96.2,0,766.84,Funny
+24:53.8,89,96.2,0,766.84,Funny
+24:53.9,89,96.2,0,769.9,Funny
+24:54.0,89,96.2,0,769.9,Funny
+24:54.2,89,96.2,0,769.9,Funny
+24:54.2,89,96.2,0,769.9,Funny
+24:54.4,89,96.2,0,769.9,Funny
+24:54.6,89,96.2,0,769.9,Funny
+24:54.7,89,96.2,0,772.96,Funny
+24:54.8,89,96.2,0,769.9,Funny
+24:54.9,89,96.2,0,772.96,Funny
+24:55.0,89,96.2,0,769.9,Funny
+24:55.1,89,96.2,0,769.9,Funny
+24:55.2,89,96.2,0,769.9,Funny
+24:55.3,89,96.2,0,769.9,Funny
+24:55.5,89,96.2,0,769.9,Funny
+24:55.6,89,96.2,0,769.9,Funny
+24:55.8,89,96.2,0,769.9,Funny
+24:55.9,89,96.2,0,769.9,Funny
+24:56.0,89,96.2,0,769.9,Funny
+24:56.1,89,96.2,0,769.9,Funny
+24:56.2,89,96.2,0,769.9,Funny
+24:56.4,89,96.2,0,769.9,Funny
+24:56.6,89,96.2,0,772.96,Funny
+24:56.7,89,96.2,0,769.9,Funny
+24:56.8,89,96.2,0,772.96,Funny
+24:56.9,89,96.2,0,769.9,Funny
+24:57.0,89,96.2,0,769.9,Funny
+24:57.1,89,96.2,0,769.9,Funny
+24:57.2,89,96.2,0,772.96,Funny
+24:57.3,89,96.2,0,769.9,Funny
+24:57.5,89,96.2,0,769.9,Funny
+24:57.6,89,96.2,0,769.9,Funny
+24:57.8,89,96.2,0,769.9,Funny
+24:57.9,89,96.2,0,769.9,Funny
+24:58.0,89,96.2,0,772.96,Funny
+24:58.1,89,96.2,0,769.9,Funny
+24:58.2,89,96.3,0,769.9,Funny
+24:58.4,89,96.3,0,769.9,Funny
+24:58.6,89,96.3,0,769.9,Funny
+24:58.8,89,96.3,0,766.84,Funny
+24:58.9,89,96.3,0,769.9,Funny
+24:59.0,89,96.3,0,769.9,Funny
+24:59.1,89,96.3,0,769.9,Funny
+24:59.4,89,96.3,0,769.9,Funny
+24:59.6,89,96.3,0,769.9,Funny
+24:59.7,89,96.3,0,769.9,Funny
+24:59.9,89,96.3,0,769.9,Funny
+25:00.0,89,96.3,0,769.9,Funny
+25:00.1,89,96.3,0,772.96,Funny
+25:00.2,89,96.3,0,769.9,Funny
+25:00.4,89,96.3,0,769.9,Funny
+25:00.6,89,96.3,0,769.9,Funny
+25:00.7,89,96.3,0,769.9,Funny
+25:00.7,89,96.3,0,769.9,Funny
+25:00.8,89,96.3,0,769.9,Funny
+25:01.0,89,96.3,0,769.9,Funny
+25:01.1,89,96.3,0,772.96,Funny
+25:01.3,89,96.3,0,769.9,Funny
+25:01.4,89,96.3,0,772.96,Funny
+25:01.6,89,96.3,0,769.9,Funny
+25:01.7,89,96.3,0,769.9,Funny
+25:01.9,89,96.3,0,769.9,Funny
+25:01.9,89,96.3,0,769.9,Funny
+25:02.1,89,96.3,0,769.9,Funny
+25:02.2,89,96.3,0,769.9,Funny
+25:02.2,89,96.3,0,769.9,Funny
+25:02.6,89,96.3,0,769.9,Funny
+25:02.7,89,96.3,0,769.9,Funny
+25:02.7,89,96.3,0,769.9,Funny
+25:02.9,89,96.3,0,769.9,Funny
+25:03.1,89,96.3,0,772.96,Funny
+25:03.3,89,96.3,0,769.9,Funny
+25:03.4,89,96.3,0,769.9,Funny
+25:03.5,89,96.3,0,769.9,Funny
+25:03.7,89,96.3,0,769.9,Funny
+25:03.7,89,96.3,0,769.9,Funny
+25:03.9,89,96.3,0,769.9,Funny
+25:04.0,89,96.3,0,769.9,Funny
+25:04.2,89,96.4,0,769.9,Funny
+25:04.3,89,96.4,0,772.96,Funny
+25:04.4,89,96.4,0,769.9,Funny
+25:04.5,89,96.4,0,769.9,Funny
+25:04.6,89,96.4,0,769.9,Funny
+25:04.7,89,96.4,0,769.9,Funny
+25:04.9,89,96.4,0,769.9,Funny
+25:05.1,89,96.4,0,772.96,Funny
+25:05.3,89,96.4,0,769.9,Funny
+25:05.4,89,96.4,0,769.9,Funny
+25:05.5,89,96.4,0,769.9,Funny
+25:05.6,89,96.4,0,769.9,Funny
+25:05.7,89,96.4,0,769.9,Funny
+25:05.9,89,96.4,0,769.9,Funny
+25:06.0,89,96.4,0,769.9,Funny
+25:06.2,89,96.4,0,769.9,Funny
+25:06.3,89,96.4,0,769.9,Funny
+25:06.4,89,96.4,0,769.9,Funny
+25:06.5,89,96.4,0,769.9,Funny
+25:06.6,89,96.4,0,769.9,Funny
+25:06.7,89,96.4,0,769.9,Funny
+25:06.9,89,96.4,0,769.9,Funny
+25:07.1,89,96.4,0,769.9,Funny
+25:07.3,89,96.4,0,769.9,Funny
+25:07.4,89,96.4,0,772.96,Funny
+25:07.5,89,96.4,0,769.9,Funny
+25:07.6,89,96.4,0,769.9,Funny
+25:07.9,89,96.4,0,769.9,Funny
+25:08.0,89,96.4,0,769.9,Funny
+25:08.1,89,96.4,0,769.9,Funny
+25:08.2,89,96.4,0,769.9,Funny
+25:08.4,89,96.4,0,769.9,Funny
+25:08.5,89,96.4,0,769.9,Funny
+25:08.6,89,96.4,0,769.9,Funny
+25:08.7,89,96.4,0,769.9,Funny
+25:08.9,89,96.4,0,769.9,Funny
+25:09.1,89,96.4,0,769.9,Funny
+25:09.2,89,96.4,0,769.9,Funny
+25:09.3,89,96.4,0,769.9,Funny
+25:09.4,89,96.4,0,769.9,Funny
+25:09.5,89,96.4,0,769.9,Funny
+25:09.6,89,96.4,0,769.9,Funny
+25:09.9,89,96.4,0,769.9,Funny
+25:10.0,89,96.4,0,769.9,Funny
+25:10.1,89,96.4,0,769.9,Funny
+25:10.2,89,96.4,0,772.96,Funny
+25:10.4,89,96.4,0,769.9,Funny
+25:10.6,89,96.4,0,769.9,Funny
+25:10.7,89,96.4,0,769.9,Funny
+25:10.8,89,96.4,0,769.9,Funny
+25:10.9,89,96.4,0,769.9,Funny
+25:11.0,89,96.4,0,769.9,Funny
+25:11.2,89,96.4,0,769.9,Funny
+25:11.2,89,96.4,0,769.9,Funny
+25:11.4,89,96.4,0,769.9,Funny
+25:11.5,89,96.4,0,772.96,Funny
+25:11.6,89,96.4,0,769.9,Funny
+25:11.8,89,96.4,0,769.9,Funny
+25:11.9,89,96.4,0,769.9,Funny
+25:12.0,89,96.4,0,772.96,Funny
+25:12.1,89,96.4,0,769.9,Funny
+25:12.2,89,96.4,0,769.9,Funny
+25:12.4,89,96.4,0,772.96,Funny
+25:12.6,89,96.4,0,772.96,Funny
+25:12.7,89,96.4,0,769.9,Funny
+25:12.8,89,96.4,0,769.9,Funny
+25:12.9,89,96.4,0,769.9,Funny
+25:13.0,89,96.4,0,769.9,Funny
+25:13.2,89,96.4,0,769.9,Funny
+25:13.2,89,96.4,0,769.9,Funny
+25:13.4,89,96.4,0,769.9,Funny
+25:13.5,89,96.4,0,769.9,Funny
+25:13.6,89,96.4,0,766.84,Funny
+25:13.8,89,96.4,0,769.9,Funny
+25:13.9,89,96.4,0,769.9,Funny
+25:14.0,89,96.4,0,772.96,Funny
+25:14.1,89,96.4,0,769.9,Funny
+25:14.2,89,96.4,0,769.9,Funny
+25:14.4,89,96.4,0,769.9,Funny
+25:14.6,89,96.4,0,769.9,Funny
+25:14.7,89,96.4,0,769.9,Funny
+25:14.8,89,96.4,0,769.9,Funny
+25:14.9,89,96.4,0,769.9,Funny
+25:15.0,89,96.4,0,769.9,Funny
+25:15.1,89,96.4,0,769.9,Funny
+25:15.4,89,96.4,0,769.9,Funny
+25:15.5,89,96.4,0,769.9,Funny
+25:15.6,89,96.4,0,769.9,Funny
+25:15.7,89,96.4,0,766.84,Funny
+25:15.9,89,96.4,0,766.84,Funny
+25:16.0,89,96.4,0,769.9,Funny
+25:16.1,89,96.4,0,766.84,Funny
+25:16.2,89,96.4,0,769.9,Funny
+25:16.4,89,96.4,0,766.84,Funny
+25:16.6,89,96.4,0,769.9,Funny
+25:16.7,89,96.4,0,769.9,Funny
+25:16.8,89,96.4,0,766.84,Funny
+25:16.9,89,96.4,0,769.9,Funny
+25:17.0,89,96.4,0,766.84,Funny
+25:17.1,89,96.4,0,766.84,Funny
+25:17.4,89,96.4,0,769.9,Funny
+25:17.5,89,96.4,0,766.84,Funny
+25:17.6,89,96.4,0,769.9,Funny
+25:17.7,89,96.4,0,769.9,Funny
+25:17.9,89,96.4,0,766.84,Funny
+25:18.0,89,96.4,0,769.9,Funny
+25:18.1,89,96.4,0,769.9,Funny
+25:18.2,89,96.4,0,769.9,Funny
+25:18.4,89,96.4,0,769.9,Funny
+25:18.4,89,96.4,0,769.9,Funny
+25:18.6,89,96.4,0,766.84,Funny
+25:18.7,89,96.4,0,769.9,Funny
+25:18.8,89,96.4,0,766.84,Funny
+25:18.9,89,96.4,0,766.84,Funny
+25:19.0,89,96.4,0,766.84,Funny
+25:19.1,89,96.4,0,769.9,Funny
+25:19.3,89,96.4,0,769.9,Funny
+25:19.4,89,96.4,0,769.9,Funny
+25:19.5,89,96.4,0,766.84,Funny
+25:19.6,89,96.4,0,769.9,Funny
+25:19.7,89,96.4,0,766.84,Funny
+25:19.9,89,96.4,0,769.9,Funny
+25:20.1,89,96.4,0,769.9,Funny
+25:20.2,89,96.4,0,769.9,Funny
+25:20.3,89,96.4,0,769.9,Funny
+25:20.4,89,96.4,0,766.84,Funny
+25:20.5,89,96.4,0,772.96,Funny
+25:20.7,89,96.4,0,769.9,Funny
+25:20.7,89,96.4,0,769.9,Funny
+25:20.9,89,96.4,0,769.9,Funny
+25:21.0,89,96.4,0,766.84,Funny
+25:21.1,89,96.4,0,766.84,Funny
+25:21.3,89,96.4,0,766.84,Funny
+25:21.4,89,96.4,0,766.84,Funny
+25:21.5,89,96.4,0,769.9,Funny
+25:21.7,89,96.4,0,769.9,Funny
+25:21.9,89,96.4,0,769.9,Funny
+25:22.1,89,96.4,0,766.84,Funny
+25:22.3,89,96.4,0,766.84,Funny
+25:22.4,89,96.4,0,769.9,Funny
+25:22.5,89,96.4,0,766.84,Funny
+25:22.7,89,96.4,0,769.9,Funny
+25:22.9,89,96.4,0,769.9,Funny
+25:22.9,89,96.4,0,766.84,Funny
+25:22.9,89,96.3,0,769.9,Funny
+25:22.9,89,96.3,0,766.84,Funny
+25:23.1,89,96.3,0,769.9,Funny
+25:23.1,89,96.3,0,769.9,Funny
+26:37.6,91,95.9,0,536.04,Stress Ball
+26:37.7,91,95.9,0,529.15,Stress Ball
+26:37.8,91,95.9,0,524.59,Stress Ball
+26:38.0,91,95.9,0,522.32,Stress Ball
+26:38.2,91,95.9,0,524.59,Stress Ball
+26:38.4,91,95.9,0,513.31,Stress Ball
+26:38.5,91,95.9,0,504.41,Stress Ball
+26:38.6,91,95.9,0,486.92,Stress Ball
+26:38.7,91,95.9,0,478.32,Stress Ball
+26:38.8,91,95.9,0,482.61,Stress Ball
+26:38.9,91,95.9,0,486.92,Stress Ball
+26:39.1,91,95.9,0,504.41,Stress Ball
+26:39.3,91,95.9,0,502.2,Stress Ball
+26:39.4,91,95.9,0,506.63,Stress Ball
+26:39.5,91,95.9,0,511.08,Stress Ball
+26:39.6,91,95.9,0,517.8,Stress Ball
+26:39.7,91,95.9,0,526.87,Stress Ball
+26:39.8,91,95.9,0,526.87,Stress Ball
+26:40.0,91,95.9,0,526.87,Stress Ball
+26:40.2,91,95.9,0,531.44,Stress Ball
+26:40.4,91,95.9,0,524.59,Stress Ball
+26:40.5,91,95.9,0,520.06,Stress Ball
+26:40.6,91,95.9,0,520.06,Stress Ball
+26:40.7,91,95.9,0,524.59,Stress Ball
+26:40.8,91,95.9,0,529.15,Stress Ball
+26:40.9,91,95.9,0,536.04,Stress Ball
+26:41.1,91,95.9,0,547.66,Stress Ball
+26:41.2,91,95.9,0,550.0,Stress Ball
+26:41.4,91,95.9,0,545.32,Stress Ball
+26:41.5,91,95.9,0,533.73,Stress Ball
+26:41.6,91,95.9,0,522.32,Stress Ball
+26:41.7,91,95.9,0,515.56,Stress Ball
+26:41.8,91,95.9,0,511.08,Stress Ball
+26:42.0,91,95.9,0,511.08,Stress Ball
+26:42.0,91,95.9,0,511.08,Stress Ball
+26:42.2,91,95.9,0,513.31,Stress Ball
+26:42.4,91,95.9,0,515.56,Stress Ball
+26:42.5,91,95.9,0,517.8,Stress Ball
+26:42.6,91,95.9,0,520.06,Stress Ball
+26:42.7,91,95.9,0,522.32,Stress Ball
+26:42.9,91,95.9,0,529.15,Stress Ball
+26:43.1,91,95.9,0,533.73,Stress Ball
+26:43.2,91,95.9,0,536.04,Stress Ball
+26:43.3,91,95.9,0,538.35,Stress Ball
+26:43.5,91,95.9,0,540.66,Stress Ball
+26:43.6,91,95.9,0,540.66,Stress Ball
+26:43.7,91,95.9,0,542.99,Stress Ball
+26:43.8,91,95.9,0,542.99,Stress Ball
+26:43.9,91,95.9,0,545.32,Stress Ball
+26:44.2,91,95.9,0,547.66,Stress Ball
+26:44.2,91,95.9,0,547.66,Stress Ball
+26:44.4,91,95.9,0,552.35,Stress Ball
+26:44.4,91,95.9,0,552.35,Stress Ball
+26:44.5,91,95.9,0,552.35,Stress Ball
+26:44.7,91,95.9,0,559.45,Stress Ball
+26:44.9,91,95.9,0,573.85,Stress Ball
+26:45.1,91,95.9,0,571.43,Stress Ball
+26:45.2,91,95.9,0,564.22,Stress Ball
+26:45.3,91,95.9,0,561.83,Stress Ball
+26:45.5,91,95.9,0,583.59,Stress Ball
+26:45.5,91,95.9,0,583.59,Stress Ball
+26:45.7,91,95.9,0,590.98,Stress Ball
+26:45.8,91,95.9,0,593.46,Stress Ball
+26:45.9,91,95.9,0,593.46,Stress Ball
+26:46.1,91,95.9,0,600.94,Stress Ball
+26:46.2,91,95.9,0,603.45,Stress Ball
+26:46.3,91,95.9,0,603.45,Stress Ball
+26:46.4,91,95.9,0,605.97,Stress Ball
+26:46.5,91,95.9,0,605.97,Stress Ball
+26:46.7,91,95.9,0,608.49,Stress Ball
+26:46.9,91,95.9,0,608.49,Stress Ball
+26:47.0,91,95.9,0,608.49,Stress Ball
+26:47.1,91,95.9,0,608.49,Stress Ball
+26:47.2,91,95.9,0,608.49,Stress Ball
+26:47.3,91,95.9,0,603.45,Stress Ball
+26:47.5,91,95.9,0,583.59,Stress Ball
+26:47.7,91,95.9,0,581.14,Stress Ball
+26:47.8,91,95.9,0,578.7,Stress Ball
+26:47.9,91,95.9,0,581.14,Stress Ball
+26:48.0,91,95.9,0,581.14,Stress Ball
+26:48.1,91,95.9,0,581.14,Stress Ball
+26:48.2,91,95.9,0,581.14,Stress Ball
+26:48.3,91,95.9,0,578.7,Stress Ball
+26:48.5,91,95.9,0,578.7,Stress Ball
+26:48.7,91,95.9,0,581.14,Stress Ball
+26:48.9,91,95.9,0,583.59,Stress Ball
+26:49.0,91,95.8,0,583.59,Stress Ball
+26:49.1,91,95.8,0,581.14,Stress Ball
+26:49.2,91,95.8,0,576.27,Stress Ball
+26:49.3,91,95.8,0,576.27,Stress Ball
+26:49.4,91,95.8,0,576.27,Stress Ball
+26:49.6,91,95.8,0,573.85,Stress Ball
+26:49.8,91,95.7,0,573.85,Stress Ball
+26:49.9,91,95.7,0,573.85,Stress Ball
+26:50.0,91,95.7,0,573.85,Stress Ball
+26:50.1,91,95.7,0,576.27,Stress Ball
+26:50.2,91,95.7,0,576.27,Stress Ball
+26:50.4,91,95.7,0,578.7,Stress Ball
+26:50.5,91,95.7,0,576.27,Stress Ball
+26:50.7,91,95.7,0,578.7,Stress Ball
+26:50.8,91,95.7,0,576.27,Stress Ball
+26:50.9,91,95.7,0,576.27,Stress Ball
+26:51.0,91,95.7,0,578.7,Stress Ball
+26:51.1,91,95.7,0,576.27,Stress Ball
+26:51.2,91,95.7,0,578.7,Stress Ball
+26:51.4,91,95.7,0,578.7,Stress Ball
+26:51.6,91,95.7,0,578.7,Stress Ball
+26:51.7,91,95.7,0,581.14,Stress Ball
+26:51.8,91,95.7,0,578.7,Stress Ball
+26:52.0,91,95.7,0,581.14,Stress Ball
+26:52.1,91,95.7,0,581.14,Stress Ball
+26:52.2,91,95.7,0,581.14,Stress Ball
+26:52.5,91,95.7,0,581.14,Stress Ball
+26:52.6,91,95.7,0,578.7,Stress Ball
+26:52.7,91,95.7,0,578.7,Stress Ball
+26:52.9,91,95.7,0,578.7,Stress Ball
+26:52.9,91,95.7,0,578.7,Stress Ball
+26:53.1,91,95.7,0,578.7,Stress Ball
+26:53.2,91,95.7,0,578.7,Stress Ball
+26:53.4,91,95.7,0,578.7,Stress Ball
+26:53.6,91,95.7,0,578.7,Stress Ball
+26:53.7,91,95.7,0,581.14,Stress Ball
+26:53.8,91,95.7,0,581.14,Stress Ball
+26:54.0,91,95.7,0,583.59,Stress Ball
+26:54.2,91,95.7,0,586.05,Stress Ball
+26:54.3,91,95.7,0,583.59,Stress Ball
+26:54.4,91,95.7,0,586.05,Stress Ball
+26:54.5,91,95.7,0,586.05,Stress Ball
+26:54.6,91,95.7,0,586.05,Stress Ball
+26:54.7,91,95.7,0,588.51,Stress Ball
+26:54.8,91,95.7,0,598.44,Stress Ball
+26:54.9,91,95.7,0,605.97,Stress Ball
+26:55.0,91,95.7,0,613.56,Stress Ball
+26:55.2,91,95.7,0,623.81,Stress Ball
+26:55.4,91,95.7,0,634.19,Stress Ball
+26:55.5,91,95.7,0,634.19,Stress Ball
+26:59.5,91,95.6,0,586.05,Hand at Rest
+26:59.6,91,95.6,0,583.59,Hand at Rest
+26:59.7,91,95.6,0,583.59,Hand at Rest
+26:59.8,91,95.6,0,586.05,Hand at Rest
+26:59.9,91,95.6,0,586.05,Hand at Rest
+26:59.9,91,95.6,0,583.59,Hand at Rest
+27:00.1,91,95.6,0,583.59,Hand at Rest
+27:00.2,91,95.6,0,583.59,Hand at Rest
+27:00.4,91,95.6,0,586.05,Hand at Rest
+27:00.4,91,95.6,0,586.05,Hand at Rest
+27:00.6,91,95.6,0,586.05,Hand at Rest
+27:00.7,91,95.6,0,586.05,Hand at Rest
+27:00.9,91,95.6,0,586.05,Hand at Rest
+27:01.1,91,95.6,0,588.51,Hand at Rest
+27:01.2,91,95.6,0,588.51,Hand at Rest
+27:01.3,91,95.6,0,588.51,Hand at Rest
+27:01.5,91,95.6,0,590.98,Hand at Rest
+27:01.7,91,95.6,0,588.51,Hand at Rest
+27:01.9,91,95.6,0,590.98,Hand at Rest
+27:02.0,91,95.6,0,590.98,Hand at Rest
+27:02.1,91,95.6,0,593.46,Hand at Rest
+27:02.2,91,95.6,0,590.98,Hand at Rest
+27:02.3,91,95.6,0,593.46,Hand at Rest
+27:02.5,91,95.6,0,595.94,Hand at Rest
+27:02.6,91,95.6,0,595.94,Hand at Rest
+27:02.8,91,95.6,0,595.94,Hand at Rest
+27:02.9,91,95.6,0,595.94,Hand at Rest
+27:03.0,91,95.6,0,593.46,Hand at Rest
+27:03.1,91,95.6,0,595.94,Hand at Rest
+27:03.2,91,95.6,0,593.46,Hand at Rest
+27:03.3,91,95.6,0,590.98,Hand at Rest
+27:03.5,91,95.6,0,593.46,Hand at Rest
+27:03.7,91,95.6,0,590.98,Hand at Rest
+27:03.9,91,95.6,0,593.46,Hand at Rest
+27:04.0,91,95.6,0,593.46,Hand at Rest
+27:04.1,91,95.6,0,595.94,Hand at Rest
+27:04.2,91,95.6,0,593.46,Hand at Rest
+27:04.3,91,95.6,0,593.46,Hand at Rest
+27:04.5,91,95.6,0,595.94,Hand at Rest
+27:04.6,91,95.6,0,593.46,Hand at Rest
+27:04.8,91,95.6,0,598.44,Hand at Rest
+27:04.9,91,95.6,0,595.94,Hand at Rest
+27:05.0,91,95.6,0,598.44,Hand at Rest
+27:05.1,91,95.6,0,598.44,Hand at Rest
+27:05.2,91,95.6,0,595.94,Hand at Rest
+27:05.4,91,95.6,0,595.94,Hand at Rest
+27:05.5,90,95.6,0,598.44,Hand at Rest
+27:05.7,90,95.6,0,595.94,Hand at Rest
+27:05.8,90,95.6,0,598.44,Hand at Rest
+27:05.9,90,95.6,0,595.94,Hand at Rest
+27:06.0,91,95.6,0,595.94,Hand at Rest
+27:06.1,91,95.6,0,598.44,Hand at Rest
+27:06.2,91,95.6,0,595.94,Hand at Rest
+27:06.4,91,95.6,0,598.44,Hand at Rest
+27:06.6,91,95.6,0,598.44,Hand at Rest
+27:06.7,91,95.6,0,598.44,Hand at Rest
+27:06.8,91,95.6,0,600.94,Hand at Rest
+27:07.0,91,95.6,0,600.94,Hand at Rest
+27:07.1,91,95.6,0,600.94,Hand at Rest
+27:07.2,91,95.6,0,600.94,Hand at Rest
+27:07.3,91,95.6,0,603.45,Hand at Rest
+27:07.4,91,95.6,0,600.94,Hand at Rest
+27:07.7,91,95.6,0,600.94,Hand at Rest
+27:07.8,91,95.6,0,603.45,Hand at Rest
+27:07.9,91,95.6,0,603.45,Hand at Rest
+27:08.0,91,95.6,0,605.97,Hand at Rest
+27:08.1,91,95.6,0,603.45,Hand at Rest
+27:08.2,91,95.6,0,605.97,Hand at Rest
+27:08.4,91,95.6,0,605.97,Hand at Rest
+27:08.6,91,95.6,0,605.97,Hand at Rest
+27:08.7,91,95.6,0,608.49,Hand at Rest
+27:08.8,91,95.6,0,605.97,Hand at Rest
+27:09.0,91,95.6,0,605.97,Hand at Rest
+27:09.2,91,95.6,0,605.97,Hand at Rest
+27:09.3,91,95.6,0,608.49,Hand at Rest
+27:09.4,91,95.6,0,611.02,Hand at Rest
+27:09.5,91,95.6,0,613.56,Hand at Rest
+27:09.6,91,95.6,0,613.56,Hand at Rest
+27:09.7,91,95.6,0,621.24,Hand at Rest
+27:09.9,91,95.6,0,618.67,Hand at Rest
+27:09.9,91,95.6,0,618.67,Hand at Rest
+27:10.1,91,95.7,0,613.56,Hand at Rest
+27:10.2,91,95.7,0,616.11,Hand at Rest
+27:10.4,91,95.7,0,613.56,Hand at Rest
+27:10.5,91,95.7,0,613.56,Hand at Rest
+27:10.6,91,95.7,0,613.56,Hand at Rest
+27:10.7,91,95.7,0,613.56,Hand at Rest
+27:10.8,91,95.7,0,613.56,Hand at Rest
+27:11.0,91,95.7,0,611.02,Hand at Rest
+27:11.2,91,95.7,0,611.02,Hand at Rest
+27:11.3,91,95.7,0,608.49,Hand at Rest
+27:11.4,91,95.7,0,608.49,Hand at Rest
+27:11.5,91,95.7,0,608.49,Hand at Rest
+27:11.6,91,95.7,0,605.97,Hand at Rest
+27:11.7,91,95.7,0,605.97,Hand at Rest
+27:11.8,91,95.7,0,603.45,Hand at Rest
+27:11.9,91,95.7,0,605.97,Hand at Rest
+27:12.0,91,95.7,0,603.45,Hand at Rest
+27:12.2,91,95.7,0,605.97,Hand at Rest
+27:12.4,91,95.7,0,603.45,Hand at Rest
+27:12.5,91,95.7,0,603.45,Hand at Rest
+27:12.6,91,95.7,0,603.45,Hand at Rest
+27:12.7,91,95.7,0,603.45,Hand at Rest
+27:12.8,91,95.7,0,603.45,Hand at Rest
+27:13.0,91,95.7,0,603.45,Hand at Rest
+27:13.2,91,95.7,0,603.45,Hand at Rest
+27:13.3,91,95.7,0,603.45,Hand at Rest
+27:13.4,91,95.7,0,603.45,Hand at Rest
+27:13.5,91,95.7,0,605.97,Hand at Rest
+27:13.6,91,95.7,0,605.97,Hand at Rest
+27:13.7,91,95.7,0,605.97,Hand at Rest
+27:13.9,91,95.7,0,608.49,Hand at Rest
+27:14.0,91,95.7,0,608.49,Hand at Rest
+27:14.2,91,95.7,0,598.44,Hand at Rest
+27:14.3,91,95.7,0,595.94,Hand at Rest
+27:14.4,91,95.7,0,595.94,Hand at Rest
+27:14.5,91,95.7,0,595.94,Hand at Rest
+27:14.8,91,95.7,0,595.94,Hand at Rest
+27:15.0,91,95.7,0,598.44,Hand at Rest
+27:15.1,91,95.7,0,598.44,Hand at Rest
+27:15.3,91,95.7,0,603.45,Hand at Rest
+27:15.4,91,95.7,0,600.94,Hand at Rest
+27:15.5,91,95.7,0,600.94,Hand at Rest
+27:15.6,91,95.7,0,598.44,Hand at Rest
+27:15.7,91,95.7,0,600.94,Hand at Rest
+27:15.9,91,95.7,0,600.94,Hand at Rest
+27:16.0,91,95.7,0,600.94,Hand at Rest
+27:16.1,91,95.7,0,603.45,Hand at Rest
+27:16.3,91,95.7,0,603.45,Hand at Rest
+27:16.4,91,95.7,0,603.45,Hand at Rest
+27:16.5,91,95.7,0,600.94,Hand at Rest
+27:16.6,91,95.7,0,600.94,Hand at Rest
+27:16.7,91,95.7,0,598.44,Hand at Rest
+27:16.9,91,95.7,0,600.94,Hand at Rest
+27:17.1,91,95.7,0,600.94,Hand at Rest
+27:17.2,91,95.7,0,603.45,Hand at Rest
+27:17.3,91,95.7,0,600.94,Hand at Rest
+27:17.5,91,95.7,0,600.94,Hand at Rest
+27:17.7,91,95.7,0,603.45,Hand at Rest
+27:17.8,91,95.7,0,603.45,Hand at Rest
+27:17.9,91,95.7,0,605.97,Hand at Rest
+27:18.0,91,95.7,0,603.45,Hand at Rest
+27:18.1,91,95.7,0,603.45,Hand at Rest
+27:18.2,91,95.7,0,603.45,Hand at Rest
+27:18.4,91,95.7,0,603.45,Hand at Rest
+27:18.5,91,95.7,0,603.45,Hand at Rest
+27:18.7,91,95.7,0,603.45,Hand at Rest
+27:18.9,91,95.7,0,605.97,Hand at Rest
+27:19.0,91,95.7,0,608.49,Hand at Rest
+27:19.1,91,95.7,0,613.56,Hand at Rest
+27:19.2,91,95.7,0,613.56,Hand at Rest
+27:19.3,91,95.7,0,613.56,Hand at Rest
+27:19.5,91,95.7,0,611.02,Hand at Rest
+27:19.6,91,95.7,0,608.49,Hand at Rest
+27:19.8,91,95.7,0,605.97,Hand at Rest
+27:19.9,91,95.7,0,605.97,Hand at Rest
+27:20.0,91,95.7,0,605.97,Hand at Rest
+27:20.1,91,95.7,0,605.97,Hand at Rest
+27:20.2,91,95.7,0,605.97,Hand at Rest
+27:20.3,91,95.7,0,603.45,Hand at Rest
+27:20.5,91,95.7,0,600.94,Hand at Rest
+27:20.7,91,95.7,0,595.94,Hand at Rest
+27:20.9,91,95.7,0,593.46,Hand at Rest
+27:21.0,91,95.7,0,590.98,Hand at Rest
+27:21.1,91,95.7,0,588.51,Hand at Rest
+27:21.2,91,95.7,0,588.51,Hand at Rest
+27:21.5,91,95.7,0,583.59,Hand at Rest
+27:21.5,91,95.7,0,583.59,Hand at Rest
+27:29.3,92,95.8,1,465.62,Fist
+27:29.4,92,95.8,1,463.52,Fist
+27:29.5,92,95.8,1,461.43,Fist
+27:29.6,92,95.8,1,461.43,Fist
+27:29.7,92,95.8,1,461.43,Fist
+27:29.9,92,95.8,1,459.34,Fist
+27:30.1,92,95.8,1,459.34,Fist
+27:30.1,92,95.8,1,457.26,Fist
+27:30.3,92,95.8,1,455.19,Fist
+27:30.3,92,95.8,1,453.13,Fist
+27:30.4,92,95.8,1,453.13,Fist
+27:30.5,92,95.8,1,453.13,Fist
+27:30.6,92,95.8,1,453.13,Fist
+27:30.7,92,95.8,1,453.13,Fist
+27:30.8,92,95.8,1,453.13,Fist
+27:31.0,92,95.8,1,455.19,Fist
+27:31.2,92,95.8,1,461.43,Fist
+27:31.3,92,95.8,1,467.72,Fist
+27:31.4,92,95.8,1,471.94,Fist
+27:31.5,92,95.8,1,478.32,Fist
+27:31.6,92,95.8,1,476.19,Fist
+27:31.7,92,95.8,1,478.32,Fist
+27:31.9,92,95.8,1,486.92,Fist
+27:32.0,92,95.8,1,489.08,Fist
+27:32.2,92,95.8,1,495.61,Fist
+27:32.3,92,95.8,1,497.8,Fist
+27:32.4,92,95.8,1,497.8,Fist
+27:32.5,92,95.8,1,502.2,Fist
+27:32.6,92,95.8,1,508.85,Fist
+27:32.8,92,95.8,1,529.15,Fist
+27:32.9,92,95.8,1,533.73,Fist
+27:33.0,92,95.8,1,538.35,Fist
+27:33.1,92,95.8,1,540.66,Fist
+27:33.2,92,95.8,1,542.99,Fist
+27:33.4,92,95.8,1,554.71,Fist
+27:33.5,92,95.8,1,545.32,Fist
+27:33.7,92,95.8,1,533.73,Fist
+27:33.9,92,95.8,1,531.44,Fist
+27:34.0,92,95.8,1,536.04,Fist
+27:34.0,92,95.8,1,540.66,Fist
+27:34.3,92,95.8,1,533.73,Fist
+27:34.4,92,95.8,1,526.87,Fist
+27:34.4,92,95.8,1,526.87,Fist
+27:34.6,92,95.9,1,529.15,Fist
+27:34.7,92,95.9,1,533.73,Fist
+27:34.9,92,95.9,1,536.04,Fist
+27:35.0,92,95.9,1,538.35,Fist
+27:35.1,92,95.9,1,538.35,Fist
+27:35.3,92,95.9,1,542.99,Fist
+27:35.4,92,95.9,1,545.32,Fist
+27:35.5,92,95.9,1,550.0,Fist
+27:35.7,92,95.9,1,552.35,Fist
+27:35.8,92,95.9,1,550.0,Fist
+27:35.9,92,95.9,1,531.44,Fist
+27:36.0,92,95.9,1,508.85,Fist
+27:36.1,92,95.9,1,500.0,Fist
+27:36.2,92,95.9,1,515.56,Fist
+27:36.3,92,95.9,1,529.15,Fist
+27:36.5,92,95.9,1,536.04,Fist
+27:36.7,92,95.9,1,533.73,Fist
+27:36.8,92,95.9,1,531.44,Fist
+27:36.9,92,95.9,1,529.15,Fist
+27:37.0,92,95.9,1,531.44,Fist
+27:37.1,92,95.9,1,531.44,Fist
+27:37.3,92,95.9,1,529.15,Fist
+27:37.3,92,95.9,1,529.15,Fist
+27:37.5,92,95.9,1,533.73,Fist
+27:37.6,92,95.9,1,542.99,Fist
+27:37.7,92,95.9,1,540.66,Fist
+27:37.8,92,95.9,1,542.99,Fist
+27:37.9,92,95.9,1,542.99,Fist
+27:38.0,92,95.9,1,542.99,Fist
+27:38.1,92,95.9,1,540.66,Fist
+27:38.2,92,95.9,1,536.04,Fist
+27:38.3,92,95.9,1,533.73,Fist
+27:38.5,92,95.9,1,538.35,Fist
+27:38.7,92,95.9,1,538.35,Fist
+27:38.8,92,95.9,1,538.35,Fist
+27:38.9,92,95.9,1,540.66,Fist
+27:39.0,92,95.9,1,540.66,Fist
+27:39.1,92,95.9,1,529.15,Fist
+27:39.2,92,95.9,1,524.59,Fist
+27:39.5,92,95.9,1,531.44,Fist
+27:39.6,92,95.9,1,529.15,Fist
+27:39.7,92,95.9,1,531.44,Fist
+27:39.8,92,95.9,1,533.73,Fist
+27:40.0,92,95.9,1,533.73,Fist
+27:40.1,92,95.9,1,533.73,Fist
+27:40.2,92,95.9,1,538.35,Fist
+27:40.3,92,95.9,1,540.66,Fist
+27:40.5,92,95.9,1,552.35,Fist
+27:40.7,92,95.9,1,554.71,Fist
+27:40.8,92,95.9,1,559.45,Fist
+27:40.9,92,95.9,1,557.08,Fist
+27:41.1,92,95.9,1,550.0,Fist
+27:41.2,92,95.9,1,550.0,Fist
+27:41.5,92,95.9,1,547.66,Fist
+27:41.5,92,95.9,1,547.66,Fist
+27:41.7,92,95.9,1,554.71,Fist
+27:41.8,92,95.9,1,557.08,Fist
+27:41.9,92,95.9,1,561.83,Fist
+27:42.0,92,95.9,1,554.71,Fist
+27:42.2,92,95.9,1,531.44,Fist
+27:42.3,92,95.9,1,531.44,Fist
+27:42.5,92,95.9,1,529.15,Fist
+27:42.5,92,95.9,1,529.15,Fist
+27:42.7,92,95.9,1,531.44,Fist
+27:42.8,92,95.9,1,531.44,Fist
+27:42.9,92,95.9,1,536.04,Fist
+27:43.1,92,95.9,1,540.66,Fist
+27:43.2,92,95.9,1,545.32,Fist
+27:43.4,92,95.9,1,542.99,Fist
+27:43.5,92,95.9,1,540.66,Fist
+27:43.6,92,95.9,1,536.04,Fist
+27:43.8,92,95.9,1,536.04,Fist
