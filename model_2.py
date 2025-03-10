@@ -23,7 +23,7 @@ X_train_scaled = scaler.fit_transform(X_train)
 X_test_scaled = scaler.transform(X_test)
 
 # Train a Random Forest Classifier
-model = RandomForestClassifier(n_estimators=100, random_state=42)
+model = RandomForestClassifier(n_estimators=100)
 model.fit(X_train_scaled, y_train)
 
 # Make predictions
@@ -36,7 +36,7 @@ print("Classification Report:")
 print(classification_report(y_test, y_pred))
 
 # Save the model and scaler for later use
-joblib.dump(model, "stress_model.pkl")  # Save the trained model
-joblib.dump(scaler, "scaler.pkl")  # Save the scaler (important for preprocessing new data)
+joblib.dump(model, "mstress_model_3.pkl")  # Save the trained model
+joblib.dump(scaler, "scaler_3.pkl")  # Save the scaler (important for preprocessing new data)
 
 print("Model and scaler saved successfully!")

@@ -2,8 +2,8 @@ import pandas as pd
 import joblib
 from sklearn.metrics import accuracy_score
 # load the model and scaler put your path
-model = joblib.load("model_v2/stress_model.pkl")   
-scaler = joblib.load("model_v2/scaler.pkl")   
+model = joblib.load("model_v3/stress_model_3.pkl")   
+scaler = joblib.load("model_v3/scaler_3.pkl")   
 # load the file you will be testing with put your path
 test_file_path = "cleaned/cleaned_32.csv"   
 df_test = pd.read_csv(test_file_path)
